@@ -45,3 +45,13 @@ jobs:
           git add news-data.js
           git commit -m "📰 每日新闻更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push
+
+      - name: 部署到 Netlify
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          zip -r deploy.zip index.html news-data.js
+          curl -s -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" \
+               -H "Content-Type: application/zip" \
+               --data-binary "@deploy.zip" \
+               "https://api.netlify.com/api/v1/sites/8520ef36-bcf9-4bd0-9093-aea185e05477/deploys" > /dev/null
+          echo "✅ 已部署到 Netlify"
