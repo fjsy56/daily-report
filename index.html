@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="每日一报 — 科技前沿速览，汇集前沿科技突破、科技应用落地与企业动态">
+<title>每日一报 · 科技速览</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+--sx:4px;--sm:8px;--md:16px;--lg:24px;--xl:32px;--x2:48px;--x3:64px;
+--tx:clamp(.625rem,.6rem+.125vw,.7rem);--ts:clamp(.75rem,.72rem+.15vw,.833rem);
+--tb:clamp(.875rem,.84rem+.18vw,1rem);--tm:clamp(1rem,.95rem+.25vw,1.125rem);
+--tl:clamp(1.125rem,1.05rem+.375vw,1.333rem);--tx1:clamp(1.333rem,1.2rem+.67vw,1.777rem);
+--tx2:clamp(1.777rem,1.55rem+1.13vw,2.369rem);--td:clamp(3.157rem,2.5rem+3.3vw,4.209rem);
+--fs:1;
+--ink:oklch(18% .01 60);--ink2:oklch(38% .01 60);--ink3:oklch(55% .01 60);
+--pp:oklch(97% .008 70);--sf:oklch(99% .004 70);--sh:oklch(94% .008 70);
+--bd:oklch(88% .01 70);--bdl:oklch(92% .006 70);--ac:oklch(52% .18 25);
+--at:oklch(55% .15 240);--aa:oklch(52% .16 160);--ae:oklch(55% .15 40);
+--up:oklch(52% .18 25);--dn:oklch(50% .16 160);--fl:oklch(55% .01 60);
+--shs:0 1px 2px oklch(0% 0 0/.04);--shm:0 2px 8px oklch(0% 0 0/.06);--shl:0 4px 24px oklch(0% 0 0/.08);
+--ee:cubic-bezier(.19,1,.22,1);--eq:cubic-bezier(.25,1,.5,1);
+--df:150ms;--dn:300ms;--ds:500ms;
+--sw:260px;--hh:80px;--mw:860px;
+}
+[data-theme="dark"]{
+--ink:oklch(92% .005 70);--ink2:oklch(72% .008 70);--ink3:oklch(58% .01 70);
+--pp:oklch(14% .01 260);--sf:oklch(18% .01 260);--sh:oklch(22% .012 260);
+--bd:oklch(28% .01 260);--bdl:oklch(22% .008 260);
+--shs:0 1px 2px oklch(0% 0 0/.2);--shm:0 2px 8px oklch(0% 0 0/.3);--shl:0 4px 24px oklch(0% 0 0/.4);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:calc(16px * var(--fs));scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;font-size:var(--tb);line-height:1.65;color:var(--ink);background:var(--pp);min-height:100dvh;transition:background var(--dn) var(--ee),color var(--dn) var(--ee);overflow-x:hidden}
+:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+/* Header */
+.sh{position:sticky;top:0;z-index:100;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:var(--md) var(--xl);background:var(--sf);border-bottom:1px solid var(--bdl);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);min-height:var(--hh);box-shadow:var(--shs);transition:background var(--dn) var(--ee),border-color var(--dn) var(--ee)}
+.hl{display:flex;align-items:center;gap:var(--md)}
+.ww{display:flex;align-items:center;gap:var(--sm);font-size:var(--ts);color:var(--ink2);white-space:nowrap}
+.wi{font-size:var(--tl);line-height:1}.wt{font-weight:700;color:var(--ink);font-size:var(--tm)}
+.wl{color:var(--ink3);font-size:var(--tx)}.wd{width:1px;height:24px;background:var(--bd)}
+.cw{display:flex;flex-direction:column}
+.ct{font-family:"DM Sans","Noto Sans SC",system-ui,sans-serif;font-size:var(--tl);font-weight:700;font-variant-numeric:tabular-nums;letter-spacing:-.02em;color:var(--ink);line-height:1.2}
+.cd{font-size:var(--tx);color:var(--ink3);line-height:1.2}
+.hc{display:flex;justify-content:center;align-items:center}
+.st{font-family:"Noto Serif SC","SimSun","STSong",serif;font-size:var(--td);font-weight:900;color:var(--ink);letter-spacing:.08em;line-height:1;position:relative;user-select:none;transition:color var(--dn) var(--ee)}
+.st::after{content:"";position:absolute;bottom:-6px;left:10%;width:80%;height:3px;background:linear-gradient(90deg,var(--at),var(--aa) 50%,var(--ae));border-radius:2px}
+.hr{display:flex;justify-content:flex-end}
+/* Settings */
+.stg{position:fixed;top:var(--md);right:var(--xl);z-index:200;width:40px;height:40px;border-radius:50%;border:1px solid var(--bd);background:var(--sf);color:var(--ink);font-size:var(--tl);font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all var(--df) var(--ee);box-shadow:var(--shs);letter-spacing:.1em}
+.stg:hover{background:var(--sh);transform:rotate(90deg);box-shadow:var(--shm)}
+.stg:active{transform:rotate(90deg) scale(.95)}
+.sp{position:fixed;top:0;right:-320px;width:300px;height:100dvh;z-index:190;background:var(--sf);border-left:1px solid var(--bd);padding:var(--x2) var(--lg);display:flex;flex-direction:column;gap:var(--xl);transition:right var(--ds) var(--ee);box-shadow:var(--shl)}
+.sp.is-open{right:0}
+.so{position:fixed;inset:0;z-index:185;background:oklch(0% 0 0/.3);opacity:0;pointer-events:none;transition:opacity var(--dn) var(--ee)}
+.so.is-visible{opacity:1;pointer-events:auto}
+.sp h3{font-family:"Noto Serif SC",serif;font-size:var(--tl);font-weight:700;color:var(--ink);margin-bottom:var(--sx)}
+.sg{display:flex;flex-direction:column;gap:var(--sm)}
+.sg label{font-size:var(--ts);color:var(--ink2);font-weight:500}
+.sg input[type=range]{-webkit-appearance:none;width:100%;height:6px;border-radius:3px;background:var(--bd);outline:none}
+.sg input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:var(--ac);cursor:pointer;border:2px solid var(--sf);box-shadow:var(--shs)}
+.ttb{display:flex;align-items:center;gap:var(--sm);padding:var(--sm) var(--md);border:1px solid var(--bd);border-radius:8px;background:var(--sf);color:var(--ink);font-size:var(--ts);cursor:pointer;transition:all var(--df) var(--ee);font-family:inherit}
+.ttb:hover{background:var(--sh);border-color:var(--ink3)}
+.ttb .tci{font-size:var(--tm)}.fsv{font-family:"DM Sans",monospace;font-size:var(--ts);color:var(--ac);font-weight:700;text-align:right}
+/* Layout */
+.pw{max-width:calc(var(--mw) + var(--sw) + var(--x2) + var(--xl)*2);margin:0 auto;display:grid;grid-template-columns:1fr var(--sw);gap:var(--x2);padding:var(--lg) var(--xl);align-items:start}
+.ca{display:flex;flex-direction:column;gap:var(--x2);min-width:0}
+/* Sidebar */
+.sb{position:sticky;top:calc(var(--hh) + var(--lg));display:flex;flex-direction:column;gap:var(--lg);max-height:calc(100dvh - var(--hh) - var(--x2));overflow-y:auto}
+.wfb{background:var(--sf);border:1px solid var(--bd);border-radius:4px;padding:var(--md);display:flex;flex-direction:column;gap:var(--sm)}
+.wfb h4{font-family:"Noto Serif SC",serif;font-size:var(--ts);font-weight:700;color:var(--ink2);letter-spacing:.05em;padding-bottom:var(--sx);border-bottom:1px solid var(--bdl)}
+.wfc{display:flex;flex-wrap:wrap;gap:6px;align-items:center;min-height:60px}
+.wfi{padding:3px 10px;border-radius:3px;font-size:var(--tx);font-weight:500;white-space:nowrap;line-height:1.4}
+.sep{background:var(--sf);border:1px solid var(--bd);border-radius:4px;display:flex;flex-direction:column;flex:1;overflow:hidden;min-height:300px}
+.sep h4{font-family:"Noto Serif SC",serif;font-size:var(--ts);font-weight:700;color:var(--ink2);padding:var(--sm) var(--md);border-bottom:1px solid var(--bdl);letter-spacing:.05em;position:sticky;top:0;background:var(--sf);z-index:1}
+.sel{list-style:none;overflow-y:auto;flex:1}
+.sei{display:grid;grid-template-columns:1fr auto;align-items:center;padding:var(--sm) var(--md);border-bottom:1px solid var(--bdl);font-size:var(--tx);transition:background var(--df) var(--ee)}
+.sei:hover{background:var(--sh)}.sen{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink2)}
+.sec{font-weight:700;font-variant-numeric:tabular-nums;text-align:right;min-width:55px}
+.sec.up{color:var(--up)}.sec.down{color:var(--dn)}.sec.flat{color:var(--fl)}
+/* Overview */
+.ov{background:var(--sf);border:1px solid var(--bd);border-radius:4px;padding:var(--xl);position:relative;overflow:hidden}
+.ov::before{content:"";position:absolute;top:0;left:0;width:4px;height:100%;background:linear-gradient(180deg,var(--at),var(--aa) 50%,var(--ae))}
+.oh{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:var(--lg);padding-bottom:var(--md);border-bottom:1px solid var(--bdl)}
+.oh h2{font-family:"Noto Serif SC",serif;font-size:var(--tx1);font-weight:700;color:var(--ink);letter-spacing:.04em}
+.od{font-size:var(--tx);color:var(--ink3)}
+.og{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--lg)}
+.oc{display:flex;flex-direction:column;gap:var(--sm)}
+.oc h3{font-family:"Noto Serif SC",serif;font-size:var(--tm);font-weight:700;color:var(--ink);display:flex;align-items:center;gap:var(--sx)}
+.oc h3 .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.dot.tech{background:var(--at)}.dot.app{background:var(--aa)}.dot.ent{background:var(--ae)}
+.oc p{font-size:var(--ts);color:var(--ink2);line-height:1.7}
+/* Tabs */
+.ns{display:flex;flex-direction:column}
+.nn{display:flex;border-bottom:2px solid var(--bd)}
+.nt{flex:1;padding:var(--sm) var(--md);border:none;background:none;font-family:"Noto Serif SC",serif;font-size:var(--tm);font-weight:700;color:var(--ink3);cursor:pointer;position:relative;transition:color var(--df) var(--ee);letter-spacing:.04em;text-align:center}
+.nt::after{content:"";position:absolute;bottom:-2px;left:20%;width:60%;height:2px;transform:scaleX(0);transition:transform var(--dn) var(--ee)}
+.nt:hover{color:var(--ink)}.nt.is-active{color:var(--ink)}.nt.is-active::after{transform:scaleX(1)}
+.nt:nth-child(1).is-active::after{background:var(--at)}.nt:nth-child(2).is-active::after{background:var(--aa)}.nt:nth-child(3).is-active::after{background:var(--ae)}
+.nc{padding-top:var(--lg);display:none;flex-direction:column;gap:var(--md)}.nc.is-visible{display:flex}
+/* News Cards */
+.ni{display:grid;grid-template-columns:200px 1fr;gap:0;border:1px solid var(--bdl);border-radius:4px;background:var(--sf);transition:all var(--df) var(--ee);cursor:pointer;text-decoration:none;color:inherit;overflow:hidden}
+.ni:hover{border-color:var(--bd);box-shadow:var(--shm)}
+/* card with image */ .ni.has-img{grid-template-columns:200px 1fr}
+/* card without image */ .ni.no-img{grid-template-columns:1fr}
+.ni-img{width:200px;height:130px;object-fit:cover;flex-shrink:0;display:block;background:var(--bdl)}
+.ni-body{display:flex;flex-direction:column;gap:var(--sx);justify-content:center;min-width:0;padding:var(--md)}
+.ni.has-img .ni-body{padding-left:var(--lg)}
+.ni-body h4{font-size:var(--tm);font-weight:700;color:var(--ink);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ni-body p{font-size:var(--ts);color:var(--ink2);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ni-meta{display:flex;align-items:center;gap:var(--sm);flex-wrap:wrap}
+.ni-tag{display:inline-block;font-size:var(--tx);padding:1px 6px;border-radius:2px;font-weight:500}
+.ni-tag.tech{background:oklch(55% .15 240/.1);color:var(--at)}.ni-tag.app{background:oklch(52% .16 160/.1);color:var(--aa)}.ni-tag.ent{background:oklch(55% .15 40/.1);color:var(--ae)}
+.ni-src{font-size:10px;padding:1px 5px;border-radius:2px;background:var(--bdl);color:var(--ink3)}
+/* Footer */
+.sf{text-align:center;padding:var(--x2);border-top:1px solid var(--bdl);margin-top:var(--x2);color:var(--ink3);font-size:var(--tx)}
+/* Responsive */
+@media(max-width:1100px){
+.pw{grid-template-columns:1fr;gap:var(--lg);padding:var(--md)}
+.sb{position:static;flex-direction:row;gap:var(--md);max-height:none;overflow-y:visible}
+.wfb{flex:1}.sep{flex:1;max-height:300px}.og{grid-template-columns:1fr;gap:var(--md)}
+}
+@media(max-width:640px){
+.sh{grid-template-columns:1fr;grid-template-rows:auto auto;gap:var(--sm);padding:var(--sm) var(--md)}
+.hl{order:2;justify-content:center}.hc{order:1}.st{font-size:var(--tx2)}
+.ni.has-img{grid-template-columns:1fr}.ni-img{width:100%;height:160px}
+.ni.has-img .ni-body{padding-left:var(--md)}
+.pw{padding:var(--sm)}.sb{flex-direction:column}.sp{width:260px;right:-280px}
+}
+@keyframes fiu{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.ni{animation:fiu var(--ds) var(--ee) both}
+.ni:nth-child(1){animation-delay:0ms}.ni:nth-child(2){animation-delay:50ms}.ni:nth-child(3){animation-delay:100ms}.ni:nth-child(4){animation-delay:150ms}.ni:nth-child(5){animation-delay:200ms}.ni:nth-child(6){animation-delay:250ms}.ni:nth-child(7){animation-delay:300ms}.ni:nth-child(8){animation-delay:350ms}
+@media print{.sb,.stg,.sp,.so{display:none!important}.pw{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<header class="sh">
+<div class="hl">
+<div class="ww" id="weatherWidget"><span class="wi" id="weatherIcon">☀️</span><span class="wt" id="weatherTemp">--°C</span><span class="wl" id="weatherLocation">定位中...</span></div>
+<div class="wd"></div>
+<div class="cw"><span class="ct" id="clockTime">--:--</span><span class="cd" id="clockDate"></span></div>
+</div>
+<div class="hc"><h1 class="st">每日一报</h1></div>
+<div class="hr"></div>
+</header>
+
+<button class="stg" id="settingsToggle" aria-label="打开设置面板" title="设置">···</button>
+<div class="so" id="settingsOverlay"></div>
+<aside class="sp" id="settingsPanel" aria-label="设置面板">
+<h3>偏好设置</h3>
+<div class="sg"><label for="fontSizeSlider">字号调节</label><input type="range" id="fontSizeSlider" min="80" max="150" value="100" step="5"><span class="fsv" id="fontSizeValue">100%</span></div>
+<div class="sg"><label>显示模式</label><button class="ttb" id="themeToggleBtn"><span class="tci" id="themeIcon">🌙</span><span id="themeLabel">切换至暗夜模式</span></button></div>
+</aside>
+
+<div class="pw">
+<main class="ca">
+<section class="ov">
+<div class="oh"><h2>今日速览</h2><span class="od" id="overviewDate"></span></div>
+<div class="og">
+<div class="oc"><h3><span class="dot tech"></span>前沿科技突破</h3><p id="overviewTech"></p></div>
+<div class="oc"><h3><span class="dot app"></span>科技应用落地</h3><p id="overviewApp"></p></div>
+<div class="oc"><h3><span class="dot ent"></span>科技企业资讯</h3><p id="overviewEnterprise"></p></div>
+</div>
+</section>
+<section class="ns">
+<nav class="nn" role="tablist">
+<button class="nt is-active" role="tab" data-tab="tech" aria-selected="true">前沿科技</button>
+<button class="nt" role="tab" data-tab="app" aria-selected="false">科技应用</button>
+<button class="nt" role="tab" data-tab="enterprise" aria-selected="false">科技企业</button>
+</nav>
+<div class="nc is-visible" id="tab-tech" role="tabpanel"></div>
+<div class="nc" id="tab-app" role="tabpanel"></div>
+<div class="nc" id="tab-enterprise" role="tabpanel"></div>
+</section>
+</main>
+
+<aside class="sb">
+<div class="wfb"><h4>热词统计</h4><div class="wfc" id="wordFreqCloud"></div></div>
+<div class="sep"><h4>A股板块行情</h4><ul class="sel" id="sectorList"></ul></div>
+</aside>
+</div>
+
+<footer class="sf"><p>每日一报 · 科技速览 &copy; <span id="footerYear"></span> — 数据来源：虎嗅 · 36氪 · 机器之心 · 极客公园 · 量子位 · 新智元 · IT之家 | A股数据：东方财富</p></footer>
+
+<script src="news-data.js"></script>
+<script>
+(function(){
+var $=function(s,c){return(c||document).querySelector(s);};
+var $$=function(s,c){return[].slice.call((c||document).querySelectorAll(s));};
+
+/* Clock */
+function uc(){var n=new Date();$('#clockTime').textContent=String(n.getHours()).padStart(2,'0')+':'+String(n.getMinutes()).padStart(2,'0');var w=['日','一','二','三','四','五','六'];$('#clockDate').textContent=n.getFullYear()+'年'+String(n.getMonth()+1).padStart(2,'0')+'月'+String(n.getDate()).padStart(2,'0')+'日 周'+w[n.getDay()];$('#overviewDate').textContent=n.getFullYear()+'年'+String(n.getMonth()+1).padStart(2,'0')+'月'+String(n.getDate()).padStart(2,'0')+'日';$('#footerYear').textContent=n.getFullYear();}
+uc();setInterval(uc,10000);
+
+/* Weather */
+var WC={0:{i:'☀️',d:'晴'},1:{i:'🌤️',d:'大部晴'},2:{i:'⛅',d:'多云'},3:{i:'☁️',d:'阴'},45:{i:'🌫️',d:'雾'},51:{i:'🌦️',d:'小雨'},53:{i:'🌦️',d:'中雨'},55:{i:'🌧️',d:'大雨'},61:{i:'🌧️',d:'雨'},63:{i:'🌧️',d:'中雨'},65:{i:'🌧️',d:'大雨'},71:{i:'🌨️',d:'小雪'},80:{i:'🌦️',d:'阵雨'},82:{i:'🌧️',d:'暴雨'},95:{i:'⛈️',d:'雷暴'}};
+async function fw(la,lo){try{var r=await fetch('https://api.open-meteo.com/v1/forecast?latitude='+la+'&longitude='+lo+'&current=temperature_2m,weather_code&timezone=auto');if(!r.ok)throw Error('e');var d=await r.json(),c=WC[d.current.weather_code]||{i:'🌡️',d:'--'};$('#weatherIcon').textContent=c.i;$('#weatherTemp').textContent=Math.round(d.current.temperature_2m)+'°C';$('#weatherLocation').textContent=c.d;}catch(e){$('#weatherIcon').textContent='🌡️';$('#weatherTemp').textContent='--°C';$('#weatherLocation').textContent='获取失败';}}
+async function rg(la,lo){try{var r=await fetch('https://nominatim.openstreetmap.org/reverse?format=json&lat='+la+'&lon='+lo+'&zoom=10&accept-language=zh');if(!r.ok)throw Error('e');var d=await r.json(),a=d.address,c=a.city||a.town||a.county||a.state||'';if(c)$('#weatherLocation').textContent=c;}catch(e){}}
+function iw(){if(!navigator.geolocation){$('#weatherLocation').textContent='无定位';fw(39.9042,116.4074);return;}navigator.geolocation.getCurrentPosition(function(p){fw(p.coords.latitude,p.coords.longitude);rg(p.coords.latitude,p.coords.longitude);},function(){$('#weatherLocation').textContent='定位未授权';fw(39.9042,116.4074);},{timeout:10000,maximumAge:600000});}
+iw();
+
+/* Settings */
+(function(){
+var st=$('#settingsToggle'),sp=$('#settingsPanel'),so=$('#settingsOverlay');
+function os(){sp.classList.add('is-open');so.classList.add('is-visible');}
+function cs(){sp.classList.remove('is-open');so.classList.remove('is-visible');}
+st.addEventListener('click',function(){sp.classList.contains('is-open')?cs():os();});
+so.addEventListener('click',cs);
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&sp.classList.contains('is-open'))cs();});
+var fs=$('#fontSizeSlider'),fv=$('#fontSizeValue');
+fs.addEventListener('input',function(){var v=this.value;document.documentElement.style.setProperty('--fs',v/100);fv.textContent=v+'%';localStorage.setItem('dr-fs',v);});
+var sf2=localStorage.getItem('dr-fs');if(sf2){fs.value=sf2;document.documentElement.style.setProperty('--fs',sf2/100);fv.textContent=sf2+'%';}
+var tb=$('#themeToggleBtn'),ti=$('#themeIcon'),tl=$('#themeLabel');
+function at(t){document.documentElement.setAttribute('data-theme',t);if(t==='dark'){ti.textContent='☀️';tl.textContent='切换至日间模式';}else{ti.textContent='🌙';tl.textContent='切换至暗夜模式';}localStorage.setItem('dr-th',t);}
+tb.addEventListener('click',function(){var c=document.documentElement.getAttribute('data-theme')||'light';at(c==='dark'?'light':'dark');});
+var st3=localStorage.getItem('dr-th');if(st3==='dark')at('dark');
+})();
+
+/* Tabs */
+(function(){
+var tabs=$$('.nt'),panels=$$('.nc');
+tabs.forEach(function(t){t.addEventListener('click',function(){var tg=this.getAttribute('data-tab');tabs.forEach(function(x){x.classList.remove('is-active');x.setAttribute('aria-selected','false');});this.classList.add('is-active');this.setAttribute('aria-selected','true');panels.forEach(function(p){p.classList.remove('is-visible');});$('#tab-'+tg).classList.add('is-visible');});});
+})();
+
+/* ===== NEWS DATA — from news-data.js (auto-generated daily) ===== */
+var ND = (window.__NEWS_DATA__ && window.__NEWS_DATA__.total > 0) ? {
+  tech: window.__NEWS_DATA__.tech || [],
+  app: window.__NEWS_DATA__.app || [],
+  enterprise: window.__NEWS_DATA__.enterprise || []
+} : {
+tech:[
+{title:'Ilya的第一个模型，被曝本月上线',excerpt:'Ilya Sutskever创立的Safe Superintelligence（SSI）被曝将于本月发布首个模型。这位前OpenAI首席科学家的首次亮相备受全球AI界瞩目……',src:'新智元',tag:'SSI',url:'https://aiera.com.cn/2026/08/06/llm/admin/107453/ilya%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%a2%ab%e6%9b%9d%e6%9c%ac%e6%9c%88%e4%b8%8a%e7%ba%bf/'},
+{title:'OpenAI公开62页核心手稿！AI连破十大「菲尔兹奖级」难题',excerpt:'OpenAI重磅放出一份长达62页的核心手稿，全面公开AI证明十大菲尔兹奖级数学难题的完整过程，标志着AI在纯数学推理领域达到前所未有的高度……',src:'新智元',tag:'AI数学',url:'https://aiera.com.cn/2026/08/05/research/admin/107364/openai%e5%85%ac%e5%bc%8062%e9%a1%b5%e6%a0%b8%e5%bf%83%e6%89%8b%e7%a8%bf%ef%bc%81ai%e8%bf%9e%e7%a0%b4%e5%8d%81%e5%a4%a7%e3%80%8c%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e7%ba%a7%e3%80%8d%e9%9a%be%e9%a2%98/'},
+{title:'Sand.ai开源全球首个千亿MoE视频生成模型',excerpt:'Sand.ai开源114B参数、6B激活的千亿MoE视频生成模型，支持10秒1080P视频生成，成本仅需5毛钱，大幅降低高质量AI视频生产的门槛……',src:'量子位',tag:'视频生成',url:'https://www.qbitai.com/2026/08/466847.html'},
+{title:'Transformer上限触顶，Mobius能否引发下一代模型架构革命？',excerpt:'上海AI实验室提出Mobius架构，知识记忆与逻辑推理解耦，突破Transformer注意力瓶颈。知识与推理分离设计有望在持续学习和科学发现方向展现巨大潜力……',src:'机器之心',tag:'AI架构',url:'https://finance.sina.cn/tech/2026-08-05/detail-inimhiec5158551.d.html'},
+{title:'老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了',excerpt:'研究人员利用AI工具仅用10小时就完成了CUDA到其他平台的代码迁移，英伟达20年打造的CUDA生态护城河首次被AI高效突破……',src:'量子位',tag:'CUDA',url:'https://www.qbitai.com/2026/08/466553.html'},
+{title:'全球首个连续时间具身世界模型！任意帧率自由生成',excerpt:'研究人员推出全球首个连续时间具身世界模型，支持任意帧率自由生成机器人操作场景，突破了传统固定帧率模型的限制……',src:'新智元',tag:'具身智能',url:'https://aiera.com.cn/2026/08/06/embodied/admin/107436/'},
+{title:'全行业卷大模型，他们用不确定微分几何给机器人做了个大脑',excerpt:'信度启源团队将不确定微分几何理论引入具身智能，构建可解释的"物理世界大脑"，用数学理解世界而非数据拟合世界……',src:'机器之心',tag:'具身智能',url:'https://new.qq.com/rain/a/20260806A06LPO00'},
+{title:'马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼',excerpt:'马斯克在X上宣称"代码正在变成下一个汇编"，AI将直接输出二进制。此言论引发业界激烈争论，多位技术领袖集体反驳……',src:'新智元',tag:'编程',url:'https://aiera.com.cn/2026/08/06/opinion/admin/107508/'}
+],
+app:[
+{title:'别再吹AI生图了，不能图层编辑的AI都是"画饼"',excerpt:'兔展智能发布RabbitVis，让AI真正走完设计全流程——支持图层编辑、矢量化输出和设计迭代。视觉AI从"会生成"走向"能创作"的关键一步……',src:'量子位',tag:'AI设计',url:'https://www.qbitai.com/2026/08/467034.html'},
+{title:'细思极恐，Agent学会给自己办假身份了……',excerpt:'英国AI安全机构测试发现，AI Agent为完成任务自主创建虚假GitHub身份绕过审核，使用Tor浏览器伪装，甚至用丹麦语对话以显得更可信……',src:'虎嗅',tag:'AI安全',url:'https://www.huxiu.com/article/4881093.html'},
+{title:'物理AI重塑智驾：VLA+世界模型融合成主流',excerpt:'2026被称为物理AI元年，特斯拉FSD V14集成Grok大模型，华为走WA路径，小鹏发布X-Mind。智能驾驶从数字AI向物理AI完成底层重构……',src:'虎嗅',tag:'自动驾驶',url:'https://www.huxiu.com/article/4881079.html'},
+{title:'办公Agent爆火：模型大战进入下一阶段',excerpt:'千问办公押注Agent未来，飞书并入豆包重塑字节ToB版图。用户买的不再是Token而是AI完成任务的能力……',src:'极客公园',tag:'办公AI',url:'https://www.geekpark.net/news/368429'},
+{title:'每周2亿年轻人用ChatGPT，却连高手的零头都没用出来',excerpt:'全球每周超2亿18-24岁年轻人使用ChatGPT，但他们大多数停留在基础问答层面，远未发挥出AI的真正潜力……',src:'新智元',tag:'AI应用',url:'https://aiera.com.cn/2026/08/06/application/admin/107406/'},
+{title:'互联网流量崩塌：每从AI获得一次答案，就有一个网站死了',excerpt:'AI助手正在吞噬传统网站的流量，搜索引擎模式面临颠覆。传统内容生态遭遇前所未有的冲击……',src:'极客公园',tag:'互联网',url:'https://www.geekpark.net/news/368373'}
+],
+enterprise:[
+{title:'突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿',excerpt:'谷歌27年老将Jeff Dean宣布离职，与三位谷歌元老共同创立Discovery Loop。Hassabis卸任CEO转任董事长，Alphabet股价盘中暴跌超5.5%……',src:'量子位',tag:'谷歌',url:'https://www.qbitai.com/2026/08/467196.html'},
+{title:'刚刚，OpenAI挖来黑客「祖师爷」！',excerpt:'OpenAI大动作不断：菲尔兹奖得主官宣入职后，又挖来网络安全领域的传奇人物。OpenAI安全团队持续扩充顶尖人才……',src:'新智元',tag:'OpenAI',url:'https://aiera.com.cn/2026/08/06/industry/admin/107528/'},
+{title:'震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天',excerpt:'SpaceX首份财报正式宣布携手英伟达推出轨道AI计算网络，将AI算力部署到太空。SpaceX二季度AI收入暴涨247%……',src:'新智元',tag:'SpaceX',url:'https://aiera.com.cn/2026/08/06/chip/admin/107496/'},
+{title:'百度文心又拿第一了！完全免费',excerpt:'百度文心助手在国家工信安全中心Office Agent测评中蝉联第一，不到二十天连拿国内国际两个"第一"，且完全免费开放……',src:'新智元',tag:'百度',url:'https://aiera.com.cn/2026/08/06/llm/admin/107472/'},
+{title:'超级算力枢纽远景乌兰察布星河基地投产',excerpt:'远景科技乌兰察布星河基地正式投产，成为全球最大AI算力超级单体。标志着中国AI基础设施建设进入全新规模阶段……',src:'量子位',tag:'算力',url:'https://www.qbitai.com/2026/08/467262.html'},
+{title:'DeepSeek计划近期上调API定价，预计涨幅较大',excerpt:'DeepSeek官方宣布计划整体上调API服务定价，预计涨幅较大。此前DeepSeek V4 Flash以极致性价比席卷市场，涨价将重塑AI API竞争格局……',src:'IT之家',tag:'DeepSeek',url:'https://www.ithome.com/0/986/339.htm',img:'https://img.ithome.com/newsuploadfiles/focus/11de7f1b-3f31-4cf2-814a-8a42d2892725.jpg?x-bce-process=image/auto-orient,o_1/format,f_avif'},
+{title:'诺基亚收购恩智浦晶圆厂，专攻磷化铟光学半导体',excerpt:'百年通信巨头诺基亚宣布收购恩智浦旗下晶圆厂，聚焦磷化铟光学半导体领域，加速布局AI时代的光通信与光计算基础设施……',src:'IT之家',tag:'芯片',url:'https://m.ithome.com/html/986551.htm'},
+{title:'曝小红书加大AI投入：布局AI社交方向',excerpt:'消息称小红书加大AI投入，开启AI陪伴产品自研，布局AI社交方向。继AI搜索后，社交成为小红书AI化的下一个重点……',src:'IT之家',tag:'AI社交',url:'https://m.ithome.com/html/986542.htm'},
+{title:'华为余承东：内存涨价，手机之后可能都要大规模涨价',excerpt:'华为余承东在发布会上表示，由于内存等元器件成本持续攀升，手机等电子产品后续可能面临大规模涨价……',src:'IT之家',tag:'华为',url:'https://www.ithome.com/0/986/096.htm',img:'https://img.ithome.com/newsuploadfiles/focus/e0e2bfdf-c7f8-48fd-a694-b48b03947235.jpg?x-bce-process=image/auto-orient,o_1/format,f_avif'}
+]};
+
+function rni(item,cat){
+  var hasImg=!!item.img;
+  var cls=hasImg?'has-img':'no-img';
+  var imgHTML=hasImg?'<img class="ni-img" src="'+item.img+'" alt="'+item.title+'" width="200" height="130" loading="lazy">':'';
+  return '<a class="ni '+cls+'" href="'+item.url+'" target="_blank" rel="noopener">'+imgHTML+
+    '<div class="ni-body"><div class="ni-meta">'+
+    '<span class="ni-tag '+cat+'">'+item.tag+'</span>'+
+    '<span class="ni-src">'+item.src+'</span></div>'+
+    '<h4>'+item.title+'</h4><p>'+item.excerpt+'</p></div></a>';
+}
+
+(function populateNews(){
+  Object.keys(ND).forEach(function(key){
+    var c=$('#tab-'+key);if(!c)return;
+    c.innerHTML=ND[key].map(function(it){return rni(it,key==='enterprise'?'ent':key);}).join('');
+  });
+})();
+
+/* Overview */
+$('#overviewTech').textContent='Ilya首个SSI模型被曝本月上线；OpenAI公开62页手稿连破十大菲尔兹奖级难题；Sand.ai开源千亿MoE视频模型；Mobius架构挑战Transformer上限；CUDA护城河被AI10小时凿开；全球首个连续时间具身世界模型发布。';
+$('#overviewApp').textContent='兔展RabbitVis让AI完成设计全流程；Agent学会创建假身份绕过审核；物理AI重塑智驾VLA与世界模型融合；百度文库Office Agent蝉联测评第一；AI助手正颠覆传统互联网流量格局。';
+$('#overviewEnterprise').textContent='Jeff Dean离职创业谷歌蒸发1.34万亿；OpenAI挖来黑客祖师爷；马斯克联手英伟达将AI算力射上天；DeepSeek预告API涨价；诺基亚收购晶圆厂布局光学半导体；小红书加大AI社交投入。';
+
+/* A-Share Sectors */
+(function(){
+var sectors=[
+{name:'电子化学品Ⅱ',pct:4.21},{name:'煤炭开采',pct:5.43},{name:'元件',pct:3.18},
+{name:'通信设备',pct:2.99},{name:'小金属',pct:2.08},{name:'化学制品',pct:1.33},
+{name:'非金属材料Ⅱ',pct:1.33},{name:'塑料',pct:1.11},{name:'专用设备',pct:1.10},
+{name:'化学原料',pct:0.79},{name:'CPO概念',pct:3.20},{name:'PCB',pct:2.66},
+{name:'玻璃基板',pct:2.60},{name:'专精特新',pct:1.08},{name:'通信技术',pct:1.96},
+{name:'昨日涨停',pct:3.53},{name:'昨日高振幅',pct:2.02},{name:'小盘成长',pct:0.80},{name:'最近多板',pct:2.36}
+];
+var list=$('#sectorList');list.innerHTML='';
+sectors.forEach(function(s){
+var cls=s.pct>0?'up':(s.pct<0?'down':'flat'),sign=s.pct>0?'+':'';
+var li=document.createElement('li');li.className='sei';
+li.innerHTML='<span class="sen" title="'+s.name+'">'+s.name+'</span><span class="sec '+cls+'">'+sign+s.pct.toFixed(2)+'%</span>';
+list.appendChild(li);
+});
+})();
+
+/* Word Frequency */
+(function(){
+var freq=[{w:'AI',wt:.95},{w:'大模型',wt:.88},{w:'谷歌',wt:.85},{w:'DeepSeek',wt:.82},{w:'Agent',wt:.80},{w:'马斯克',wt:.78},{w:'Meta',wt:.75},{w:'OpenAI',wt:.73},{w:'机器人',wt:.70},{w:'英伟达',wt:.68},{w:'SSI',wt:.65},{w:'融资',wt:.63},{w:'华为',wt:.60},{w:'具身智能',wt:.58},{w:'算力',wt:.55},{w:'芯片',wt:.52},{w:'视频生成',wt:.50},{w:'百度',wt:.48},{w:'自动驾驶',wt:.45},{w:'CUDA',wt:.42}];
+var cloud=$('#wordFreqCloud');
+freq.forEach(function(item){
+var s=document.createElement('span');s.className='wfi';s.textContent=item.w;
+var hue=240-item.wt*195,chroma=.06+item.wt*.14,l=45+item.wt*22;
+s.style.background='oklch('+l+'% '+chroma.toFixed(3)+' '+hue+' / '+(.07+item.wt*.13)+')';
+s.style.color='oklch('+(28-item.wt*16)+'% '+chroma.toFixed(3)+' '+hue+')';
+s.style.fontSize=(.68+item.wt*.55)+'rem';s.style.fontWeight=item.wt>.7?'700':'500';
+cloud.appendChild(s);
+});
+})();
+
+/* ===== AUTO-REFRESH LOGIC ===== */
+
+/* Check if currently in A-share trading hours (Mon-Fri, 9:30-11:30, 13:00-15:00 Beijing) */
+function isTradingHours() {
+  var now = new Date();
+  var day = now.getDay(); // 0=Sun, 1=Mon, ..., 6=Sat
+  if (day === 0 || day === 6) return false; // Weekend
+
+  // Convert to Beijing time (UTC+8)
+  var bjHour = now.getUTCHours() + 8;
+  var bjMin = now.getUTCMinutes();
+  var bjTime = bjHour * 60 + bjMin;
+
+  // Morning session: 9:30-11:30 (570-690 min)
+  // Afternoon session: 13:00-15:00 (780-900 min)
+  return (bjTime >= 570 && bjTime <= 690) || (bjTime >= 780 && bjTime <= 900);
+}
+
+/* Refresh stock sector data from East Money API */
+function refreshSectors() {
+  fetch('https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=25&po=1&np=1&fltt=2&invt=2&fid=f3&fs=m:90+t2&fields=f2,f3,f4,f12,f14&_=' + Date.now())
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (!data.data || !data.data.diff) return;
+      var sectors = data.data.diff;
+      var list = document.getElementById('sectorList');
+      if (!list) return;
+      list.innerHTML = '';
+      sectors.forEach(function(s) {
+        var name = s.f14 || '---';
+        var pct = s.f3;
+        var cls = pct > 0 ? 'up' : (pct < 0 ? 'down' : 'flat');
+        var sign = pct > 0 ? '+' : '';
+        var txt = (pct != null) ? (sign + pct.toFixed(2) + '%') : '---';
+        var li = document.createElement('li');
+        li.className = 'sei';
+        li.innerHTML = '<span class="sen" title="' + name + '">' + name + '</span><span class="sec ' + cls + '">' + txt + '</span>';
+        list.appendChild(li);
+      });
+    })
+    .catch(function(e) { console.warn('Stock refresh failed:', e); });
+}
+
+/* Stock refresh loop: every 60s during trading hours, check status every 5s */
+var sectorRefreshTimer = null;
+function manageStockRefresh() {
+  if (isTradingHours()) {
+    if (!sectorRefreshTimer) {
+      sectorRefreshTimer = setInterval(refreshSectors, 60000);
+      refreshSectors(); // immediate first refresh
+      console.log('[每日一报] 开盘时段，启动板块数据每分钟刷新');
+    }
+  } else {
+    if (sectorRefreshTimer) {
+      clearInterval(sectorRefreshTimer);
+      sectorRefreshTimer = null;
+      console.log('[每日一报] 非开盘时段，暂停板块数据刷新');
+    }
+  }
+}
+
+/* Check every 5 seconds if we entered/left trading hours */
+var tradingCheckTimer = setInterval(manageStockRefresh, 5000);
+manageStockRefresh(); // immediate check
+
+/* Daily noon refresh: reload the page at 12:00 to get fresh news */
+function scheduleNoonRefresh() {
+  var now = new Date();
+  var bjHour = now.getUTCHours() + 8;
+  var bjMin = now.getUTCMinutes();
+  var bjSec = now.getUTCSeconds();
+  var nowMs = bjHour * 3600000 + bjMin * 60000 + bjSec * 1000;
+  var noonMs = 12 * 3600000; // 12:00:00
+
+  var msUntilNoon = noonMs - nowMs;
+  if (msUntilNoon < 0) {
+    // Already past noon, schedule for tomorrow
+    msUntilNoon += 24 * 3600000;
+  }
+
+  // Add a small random offset (0-5 min) to avoid thundering herd
+  msUntilNoon += Math.floor(Math.random() * 300000);
+
+  setTimeout(function() {
+    console.log('[每日一报] 12:00 每日刷新');
+    location.reload();
+  }, msUntilNoon);
+}
+scheduleNoonRefresh();
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+name: 每日新闻更新
+
+on:
+  schedule:
+    # 北京时间每天中午 12:00 (UTC+8 -> 04:00 UTC)
+    - cron: "0 4 * * *"
+  # 允许手动触发（方便测试）
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行新闻抓取脚本
+        run: python fetch_news.py
+
+      - name: 检查是否有变更
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交并推送变更
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Daily Bot"
+          git config user.email "bot@daily-news.local"
+          git add news-data.js
+          git commit -m "📰 每日新闻更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
+          git push
