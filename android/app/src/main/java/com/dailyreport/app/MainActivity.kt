@@ -2,12 +2,15 @@ package com.dailyreport.app
 
 import android.content.Context
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.graphics.*
+import android.Manifest
 import android.net.Uri
 import android.os.Bundle
 import android.os.Environment
 import android.view.Gravity
 import android.view.ViewGroup
+import android.webkit.GeolocationPermissions
 import android.webkit.JavascriptInterface
 import android.webkit.WebChromeClient
 import android.webkit.WebResourceRequest
@@ -16,6 +19,7 @@ import android.webkit.WebViewClient
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.animation.*
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -36,6 +40,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
+import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -52,8 +57,23 @@ class MainActivity : ComponentActivity() {
     private var webView: WebView? = null
     private var isPageLoaded = false
 
+    // 定位权限请求（每次启动检查，未授权则弹出系统权限弹窗）
+    private val locationPermissionLauncher =
+        registerForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
+            if (!granted) {
+                Toast.makeText(this, "未授予定位权限，天气将无法显示位置", Toast.LENGTH_SHORT).show()
+            }
+        }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        // 每次启动检查定位权限，未授权则主动索要
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+            != PackageManager.PERMISSION_GRANTED
+        ) {
+            locationPermissionLauncher.launch(Manifest.permission.ACCESS_FINE_LOCATION)
+        }
 
         setContent {
             MaterialTheme(
@@ -331,17 +351,16 @@ fun DailyReportApp(
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
-    var showHint by remember { mutableStateOf(true) }
 
     fun openDrawer() {
-        showHint = false
         scope.launch { drawerState.open() }
     }
 
     ModalNavigationDrawer(
         drawerState = drawerState,
-        // 关闭全屏手势：避免干扰 WebView 滚动（之前网页下滑卡顿/误触的根源）
-        gesturesEnabled = false,
+        // 动态手势：抽屉关闭时禁用全屏手势（不干扰网页滚动）；
+        // 抽屉打开时启用全屏手势（可右向左滑关闭，此时网页被遮罩盖住无冲突）
+        gesturesEnabled = drawerState.isOpen,
         drawerContent = {
             ModalDrawerSheet(
                 modifier = Modifier
@@ -437,6 +456,8 @@ fun DailyReportApp(
                             displayZoomControls = false
                             allowFileAccess = true
                             mixedContentMode = android.webkit.WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
+                            // 允许网页使用定位（天气功能）
+                            setGeolocationEnabled(true)
                         }
 
                         // Enable full-document drawing for long screenshot capture
@@ -465,7 +486,15 @@ fun DailyReportApp(
                             }
                         }
 
-                        webChromeClient = WebChromeClient()
+                        // 处理网页定位授权：App 已获权限则直接放行给网页
+                        webChromeClient = object : WebChromeClient() {
+                            override fun onGeolocationPermissionsShowPrompt(
+                                origin: String?,
+                                callback: GeolocationPermissions.Callback?
+                            ) {
+                                callback?.invoke(origin, true, true)
+                            }
+                        }
 
                         loadUrl("https://meiriyibao.netlify.app")
                         onWebViewReady(this)
@@ -474,38 +503,15 @@ fun DailyReportApp(
                 modifier = Modifier.fillMaxSize()
             )
 
-            // Left edge drag zone: ONLY this 22dp strip can open the drawer.
-            // 纵向滑动会自动放行给 WebView（不消费事件），不影响网页滚动。
-            Box(
-                modifier = Modifier
-                    .align(Alignment.CenterStart)
-                    .fillMaxHeight()
-                    .width(22.dp)
-                    .pointerInput(Unit) {
-                        var totalDrag = 0f
-                        detectHorizontalDragGestures(
-                            onDragStart = { totalDrag = 0f },
-                            onDragEnd = { /* no-op: 打开由 onHorizontalDrag 内实时触发 */ },
-                            onHorizontalDrag = { _, dragAmount ->
-                                totalDrag += dragAmount
-                                // 右滑超过阈值即打开（可实时响应）
-                                if (drawerState.isClosed && totalDrag > 48.dp.toPx()) {
-                                    openDrawer()
-                                }
-                            }
-                        )
-                    }
-            )
-
-            // Left edge hint label (auto-hide after first open via tap or swipe)
-            if (showHint && drawerState.isClosed) {
+            // 左侧"←"提示按钮：常显，点击打开侧栏（关闭侧栏用全屏左滑手势）
+            if (drawerState.isClosed) {
                 Box(
                     modifier = Modifier
                         .align(Alignment.CenterStart)
                         .offset(y = (-60).dp)
-                        .width(24.dp)
-                        .height(64.dp)
-                        .clip(RoundedCornerShape(topEnd = 6.dp, bottomEnd = 6.dp))
+                        .width(32.dp)
+                        .height(72.dp)
+                        .clip(RoundedCornerShape(topEnd = 8.dp, bottomEnd = 8.dp))
                         .background(MaterialTheme.colorScheme.primary.copy(alpha = 0.55f))
                         .clickable { openDrawer() },
                     contentAlignment = Alignment.Center
@@ -513,7 +519,7 @@ fun DailyReportApp(
                     Text(
                         text = "←",
                         color = Color.White,
-                        fontSize = 16.sp,
+                        fontSize = 18.sp,
                         fontWeight = FontWeight.Bold
                     )
                 }
