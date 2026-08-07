@@ -1,0 +1,6 @@
+<resources>
+    <color name="colorPrimary">#1A1A2E</color>
+    <color name="colorSecondary">#16213E</color>
+    <color name="colorAccent">#E94560</color>
+    <color name="colorBackground">#F5F0E8</color>
+</resources>
