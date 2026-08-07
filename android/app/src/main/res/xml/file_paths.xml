@@ -3,4 +3,6 @@
     <cache-path name="screenshots" path="screenshots/" />
     <cache-path name="shared" path="shared/" />
     <external-path name="downloads" path="Download/" />
+    <!-- 自动升级：APK 下载目录 -->
+    <cache-path name="apk" path="apk/" />
 </paths>
