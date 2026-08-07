@@ -25,7 +25,9 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
@@ -40,6 +42,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
+import androidx.compose.ui.window.Dialog
 import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
 import kotlinx.coroutines.Dispatchers
@@ -352,6 +355,15 @@ fun DailyReportApp(
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
 
+    // 更新日志：版本变化（含首次安装）时自动弹出
+    val currentVersion = BuildConfig.VERSION_NAME
+    val prefs = remember { context.getSharedPreferences("daily_report_prefs", Context.MODE_PRIVATE) }
+    var showChangelog by remember { mutableStateOf(prefs.getString("last_seen_version", null) != currentVersion) }
+    val dismissChangelog: () -> Unit = {
+        showChangelog = false
+        prefs.edit().putString("last_seen_version", currentVersion).apply()
+    }
+
     fun openDrawer() {
         scope.launch { drawerState.open() }
     }
@@ -418,6 +430,19 @@ fun DailyReportApp(
                         }
                     )
 
+                    Spacer(modifier = Modifier.height(16.dp))
+
+                    // Changelog button
+                    SidebarButton(
+                        icon = Icons.Default.History,
+                        label = "更新日志",
+                        description = "查看各版本更新内容",
+                        onClick = {
+                            scope.launch { drawerState.close() }
+                            showChangelog = true
+                        }
+                    )
+
                     Spacer(modifier = Modifier.weight(1f))
 
                     Text(
@@ -426,7 +451,7 @@ fun DailyReportApp(
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.25f)
                     )
                     Text(
-                        text = "v1.1",
+                        text = "v${BuildConfig.VERSION_NAME}",
                         fontSize = 12.sp,
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
                     )
@@ -524,6 +549,14 @@ fun DailyReportApp(
                     )
                 }
             }
+
+            // 更新日志弹窗（版本变化时自动弹出，也可从侧边栏随时打开）
+            if (showChangelog) {
+                ChangelogDialog(
+                    currentVersion = currentVersion,
+                    onDismiss = dismissChangelog
+                )
+            }
         }
     }
 }
@@ -562,5 +595,172 @@ fun SidebarButton(
             fontSize = 11.sp,
             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
         )
+    }
+}
+
+/* ===== 更新日志 ===== */
+private data class ChangelogEntry(
+    val version: String,
+    val title: String,
+    val notes: List<String>
+)
+
+private val CHANGELOG = listOf(
+    ChangelogEntry(
+        version = "1.2",
+        title = "更新日志功能上线",
+        notes = listOf(
+            "侧边栏新增「更新日志」入口，可随时查看每个版本的更新内容",
+            "每次版本更新完成后自动弹出更新日志，新功能一目了然",
+            "支持回看历史版本（v1.0 / v1.1）的更新记录"
+        )
+    ),
+    ChangelogEntry(
+        version = "1.1",
+        title = "体验优化与功能修复",
+        notes = listOf(
+            "侧边栏改为从屏幕左侧边缘滑出，不再与网页按钮冲突",
+            "分享截图升级为完整网页长截图，内容不再只截首屏",
+            "Word 导出包含新闻真实内容：标题、摘要、来源，按分类组织",
+            "修复网页滚动卡顿与误触：关闭全屏手势，仅保留左边缘触发",
+            "优化交互：点击左侧「←」打开侧栏，抽屉打开时全屏左滑关闭",
+            "新增定位权限申请，修复天气城市定位读取失败的问题"
+        )
+    ),
+    ChangelogEntry(
+        version = "1.0",
+        title = "每日一报 App 首发",
+        notes = listOf(
+            "内置浏览每日一报网页版（meiriyibao.netlify.app）",
+            "侧边栏提供「分享截图」「导出Word」功能",
+            "支持暗色模式自动适配与字号调节"
+        )
+    )
+)
+
+@Composable
+fun ChangelogDialog(
+    currentVersion: String,
+    onDismiss: () -> Unit
+) {
+    Dialog(onDismissRequest = onDismiss) {
+        Surface(
+            modifier = Modifier
+                .fillMaxWidth()
+                .fillMaxHeight(0.82f),
+            shape = RoundedCornerShape(20.dp),
+            color = MaterialTheme.colorScheme.surface,
+            tonalElevation = 6.dp
+        ) {
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(20.dp)
+            ) {
+                // 标题行 + 右上角关闭按钮
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Column(modifier = Modifier.weight(1f)) {
+                        Text(
+                            text = "更新日志",
+                            fontSize = 20.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.onSurface
+                        )
+                        Text(
+                            text = "每日一报 v$currentVersion",
+                            fontSize = 12.sp,
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.45f)
+                        )
+                    }
+                    IconButton(onClick = onDismiss) {
+                        Icon(
+                            imageVector = Icons.Default.Close,
+                            contentDescription = "关闭",
+                            tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+                        )
+                    }
+                }
+
+                Spacer(modifier = Modifier.height(8.dp))
+                HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
+                Spacer(modifier = Modifier.height(16.dp))
+
+                // 版本列表（当前版本置顶，可滚动）
+                Column(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .verticalScroll(rememberScrollState())
+                ) {
+                    CHANGELOG.forEach { entry ->
+                        val isCurrent = entry.version == currentVersion
+
+                        // 版本标题行
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Text(
+                                text = "v${entry.version}",
+                                fontSize = 17.sp,
+                                fontWeight = FontWeight.Bold,
+                                color = if (isCurrent)
+                                    MaterialTheme.colorScheme.primary
+                                else
+                                    MaterialTheme.colorScheme.onSurface
+                            )
+                            Spacer(modifier = Modifier.width(10.dp))
+                            Text(
+                                text = entry.title,
+                                fontSize = 14.sp,
+                                fontWeight = FontWeight.Medium,
+                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.75f)
+                            )
+                            if (isCurrent) {
+                                Spacer(modifier = Modifier.width(8.dp))
+                                Text(
+                                    text = "当前",
+                                    fontSize = 10.sp,
+                                    color = Color.White,
+                                    modifier = Modifier
+                                        .clip(RoundedCornerShape(10.dp))
+                                        .background(MaterialTheme.colorScheme.primary)
+                                        .padding(horizontal = 8.dp, vertical = 2.dp)
+                                )
+                            }
+                        }
+
+                        Spacer(modifier = Modifier.height(8.dp))
+
+                        // 更新条目
+                        entry.notes.forEach { note ->
+                            Row(
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .padding(bottom = 6.dp)
+                            ) {
+                                Text(
+                                    text = "•",
+                                    fontSize = 13.sp,
+                                    color = MaterialTheme.colorScheme.primary,
+                                    modifier = Modifier.padding(top = 1.dp)
+                                )
+                                Spacer(modifier = Modifier.width(8.dp))
+                                Text(
+                                    text = note,
+                                    fontSize = 13.sp,
+                                    lineHeight = 19.sp,
+                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
+                                )
+                            }
+                        }
+
+                        Spacer(modifier = Modifier.height(20.dp))
+                    }
+                }
+            }
+        }
     }
 }
