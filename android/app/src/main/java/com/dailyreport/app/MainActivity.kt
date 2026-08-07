@@ -1,5 +1,7 @@
 package com.dailyreport.app
 
+import android.app.AlertDialog
+import android.app.ProgressDialog
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -49,8 +51,11 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
+import org.json.JSONObject
 import java.io.File
 import java.io.FileOutputStream
+import java.net.HttpURLConnection
+import java.net.URL
 import java.text.SimpleDateFormat
 import java.util.*
 import java.util.zip.ZipEntry
@@ -95,6 +100,9 @@ class MainActivity : ComponentActivity() {
             }
         }
 
+        // 自动升级：每次启动连接云端检查最新版本
+        checkForUpdate()
+
         setContent {
             MaterialTheme(
                 colorScheme = lightColorScheme(
@@ -131,6 +139,100 @@ class MainActivity : ComponentActivity() {
     override fun onDestroy() {
         hotUpdateJob?.cancel()
         super.onDestroy()
+    }
+
+    /* ===== 自动升级：启动检查云端版本 → 下载 APK → 引导安装 ===== */
+
+    private fun checkForUpdate() {
+        kotlinx.coroutines.MainScope().launch {
+            try {
+                val verJson = withContext(Dispatchers.IO) {
+                    val conn = URL("https://meiriyibao.netlify.app/app-version.json").openConnection()
+                    conn.setRequestProperty("Cache-Control", "no-cache")
+                    conn.connectTimeout = 10000
+                    conn.readTimeout = 10000
+                    conn.getInputStream().bufferedReader().readText()
+                }
+                val obj = JSONObject(verJson)
+                val remoteCode = obj.getInt("versionCode")
+                val remoteVersion = obj.getString("version")
+                val apkUrl = obj.getString("apkUrl")
+                if (remoteCode > BuildConfig.VERSION_CODE) {
+                    runOnUiThread {
+                        AlertDialog.Builder(this@MainActivity)
+                            .setTitle("发现新版本 v$remoteVersion")
+                            .setMessage("云端有新版本可用，是否立即下载更新？\n（下载完成后按系统提示确认安装）")
+                            .setPositiveButton("立即更新") { _, _ -> downloadAndInstall(apkUrl) }
+                            .setNegativeButton("稍后再说", null)
+                            .show()
+                    }
+                }
+            } catch (_: Exception) {
+                // 网络不可用等异常静默忽略，不影响正常使用
+            }
+        }
+    }
+
+    private fun downloadAndInstall(apkUrl: String) {
+        val progress = ProgressDialog(this).apply {
+            setTitle("下载更新")
+            setMessage("正在下载最新版本…")
+            setProgressStyle(ProgressDialog.STYLE_HORIZONTAL)
+            setMax(100)
+            setCancelable(false)
+            show()
+        }
+        kotlinx.coroutines.MainScope().launch {
+            val apkFile = withContext(Dispatchers.IO) {
+                val dir = File(cacheDir, "apk").apply { mkdirs() }
+                val out = File(dir, "latest.apk")
+                try {
+                    val conn = URL(apkUrl).openConnection() as HttpURLConnection
+                    conn.setRequestProperty("Cache-Control", "no-cache")
+                    conn.connectTimeout = 15000
+                    conn.readTimeout = 30000
+                    conn.connect()
+                    val total = conn.contentLength.toLong()
+                    var downloaded = 0L
+                    conn.inputStream.use { input ->
+                        FileOutputStream(out).use { fos ->
+                            val buf = ByteArray(64 * 1024)
+                            while (true) {
+                                val n = input.read(buf)
+                                if (n <= 0) break
+                                fos.write(buf, 0, n)
+                                downloaded += n
+                                val p = if (total > 0) (downloaded * 100 / total).toInt() else 0
+                                runOnUiThread { progress.progress = p }
+                            }
+                        }
+                    }
+                    out
+                } catch (e: Exception) {
+                    runOnUiThread {
+                        progress.dismiss()
+                        Toast.makeText(this@MainActivity, "下载失败：${e.message}", Toast.LENGTH_SHORT).show()
+                    }
+                    null
+                }
+            }
+            progress.dismiss()
+            apkFile?.let { installApk(it) }
+        }
+    }
+
+    private fun installApk(file: File) {
+        try {
+            val uri = FileProvider.getUriForFile(this, "$packageName.fileprovider", file)
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                setDataAndType(uri, "application/vnd.android.package-archive")
+                addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            startActivity(intent)
+        } catch (e: Exception) {
+            Toast.makeText(this, "无法打开安装器：${e.message}", Toast.LENGTH_SHORT).show()
+        }
     }
 
     private fun shareScreenshot() {
