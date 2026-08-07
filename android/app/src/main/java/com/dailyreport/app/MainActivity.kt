@@ -46,6 +46,7 @@ import androidx.compose.ui.window.Dialog
 import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import java.io.File
@@ -59,6 +60,10 @@ class MainActivity : ComponentActivity() {
 
     private var webView: WebView? = null
     private var isPageLoaded = false
+
+    // 热更新：定时自动刷新网页内容（对应网页端每小时数据更新）
+    private var hotUpdateJob: kotlinx.coroutines.Job? = null
+    private var lastPageLoadedAt = 0L
 
     // 定位权限请求（每次启动检查，未授权则弹出系统权限弹窗）
     private val locationPermissionLauncher =
@@ -78,6 +83,18 @@ class MainActivity : ComponentActivity() {
             locationPermissionLauncher.launch(Manifest.permission.ACCESS_FINE_LOCATION)
         }
 
+        // 热更新任务：每小时自动刷新一次，拉取网页端最新部署的内容与功能
+        hotUpdateJob = kotlinx.coroutines.MainScope().launch {
+            while (true) {
+                delay(60 * 60 * 1000L)
+                val wv = webView ?: continue
+                // 页面已加载完成且距上次加载超过 1 小时才刷新（避免打断正在阅读）
+                if (isPageLoaded && System.currentTimeMillis() - lastPageLoadedAt > 60 * 60 * 1000L) {
+                    wv.post { wv.reload() }
+                }
+            }
+        }
+
         setContent {
             MaterialTheme(
                 colorScheme = lightColorScheme(
@@ -89,12 +106,31 @@ class MainActivity : ComponentActivity() {
             ) {
                 DailyReportApp(
                     onWebViewReady = { wv -> webView = wv },
-                    onPageLoaded = { isPageLoaded = true },
+                    onPageLoaded = {
+                        isPageLoaded = true
+                        lastPageLoadedAt = System.currentTimeMillis()
+                    },
                     onShareScreenshot = { shareScreenshot() },
                     onExportWord = { exportToWord() }
                 )
             }
         }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        // 从后台回到前台：若距上次加载超过 30 分钟，自动刷新获取最新内容（热更新）
+        val wv = webView
+        if (wv != null && isPageLoaded && lastPageLoadedAt > 0 &&
+            System.currentTimeMillis() - lastPageLoadedAt > 30 * 60 * 1000L
+        ) {
+            wv.post { wv.reload() }
+        }
+    }
+
+    override fun onDestroy() {
+        hotUpdateJob?.cancel()
+        super.onDestroy()
     }
 
     private fun shareScreenshot() {
@@ -612,7 +648,8 @@ private val CHANGELOG = listOf(
         notes = listOf(
             "侧边栏新增「更新日志」入口，可随时查看每个版本的更新内容",
             "每次版本更新完成后自动弹出更新日志，新功能一目了然",
-            "支持回看历史版本（v1.0 / v1.1）的更新记录"
+            "支持回看历史版本（v1.0 / v1.1）的更新记录",
+            "支持热更新：自动获取网页端最新内容与功能，无需重新安装"
         )
     ),
     ChangelogEntry(
