@@ -92,9 +92,9 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "ThinkBook Aeroblade 曝光，有望成联想最薄的 ThinkBook 笔记本电脑",
-      "url": "https://www.ithome.com/0/986/837.htm",
-      "excerpt": "IT之家 8 月 7 日消息，科技媒体 Windows Latest 今天（8 月 7 日）发布博文，分享了一组宣传图，展示了尚未发布的 ThinkBook Aeroblade，上市后有望成为联想最薄的 ThinkBook 笔记本。名称方面，该媒体指出在宣传图片中出现了“Aeroblade”这个关键词，而在联想现有产品",
+      "title": "OPPO A7 Pro Max 手机开售：10000mAh 电池、第五代骁龙 4，售价 2199 元起",
+      "url": "https://www.ithome.com/0/986/848.htm",
+      "excerpt": "IT之家 8 月 7 日消息，OPPO A7 Pro Max 手机今日正式开售，售价 2199 元起：8GB+128GB：售价 2199 元，国补后到手价约 1869.15 元12GB+256GB：售价 2699 元，国补后到手价约 2294.15 元12GB+512GB：售价 2999 元，国补后到手价约 2549.",
       "src": "IT之家",
       "tag": "科技",
       "cat": "tech"
