@@ -331,10 +331,17 @@ fun DailyReportApp(
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
+    var showHint by remember { mutableStateOf(true) }
+
+    fun openDrawer() {
+        showHint = false
+        scope.launch { drawerState.open() }
+    }
 
     ModalNavigationDrawer(
         drawerState = drawerState,
-        gesturesEnabled = true,
+        // 关闭全屏手势：避免干扰 WebView 滚动（之前网页下滑卡顿/误触的根源）
+        gesturesEnabled = false,
         drawerContent = {
             ModalDrawerSheet(
                 modifier = Modifier
@@ -467,49 +474,46 @@ fun DailyReportApp(
                 modifier = Modifier.fillMaxSize()
             )
 
-            // Left edge drag indicator (thin strip, subtle)
+            // Left edge drag zone: ONLY this 22dp strip can open the drawer.
+            // 纵向滑动会自动放行给 WebView（不消费事件），不影响网页滚动。
             Box(
                 modifier = Modifier
                     .align(Alignment.CenterStart)
                     .fillMaxHeight()
-                    .width(16.dp)
-                    .background(Color.Transparent)
+                    .width(22.dp)
                     .pointerInput(Unit) {
+                        var totalDrag = 0f
                         detectHorizontalDragGestures(
-                            onDragEnd = {
-                                if (drawerState.isClosed) {
-                                    scope.launch { drawerState.open() }
+                            onDragStart = { totalDrag = 0f },
+                            onDragEnd = { /* no-op: 打开由 onHorizontalDrag 内实时触发 */ },
+                            onHorizontalDrag = { _, dragAmount ->
+                                totalDrag += dragAmount
+                                // 右滑超过阈值即打开（可实时响应）
+                                if (drawerState.isClosed && totalDrag > 48.dp.toPx()) {
+                                    openDrawer()
                                 }
                             }
-                        ) { _, dragAmount ->
-                            if (dragAmount > 30 && drawerState.isClosed) {
-                                scope.launch { drawerState.open() }
-                            }
-                        }
+                        )
                     }
             )
 
-            // Left edge hint label (auto-hide after first use)
-            var showHint by remember { mutableStateOf(true) }
+            // Left edge hint label (auto-hide after first open via tap or swipe)
             if (showHint && drawerState.isClosed) {
                 Box(
                     modifier = Modifier
                         .align(Alignment.CenterStart)
                         .offset(y = (-60).dp)
-                        .width(28.dp)
-                        .height(120.dp)
-                        .clip(RoundedCornerShape(topEnd = 8.dp, bottomEnd = 8.dp))
-                        .background(MaterialTheme.colorScheme.primary.copy(alpha = 0.6f))
-                        .clickable {
-                            scope.launch { drawerState.open() }
-                            showHint = false
-                        },
+                        .width(24.dp)
+                        .height(64.dp)
+                        .clip(RoundedCornerShape(topEnd = 6.dp, bottomEnd = 6.dp))
+                        .background(MaterialTheme.colorScheme.primary.copy(alpha = 0.55f))
+                        .clickable { openDrawer() },
                     contentAlignment = Alignment.Center
                 ) {
                     Text(
                         text = "←",
                         color = Color.White,
-                        fontSize = 18.sp,
+                        fontSize = 16.sp,
                         fontWeight = FontWeight.Bold
                     )
                 }
