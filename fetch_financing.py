@@ -52,16 +52,28 @@ def clean_prov(raw):
             return prov
     return '中国'
 
+def normalize_area(name):
+    """标准化地区：中国省/市/自治区保留，国家名归海外"""
+    if not name or name == '中国':
+        return '中国'
+    if any(k in name for k in ['省', '市', '自治区', '特别行政区']):
+        return name
+    if name in CITY2PROV.values():
+        return name
+    return '海外'  # 国家名（美国/新加坡等）→ 海外
+
 def fetch_province(request_ctx, project_id):
-    """从项目详情页提取省份（用 Playwright request，复用浏览器网络栈）"""
+    """从项目详情页提取地区（优先 cityBean/tag-province）"""
     try:
         resp = request_ctx.get(f'https://pitchhub.36kr.com/project/{project_id}',
                                headers={'User-Agent': UA}, timeout=15000)
         html = resp.text()
-        for mm in re.finditer(r'([\u4e00-\u9fa5]{2,4}?(?:省|市|自治区|特别行政区))', html):
-            p = mm.group(1)
-            if p and len(p) <= 8 and not re.search(r'(消费|行业|已上市|补油|产品|大众)', p):
-                return clean_prov(p)
+        m = re.search(r'"cityBean":\{"name":"([^"]+)"\}', html)
+        if m and m.group(1):
+            return normalize_area(m.group(1).strip())
+        m2 = re.search(r'tag-province[^>]*>([^<]+)<', html)
+        if m2 and m2.group(1).strip():
+            return normalize_area(m2.group(1).strip())
     except Exception:
         pass
     return '中国'
