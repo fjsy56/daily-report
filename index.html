@@ -180,7 +180,7 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 
 <aside class="sb">
 <div class="wfb"><h4>热词统计</h4><div class="wfc" id="wordFreqCloud"></div></div>
-<div class="sep"><h4>A股板块行情</h4><ul class="sel" id="sectorList"></ul></div>
+<div class="sep"><h4>A股板块行情 <span id="sectorUpd" style="font-size:11px;font-weight:400;color:var(--mut);margin-left:6px"></span></h4><ul class="sel" id="sectorList"></ul></div>
 </aside>
 </div>
 
@@ -336,7 +336,8 @@ function isTradingHours() {
 
 /* Refresh stock sector data from East Money API */
 function refreshSectors() {
-  fetch('https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=25&po=1&np=1&fltt=2&invt=2&fid=f3&fs=m:90+t2&fields=f2,f3,f4,f12,f14&_=' + Date.now())
+  // push2delay 域名稳定可用；push2 主域名近期返回 rc:102 被风控
+  fetch('https://push2delay.eastmoney.com/api/qt/clist/get?pn=1&pz=25&po=1&np=1&fltt=2&invt=2&fid=f62&fs=m:90+t:2+f:!50&fields=f2,f3,f4,f12,f14&_=' + Date.now())
     .then(function(r) { return r.json(); })
     .then(function(data) {
       if (!data.data || !data.data.diff) return;
@@ -355,6 +356,15 @@ function refreshSectors() {
         li.innerHTML = '<span class="sen" title="' + name + '">' + name + '</span><span class="sec ' + cls + '">' + txt + '</span>';
         list.appendChild(li);
       });
+      // 更新时间戳，直观显示刷新已生效
+      var upd = document.getElementById('sectorUpd');
+      if (upd) {
+        var d = new Date();
+        var hh = ('0' + (d.getUTCHours() + 8) % 24).slice(-2);
+        var mm = ('0' + d.getUTCMinutes()).slice(-2);
+        var ss = ('0' + d.getUTCSeconds()).slice(-2);
+        upd.textContent = '更新于 ' + hh + ':' + mm + ':' + ss;
+      }
     })
     .catch(function(e) { console.warn('Stock refresh failed:', e); });
 }
