@@ -98,6 +98,14 @@ window.__NEWS_DATA__ = {
       "src": "新智元",
       "tag": "具身智能",
       "cat": "app"
+    },
+    {
+      "title": "影石产品将上线 AI 语音助手，分区域接入阿里千问和 Gemini 模型",
+      "url": "https://www.ithome.com/0/986/938.htm",
+      "excerpt": "IT之家 8 月 7 日消息，据新浪科技报道，影石 Insta360 今日（8 月 7 日）为 GO Ultra 拇指相机上线 AI 语音助手。该功能按区域采用不同大模型方案：中国大陆地区接入阿里千问大模型，中国港澳台及海外地区使用 Google Gemini",
+      "src": "IT之家",
+      "tag": "谷歌",
+      "cat": "app"
     }
   ],
   "enterprise": [
@@ -134,5 +142,5 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     }
   ],
-  "total": 16
+  "total": 17
 };
