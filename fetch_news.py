@@ -36,6 +36,54 @@ def parse_rss(html, max_n=6):
         pass
     return items
 
+def clean_text(s):
+    """清理摘要：HTML实体转义、压缩空白、截断"""
+    if not s:
+        return ""
+    s = re.sub(r"<[^>]+>", "", s)
+    s = s.replace("&nbsp;", " ").replace("&amp;", "&").replace("&middot;", "·")
+    s = s.replace("&mdash;", "—").replace("&ndash;", "–").replace("&quot;", '"')
+    s = s.replace("&#39;", "'").replace("&ldquo;", "“").replace("&rdquo;", "”")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s[:130]
+
+def extract_tag(title):
+    """从标题提取领域/公司标签（公司名优先，其次技术领域，最后融资类兜底）"""
+    rules = [
+        ("DeepSeek", ["DeepSeek", "深度求索"]),
+        ("OpenAI", ["OpenAI", "ChatGPT"]),
+        ("谷歌", ["谷歌", "Google", "Gemini", "DeepMind", "Android"]),
+        ("字节", ["字节", "抖音", "豆包", "飞书", "TikTok"]),
+        ("英伟达", ["英伟达", "NVIDIA", "CUDA", "GPU"]),
+        ("微软", ["微软", "Microsoft", "Copilot", "Windows"]),
+        ("Meta", ["Meta", "Facebook", "扎克伯格"]),
+        ("苹果", ["苹果", "iPhone", "Apple"]),
+        ("华为", ["华为", "鸿蒙", "麒麟", "昇腾", "余承东"]),
+        ("小米", ["小米"]),
+        ("AMD", ["AMD"]),
+        ("马斯克", ["马斯克", "SpaceX", "特斯拉", "星舰"]),
+        ("阿里", ["阿里", "千问", "通义", "淘宝"]),
+        ("百度", ["百度", "文心"]),
+        ("腾讯", ["腾讯", "微信"]),
+        ("宇树", ["宇树"]),
+        ("具身智能", ["具身", "人形", "机器人", "智元", "众擎"]),
+        ("芯片", ["芯片", "半导体", "晶圆", "光刻", "HBM"]),
+        ("AI安全", ["安全", "对齐", "滥用"]),
+        ("大模型", ["大模型", "模型", "MoE", "Transformer", "参数", "开源"]),
+        ("Agent", ["Agent", "智能体", "插件"]),
+        ("视频生成", ["视频生成", "文生视频", "Sora"]),
+        ("自动驾驶", ["自动驾驶", "智驾", "FSD", "驾驶"]),
+        ("太空AI", ["太空", "卫星", "轨道"]),
+        ("操作系统", ["操作系统", "OS"]),
+        ("融资", ["融资", "IPO", "估值", "上市", "收购", "投资", "融资"]),
+    ]
+    tl = title.lower()
+    for tag, kws in rules:
+        for kw in kws:
+            if kw.lower() in tl:
+                return tag
+    return "行业动态"
+
 def tech_keywords(title):
     """根据标题关键词自动分类"""
     t = title
@@ -64,11 +112,23 @@ def tech_keywords(title):
 # ============ 各来源抓取 ============
 
 def scrape_36kr():
-    """36氪科技频道 HTML"""
+    """36氪 RSS（带摘要）优先，HTML 兜底"""
+    items = parse_rss(fetch("https://36kr.com/feed"), 10)
+    if items:
+        result = []
+        ai_kw = ["AI", "智能", "模型", "芯片", "机器人", "算法", "算力",
+                 "开源", "Agent", "融资", "科技", "大模型", "GPT", "Claude"]
+        for i in items:
+            if any(kw in i["title"] for kw in ai_kw):
+                result.append({"title": i["title"], "url": i["link"],
+                               "excerpt": clean_text(i["desc"]), "src": "36氪", "tag": ""})
+            if len(result) >= 4:
+                break
+        return result
     html = fetch("https://36kr.com/information/technology/")
     if not html:
         return []
-    items = []
+    result = []
     # 提取文章链接和标题
     for m in re.finditer(r'/"p/(\d+)"[^>]*>\s*<[^>]+>\s*<[^>]+>(.+?)</', html):
         pid = m.group(1)
@@ -76,22 +136,18 @@ def scrape_36kr():
         if len(title) < 8:
             continue
         url = "https://36kr.com/p/" + pid
-        if title not in [i["title"] for i in items]:
-            items.append({"title": title, "url": url, "excerpt": "", "src": "36氪", "tag": "科技"})
-        if len(items) >= 4:
+        if title not in [i["title"] for i in result]:
+            result.append({"title": title, "url": url, "excerpt": "", "src": "36氪", "tag": ""})
+        if len(result) >= 4:
             break
-    # Also try finding article links in href
-    if not items:
-        for m in re.finditer(r'href="(/p/\d+)"', html):
-            url = "https://36kr.com" + m.group(1)
-            if url not in [i["url"] for i in items]:
-                items.append({"title": "", "url": url, "excerpt": "", "src": "36氪", "tag": "科技"})
-            if len(items) >= 4:
-                break
-    return items
+    return result
 
 def scrape_huxiu():
-    """虎嗅前沿科技 HTML + RSS 备用"""
+    """虎嗅 RSS（带摘要）优先，HTML 兜底"""
+    items = parse_rss(fetch("https://www.huxiu.com/rss/0.xml"), 8)
+    if items:
+        return [{"title": i["title"], "url": i["link"], "excerpt": clean_text(i["desc"]),
+                 "src": "虎嗅", "tag": ""} for i in items]
     html = fetch("https://www.huxiu.com/channel/105.html")
     if not html:
         return []
@@ -103,7 +159,7 @@ def scrape_huxiu():
         if len(title) < 8:
             continue
         if title not in [i["title"] for i in items]:
-            items.append({"title": title, "url": url, "excerpt": "", "src": "虎嗅", "tag": "科技"})
+            items.append({"title": title, "url": url, "excerpt": "", "src": "虎嗅", "tag": ""})
         if len(items) >= 5:
             break
     return items
@@ -111,8 +167,8 @@ def scrape_huxiu():
 def scrape_geekpark():
     """极客公园 RSS"""
     items = parse_rss(fetch("https://www.geekpark.net/rss"), 6)
-    return [{"title": i["title"], "url": i["link"], "excerpt": i["desc"][:160],
-             "src": "极客公园", "tag": "科技"} for i in items]
+    return [{"title": i["title"], "url": i["link"], "excerpt": clean_text(i["desc"]),
+             "src": "极客公园", "tag": ""} for i in items]
 
 def scrape_ithome():
     """IT之家 RSS"""
@@ -123,14 +179,18 @@ def scrape_ithome():
              "OpenAI", "DeepSeek", "鸿蒙", "手机", "电脑", "GPU", "CPU"]
     for i in items:
         if any(kw in i["title"] for kw in ai_kw):
-            result.append({"title": i["title"], "url": i["link"], "excerpt": i["desc"][:160],
-                          "src": "IT之家", "tag": "科技"})
+            result.append({"title": i["title"], "url": i["link"], "excerpt": clean_text(i["desc"]),
+                          "src": "IT之家", "tag": ""})
         if len(result) >= 4:
             break
     return result
 
 def scrape_qbitai():
-    """量子位 HTML"""
+    """量子位 RSS（WordPress feed，带摘要）优先，HTML 兜底"""
+    items = parse_rss(fetch("https://www.qbitai.com/feed"), 8)
+    if items:
+        return [{"title": i["title"], "url": i["link"], "excerpt": clean_text(i["desc"]),
+                 "src": "量子位", "tag": ""} for i in items]
     html = fetch("https://www.qbitai.com/category/%e8%b5%84%e8%ae%af")
     if not html:
         return []
@@ -144,7 +204,7 @@ def scrape_qbitai():
             continue
         if title not in [i["title"] for i in items]:
             items.append({"title": title, "url": url, "excerpt": "",
-                         "src": "量子位", "tag": "科技"})
+                         "src": "量子位", "tag": ""})
         if len(items) >= 5:
             break
     return items
@@ -152,11 +212,11 @@ def scrape_qbitai():
 def scrape_jiqizhixin():
     """机器之心 RSS"""
     items = parse_rss(fetch("https://www.jiqizhixin.com/rss"), 5)
-    return [{"title": i["title"], "url": i["link"], "excerpt": i["desc"][:160],
-             "src": "机器之心", "tag": "科技"} for i in items]
+    return [{"title": i["title"], "url": i["link"], "excerpt": clean_text(i["desc"]),
+             "src": "机器之心", "tag": ""} for i in items]
 
 def scrape_xinzhiyuan():
-    """新智元 RSS（地址不固定，尝试常见模式）"""
+    """新智元首页 HTML + 详情页 og:description 摘要增强"""
     html = fetch("https://aiera.com.cn/")
     if not html:
         return []
@@ -168,10 +228,19 @@ def scrape_xinzhiyuan():
         if len(title) < 10 or "上一页" in title or "下一页" in title:
             continue
         if title not in [i["title"] for i in items]:
-            items.append({"title": title, "url": url, "excerpt": "",
-                         "src": "新智元", "tag": "科技"})
-        if len(items) >= 4:
+            items.append({"title": title, "url": url, "excerpt": "", "src": "新智元", "tag": ""})
+        if len(items) >= 5:
             break
+    # 对前几条抓详情页 og:description 作为摘要
+    for i in items[:4]:
+        if not i["excerpt"]:
+            page = fetch(i["url"])
+            if page:
+                m = re.search(r'<meta[^>]+(?:name|property)=["\'](?:og:description|description)["\'][^>]+content=["\']([^"\']+)["\']', page)
+                if not m:
+                    m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:name|property)=["\'](?:og:description|description)["\']', page)
+                if m:
+                    i["excerpt"] = clean_text(m.group(1))
     return items
 
 # ============ 主流程 ============
@@ -205,7 +274,7 @@ def main():
                     "url": a["url"],
                     "excerpt": a.get("excerpt", ""),
                     "src": a["src"],
-                    "tag": a.get("tag", ""),
+                    "tag": extract_tag(a["title"]),  # 从标题提取真实领域标签
                     "cat": cat,
                 })
         except Exception as e:
