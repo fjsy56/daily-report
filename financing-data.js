@@ -63,15 +63,28 @@ window.__FINANCING_DATA__ = {
  "provinces": [
   "上海市",
   "中国",
+  "内蒙古自治区",
   "北京市",
+  "四川省",
   "天津市",
   "宁夏回族自治区",
   "安徽省",
+  "山东省",
   "广东省",
+  "广西壮族自治区",
+  "新疆维吾尔自治区",
   "江苏省",
+  "江西省",
+  "河北省",
+  "河南省",
   "浙江省",
+  "海南省",
+  "海外",
   "湖北省",
+  "湖南省",
   "福建省",
+  "贵州省",
+  "辽宁省",
   "陕西省"
  ],
  "list": [
@@ -102,7 +115,7 @@ window.__FINANCING_DATA__ = {
    "amount": "200万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3921916047607938",
-   "province": "中国"
+   "province": "四川省"
   },
   {
    "id": "3900992491488386",
@@ -146,7 +159,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10000人民币",
    "investors": "创始人自投",
    "url": "https://pitchhub.36kr.com/project/3917804928878727",
-   "province": "中国"
+   "province": "陕西省"
   },
   {
    "id": "3842599251637252",
@@ -304,7 +317,7 @@ window.__FINANCING_DATA__ = {
    "amount": "过亿人民币",
    "investors": "清科产投、欣中新材料、深湾蓝盈、叠加远致星火、贞吉资本、深圳资本",
    "url": "https://pitchhub.36kr.com/project/2205222861419143",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1817515577689987",
@@ -501,7 +514,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1500万美元",
    "investors": "Ibex Investors、Mucker Capital、FJ Labs、Motley Fool Ventures、Data Point Capital、Walter Ventures、Car Dealership Guy",
    "url": "https://pitchhub.36kr.com/project/1713100454881539",
-   "province": "中国"
+   "province": "海外"
   },
   {
    "id": "2072085505998851",
@@ -3270,7 +3283,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "广州新兴基金、美的资本、成都科创投集团、金科君创、广州金控集团、广州开发区产业基金、广州产投集团",
    "url": "https://pitchhub.36kr.com/project/1872324883037064",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2140887460084356",
@@ -3285,7 +3298,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "永鑫方舟",
    "url": "https://pitchhub.36kr.com/project/2140887460084356",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2110112101698688",
@@ -3299,7 +3312,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "共进股份、乐中私募基金",
    "url": "https://pitchhub.36kr.com/project/2110112101698688",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1713135281875461",
@@ -3314,7 +3327,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "云航资本、泰有基金",
    "url": "https://pitchhub.36kr.com/project/1713135281875461",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2078846412527623",
@@ -3328,7 +3341,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "高琦聚酰亚胺",
    "url": "https://pitchhub.36kr.com/project/2078846412527623",
-   "province": "中国"
+   "province": "江西省"
   },
   {
    "id": "1678425500267524",
@@ -3342,7 +3355,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3亿人民币",
    "investors": "言知科技",
    "url": "https://pitchhub.36kr.com/project/1678425500267524",
-   "province": "中国"
+   "province": "安徽省"
   },
   {
    "id": "2066618131628038",
@@ -3356,7 +3369,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3.62亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2066618131628038",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2060904180267136",
@@ -3370,7 +3383,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "毅达资本、比丘资本",
    "url": "https://pitchhub.36kr.com/project/2060904180267136",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2775592415827203",
@@ -3384,7 +3397,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10亿人民币",
    "investors": "狮城资本、海富产业基金、建投投资、万向钱潮、复星锐正资本、华盖资本、金创投、德屹资本、华仓资本、元石基金、国中资本、达晨财智、图灵资管",
    "url": "https://pitchhub.36kr.com/project/2775592415827203",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2181057216908677",
@@ -3398,7 +3411,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "荷塘投资",
    "url": "https://pitchhub.36kr.com/project/2181057216908677",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2316712513636868",
@@ -3412,7 +3425,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "新供销基金",
    "url": "https://pitchhub.36kr.com/project/2316712513636868",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2144568859084041",
@@ -3426,7 +3439,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "国泰海通、广州开发区产业基金、达晨财智",
    "url": "https://pitchhub.36kr.com/project/2144568859084041",
-   "province": "中国"
+   "province": "湖南省"
   },
   {
    "id": "1958598662886407",
@@ -3440,7 +3453,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "苇渡资本",
    "url": "https://pitchhub.36kr.com/project/1958598662886407",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3877186936665094",
@@ -3455,7 +3468,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3877186936665094",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2179880546356611",
@@ -3469,7 +3482,7 @@ window.__FINANCING_DATA__ = {
    "amount": "25.04亿人民币",
    "investors": "万丰集团",
    "url": "https://pitchhub.36kr.com/project/2179880546356611",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "2361431453191559",
@@ -3483,7 +3496,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "富淼科技",
    "url": "https://pitchhub.36kr.com/project/2361431453191559",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1679788081861385",
@@ -3498,7 +3511,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "东源华信",
    "url": "https://pitchhub.36kr.com/project/1679788081861385",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1679722957492992",
@@ -3512,7 +3525,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "望众投资",
    "url": "https://pitchhub.36kr.com/project/1679722957492992",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2317023199332866",
@@ -3526,7 +3539,7 @@ window.__FINANCING_DATA__ = {
    "amount": "35亿人民币",
    "investors": "南山控股",
    "url": "https://pitchhub.36kr.com/project/2317023199332866",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1679712012751623",
@@ -3540,7 +3553,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1.96亿人民币",
    "investors": "鼎捷软件",
    "url": "https://pitchhub.36kr.com/project/1679712012751623",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2063029444476547",
@@ -3554,7 +3567,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10.5亿人民币",
    "investors": "桂东电力",
    "url": "https://pitchhub.36kr.com/project/2063029444476547",
-   "province": "中国"
+   "province": "广西壮族自治区"
   },
   {
    "id": "1679798163477255",
@@ -3568,7 +3581,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "唯实资本",
    "url": "https://pitchhub.36kr.com/project/1679798163477255",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "1705459630186499",
@@ -3582,7 +3595,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "鼎心资本",
    "url": "https://pitchhub.36kr.com/project/1705459630186499",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3630802229494530",
@@ -3597,7 +3610,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "清水湾基金",
    "url": "https://pitchhub.36kr.com/project/3630802229494530",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2011620390127113",
@@ -3611,7 +3624,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "成都科创投集团",
    "url": "https://pitchhub.36kr.com/project/2011620390127113",
-   "province": "中国"
+   "province": "四川省"
   },
   {
    "id": "2181135481736321",
@@ -3625,7 +3638,7 @@ window.__FINANCING_DATA__ = {
    "amount": "15亿美元",
    "investors": "阿里巴巴",
    "url": "https://pitchhub.36kr.com/project/2181135481736321",
-   "province": "中国"
+   "province": "福建省"
   },
   {
    "id": "1678344160392199",
@@ -3639,7 +3652,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "简州新城基金",
    "url": "https://pitchhub.36kr.com/project/1678344160392199",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3837135533930247",
@@ -3654,7 +3667,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "普华资本、鼎翰投资、雅榕创投、盈动资本、上城资本",
    "url": "https://pitchhub.36kr.com/project/3837135533930247",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1958589388313608",
@@ -3668,7 +3681,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中银国际投资、苏创投",
    "url": "https://pitchhub.36kr.com/project/1958589388313608",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1679812099838727",
@@ -3682,7 +3695,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "诺庾资本、清松资本、蓝山投资",
    "url": "https://pitchhub.36kr.com/project/1679812099838727",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3195980389889801",
@@ -3697,7 +3710,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "海祥创投、国汽投资、协同投资、水木清华校友种子基金、怡达私募基金、广州同新科创基金",
    "url": "https://pitchhub.36kr.com/project/3195980389889801",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "2034703121045637",
@@ -3711,7 +3724,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "福广成都",
    "url": "https://pitchhub.36kr.com/project/2034703121045637",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1679642153292553",
@@ -3725,7 +3738,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "复星创富",
    "url": "https://pitchhub.36kr.com/project/1679642153292553",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678537484268547",
@@ -3739,7 +3752,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "泰达科投",
    "url": "https://pitchhub.36kr.com/project/1678537484268547",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2077567059072772",
@@ -3753,7 +3766,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "相泰投资",
    "url": "https://pitchhub.36kr.com/project/2077567059072772",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1995755674439303",
@@ -3767,7 +3780,7 @@ window.__FINANCING_DATA__ = {
    "amount": "9800万人民币",
    "investors": "迪生力",
    "url": "https://pitchhub.36kr.com/project/1995755674439303",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678296315147271",
@@ -3781,7 +3794,7 @@ window.__FINANCING_DATA__ = {
    "amount": "35亿人民币",
    "investors": "中国信科、尚融资本、财通基金、诺德基金、CPE源峰",
    "url": "https://pitchhub.36kr.com/project/1678296315147271",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "1713120883714568",
@@ -3795,7 +3808,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中网投",
    "url": "https://pitchhub.36kr.com/project/1713120883714568",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2210721336242569",
@@ -3810,7 +3823,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "泰中合投资、多家机构、老股东",
    "url": "https://pitchhub.36kr.com/project/2210721336242569",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3903992114955398",
@@ -3824,7 +3837,7 @@ window.__FINANCING_DATA__ = {
    "amount": "千万人民币",
    "investors": "原子创投",
    "url": "https://pitchhub.36kr.com/project/3903992114955398",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2051133861129352",
@@ -3838,7 +3851,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "盈远投资",
    "url": "https://pitchhub.36kr.com/project/2051133861129352",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2371293407038342",
@@ -3852,7 +3865,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数百万人民币",
    "investors": "朗禾投资",
    "url": "https://pitchhub.36kr.com/project/2371293407038342",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678345898865666",
@@ -3866,7 +3879,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "杭州朴盛安兴企业管理合伙企业（有限合伙）、CORVUS PHARMACEUTICALS、TG Sino-Dragon Fund",
    "url": "https://pitchhub.36kr.com/project/1678345898865666",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1958593072305155",
@@ -3880,7 +3893,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "长江产业集团、武创投、原妙基金",
    "url": "https://pitchhub.36kr.com/project/1958593072305155",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "2019969349130753",
@@ -3895,7 +3908,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "元航资本",
    "url": "https://pitchhub.36kr.com/project/2019969349130753",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678550404330498",
@@ -3909,7 +3922,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近2亿人民币",
    "investors": "龙磐投资、中关村资本、北京市医药健康产业投资基金、飞图创投、深创投",
    "url": "https://pitchhub.36kr.com/project/1678550404330498",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "3397329168348419",
@@ -3923,7 +3936,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万美元",
    "investors": "蚂蚁集团、Lollapalooza Capital",
    "url": "https://pitchhub.36kr.com/project/3397329168348419",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "3371467418503043",
@@ -3938,7 +3951,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中盈股权投资",
    "url": "https://pitchhub.36kr.com/project/3371467418503043",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2132554905770633",
@@ -3953,7 +3966,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "翌昕投资、金春股份",
    "url": "https://pitchhub.36kr.com/project/2132554905770633",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "3076759206768262",
@@ -3967,7 +3980,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "新龙脉资本",
    "url": "https://pitchhub.36kr.com/project/3076759206768262",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3847487007521029",
@@ -3981,7 +3994,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.15亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/3847487007521029",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1918913104902404",
@@ -3996,7 +4009,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "上海生物医药基金、国科投资、达晨财智、星连资本、高榕创投、指数资本",
    "url": "https://pitchhub.36kr.com/project/1918913104902404",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2066637813678080",
@@ -4010,7 +4023,7 @@ window.__FINANCING_DATA__ = {
    "amount": "8.5亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2066637813678080",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1974474677217027",
@@ -4025,7 +4038,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "敦鸿资产、财通资本、头头是道、源铄基金",
    "url": "https://pitchhub.36kr.com/project/1974474677217027",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2002422732513414",
@@ -4039,7 +4052,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "元航资本、明桂资本、多家知名机构",
    "url": "https://pitchhub.36kr.com/project/2002422732513414",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2051879757573249",
@@ -4053,7 +4066,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10亿人民币",
    "investors": "歌尔股份、舜宇光学",
    "url": "https://pitchhub.36kr.com/project/2051879757573249",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "3844008764716802",
@@ -4067,7 +4080,7 @@ window.__FINANCING_DATA__ = {
    "amount": "500人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3844008764716802",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1958581297222662",
@@ -4081,7 +4094,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "建投投资、中信建投投资、中车资本、百度风投、北京信息产业发展基金、君联资本、飞图创投、至辉投资、上海科创基金、启迪裕麟、长石资本、三七互娱创投基金",
    "url": "https://pitchhub.36kr.com/project/1958581297222662",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678361451017216",
@@ -4095,7 +4108,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "招商致远资本、赣投投资、投控东海",
    "url": "https://pitchhub.36kr.com/project/1678361451017216",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2144826054051077",
@@ -4109,7 +4122,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中邮金融资产投资有限公司",
    "url": "https://pitchhub.36kr.com/project/2144826054051077",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1958592353817605",
@@ -4123,7 +4136,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "昆石资本、致道资本",
    "url": "https://pitchhub.36kr.com/project/1958592353817605",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2842330567185928",
@@ -4138,7 +4151,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5000万人民币",
    "investors": "景嘉微",
    "url": "https://pitchhub.36kr.com/project/2842330567185928",
-   "province": "中国"
+   "province": "湖南省"
   },
   {
    "id": "1727565414824966",
@@ -4152,7 +4165,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "天图投资",
    "url": "https://pitchhub.36kr.com/project/1727565414824966",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2066613528805376",
@@ -4166,7 +4179,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.41亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2066613528805376",
-   "province": "中国"
+   "province": "河北省"
   },
   {
    "id": "3842985245996038",
@@ -4180,7 +4193,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1000万人民币",
    "investors": "暂未知",
    "url": "https://pitchhub.36kr.com/project/3842985245996038",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1679750368334592",
@@ -4195,7 +4208,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "深圳新产投",
    "url": "https://pitchhub.36kr.com/project/1679750368334592",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "3851734447798537",
@@ -4209,7 +4222,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "洪泰基金",
    "url": "https://pitchhub.36kr.com/project/3851734447798537",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "2371185753066376",
@@ -4223,7 +4236,7 @@ window.__FINANCING_DATA__ = {
    "amount": "13.6亿人民币",
    "investors": "宝钢八钢",
    "url": "https://pitchhub.36kr.com/project/2371185753066376",
-   "province": "中国"
+   "province": "新疆维吾尔自治区"
   },
   {
    "id": "2066614414147585",
@@ -4237,7 +4250,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "云泽资本、财通资本",
    "url": "https://pitchhub.36kr.com/project/2066614414147585",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1818792076431494",
@@ -4251,7 +4264,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "基石资本、派诺资本、华业天成资本",
    "url": "https://pitchhub.36kr.com/project/1818792076431494",
-   "province": "中国"
+   "province": "安徽省"
   },
   {
    "id": "2441386756775301",
@@ -4266,7 +4279,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "航空产业投资",
    "url": "https://pitchhub.36kr.com/project/2441386756775301",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678456024151041",
@@ -4280,7 +4293,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "汉商集团",
    "url": "https://pitchhub.36kr.com/project/1678456024151041",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2281190564522627",
@@ -4295,7 +4308,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "中国信科",
    "url": "https://pitchhub.36kr.com/project/2281190564522627",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678371116872710",
@@ -4309,7 +4322,7 @@ window.__FINANCING_DATA__ = {
    "amount": "66.41亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1678371116872710",
-   "province": "中国"
+   "province": "辽宁省"
   },
   {
    "id": "2129930414905987",
@@ -4324,7 +4337,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "三博脑科、德联资本、上海未来产业基金、闵行金投、共青城宏英、雄安天使基金、个人投资者",
    "url": "https://pitchhub.36kr.com/project/2129930414905987",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1818823335317636",
@@ -4338,7 +4351,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "中金资本、元齐资本",
    "url": "https://pitchhub.36kr.com/project/1818823335317636",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3533230315910274",
@@ -4352,7 +4365,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "博源资本",
    "url": "https://pitchhub.36kr.com/project/3533230315910274",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3665578858250754",
@@ -4367,7 +4380,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3665578858250754",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2180615147277441",
@@ -4381,7 +4394,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "华泰紫金投资、金融街资本、富士康科技集团、天奇股份、中金资本、中信金石",
    "url": "https://pitchhub.36kr.com/project/2180615147277441",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2429767275683463",
@@ -4396,7 +4409,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "汇川产投、中国电信投资",
    "url": "https://pitchhub.36kr.com/project/2429767275683463",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1958408034372866",
@@ -4410,7 +4423,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "联合光电",
    "url": "https://pitchhub.36kr.com/project/1958408034372866",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2011459314124038",
@@ -4424,7 +4437,7 @@ window.__FINANCING_DATA__ = {
    "amount": "7000万人民币",
    "investors": "海尔资本、创景资本",
    "url": "https://pitchhub.36kr.com/project/2011459314124038",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "2011620717938177",
@@ -4438,7 +4451,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "前海金控、金桥私募基金",
    "url": "https://pitchhub.36kr.com/project/2011620717938177",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3160862007254529",
@@ -4452,7 +4465,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "变量资本、云启资本",
    "url": "https://pitchhub.36kr.com/project/3160862007254529",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2012740470113797",
@@ -4466,7 +4479,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "广药资本",
    "url": "https://pitchhub.36kr.com/project/2012740470113797",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678366342247425",
@@ -4480,7 +4493,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "深圳资本、稻兴实业、临港前沿投资、知卓资本",
    "url": "https://pitchhub.36kr.com/project/1678366342247425",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1678502938981384",
@@ -4494,7 +4507,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "北京市量子基金、北京市医药健康产业投资基金、北京国管、北工投资、基石创投、中科创星",
    "url": "https://pitchhub.36kr.com/project/1678502938981384",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2011582904141576",
@@ -4508,7 +4521,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "华睿投资",
    "url": "https://pitchhub.36kr.com/project/2011582904141576",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1958599293064192",
@@ -4522,7 +4535,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "嘉御紫牛医疗基金",
    "url": "https://pitchhub.36kr.com/project/1958599293064192",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3837045219178247",
@@ -4537,7 +4550,7 @@ window.__FINANCING_DATA__ = {
    "amount": "500人民币",
    "investors": "个人投资者、教育行业资深投资人、知名人力资源集团",
    "url": "https://pitchhub.36kr.com/project/3837045219178247",
-   "province": "中国"
+   "province": "河北省"
   },
   {
    "id": "3244445718718208",
@@ -4551,7 +4564,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超10亿人民币",
    "investors": "博华资本、龙投资本、中博聚力、中科创达、科德教育、猎聘网战投、国科投资",
    "url": "https://pitchhub.36kr.com/project/3244445718718208",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2011446522758408",
@@ -4566,7 +4579,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "龙鼎投资",
    "url": "https://pitchhub.36kr.com/project/2011446522758408",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1958597364208644",
@@ -4580,7 +4593,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "康君资本、元生创投、清松资本、建发新兴投资、礼来亚洲基金",
    "url": "https://pitchhub.36kr.com/project/1958597364208644",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "3837577936484609",
@@ -4595,7 +4608,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万元人民币",
    "investors": "龙芯创投、藕舫天使、君联资本",
    "url": "https://pitchhub.36kr.com/project/3837577936484609",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1679671253668612",
@@ -4609,7 +4622,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超3亿人民币",
    "investors": "长江资本",
    "url": "https://pitchhub.36kr.com/project/1679671253668612",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "2012741091558913",
@@ -4623,7 +4636,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1.568亿人民币",
    "investors": "兆新股份",
    "url": "https://pitchhub.36kr.com/project/2012741091558913",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1958567097783298",
@@ -4637,7 +4650,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超3亿人民币",
    "investors": "海望资本、深创投、中网投、同创伟业、福建电子信息产业基金、全国社保基金、福建创新投、创维资本",
    "url": "https://pitchhub.36kr.com/project/1958567097783298",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1818825338572931",
@@ -4651,7 +4664,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "深业资本、泰格医药、深创投",
    "url": "https://pitchhub.36kr.com/project/1818825338572931",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2209279265090947",
@@ -4666,7 +4679,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2010万人民币",
    "investors": "创维集团",
    "url": "https://pitchhub.36kr.com/project/2209279265090947",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1817514653108097",
@@ -4680,7 +4693,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3.05亿人民币",
    "investors": "知识城集团、广州开发区产业基金、达泰资本、龙鼎投资、无锡元亨、深圳市永诚资本、新尚投资、方广资本、华山资本Westsummit Capital、奥瑞德投资",
    "url": "https://pitchhub.36kr.com/project/1817514653108097",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1984173619886854",
@@ -4695,7 +4708,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5.84亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1984173619886854",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1679743176397575",
@@ -4709,7 +4722,7 @@ window.__FINANCING_DATA__ = {
    "amount": "过亿人民币",
    "investors": "深创投、河北沿海产业投资基金、鼎晖投资、苇渡资本",
    "url": "https://pitchhub.36kr.com/project/1679743176397575",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2122559161821825",
@@ -4723,7 +4736,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "三美投资",
    "url": "https://pitchhub.36kr.com/project/2122559161821825",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3838992988109057",
@@ -4737,7 +4750,7 @@ window.__FINANCING_DATA__ = {
    "amount": "6.72亿人民币",
    "investors": "友发集团",
    "url": "https://pitchhub.36kr.com/project/3838992988109057",
-   "province": "中国"
+   "province": "河北省"
   },
   {
    "id": "1818825405075590",
@@ -4751,7 +4764,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "深创投",
    "url": "https://pitchhub.36kr.com/project/1818825405075590",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2012743065273861",
@@ -4765,7 +4778,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "比邻星投资",
    "url": "https://pitchhub.36kr.com/project/2012743065273861",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "1889186281165060",
@@ -4780,7 +4793,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超千万人民币",
    "investors": "银创资本、东科创资本",
    "url": "https://pitchhub.36kr.com/project/1889186281165060",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678464274707464",
@@ -4794,7 +4807,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "嘉必优、中信建投资本、临港数科基金、闵行金投、康容药业、大零号湾投资",
    "url": "https://pitchhub.36kr.com/project/1678464274707464",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1678396931879945",
@@ -4808,7 +4821,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "深润国创、南山战新投、舜柏基金、深高新投、深圳小禾投资",
    "url": "https://pitchhub.36kr.com/project/1678396931879945",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1818777024958592",
@@ -4822,7 +4835,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "尚颀资本、金浦投资、汇石资本、熙诚金睿、前海母基金、元禾控股、华安嘉业、深高新投、恒坤股份、盛盎投资",
    "url": "https://pitchhub.36kr.com/project/1818777024958592",
-   "province": "中国"
+   "province": "湖南省"
   },
   {
    "id": "2182883582171017",
@@ -4836,7 +4849,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "道禾长期投资、云沐资本、长鑫芯聚、亚米新融、深圳资本",
    "url": "https://pitchhub.36kr.com/project/2182883582171017",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1948487351065728",
@@ -4851,7 +4864,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "鼎晖百孚、清新资本、鲁信创投、深圳新产投",
    "url": "https://pitchhub.36kr.com/project/1948487351065728",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2142674682097540",
@@ -4865,7 +4878,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "古道资产",
    "url": "https://pitchhub.36kr.com/project/2142674682097540",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2066643556515842",
@@ -4879,7 +4892,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.51亿人民币",
    "investors": "声迅电子",
    "url": "https://pitchhub.36kr.com/project/2066643556515842",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "2179856456879236",
@@ -4893,7 +4906,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "财通资本",
    "url": "https://pitchhub.36kr.com/project/2179856456879236",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1679635343774469",
@@ -4907,7 +4920,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "万联广生",
    "url": "https://pitchhub.36kr.com/project/1679635343774469",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678523834971143",
@@ -4921,7 +4934,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "蓝湾科创集团",
    "url": "https://pitchhub.36kr.com/project/1678523834971143",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3834747218260869",
@@ -4935,7 +4948,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "善达投资、吴中金控、吴中融玥",
    "url": "https://pitchhub.36kr.com/project/3834747218260869",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3428504689790857",
@@ -4949,7 +4962,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "智源资本",
    "url": "https://pitchhub.36kr.com/project/3428504689790857",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "3594098566247296",
@@ -4963,7 +4976,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "方广资本",
    "url": "https://pitchhub.36kr.com/project/3594098566247296",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1958314550725888",
@@ -4977,7 +4990,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "HongShan红杉中国、源码资本",
    "url": "https://pitchhub.36kr.com/project/1958314550725888",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1735563319382148",
@@ -4991,7 +5004,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "中美绿色基金、倚锋资本、中银资产、香港汇智集团",
    "url": "https://pitchhub.36kr.com/project/1735563319382148",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "3833013621236736",
@@ -5006,7 +5019,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3833013621236736",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678430173230083",
@@ -5020,7 +5033,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超10亿人民币",
    "investors": "中国移动、超越摩尔投资、江城基金、佰维存储、九坤创投、知名大模型公司、深创投、中网投、中芯聚源、毅达资本、蓝驰创投、东方嘉富、立讯精密、小米集团、联想创投、锦秋基金、兆易创新",
    "url": "https://pitchhub.36kr.com/project/1678430173230083",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "3831235449037828",
@@ -5035,7 +5048,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "曾祥满",
    "url": "https://pitchhub.36kr.com/project/3831235449037828",
-   "province": "中国"
+   "province": "湖南省"
   },
   {
    "id": "2476451829112196",
@@ -5049,7 +5062,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "瑞丞基金、滨湖金投集团、国耀资本、创东方投资、啟赋资本",
    "url": "https://pitchhub.36kr.com/project/2476451829112196",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678326010033159",
@@ -5063,7 +5076,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "清石资产管理集团、中山创投、第一创业创新资本",
    "url": "https://pitchhub.36kr.com/project/1678326010033159",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2293835616961796",
@@ -5078,7 +5091,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中晟汇银、深创投",
    "url": "https://pitchhub.36kr.com/project/2293835616961796",
-   "province": "中国"
+   "province": "江西省"
   },
   {
    "id": "2011622802408969",
@@ -5092,7 +5105,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "四川兴川、善达投资、四川产业基金",
    "url": "https://pitchhub.36kr.com/project/2011622802408969",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2133882014884998",
@@ -5106,7 +5119,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "两山国控集团、国瑞源基金",
    "url": "https://pitchhub.36kr.com/project/2133882014884998",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1679829186827012",
@@ -5120,7 +5133,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "普罗资本、清源投资、长江产业集团、山东发展投资集团",
    "url": "https://pitchhub.36kr.com/project/1679829186827012",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2080235782903552",
@@ -5134,7 +5147,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "国能金汇、东方晨星、东莞能源、乐融资本、思华致远",
    "url": "https://pitchhub.36kr.com/project/2080235782903552",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2073743012561156",
@@ -5148,7 +5161,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.74亿人民币",
    "investors": "诺德基金、财通基金、泰康资产、华弘国泰、华安资管、蓝海国投、泽源基金、个人投资者",
    "url": "https://pitchhub.36kr.com/project/2073743012561156",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2066607140552704",
@@ -5162,7 +5175,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.85亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2066607140552704",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1678361566376967",
@@ -5176,7 +5189,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "亦庄国投、中小担创投、合肥高投、华沃斯基金",
    "url": "https://pitchhub.36kr.com/project/1678361566376967",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678387782104067",
@@ -5190,7 +5203,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "博儒资本、中鑫睿达、中山创投",
    "url": "https://pitchhub.36kr.com/project/1678387782104067",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678536664200198",
@@ -5204,7 +5217,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "稼沃资本、复星创富",
    "url": "https://pitchhub.36kr.com/project/1678536664200198",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678362663793670",
@@ -5219,7 +5232,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "诺辉投资、华民投、亚商资本、深圳特区建发",
    "url": "https://pitchhub.36kr.com/project/1678362663793670",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3828603285545733",
@@ -5233,7 +5246,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1000人民币",
    "investors": "多个知名投资机构",
    "url": "https://pitchhub.36kr.com/project/3828603285545733",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2079378701735938",
@@ -5248,7 +5261,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "凯亚基金、珂玺资本",
    "url": "https://pitchhub.36kr.com/project/2079378701735938",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2352323400483200",
@@ -5262,7 +5275,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "谢诺投资",
    "url": "https://pitchhub.36kr.com/project/2352323400483200",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2299847063849473",
@@ -5276,7 +5289,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "菡源资产、大零号湾投资",
    "url": "https://pitchhub.36kr.com/project/2299847063849473",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2185255683938950",
@@ -5290,7 +5303,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1865.6万人民币",
    "investors": "乐歌股份",
    "url": "https://pitchhub.36kr.com/project/2185255683938950",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1713081001961732",
@@ -5304,7 +5317,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "绿水资产",
    "url": "https://pitchhub.36kr.com/project/1713081001961732",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1817518442563465",
@@ -5318,7 +5331,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近10亿人民币",
    "investors": "深创投、大湾区共同家园发展基金、力鼎资本、蕴盛资本、凯旋创投、盛景嘉成、岩山科技",
    "url": "https://pitchhub.36kr.com/project/1817518442563465",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1806866207945730",
@@ -5333,7 +5346,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近10亿人民币",
    "investors": "国寿投资、闵行金投、蔚来资本、基石资本、中网投",
    "url": "https://pitchhub.36kr.com/project/1806866207945730",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1818804758171780",
@@ -5347,7 +5360,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3.13亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1818804758171780",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "1805943614320647",
@@ -5361,7 +5374,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "金阖资本",
    "url": "https://pitchhub.36kr.com/project/1805943614320647",
-   "province": "中国"
+   "province": "江西省"
   },
   {
    "id": "2316521257142531",
@@ -5375,7 +5388,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "富润投资、元禾控股",
    "url": "https://pitchhub.36kr.com/project/2316521257142531",
-   "province": "中国"
+   "province": "四川省"
   },
   {
    "id": "2012750028047877",
@@ -5389,7 +5402,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "嘉道私人资本",
    "url": "https://pitchhub.36kr.com/project/2012750028047877",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2066624699105281",
@@ -5403,7 +5416,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "鼎兴量子、海松资本",
    "url": "https://pitchhub.36kr.com/project/2066624699105281",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2072078950940676",
@@ -5417,7 +5430,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1.89亿人民币",
    "investors": "富创精密",
    "url": "https://pitchhub.36kr.com/project/2072078950940676",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1678504500786184",
@@ -5431,7 +5444,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "福田资本、达晨财智",
    "url": "https://pitchhub.36kr.com/project/1678504500786184",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3727798829122305",
@@ -5446,7 +5459,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "上海科创集团、复旦科创、策源基金",
    "url": "https://pitchhub.36kr.com/project/3727798829122305",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2081566823835145",
@@ -5460,7 +5473,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5000万人民币",
    "investors": "上海戈壁创投（Gobi China）",
    "url": "https://pitchhub.36kr.com/project/2081566823835145",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "1713103212325384",
@@ -5475,7 +5488,7 @@ window.__FINANCING_DATA__ = {
    "amount": "6.30亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1713103212325384",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1998361522053255",
@@ -5489,7 +5502,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5.03亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1998361522053255",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2596982356800263",
@@ -5504,7 +5517,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "武岳峰科创、衢州金融控股、华胥资本、圣泉新能源、万向一二三、中宁硅业、鼎峰科创、信安资本、三一集团",
    "url": "https://pitchhub.36kr.com/project/2596982356800263",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2144581472863495",
@@ -5518,7 +5531,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "汇金科技",
    "url": "https://pitchhub.36kr.com/project/2144581472863495",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1678260467840003",
@@ -5532,7 +5545,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "星航资本",
    "url": "https://pitchhub.36kr.com/project/1678260467840003",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3825357870113536",
@@ -5547,7 +5560,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3825357870113536",
-   "province": "中国"
+   "province": "陕西省"
   },
   {
    "id": "2316584347355395",
@@ -5562,7 +5575,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "星润资产管理",
    "url": "https://pitchhub.36kr.com/project/2316584347355395",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2248465267897602",
@@ -5576,7 +5589,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "舟山财金",
    "url": "https://pitchhub.36kr.com/project/2248465267897602",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2283051103415937",
@@ -5591,7 +5604,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "西湖创新投资",
    "url": "https://pitchhub.36kr.com/project/2283051103415937",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2077537261017092",
@@ -5605,7 +5618,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "福多基金",
    "url": "https://pitchhub.36kr.com/project/2077537261017092",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2281131618052489",
@@ -5619,7 +5632,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3100万人民币",
    "investors": "内蒙古国资运营",
    "url": "https://pitchhub.36kr.com/project/2281131618052489",
-   "province": "中国"
+   "province": "内蒙古自治区"
   },
   {
    "id": "2011448617567496",
@@ -5634,7 +5647,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "福田引导基金",
    "url": "https://pitchhub.36kr.com/project/2011448617567496",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1678455597675525",
@@ -5648,7 +5661,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "宇信科技",
    "url": "https://pitchhub.36kr.com/project/1678455597675525",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1957101188990984",
@@ -5663,7 +5676,7 @@ window.__FINANCING_DATA__ = {
    "amount": "16.798亿人民币",
    "investors": "深高新投、四川兴川、德阳产业投资、工银资本、深圳储能基金、联赢激光、颐歌资产、农银投资、赢合科技",
    "url": "https://pitchhub.36kr.com/project/1957101188990984",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2312200571832841",
@@ -5678,7 +5691,7 @@ window.__FINANCING_DATA__ = {
    "amount": "16.798亿人民币",
    "investors": "深高新投、四川兴川、德阳产业投资、工银资本、深圳储能基金、联赢激光、颐歌资产、农银投资、赢合科技",
    "url": "https://pitchhub.36kr.com/project/2312200571832841",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1679790656901895",
@@ -5692,7 +5705,7 @@ window.__FINANCING_DATA__ = {
    "amount": "7.2亿人民币",
    "investors": "衢州金融控股、中信证券资管、财通基金、鹏华基金、申万宏源证券、诺德基金、汇添富资本、国泰海通、前海中船智慧海洋基金、华安资管",
    "url": "https://pitchhub.36kr.com/project/1679790656901895",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2317945762974212",
@@ -5706,7 +5719,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "长安汽车、江铃集团",
    "url": "https://pitchhub.36kr.com/project/2317945762974212",
-   "province": "中国"
+   "province": "江西省"
   },
   {
    "id": "2012740579034889",
@@ -5720,7 +5733,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "元禾控股",
    "url": "https://pitchhub.36kr.com/project/2012740579034889",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1679800144728837",
@@ -5734,7 +5747,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "橡栎投资、济南经发、鹏辉能源",
    "url": "https://pitchhub.36kr.com/project/1679800144728837",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3824838094353287",
@@ -5749,7 +5762,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "啟赋资本、首都科技发展集团、允泰资本、恒顺投资",
    "url": "https://pitchhub.36kr.com/project/3824838094353287",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "3824424908235522",
@@ -5763,7 +5776,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4000万人民币",
    "investors": "郑州市磴槽集团有限公司",
    "url": "https://pitchhub.36kr.com/project/3824424908235522",
-   "province": "中国"
+   "province": "河南省"
   },
   {
    "id": "2318508679171846",
@@ -5778,7 +5791,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "上汽集团、尚颀资本、中芯聚源、正大集团、厚为资本、高瓴资本",
    "url": "https://pitchhub.36kr.com/project/2318508679171846",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678541644395529",
@@ -5792,7 +5805,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "建发新兴投资、耀途资本 Glory Ventures、辰峰资本",
    "url": "https://pitchhub.36kr.com/project/1678541644395529",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2181085903277444",
@@ -5806,7 +5819,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "水木创投、博悦天诚",
    "url": "https://pitchhub.36kr.com/project/2181085903277444",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1818784826380416",
@@ -5820,7 +5833,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10亿人民币",
    "investors": "高瓴创投、美团战略投资部、腾讯投资、高榕创投、光合创投、纪源资本",
    "url": "https://pitchhub.36kr.com/project/1818784826380416",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1679676358087424",
@@ -5834,7 +5847,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "盛世资本、泰晟资本",
    "url": "https://pitchhub.36kr.com/project/1679676358087424",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1679834106598149",
@@ -5848,7 +5861,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3亿人民币",
    "investors": "君联资本、达晨创投、歌斐资产、国科投资",
    "url": "https://pitchhub.36kr.com/project/1679834106598149",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3822032564216579",
@@ -5863,7 +5876,7 @@ window.__FINANCING_DATA__ = {
    "amount": "300000000人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3822032564216579",
-   "province": "中国"
+   "province": "海南省"
   },
   {
    "id": "2051880777329800",
@@ -5877,7 +5890,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近2亿人民币",
    "investors": "财信产业基金、啟赋资本、沣源资本",
    "url": "https://pitchhub.36kr.com/project/2051880777329800",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2179874314734726",
@@ -5891,7 +5904,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "大一资本、德弘联信",
    "url": "https://pitchhub.36kr.com/project/2179874314734726",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "2350697683861891",
@@ -5906,7 +5919,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.35亿人民币",
    "investors": "杰美特",
    "url": "https://pitchhub.36kr.com/project/2350697683861891",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2074511936864512",
@@ -5920,7 +5933,7 @@ window.__FINANCING_DATA__ = {
    "amount": "18.7亿人民币",
    "investors": "先健科技",
    "url": "https://pitchhub.36kr.com/project/2074511936864512",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1818756223291520",
@@ -5934,7 +5947,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "创东方投资",
    "url": "https://pitchhub.36kr.com/project/1818756223291520",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2615458574733186",
@@ -5948,7 +5961,7 @@ window.__FINANCING_DATA__ = {
    "amount": "19.75亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2615458574733186",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1998358911852680",
@@ -5962,7 +5975,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "图灵资管",
    "url": "https://pitchhub.36kr.com/project/1998358911852680",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1817528074045319",
@@ -5976,7 +5989,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3000万美元",
    "investors": "Big Pi Ventures、Blackbird、Skip Capital、Tanarra Capital、Future Family Office、GS Futures",
    "url": "https://pitchhub.36kr.com/project/1817528074045319",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2080326172120835",
@@ -5990,7 +6003,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "亚商资本",
    "url": "https://pitchhub.36kr.com/project/2080326172120835",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1817533251192713",
@@ -6004,7 +6017,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "金长川资本",
    "url": "https://pitchhub.36kr.com/project/1817533251192713",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2080242391930626",
@@ -6018,7 +6031,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "深圳合盛高科科技有限公司",
    "url": "https://pitchhub.36kr.com/project/2080242391930626",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2180606695394688",
@@ -6032,7 +6045,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "启康投资",
    "url": "https://pitchhub.36kr.com/project/2180606695394688",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2180909489654912",
@@ -6046,7 +6059,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "泓嘉基金",
    "url": "https://pitchhub.36kr.com/project/2180909489654912",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1958608904705029",
@@ -6060,7 +6073,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "庐阳投资",
    "url": "https://pitchhub.36kr.com/project/1958608904705029",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1818784304353417",
@@ -6074,7 +6087,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "洹水资产",
    "url": "https://pitchhub.36kr.com/project/1818784304353417",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2174114563358208",
@@ -6088,7 +6101,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2174114563358208",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1817514715662209",
@@ -6102,7 +6115,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1817514715662209",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1713090322065671",
@@ -6117,7 +6130,7 @@ window.__FINANCING_DATA__ = {
    "amount": "17.24亿港元",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1713090322065671",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1679712979931907",
@@ -6131,7 +6144,7 @@ window.__FINANCING_DATA__ = {
    "amount": "750万美元",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1679712979931907",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2261387221584518",
@@ -6145,7 +6158,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2261387221584518",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1678455028265984",
@@ -6159,7 +6172,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678455028265984",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1818742107312264",
@@ -6173,7 +6186,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5000万美元",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818742107312264",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1998363855134854",
@@ -6187,7 +6200,7 @@ window.__FINANCING_DATA__ = {
    "amount": "8400万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1998363855134854",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2066642781454345",
@@ -6201,7 +6214,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4.25亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2066642781454345",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "1678296019858436",
@@ -6215,7 +6228,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678296019858436",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2316515812461058",
@@ -6229,7 +6242,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2316515812461058",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1678391234196481",
@@ -6244,7 +6257,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678391234196481",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1679773041414918",
@@ -6259,7 +6272,7 @@ window.__FINANCING_DATA__ = {
    "amount": "7.5亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1679773041414918",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "3876770571040518",
@@ -6274,7 +6287,7 @@ window.__FINANCING_DATA__ = {
    "amount": "3000000人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3876770571040518",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1678351965074432",
@@ -6288,7 +6301,7 @@ window.__FINANCING_DATA__ = {
    "amount": "约205亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678351965074432",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1818745988665479",
@@ -6302,7 +6315,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4700万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818745988665479",
-   "province": "中国"
+   "province": "安徽省"
   },
   {
    "id": "2033664377181056",
@@ -6316,7 +6329,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2033664377181056",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3194905007125765",
@@ -6330,7 +6343,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3194905007125765",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2263082975153026",
@@ -6344,7 +6357,7 @@ window.__FINANCING_DATA__ = {
    "amount": "10亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2263082975153026",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3817760670545027",
@@ -6358,7 +6371,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3817760670545027",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1818804530417792",
@@ -6372,7 +6385,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1600万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818804530417792",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2917403531585796",
@@ -6387,7 +6400,7 @@ window.__FINANCING_DATA__ = {
    "amount": "千万级人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2917403531585796",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2179870483811456",
@@ -6401,7 +6414,7 @@ window.__FINANCING_DATA__ = {
    "amount": "21.48亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2179870483811456",
-   "province": "中国"
+   "province": "河南省"
   },
   {
    "id": "2066617963970561",
@@ -6415,7 +6428,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2066617963970561",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2200709073251465",
@@ -6429,7 +6442,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2200709073251465",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1713083774888454",
@@ -6443,7 +6456,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1713083774888454",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1998362750394503",
@@ -6457,7 +6470,7 @@ window.__FINANCING_DATA__ = {
    "amount": "6818.21万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1998362750394503",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2367644742128261",
@@ -6472,7 +6485,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2367644742128261",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "2075963737936898",
@@ -6486,7 +6499,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2075963737936898",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3894846327964803",
@@ -6500,7 +6513,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数百万元人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3894846327964803",
-   "province": "中国"
+   "province": "安徽省"
   },
   {
    "id": "3869510018577410",
@@ -6515,7 +6528,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3869510018577410",
-   "province": "中国"
+   "province": "贵州省"
   },
   {
    "id": "1958575296893960",
@@ -6529,7 +6542,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1958575296893960",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2019638519013120",
@@ -6543,7 +6556,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2019638519013120",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1818824364822657",
@@ -6557,7 +6570,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4000万美元",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818824364822657",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "3044388848163456",
@@ -6572,7 +6585,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3044388848163456",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1752147076989190",
@@ -6587,7 +6600,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1752147076989190",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2011597543409153",
@@ -6601,7 +6614,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2011597543409153",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1679751092720391",
@@ -6615,7 +6628,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1679751092720391",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1818790812405894",
@@ -6629,7 +6642,7 @@ window.__FINANCING_DATA__ = {
    "amount": "4.41亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818790812405894",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2317906969020681",
@@ -6643,7 +6656,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2317906969020681",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2011610301072901",
@@ -6657,7 +6670,7 @@ window.__FINANCING_DATA__ = {
    "amount": "亿级人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2011610301072901",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1678239164478470",
@@ -6671,7 +6684,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678239164478470",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1958565061661698",
@@ -6685,7 +6698,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1958565061661698",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1818802008084617",
@@ -6699,7 +6712,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1.92亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818802008084617",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2015035319063040",
@@ -6714,7 +6727,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2015035319063040",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "2298090099246593",
@@ -6728,7 +6741,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2298090099246593",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "2231851778606852",
@@ -6742,7 +6755,7 @@ window.__FINANCING_DATA__ = {
    "amount": "9750万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2231851778606852",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1817519591556993",
@@ -6756,7 +6769,7 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1817519591556993",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2079288649127687",
@@ -6771,7 +6784,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2079288649127687",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3809266926760832",
@@ -6785,7 +6798,7 @@ window.__FINANCING_DATA__ = {
    "amount": "5.72亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3809266926760832",
-   "province": "中国"
+   "province": "山东省"
   },
   {
    "id": "1679703425880838",
@@ -6799,7 +6812,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1679703425880838",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "2182784262232451",
@@ -6813,7 +6826,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2182784262232451",
-   "province": "中国"
+   "province": "湖北省"
   },
   {
    "id": "2316592099510790",
@@ -6827,7 +6840,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2316592099510790",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1678278795260934",
@@ -6841,7 +6854,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.5亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678278795260934",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "1818824050626692",
@@ -6855,7 +6868,7 @@ window.__FINANCING_DATA__ = {
    "amount": "15亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818824050626692",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1818824437420165",
@@ -6869,7 +6882,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1818824437420165",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "3817760901215364",
@@ -6883,7 +6896,7 @@ window.__FINANCING_DATA__ = {
    "amount": "2.06亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3817760901215364",
-   "province": "中国"
+   "province": "内蒙古自治区"
   },
   {
    "id": "3780020537172997",
@@ -6898,7 +6911,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1600万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3780020537172997",
-   "province": "中国"
+   "province": "江西省"
   },
   {
    "id": "2077573521643265",
@@ -6912,7 +6925,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2077573521643265",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2144572255290624",
@@ -6926,7 +6939,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2144572255290624",
-   "province": "中国"
+   "province": "北京市"
   },
   {
    "id": "1678299422733312",
@@ -6940,7 +6953,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678299422733312",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "1958530411220232",
@@ -6954,7 +6967,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1958530411220232",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "3312398298248708",
@@ -6969,7 +6982,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3312398298248708",
-   "province": "中国"
+   "province": "广东省"
   },
   {
    "id": "3265682874430216",
@@ -6983,7 +6996,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3265682874430216",
-   "province": "中国"
+   "province": "陕西省"
   },
   {
    "id": "2011458933097732",
@@ -6997,7 +7010,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2011458933097732",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "3173327576230918",
@@ -7011,7 +7024,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3173327576230918",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "1678311740224518",
@@ -7025,7 +7038,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678311740224518",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2144901485987079",
@@ -7039,7 +7052,7 @@ window.__FINANCING_DATA__ = {
    "amount": "1亿人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2144901485987079",
-   "province": "中国"
+   "province": "天津市"
   },
   {
    "id": "2192531800760709",
@@ -7053,7 +7066,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2192531800760709",
-   "province": "中国"
+   "province": "浙江省"
   },
   {
    "id": "3807850965644424",
@@ -7067,7 +7080,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3807850965644424",
-   "province": "中国"
+   "province": "上海市"
   },
   {
    "id": "2073717538947336",
@@ -7081,7 +7094,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2073717538947336",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "2205282582491780",
@@ -7095,7 +7108,7 @@ window.__FINANCING_DATA__ = {
    "amount": "数千万人民币",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/2205282582491780",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "1678486602806279",
@@ -7109,7 +7122,7 @@ window.__FINANCING_DATA__ = {
    "amount": "近4000万美元",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/1678486602806279",
-   "province": "中国"
+   "province": "江苏省"
   },
   {
    "id": "3825898113197064",
@@ -7123,7 +7136,7 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "",
    "url": "https://pitchhub.36kr.com/project/3825898113197064",
-   "province": "中国"
+   "province": "广东省"
   }
  ]
 };
