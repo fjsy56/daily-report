@@ -135,6 +135,117 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 .ni{animation:fiu var(--ds) var(--ee) both}
 .ni:nth-child(1){animation-delay:0ms}.ni:nth-child(2){animation-delay:50ms}.ni:nth-child(3){animation-delay:100ms}.ni:nth-child(4){animation-delay:150ms}.ni:nth-child(5){animation-delay:200ms}.ni:nth-child(6){animation-delay:250ms}.ni:nth-child(7){animation-delay:300ms}.ni:nth-child(8){animation-delay:350ms}
 @media print{.sb,.stg,.sp,.so{display:none!important}.pw{grid-template-columns:1fr}}
+/* ===== 第四部分：融资事件检索 ===== */
+.fin{max-width:calc(var(--mw) + var(--sw) + var(--x2) + var(--xl)*2);margin:0 auto;padding:0 var(--xl) var(--lg);display:flex;flex-direction:column;gap:var(--md)}
+.fin-hd{display:flex;align-items:baseline;gap:var(--md);padding:var(--lg) 0 var(--sm);border-bottom:2px solid var(--ink)}
+.fin-hd h2{font-family:"Noto Serif SC",serif;font-size:var(--tx2);font-weight:900;letter-spacing:.06em;color:var(--ink)}
+.fin-hd h2 em{font-style:normal;background:linear-gradient(90deg,var(--at),var(--ae));-webkit-background-clip:text;background-clip:text;color:transparent}
+.fin-hd .fsu{font-size:var(--ts);color:var(--ink3)}
+.fbar{display:flex;flex-wrap:wrap;align-items:center;gap:var(--sm);padding:var(--md) 0}
+.fi{position:relative}
+.fbtn{display:flex;align-items:center;gap:6px;background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:7px 12px;font-size:var(--ts);color:var(--ink);cursor:pointer;min-width:118px;justify-content:space-between;font-family:inherit;transition:border-color var(--df) var(--ee)}
+.fbtn:hover,.fi.open .fbtn{border-color:var(--ac);box-shadow:0 0 0 2px color-mix(in oklab,var(--ac) 15%,transparent)}
+.fbtn .lbl{color:var(--ink3)}.fbtn .val{color:var(--ink);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fbtn .arr{font-size:9px;color:var(--ink3);transition:transform .2s}.fi.open .arr{transform:rotate(180deg)}
+.dd{position:absolute;top:calc(100% + 6px);left:0;z-index:80;background:var(--sf);border:1px solid var(--bd);border-radius:var(--md);box-shadow:var(--shl);min-width:230px;max-height:340px;overflow:auto;padding:6px}
+.dd label{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:6px;cursor:pointer;font-size:var(--ts);color:var(--ink)}
+.dd label:hover{background:color-mix(in oklab,var(--ac) 8%,transparent)}
+.dd label input{accent-color:var(--ac)}
+.dd .dd-hd{display:flex;justify-content:space-between;align-items:center;padding:6px 10px;font-size:var(--tx);color:var(--ink3);border-bottom:1px solid var(--bdl);margin-bottom:4px}
+.fclear{background:none;border:none;color:var(--ac);cursor:pointer;font-size:var(--tx);font-family:inherit}
+/* Calendar */
+.cal{width:300px;padding:10px}
+.cal-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+.cal-nav button{background:none;border:1px solid var(--bd);border-radius:6px;width:28px;height:28px;cursor:pointer;color:var(--ink);font-size:14px}
+.cal-nav button:hover{border-color:var(--ac);color:var(--ac)}
+.cal-title{font-weight:700;font-size:14px;display:flex;gap:8px;align-items:center;color:var(--ink)}
+.cal-title .cy{cursor:pointer;color:var(--ink)}.cal-title .cm{cursor:pointer}
+.cal-title .cy:hover,.cal-title .cm:hover{color:var(--ac)}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center}
+.cal-grid .cw2{font-size:11px;color:var(--ink3);padding:4px 0}
+.cal-grid button{background:none;border:none;border-radius:6px;height:30px;cursor:pointer;font-size:12px;color:var(--ink);font-family:inherit}
+.cal-grid button:hover{background:color-mix(in oklab,var(--ac) 12%,transparent)}
+.cal-grid button.sel{background:var(--ac);color:var(--sf);font-weight:700}
+.cal-grid button.in{background:color-mix(in oklab,var(--ac) 16%,transparent)}
+.cal-grid button.dim{color:var(--ink3)}
+.cal-ym{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.cal-ym button{background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:8px 0;cursor:pointer;font-size:13px;color:var(--ink);font-family:inherit}
+.cal-ym button:hover{border-color:var(--ac);color:var(--ac)}
+.cal-yr{display:flex;align-items:center;justify-content:space-between;padding:10px 4px}
+.cal-yr button{background:none;border:1px solid var(--bd);border-radius:6px;width:30px;height:30px;cursor:pointer;color:var(--ink);font-size:14px}
+.cal-yr button:hover{border-color:var(--ac);color:var(--ac)}
+.cal-yr .yr{font-size:18px;font-weight:700;cursor:pointer;color:var(--ink);padding:0 8px}
+.cal-yr .yr:hover{color:var(--ac)}
+.cal-foot{display:flex;justify-content:space-between;align-items:center;margin-top:8px;padding-top:8px;border-top:1px solid var(--bdl)}
+.range-tip{font-size:var(--tx);color:var(--ink2)}.range-tip b{color:var(--ac)}
+/* Result & list */
+.rmeta{display:flex;align-items:center;gap:var(--sm);padding:4px 0 10px;font-size:var(--ts);color:var(--ink3);border-bottom:1px solid var(--bdl)}
+.rmeta b{color:var(--ac);font-size:15px}
+.elist{display:flex;flex-direction:column;gap:var(--sm)}
+.ev{display:flex;gap:var(--md);background:var(--sf);border:1px solid var(--bd);border-radius:var(--md);padding:var(--md) var(--lg);box-shadow:var(--shs);transition:transform var(--df) var(--ee),box-shadow var(--df) var(--ee)}
+.ev:hover{transform:translateY(-2px);box-shadow:var(--shm)}
+.ev .ebody{flex:1;min-width:0}
+.ev .etop{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.ev .ename{font-size:var(--tm);font-weight:700;color:var(--ink)}
+.ev .edate{font-size:var(--tx);color:var(--ink3);background:var(--pp);border:1px solid var(--bdl);padding:1px 8px;border-radius:20px}
+.ev .eround{font-size:var(--tx);padding:1px 8px;border-radius:20px;font-weight:600}
+.ev .edesc{font-size:var(--ts);color:var(--ink2);margin:4px 0 8px}
+.ev .etags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.ev .etag{font-size:var(--tx);padding:1px 8px;border-radius:4px}
+.ev .eamount{font-size:var(--ts);font-weight:700;color:var(--ac)}
+.ev .einvest{font-size:var(--ts);color:var(--ink3);margin-top:4px}
+.ev .einvest b{color:var(--ink);font-weight:700}
+.ev .eprov{font-size:var(--tx);color:var(--at);margin-left:auto}
+/* 地区单选（自定义 div 选项） */
+.prov-item{padding:7px 10px;border-radius:6px;cursor:pointer;font-size:var(--ts);color:var(--ink);display:flex;align-items:center;gap:8px}
+.prov-item:hover{background:color-mix(in oklab,var(--ac) 8%,transparent)}
+.prov-item.sel{background:color-mix(in oklab,var(--ac) 14%,transparent);color:var(--ac);font-weight:600}
+.prov-item .dot{width:10px;height:10px;border-radius:50%;border:1.5px solid var(--ink3);flex:0 0 10px}
+.prov-item.sel .dot{border-color:var(--ac);background:var(--ac)}
+/* 跳页输入 */
+.fjump{display:flex;align-items:center;gap:4px}
+.fjump input{width:42px;height:30px;border:1px solid var(--bd);border-radius:6px;background:var(--sf);color:var(--ink);text-align:center;font-size:var(--ts);font-family:inherit}
+.fjump input:focus{outline:2px solid var(--ac);outline-offset:1px;border-color:var(--ac)}
+.fjump button{min-width:30px;padding:0 6px}
+/* 设置面板：页面导航 */
+.nav-sec{display:flex;flex-direction:column;gap:var(--sm)}
+.nav-btn{display:flex;align-items:center;justify-content:space-between;width:100%;padding:10px 14px;border:1px solid var(--bd);border-radius:8px;background:var(--sf);color:var(--ink);font-size:var(--ts);cursor:pointer;font-family:inherit;transition:all var(--df) var(--ee)}
+.nav-btn:hover{background:var(--sh);border-color:var(--ac);color:var(--ac);transform:translateX(3px)}
+.nav-btn .nar{font-size:12px;color:var(--ink3)}
+.fempty{padding:50px 0;text-align:center;color:var(--ink3);font-size:var(--ts)}
+.fempty .big{font-size:34px;margin-bottom:8px}
+/* Pagination */
+.fpage{display:flex;align-items:center;justify-content:center;gap:6px;padding:var(--lg) 0 var(--sm)}
+.fpage button{background:var(--sf);border:1px solid var(--bd);border-radius:6px;min-width:32px;height:32px;padding:0 8px;cursor:pointer;color:var(--ink);font-size:var(--ts);font-family:inherit;transition:all var(--df) var(--ee)}
+.fpage button:hover:not(:disabled){border-color:var(--ac);color:var(--ac)}
+.fpage button.cur{background:var(--ac);border-color:var(--ac);color:var(--sf);font-weight:700}
+.fpage button:disabled{opacity:.35;cursor:default}
+.fpage .finfo{font-size:var(--tx);color:var(--ink3);margin:0 6px}
+@media(max-width:1000px){.dd{min-width:200px}}
+/* 融资部分移动端适配 */
+@media(max-width:640px){
+  .fin{padding:0 var(--sm) var(--md)}
+  .fin-hd{padding:var(--md) 0 var(--sm);gap:var(--sm)}
+  .fin-hd h2{font-size:var(--tx1)}
+  .fin-hd .fsu{font-size:var(--tx)}
+  .fbar{gap:8px;padding:var(--sm) 0}
+  .fbtn{flex:1 1 calc(50% - 4px);min-width:0;padding:8px 10px}
+  .fclear{flex:1 1 100%;text-align:left;padding:4px 2px}
+  /* 下拉面板：底部抽屉式，避免溢出屏幕 */
+  .fi .dd{position:fixed;left:8px;right:8px;top:auto;bottom:8px;max-height:64dvh;min-width:0;width:auto;border-radius:16px;box-shadow:var(--shl)}
+  .cal{width:100%}
+  .cal-grid button{height:34px}
+  .ev{padding:var(--sm) var(--md);gap:var(--sm)}
+  .ev .ename{font-size:var(--tb)}
+  .ev .edate,.ev .eround{font-size:var(--tx)}
+  .fpage{flex-wrap:wrap}
+  .fjump{width:100%;justify-content:center;margin-top:2px}
+  .nav-btn{padding:9px 12px}
+}
+@media(max-width:400px){
+  .fbtn .lbl{font-size:var(--tx)}
+  .cal-grid button{height:32px;font-size:11px}
+}
 </style>
 </head>
 <body>
@@ -155,6 +266,14 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 <h3>偏好设置</h3>
 <div class="sg"><label for="fontSizeSlider">字号调节</label><input type="range" id="fontSizeSlider" min="80" max="150" value="100" step="5"><span class="fsv" id="fontSizeValue">100%</span></div>
 <div class="sg"><label>显示模式</label><button class="ttb" id="themeToggleBtn"><span class="tci" id="themeIcon">🌙</span><span id="themeLabel">切换至暗夜模式</span></button></div>
+<h3 style="margin-top:var(--md)">页面导航</h3>
+<div class="nav-sec">
+<button class="nav-btn" onclick="goSection('.ov')"><span>今日速览</span><span class="nar">›</span></button>
+<button class="nav-btn" onclick="goSection('.ns')"><span>科技新闻</span><span class="nar">›</span></button>
+<button class="nav-btn" onclick="goSection('.wfb')"><span>热词统计</span><span class="nar">›</span></button>
+<button class="nav-btn" onclick="goSection('.sep')"><span>A股板块行情</span><span class="nar">›</span></button>
+<button class="nav-btn" onclick="goSection('#financing')"><span>融资事件</span><span class="nar">›</span></button>
+</div>
 </aside>
 
 <div class="pw">
@@ -185,9 +304,35 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 </aside>
 </div>
 
+<section class="fin" id="financing">
+<div class="fin-hd"><h2><em>融资事件</em></h2><span class="fsu">36氪 PitchHub · 融资数据检索</span></div>
+<div class="fbar">
+  <div class="fi" id="fiTime">
+    <button class="fbtn" onclick="fin.toggle('fiTime')"><span class="lbl" id="finTimeLbl">融资时间</span><span class="arr">▼</span></button>
+    <div class="dd" id="finCalPanel" style="display:none"></div>
+  </div>
+  <div class="fi" id="fiInd">
+    <button class="fbtn" onclick="fin.toggle('fiInd')"><span class="lbl" id="finIndLbl">行业</span><span class="arr">▼</span></button>
+    <div class="dd" id="finIndPanel" style="display:none"></div>
+  </div>
+  <div class="fi" id="fiRound">
+    <button class="fbtn" onclick="fin.toggle('fiRound')"><span class="lbl" id="finRoundLbl">轮次</span><span class="arr">▼</span></button>
+    <div class="dd" id="finRoundPanel" style="display:none"></div>
+  </div>
+  <div class="fi" id="fiProv">
+    <button class="fbtn" onclick="fin.toggle('fiProv')"><span class="lbl" id="finProvLbl">所在地区</span><span class="arr">▼</span></button>
+    <div class="dd" id="finProvPanel" style="display:none"></div>
+  </div>
+  <button class="fclear" onclick="fin.reset()">✕ 清空筛选</button>
+</div>
+<div class="rmeta">共 <b id="finCnt">0</b> 条融资事件</div>
+<div class="elist" id="finList"></div>
+</section>
+
 <footer class="sf"><p>每日一报 · 科技速览 &copy; <span id="footerYear"></span> — 数据来源：虎嗅 · 36氪 · 机器之心 · 极客公园 · 量子位 · 新智元 · IT之家 | A股数据：东方财富</p></footer>
 
 <script src="news-data.js"></script>
+<script src="financing-data.js"></script>
 <script>
 (function(){
 var $=function(s,c){return(c||document).querySelector(s);};
@@ -420,6 +565,299 @@ function scheduleNoonRefresh() {
 scheduleNoonRefresh();
 
 })();
+</script>
+<script>
+/* ===== 第四部分：融资事件检索 ===== */
+var fin = (function(){
+  var FD = window.__FINANCING_DATA__ || {list:[],industries:[],rounds:[],provinces:[]};
+  var FILTER = {dateRange:null, industries:{}, rounds:{}, province:''};
+  var dateSel = [null,null];
+  var calView = {y:2026, m:6, mode:'day'};
+  var MONTHS = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+  var PAGE_SIZE = 10;
+  var page = 1, totalPages = 1;
+
+  var el = {};
+  function E(id){ return document.getElementById(id); }
+
+  function fmt(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+  function pad(n){return String(n).padStart(2,'0');}
+
+  function toggle(id){
+    var f = E(id);
+    var open = f.classList.toggle('open');
+    var fis = document.querySelectorAll('#financing .fi');
+    for(var i=0;i<fis.length;i++){ if(fis[i].id!==id) fis[i].classList.remove('open'); }
+    var dds = document.querySelectorAll('#financing .dd');
+    for(var i=0;i<dds.length;i++){ dds[i].style.display='none'; }
+    if(open){
+      var panel = id==='fiTime'?el.calPanel:id==='fiInd'?el.indPanel:id==='fiRound'?el.roundPanel:el.provPanel;
+      if(id==='fiTime') renderCal();
+      panel.style.display='block';
+    }
+  }
+  document.addEventListener('click', function(e){
+    if(!e.target.closest('#financing .fi')){
+      var fis = document.querySelectorAll('#financing .fi');
+      for(var i=0;i<fis.length;i++) fis[i].classList.remove('open');
+    }
+  });
+
+  /* ---- 行业/轮次多选面板 ---- */
+  function buildMulti(panelId, items, selObj){
+    var html = '<div class="dd-hd"><span>可多选</span><button class="fclear" onclick="fin.clearSel(\''+panelId+'\')">清空</button></div>';
+    html += items.map(function(it){
+      var checked = selObj[it] ? 'checked' : '';
+      return '<label><input type="checkbox" '+checked+' onchange="fin.togSel(\''+panelId+'\',this,\''+it.replace(/'/g,"\\'")+'\')">'+it+'</label>';
+    }).join('');
+    E(panelId).innerHTML = html;
+  }
+  function togSel(panelId, chk, val){
+    var s = panelId==='finIndPanel'?FILTER.industries:FILTER.rounds;
+    if(chk.checked) s[val]=1; else delete s[val];
+    page = 1;
+    apply();
+  }
+  function clearSel(panelId){
+    if(panelId==='finIndPanel') FILTER.industries={}; else FILTER.rounds={};
+    buildMulti(panelId, panelId==='finIndPanel'?FD.industries:FD.rounds, panelId==='finIndPanel'?FILTER.industries:FILTER.rounds);
+    page = 1;
+    apply();
+  }
+
+  /* ---- 日历：年（左右切+点数字确认）/月（12格）/日 ---- */
+  function renderCal(){
+    var y = calView.y, m = calView.m;
+    var html = '<div class="cal">';
+    if(calView.mode==='day'){
+      html += '<div class="cal-nav">'+
+        '<button onclick="fin.calNav(-1)">‹</button>'+
+        '<div class="cal-title"><span class="cy" onclick="fin.calMode(\'year\')">'+y+'年</span><span class="cm" onclick="fin.calMode(\'month\')">'+MONTHS[m]+'</span></div>'+
+        '<button onclick="fin.calNav(1)">›</button></div>';
+      var first = new Date(y,m,1), sd = first.getDay(), days = new Date(y,m+1,0).getDate();
+      html += '<div class="cal-grid">'+['日','一','二','三','四','五','六'].map(function(w){return '<span class="cw2">'+w+'</span>';}).join('');
+      for(var i=0;i<sd;i++) html += '<span></span>';
+      for(var d=1; d<=days; d++){
+        var ds = y+'-'+pad(m+1)+'-'+pad(d);
+        var cls = '';
+        if(dateSel[0] && ds===dateSel[0]) cls+=' sel';
+        else if(dateSel[1] && ds===dateSel[1]) cls+=' sel';
+        else if(dateSel[0] && dateSel[1] && ds>dateSel[0] && ds<dateSel[1]) cls+=' in';
+        html += '<button class="'+cls.trim()+'" onclick="fin.pickDate(\''+ds+'\')">'+d+'</button>';
+      }
+      html += '</div>';
+      var tip = dateSel[0] ? (dateSel[0]+' ~ '+(dateSel[1]||'选择结束')) : '点击两次选择起止范围';
+      html += '<div class="cal-foot"><span class="range-tip">'+tip+'</span><button class="fclear" onclick="fin.clearDate()">清空</button></div>';
+    } else if(calView.mode==='year'){
+      html += '<div class="cal-yr"><button onclick="fin.calY(-1)">‹</button><span class="yr" onclick="fin.calMode(\'day\')">'+y+'</span><button onclick="fin.calY(1)">›</button></div>';
+    } else {
+      html += '<div class="cal-nav"><div class="cal-title">'+y+'年</div></div><div class="cal-ym">';
+      MONTHS.forEach(function(mn,i){ html += '<button onclick="fin.calMode(\'day\','+y+','+i+')">'+mn+'</button>'; });
+      html += '</div>';
+    }
+    html += '</div>';
+    el.calPanel.innerHTML = html;
+  }
+  function calNav(d){
+    if(calView.mode!=='day') return;
+    var nm = calView.m + d;
+    if(nm<0){nm=11;calView.y--;} else if(nm>11){nm=0;calView.y++;}
+    calView.m = nm; renderCal();
+  }
+  function calY(d){ calView.y += d; renderCal(); }
+  function calMode(mode, y, m){
+    calView.mode = mode;
+    if(y) calView.y = y;
+    if(m!==undefined) calView.m = m;
+    renderCal();
+  }
+  function pickDate(ds){
+    var a = dateSel[0], b = dateSel[1];
+    if(!a || (a&&b)) dateSel = [ds,null];
+    else {
+      if(ds < a) dateSel = [ds,a]; else dateSel[1] = ds;
+    }
+    if(dateSel[0] && dateSel[1]){
+      FILTER.dateRange = dateSel.slice();
+      el.timeLbl.textContent = dateSel[0]+' ~ '+dateSel[1];
+      el.timeLbl.classList.add('val');
+      page = 1;
+      apply();
+    }
+    renderCal();
+  }
+  function clearDate(){
+    dateSel=[null,null]; FILTER.dateRange=null;
+    el.timeLbl.textContent='融资时间';
+    el.timeLbl.classList.remove('val');
+    page = 1;
+    apply(); renderCal();
+  }
+
+  /* ---- 地区（div 单选项：手动互斥 + 点击已选中项可取消） ---- */
+  function buildProv(){
+    var items = ['中国'].concat(FD.provinces.filter(function(p){return p!=='中国';}));
+    E('finProvPanel').innerHTML = items.map(function(p){
+      var sel = FILTER.province===p ? ' sel' : '';
+      return '<div class="prov-item'+sel+'" onclick="fin.selProv(\''+p+'\')"><span class="dot"></span>'+p+'</div>';
+    }).join('');
+  }
+  function selProv(p){
+    if(FILTER.province===p){
+      FILTER.province = '';
+      el.provLbl.textContent='所在地区';
+      el.provLbl.classList.remove('val');
+    } else {
+      FILTER.province = p;
+      el.provLbl.textContent = p;
+      el.provLbl.classList.add('val');
+    }
+    page = 1;
+    apply();
+    buildProv();
+  }
+
+  /* ---- 筛选、分页与渲染 ---- */
+  function apply(){
+    var all = FD.list.filter(function(it){
+      if(FILTER.dateRange && (it.date < FILTER.dateRange[0] || it.date > FILTER.dateRange[1])) return false;
+      var ik = Object.keys(FILTER.industries);
+      if(ik.length && !it.industry.some(function(i){return FILTER.industries[i];})) return false;
+      var rk = Object.keys(FILTER.rounds);
+      if(rk.length && !rk.some(function(r){return r===it.round;})) return false;
+      if(FILTER.province && FILTER.province!=='中国' && it.province!==FILTER.province) return false;
+      return true;
+    });
+    totalPages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+    if(page > totalPages) page = totalPages;
+    el.cnt.textContent = all.length;
+    renderList(all.slice((page-1)*PAGE_SIZE, page*PAGE_SIZE));
+    renderPager();
+  }
+  function renderList(list){
+    var html = '';
+    list.forEach(function(it){
+      var indTags = it.industry.slice(0,3).map(function(i,idx){
+        var cols = [['rgba(192,57,43,.08)','#c0392b'],['rgba(24,95,165,.08)','#185fa5'],['rgba(59,109,17,.08)','#3b6d11']];
+        return '<span class="etag" style="background:'+cols[idx%3][0]+';color:'+cols[idx%3][1]+'">'+i+'</span>';
+      }).join('');
+      var rc = {'天使轮':'#c0392b','种子轮':'#b05b3c','A轮':'#185fa5','A+轮':'#185fa5','A++轮':'#185fa5','B轮':'#3b6d11','B+轮':'#3b6d11','C轮':'#1a6e58','F轮':'#50358f','Pre-A轮':'#a8601a','Pre-IPO':'#8f2f5e','IPO':'#2c2c2a','股权融资':'#7a3a22','战略融资':'#50358f','定向增发':'#2b6b2b','天使+':'#c0392b'}[it.round]||'#5f5e5a';
+      var dispProv = (FILTER.province==='中国') ? '中国' : it.province;
+      html += '<div class="ev" style="cursor:default">'+
+        '<div class="ebody"><div class="etop"><span class="ename">'+it.name+'</span><span class="edate">'+it.date+'</span><span class="eround" style="background:'+rc+'14;color:'+rc+'">'+it.round+'</span><span class="eprov">'+dispProv+'</span></div>'+
+        '<div class="edesc">'+it.desc+'</div><div class="etags">'+indTags+'</div>'+
+        '<div class="eamount">'+(it.amount!=='未透露'?it.amount:'金额未透露')+'</div>'+
+        '<div class="einvest"><b>投资方：</b>'+(it.investors!=='未透露'?it.investors:'未透露')+'</div></div></div>';
+    });
+    el.list.innerHTML = html || '<div class="fempty"><div class="big">🔍</div>没有符合条件的融资事件<br>试试调整筛选条件</div>';
+  }
+  function renderPager(){
+    var pager = el.list.parentNode.querySelector('.fpage');
+    if(totalPages<=1){ if(pager) pager.remove(); return; }
+    if(!pager){ pager = document.createElement('div'); pager.className='fpage'; el.list.parentNode.insertBefore(pager, el.list.nextSibling); }
+    var html = '<button '+(page<=1?'disabled':'')+' onclick="fin.goPage('+(page-1)+')">‹</button>';
+    var dots = false;
+    for(var i=1;i<=totalPages;i++){
+      if(totalPages>7 && i>2 && i<totalPages-1 && Math.abs(i-page)>1){ if(!dots){ html+='<span class="finfo">…</span>'; dots=true; } continue; }
+      html += '<button class="'+(i===page?'cur':'')+'" onclick="fin.goPage('+i+')">'+i+'</button>';
+    }
+    html += '<button '+(page>=totalPages?'disabled':'')+' onclick="fin.goPage('+(page+1)+')">›</button>';
+    html += '<span class="finfo">'+page+' / '+totalPages+'</span>';
+    html += '<span class="fjump"><input id="finJumpInput" type="number" min="1" max="'+totalPages+'" placeholder="页" aria-label="跳转到第几页"><button onclick="fin.jumpPage()">跳转</button></span>';
+    pager.innerHTML = html;
+    var ji = E('finJumpInput');
+    if(ji){ ji.addEventListener('keydown', function(e){ if(e.key==='Enter') fin.jumpPage(); }); }
+  }
+  function goPage(p){
+    if(p<1||p>totalPages) return;
+    page = p;
+    apply();
+    var sec = E('financing');
+    if(sec) sec.scrollIntoView({behavior:'smooth', block:'nearest'});
+  }
+  function jumpPage(){
+    var inp = E('finJumpInput');
+    if(!inp) return;
+    var p = parseInt(inp.value, 10);
+    if(isNaN(p)) return;
+    inp.value = '';
+    goPage(p);
+  }
+
+  function reset(){
+    FILTER = {dateRange:null, industries:{}, rounds:{}, province:''};
+    dateSel = [null,null]; page = 1;
+    el.timeLbl.textContent='融资时间';
+    el.indLbl.textContent='行业';
+    el.roundLbl.textContent='轮次';
+    el.provLbl.textContent='所在地区';
+    [el.timeLbl,el.indLbl,el.roundLbl,el.provLbl].forEach(function(x){x.classList.remove('val');});
+    buildMulti('finIndPanel', FD.industries, FILTER.industries);
+    buildMulti('finRoundPanel', FD.rounds, FILTER.rounds);
+    buildProv(); renderCal(); apply();
+  }
+
+  function init(){
+    el.timeLbl = E('finTimeLbl'); el.indLbl = E('finIndLbl'); el.roundLbl = E('finRoundLbl'); el.provLbl = E('finProvLbl');
+    el.cnt = E('finCnt'); el.list = E('finList');
+    el.calPanel = E('finCalPanel'); el.indPanel = E('finIndPanel'); el.roundPanel = E('finRoundPanel'); el.provPanel = E('finProvPanel');
+    var now = new Date();
+    var start = new Date(now); start.setDate(start.getDate()-120);
+    dateSel = [fmt(start), fmt(now)];
+    FILTER.dateRange = dateSel.slice();
+    el.timeLbl.textContent = dateSel[0]+' ~ '+dateSel[1];
+    el.timeLbl.classList.add('val');
+    buildMulti('finIndPanel', FD.industries, FILTER.industries);
+    buildMulti('finRoundPanel', FD.rounds, FILTER.rounds);
+    buildProv(); apply();
+  }
+  init();
+
+  /* ---- 每小时自动刷新融资数据（增量由 GitHub Actions 每小时抓取） ---- */
+  function scheduleDataRefresh(){
+    setInterval(function(){
+      fetch('financing-data.js?t=' + Date.now(), {cache:'no-store'})
+        .then(function(r){ return r.text(); })
+        .then(function(txt){
+          var ns = {};
+          try {
+            new Function('window', txt).call({}, { __D__: null }); // 占位不可用，直接用 eval 替代
+          } catch(e){}
+          // 用正则提取 JSON 部分解析
+          var m = txt.match(/window\.__FINANCING_DATA__ = ([\s\S]*);$/);
+          if(!m) return;
+          var nd = JSON.parse(m[1]);
+          if(nd && nd.list && nd.list.length){
+            FD = {list:nd.list, industries:nd.industries, rounds:nd.rounds, provinces:nd.provinces, updated:nd.updated};
+            // 重建筛选面板选项（保持原选项尽量保留）
+            var curInd = Object.keys(FILTER.industries), curRound = Object.keys(FILTER.rounds);
+            buildMulti('finIndPanel', FD.industries, FILTER.industries);
+            buildMulti('finRoundPanel', FD.rounds, FILTER.rounds);
+            buildProv();
+            apply();
+            var up = document.getElementById('finUpdated');
+            if(up) up.textContent = '更新于 ' + (nd.updated||'');
+          }
+        }).catch(function(){});
+    }, 3600000); // 每小时
+  }
+  scheduleDataRefresh();
+
+
+  return { toggle:toggle, togSel:togSel, clearSel:clearSel, calNav:calNav, calY:calY, calMode:calMode, pickDate:pickDate, clearDate:clearDate, selProv:selProv, goPage:goPage, jumpPage:jumpPage, reset:reset };
+})();
+</script>
+})();
+</script>
+<script>
+/* 设置面板页面导航 */
+function goSection(sel){
+  var sp = document.getElementById('settingsPanel'), so = document.getElementById('settingsOverlay');
+  if(sp) sp.classList.remove('is-open');
+  if(so) so.classList.remove('is-visible');
+  var el = document.querySelector(sel);
+  if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+}
 </script>
 </body>
 </html>
