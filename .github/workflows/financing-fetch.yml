@@ -1,0 +1,45 @@
+name: 融资事件每小时更新
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-financing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装 Playwright 与 Chromium
+        run: |
+          pip install playwright -q
+          python -m playwright install chromium --with-deps
+
+      - name: 抓取融资事件（首次全量 / 后续增量）
+        run: python fetch_financing.py
+
+      - name: 有变化则提交推送
+        run: |
+          if git status --porcelain | grep -q financing-data.js; then
+            git config user.name "Daily Bot"
+            git config user.email "bot@daily-news.local"
+            git add financing-data.js
+            git commit -m "💰 融资事件更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "融资数据无变化，跳过提交"
+          fi
+
+      - name: 部署到 Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          npm install -g netlify-cli --silent
+          npx netlify-cli deploy --prod --dir=. --site=meiriyibao.netlify.app
