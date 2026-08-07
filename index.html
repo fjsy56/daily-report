@@ -111,6 +111,7 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 .ni.has-img .ni-body{padding-left:var(--lg)}
 .ni-body h4{font-size:var(--tm);font-weight:700;color:var(--ink);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .ni-body p{font-size:var(--ts);color:var(--ink2);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ni-body p.ni-sum-fallback{font-size:var(--ts);color:var(--mut);font-style:italic}
 .ni-meta{display:flex;align-items:center;gap:var(--sm);flex-wrap:wrap}
 .ni-tag{display:inline-block;font-size:var(--tx);padding:1px 6px;border-radius:2px;font-weight:500}
 .ni-tag.tech{background:oklch(55% .15 240/.1);color:var(--at)}.ni-tag.app{background:oklch(52% .16 160/.1);color:var(--aa)}.ni-tag.ent{background:oklch(55% .15 40/.1);color:var(--ae)}
@@ -264,11 +265,13 @@ function rni(item,cat){
   var hasImg=!!item.img;
   var cls=hasImg?'has-img':'no-img';
   var imgHTML=hasImg?'<img class="ni-img" src="'+item.img+'" alt="'+item.title+'" width="200" height="130" loading="lazy">':'';
+  var excerpt=item.excerpt||'';
+  var sumHTML=excerpt?('<p>'+excerpt+'</p>'):('<p class="ni-sum-fallback">点击查看全文 →</p>');
   return '<a class="ni '+cls+'" href="'+item.url+'" target="_blank" rel="noopener">'+imgHTML+
     '<div class="ni-body"><div class="ni-meta">'+
     '<span class="ni-tag '+cat+'">'+item.tag+'</span>'+
     '<span class="ni-src">'+item.src+'</span></div>'+
-    '<h4>'+item.title+'</h4><p>'+item.excerpt+'</p></div></a>';
+    '<h4>'+item.title+'</h4>'+sumHTML+'</div></a>';
 }
 
 (function populateNews(){
