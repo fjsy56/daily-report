@@ -433,7 +433,10 @@ fun DailyReportApp(
                         }
 
                         // Enable full-document drawing for long screenshot capture
-                        enableSlowWholeDocumentDraw()
+                        // (hidden SystemApi, must use reflection; silent fallback if blocked)
+                        try {
+                            WebView::class.java.getMethod("enableSlowWholeDocumentDraw").invoke(this)
+                        } catch (_: Exception) { }
 
                         webViewClient = object : WebViewClient() {
                             override fun onPageFinished(view: WebView?, url: String?) {
