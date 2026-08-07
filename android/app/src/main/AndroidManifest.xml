@@ -9,6 +9,8 @@
     <!-- 定位权限：天气功能按地理位置显示温度 -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 自动升级：允许请求安装未知来源应用（系统会弹确认） -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <application
         android:allowBackup="true"
