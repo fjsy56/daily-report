@@ -18,6 +18,38 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "excerpt": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "src": "量子位",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "excerpt": "Chat优化版",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "excerpt": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "excerpt": "算力、网络、内存与存储开始围绕每个Token协同",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
       "title": "智元下架了首席科学家罗剑岚",
       "url": "https://www.qbitai.com/2026/08/467730.html",
       "excerpt": "智元机器人高管生变！",
@@ -30,38 +62,6 @@ window.__NEWS_DATA__ = {
       "url": "https://www.qbitai.com/2026/08/467663.html",
       "excerpt": "指环王成为大模型新基准",
       "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-      "url": "https://www.qbitai.com/2026/08/467486.html",
-      "excerpt": "采集、仿真、训练和评测，闭环了",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
-      "url": "https://www.qbitai.com/2026/08/467478.html",
-      "excerpt": "正式公开了安卓液态玻璃设计的完整技术底座",
-      "src": "量子位",
-      "tag": "操作系统",
-      "cat": "tech"
-    },
-    {
-      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-      "url": "https://www.qbitai.com/2026/08/467447.html",
-      "excerpt": "Jeff Dean用大脑挖比特币",
-      "src": "量子位",
-      "tag": "谷歌",
-      "cat": "tech"
-    },
-    {
-      "title": "蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题",
-      "url": "https://aiera.com.cn/2026/08/07/other/admin/108155/%e8%9a%82%e8%9a%81%e9%9b%86%e5%9b%a2%e5%bc%80%e6%ba%90avernet%ef%bc%9a%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93%e6%89%be%e4%b8%8d%e5%88%b0%e3%80%81%e5%af%b9%e4%b8%8d%e9%bd%90/",
-      "excerpt": "",
-      "src": "新智元",
       "tag": "大模型",
       "cat": "tech"
     }
@@ -92,18 +92,10 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-      "url": "https://www.qbitai.com/2026/08/467444.html",
+      "title": "黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设",
+      "url": "https://aiera.com.cn/2026/08/07/other/admin/108159/%e9%bb%8e%e6%9b%bc%e5%8a%a8%e5%8a%9b%e6%90%ba%e6%89%8b%e5%85%89%e8%bd%ae%e6%99%ba%e8%83%bd%e4%b8%8e%e8%af%ba%e4%ba%a6%e8%85%be%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%8c%e5%89%91%e6%8c%872026%e5%b9%b4/",
       "excerpt": "",
-      "src": "量子位",
-      "tag": "阿里",
-      "cat": "app"
-    },
-    {
-      "title": "皮克斯经典动画电影《机器人总动员》官宣 8 月 19 日内地首次公映",
-      "url": "https://www.ithome.com/0/986/859.htm",
-      "excerpt": "IT之家 8 月 7 日消息，迪士尼电影旗下皮克斯工作室今日宣布，皮克斯经典动画电影、第 81 届奥斯卡最佳动画长片《机器人总动员》将于 8 月 19 日在内地首次公映，8 月 15 日至 18 日 14:00-22:00 超前点映。该电影于 2008 年 6",
-      "src": "IT之家",
+      "src": "新智元",
       "tag": "具身智能",
       "cat": "app"
     }
@@ -126,21 +118,21 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "url": "https://www.qbitai.com/2026/08/467487.html",
-      "excerpt": "此后模型、算力、数据中心都在合作范围内",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "enterprise"
-    },
-    {
       "title": "谷歌巨震！诺奖得主卸任DeepMind CEO，首席科学家Jeff Dean离职创业",
       "url": "https://aiera.com.cn/2026/08/07/other/admin/108150/%e8%b0%b7%e6%ad%8c%e5%b7%a8%e9%9c%87%ef%bc%81%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bb%e5%8d%b8%e4%bb%bbdeepmind-ceo%ef%bc%8c%e9%a6%96%e5%b8%ad%e7%a7%91%e5%ad%a6%e5%ae%b6jeff-dean%e7%a6%bb%e8%81%8c/",
       "excerpt": "",
       "src": "新智元",
       "tag": "谷歌",
       "cat": "enterprise"
+    },
+    {
+      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "url": "https://www.qbitai.com/2026/08/467486.html",
+      "excerpt": "采集、仿真、训练和评测，闭环了",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
     }
   ],
-  "total": 17
+  "total": 16
 };
