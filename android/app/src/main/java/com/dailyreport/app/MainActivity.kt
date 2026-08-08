@@ -1,7 +1,10 @@
 package com.dailyreport.app
 
 import android.app.AlertDialog
+import android.app.Dialog
 import android.app.ProgressDialog
+import android.content.ClipData
+import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -15,6 +18,7 @@ import android.view.ViewGroup
 import android.webkit.GeolocationPermissions
 import android.webkit.JavascriptInterface
 import android.webkit.WebChromeClient
+import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
 import android.webkit.WebView
 import android.webkit.WebViewClient
@@ -119,7 +123,8 @@ class MainActivity : ComponentActivity() {
                         lastPageLoadedAt = System.currentTimeMillis()
                     },
                     onShareScreenshot = { shareScreenshot() },
-                    onExportWord = { exportToWord() }
+                    onExportWord = { exportToWord() },
+                    onCheckUpdate = { checkForUpdate(manual = true) }
                 )
             }
         }
@@ -141,36 +146,282 @@ class MainActivity : ComponentActivity() {
         super.onDestroy()
     }
 
-    /* ===== 自动升级：启动检查云端版本 → 下载 APK → 引导安装 ===== */
+    /* ===== 自动升级：蓝奏云为更新主通道（国内网络可达），WebView 内核过反爬 ===== */
+    // 蓝奏云公开分享链接（固定不变，文件名带版本号，更新文件后链接不变）
+    private val LANZOU_SHARE_URL = "https://wwbjt.lanzoum.com/iGee4418nf0h"
+    private var lanzouChecking = false
+    private var lanzouWv: WebView? = null
 
-    private fun checkForUpdate() {
-        kotlinx.coroutines.MainScope().launch {
-            try {
-                val verJson = withContext(Dispatchers.IO) {
-                    val conn = URL("https://fjsy56.github.io/daily-report/app-version.json").openConnection()
-                    conn.setRequestProperty("Cache-Control", "no-cache")
-                    conn.connectTimeout = 10000
-                    conn.readTimeout = 10000
-                    conn.getInputStream().bufferedReader().readText()
+    private fun checkForUpdate(manual: Boolean = false) {
+        if (manual) showLanZouUpdateDialog() else silentLanZouCheck()
+    }
+
+    /** 手动检查：弹出可见的蓝奏云分享页（可见状态下反爬挑战可通过），用户点下载按钮即自动安装 */
+    private fun showLanZouUpdateDialog() {
+        if (lanzouChecking) return
+        lanzouChecking = true
+        try {
+            val dialog = Dialog(this, android.R.style.Theme_DeviceDefault_Dialog_NoActionBar)
+            val wv = WebView(this)
+            lanzouWv = wv
+            wv.settings.javaScriptEnabled = true
+            wv.settings.domStorageEnabled = true
+            wv.setDownloadListener { url, _, _, _, _ ->
+                runOnUiThread {
+                    lanzouChecking = false
+                    dialog.dismiss()
+                    downloadAndInstall(url)
                 }
-                val obj = JSONObject(verJson)
-                val remoteCode = obj.getInt("versionCode")
-                val remoteVersion = obj.getString("version")
-                val apkUrl = obj.getString("apkUrl")
-                if (remoteCode > BuildConfig.VERSION_CODE) {
-                    runOnUiThread {
-                        AlertDialog.Builder(this@MainActivity)
-                            .setTitle("发现新版本 v$remoteVersion")
-                            .setMessage("云端有新版本可用，是否立即下载更新？\n（下载完成后按系统提示确认安装）")
-                            .setPositiveButton("立即更新") { _, _ -> downloadAndInstall(apkUrl) }
-                            .setNegativeButton("稍后再说", null)
-                            .show()
-                    }
+            }
+            wv.webViewClient = object : WebViewClient() {
+                override fun onPageFinished(view: WebView?, url: String?) {
+                    super.onPageFinished(view, url)
+                    // 可见状态下标题应很快变为 "v1.3.1.apk - 蓝奏云"
+                    view?.postDelayed({
+                        view.evaluateJavascript("document.title") { v ->
+                            val title = (v ?: "").trim('"')
+                            val ver = parseLanzouVersion(title)
+                            if (ver.isNotEmpty() && lanzouChecking) {
+                                lanzouChecking = false
+                                runOnUiThread {
+                                    if (versionNewer(ver, BuildConfig.VERSION_NAME)) {
+                                        Toast.makeText(this@MainActivity,
+                                            "发现新版本 v$ver，正在自动下载…", Toast.LENGTH_LONG).show()
+                                        triggerLanzouDownload(wv)
+                                    } else {
+                                        Toast.makeText(this@MainActivity,
+                                            "暂无可用更新（当前已是最新版本）", Toast.LENGTH_LONG).show()
+                                        dialog.dismiss()
+                                    }
+                                }
+                            }
+                        }
+                    }, 2500)
                 }
-            } catch (_: Exception) {
-                // 网络不可用等异常静默忽略，不影响正常使用
+            }
+            dialog.setContentView(wv,
+                ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT))
+            dialog.setOnDismissListener { lanzouChecking = false }
+            dialog.show()
+            wv.loadUrl(LANZOU_SHARE_URL)
+        } catch (_: Exception) {
+            lanzouChecking = false
+            Toast.makeText(this, "无法打开蓝奏云更新页", Toast.LENGTH_SHORT).show()
+        }
+    }
+
+    /** 启动自动检查：隐藏 WebView 尽力尝试（反爬可能拦截，失败静默不影响使用） */
+    private fun silentLanZouCheck() {
+        if (lanzouChecking) return
+        lanzouChecking = true
+        try {
+            val wv = WebView(this)
+            lanzouWv = wv
+            wv.settings.javaScriptEnabled = true
+            wv.settings.domStorageEnabled = true
+            // 不能用 GONE（不渲染会导致蓝奏云 JS 反爬挑战无法完成），用 1x1 透明可见
+            wv.visibility = android.view.View.VISIBLE
+            wv.alpha = 0.01f
+            wv.layoutParams = ViewGroup.LayoutParams(1, 1)
+            (window.decorView as ViewGroup).addView(wv)
+            // 捕获蓝奏云下载（挑战通过后触发）→ 保存并安装
+            wv.setDownloadListener { url, _, _, _, _ ->
+                runOnUiThread {
+                    lanzouWv?.let { (window.decorView as ViewGroup).removeView(it) }
+                    lanzouWv = null
+                    downloadAndInstall(url)
+                }
+            }
+            wv.webViewClient = object : WebViewClient() {
+                override fun onPageFinished(view: WebView?, url: String?) {
+                    super.onPageFinished(view, url)
+                    // 蓝奏云文件名标题由 JS 动态设置（反爬挑战通过后），轮询等待（失败静默）
+                    view?.let { pollLanzouReady(it, false, 8, false) }
+                }
+
+                override fun onReceivedError(
+                    view: WebView?, request: WebResourceRequest?, error: WebResourceError?
+                ) {
+                    super.onReceivedError(view, request, error)
+                    lanzouChecking = false
+                    cleanupLanzouWv()
+                }
+            }
+            wv.loadUrl(LANZOU_SHARE_URL)
+        } catch (_: Exception) {
+            lanzouChecking = false
+        }
+    }
+
+    private fun cleanupLanzouWv() {
+        lanzouWv?.let {
+            runOnUiThread {
+                try { (window.decorView as ViewGroup).removeView(it) } catch (_: Exception) {}
             }
         }
+        lanzouWv = null
+    }
+
+    /** 轮询蓝奏云页面：等待 iframe 下载按钮出现（挑战完成标志），随后读取文件名/版本 */
+    private fun pollLanzouReady(wv: WebView, manual: Boolean, attempts: Int, reloaded: Boolean) {
+        wv.postDelayed({
+            val js = """(function(){
+                try{
+                    var fs=document.querySelectorAll('iframe');
+                    for(var i=0;i<fs.length;i++){
+                        var d=fs[i].contentDocument;
+                        if(!d) continue;
+                        var a=d.querySelector('a[href*="dmpdmp"]');
+                        if(a) return a.href;
+                    }
+                }catch(e){}
+                return '';
+            })()"""
+            wv.evaluateJavascript(js) { href ->
+                val h = (href ?: "").trim('"')
+                if (h.isNotEmpty()) {
+                    // 挑战完成，下载按钮就绪 → 读标题拿文件名/版本
+                    wv.evaluateJavascript("document.title") { v ->
+                        val title = (v ?: "").trim('"')
+                        val ver = parseLanzouVersion(title)
+                        android.util.Log.d("LanZouCheck", "ready! title=$title ver=$ver")
+                        if (ver.isNotEmpty()) {
+                            lanzouChecking = false
+                            handleLanzouVersion(ver, manual, wv)
+                        } else {
+                            // 标题异常时从 iframe 按钮文本找文件名
+                            wv.evaluateJavascript("""(function(){
+                                var fs=document.querySelectorAll('iframe');
+                                for(var i=0;i<fs.length;i++){
+                                    var d=fs[i].contentDocument;
+                                    if(!d) continue;
+                                    var a=d.querySelector('a[href*="dmpdmp"]');
+                                    if(a){ var t=(a.innerText||a.title||'').trim(); if(t) return t; }
+                                }
+                                return '';
+                            })()""") { v2 ->
+                                val fn = (v2 ?: "").trim('"')
+                                val ver2 = parseLanzouVersion(fn)
+                                if (ver2.isNotEmpty()) {
+                                    lanzouChecking = false
+                                    handleLanzouVersion(ver2, manual, wv)
+                                } else {
+                                    lanzouChecking = false
+                                    if (manual) runOnUiThread { showNoUpdateDialog(LANZOU_SHARE_URL) }
+                                    cleanupLanzouWv()
+                                }
+                            }
+                        }
+                    }
+                } else if (attempts > 1) {
+                    if (attempts <= 5 && !reloaded) {
+                        // 挑战疑似需刷新完成：主动 reload 一次
+                        android.util.Log.d("LanZouCheck", "reload to finish challenge (attempts=$attempts)")
+                        wv.reload()
+                        pollLanzouReady(wv, manual, attempts - 1, true)
+                    } else {
+                        pollLanzouReady(wv, manual, attempts - 1, reloaded)
+                    }
+                } else {
+                    lanzouChecking = false
+                    if (manual) {
+                        runOnUiThread {
+                            AlertDialog.Builder(this@MainActivity)
+                                .setTitle("检查更新")
+                                .setMessage("网络异常，暂时无法检查更新，请稍后再试")
+                                .setPositiveButton("确定", null)
+                                .show()
+                        }
+                    }
+                    cleanupLanzouWv()
+                }
+            }
+        }, 1500)
+    }
+
+    /** 从蓝奏云标题解析版本号，如 "v1.3.1.apk - 蓝奏云" → "1.3.1" */
+    private fun parseLanzouVersion(title: String): String {
+        val m = Regex("v?(\\d+\\.\\d+(?:\\.\\d+)?)").find(title)
+        return m?.groupValues?.get(1) ?: ""
+    }
+
+    /** 版本号比较：remote > local 返回 true */
+    private fun versionNewer(remote: String, local: String): Boolean {
+        if (remote.isEmpty()) return false
+        val a = remote.split(".").map { it.toIntOrNull() ?: 0 }
+        val b = local.split(".").map { it.toIntOrNull() ?: 0 }
+        for (i in 0 until maxOf(a.size, b.size)) {
+            val x = a.getOrElse(i) { 0 }
+            val y = b.getOrElse(i) { 0 }
+            if (x != y) return x > y
+        }
+        return false
+    }
+
+    private fun handleLanzouVersion(remoteVer: String, manual: Boolean, wv: WebView) {
+        if (versionNewer(remoteVer, BuildConfig.VERSION_NAME)) {
+            runOnUiThread {
+                AlertDialog.Builder(this@MainActivity)
+                    .setTitle("发现新版本 v$remoteVer")
+                    .setMessage("蓝奏云有新版本可用，是否立即下载更新？\n（下载完成后按系统提示确认安装）")
+                    .setPositiveButton("立即更新") { _, _ -> triggerLanzouDownload(wv) }
+                    .setNegativeButton("稍后再说") { _, _ -> cleanupLanzouWv() }
+                    .show()
+            }
+        } else {
+            if (manual) {
+                runOnUiThread { showNoUpdateDialog(LANZOU_SHARE_URL) }
+            }
+            cleanupLanzouWv()
+        }
+    }
+
+    /** 在蓝奏云页面内自动点击下载按钮（iframe 中 dmpdmp 链接），触发 DownloadListener */
+    private fun triggerLanzouDownload(wv: WebView) {
+        wv.evaluateJavascript(
+            """(function(){
+                try{
+                    var fs=document.querySelectorAll('iframe');
+                    for(var i=0;i<fs.length;i++){
+                        var d=fs[i].contentDocument;
+                        if(!d) continue;
+                        var a=d.querySelector('a[href*="dmpdmp"]');
+                        if(a){ location.href=a.href; return 'ok'; }
+                    }
+                    return 'nobtn';
+                }catch(e){ return 'err'; }
+            })()"""
+        ) { result ->
+            if (result != "\"ok\"") {
+                // 自动下载受限时兜底：系统浏览器打开蓝奏云让用户手动下载
+                runOnUiThread {
+                    Toast.makeText(this, "自动下载受限，已打开蓝奏云页面，请手动下载", Toast.LENGTH_LONG).show()
+                    cleanupLanzouWv()
+                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(LANZOU_SHARE_URL))
+                    startActivity(intent)
+                }
+            }
+        }
+    }
+
+    private fun showNoUpdateDialog(downloadUrl: String) {
+        val msg = if (downloadUrl.isNotBlank()) {
+            "暂无可用更新，您已是最新版本。\n\n如需手动下载最新版，可访问蓝奏云更新链接：\n$downloadUrl"
+        } else {
+            "暂无可用更新，您已是最新版本。"
+        }
+        val dialog = AlertDialog.Builder(this@MainActivity)
+            .setTitle("检查更新")
+            .setMessage(msg)
+            .setNegativeButton("关闭", null)
+        if (downloadUrl.isNotBlank()) {
+            dialog.setPositiveButton("复制链接") { _, _ ->
+                val cm = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+                cm.setPrimaryClip(ClipData.newPlainText("蓝奏云更新链接", downloadUrl))
+                Toast.makeText(this, "更新链接已复制", Toast.LENGTH_SHORT).show()
+            }
+        }
+        dialog.show()
     }
 
     private fun downloadAndInstall(apkUrl: String) {
@@ -189,6 +440,11 @@ class MainActivity : ComponentActivity() {
                 try {
                     val conn = URL(apkUrl).openConnection() as HttpURLConnection
                     conn.setRequestProperty("Cache-Control", "no-cache")
+                    conn.setRequestProperty("User-Agent",
+                        "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36")
+                    // 蓝奏云下载需要携带会话 Cookie（否则 403）
+                    val cookie = android.webkit.CookieManager.getInstance().getCookie(apkUrl)
+                    if (!cookie.isNullOrEmpty()) conn.setRequestProperty("Cookie", cookie)
                     conn.connectTimeout = 15000
                     conn.readTimeout = 30000
                     conn.connect()
@@ -487,7 +743,8 @@ fun DailyReportApp(
     onWebViewReady: (WebView) -> Unit = {},
     onPageLoaded: () -> Unit = {},
     onShareScreenshot: () -> Unit = {},
-    onExportWord: () -> Unit = {}
+    onExportWord: () -> Unit = {},
+    onCheckUpdate: () -> Unit = {}
 ) {
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
@@ -578,6 +835,19 @@ fun DailyReportApp(
                         onClick = {
                             scope.launch { drawerState.close() }
                             showChangelog = true
+                        }
+                    )
+
+                    Spacer(modifier = Modifier.height(16.dp))
+
+                    // Check update button（手动检查更新，暂无更新时附蓝奏云链接+复制）
+                    SidebarButton(
+                        icon = Icons.Default.SystemUpdate,
+                        label = "检查更新",
+                        description = "手动检查是否有新版本",
+                        onClick = {
+                            scope.launch { drawerState.close() }
+                            onCheckUpdate()
                         }
                     )
 
@@ -744,6 +1014,27 @@ private data class ChangelogEntry(
 )
 
 private val CHANGELOG = listOf(
+    ChangelogEntry(
+        version = "1.3.1",
+        title = "蓝奏云更新通道",
+        notes = listOf(
+            "更新检查切换至蓝奏云为主通道（国内网络稳定可达）：每次打开应用自动检查蓝奏云最新版本，发现新版自动下载安装",
+            "侧边栏「检查更新」：手动检查蓝奏云，暂无更新时附蓝奏云链接与一键复制"
+        )
+    ),
+    ChangelogEntry(
+        version = "1.3",
+        title = "平台迁移与体验升级",
+        notes = listOf(
+            "网站与 App 迁移至 GitHub Pages 新地址（fjsy56.github.io/daily-report），部署免费稳定、更新不受限",
+            "自动升级与热更新已切换到新地址，更新通道全面恢复",
+            "修复网页「···」按钮旋转状态在关闭设置面板后不归位的问题",
+            "今日速览改为关键词总结，随每日新闻自动更新（不再照搬原文）",
+            "热词统计随每日新闻自动更新（词云与新闻数据同步变化）",
+            "侧边栏新增「检查更新」：一键检测最新版本，无更新时提示并附蓝奏云下载链接与一键复制",
+            "应用更新新增蓝奏云下载入口（适配国内网络，GitHub 访问不畅时也能稳定更新）"
+        )
+    ),
     ChangelogEntry(
         version = "1.2",
         title = "更新日志功能上线",
