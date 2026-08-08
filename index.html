@@ -51,8 +51,9 @@ body{font-family:"Noto Sans SC","DM Sans",-apple-system,BlinkMacSystemFont,"Sego
 .hr{display:flex;justify-content:flex-end}
 /* Settings */
 .stg{position:fixed;top:var(--md);right:var(--xl);z-index:200;width:40px;height:40px;border-radius:50%;border:1px solid var(--bd);background:var(--sf);color:var(--ink);font-size:var(--tl);font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all var(--df) var(--ee);box-shadow:var(--shs);letter-spacing:.1em}
-.stg:hover{background:var(--sh);transform:rotate(90deg);box-shadow:var(--shm)}
-.stg:active{transform:rotate(90deg) scale(.95)}
+.stg:hover{background:var(--sh);box-shadow:var(--shm)}
+.stg.rot{transform:rotate(90deg)}
+@media(hover:hover){.stg:hover{transform:rotate(90deg)}}
 .sp{position:fixed;top:0;right:-320px;width:300px;height:100dvh;z-index:190;background:var(--sf);border-left:1px solid var(--bd);padding:var(--x2) var(--lg);display:flex;flex-direction:column;gap:var(--xl);transition:right var(--ds) var(--ee);box-shadow:var(--shl)}
 .sp.is-open{right:0}
 .so{position:fixed;inset:0;z-index:185;background:oklch(0% 0 0/.3);opacity:0;pointer-events:none;transition:opacity var(--dn) var(--ee)}
@@ -352,8 +353,8 @@ iw();
 /* Settings */
 (function(){
 var st=$('#settingsToggle'),sp=$('#settingsPanel'),so=$('#settingsOverlay');
-function os(){sp.classList.add('is-open');so.classList.add('is-visible');}
-function cs(){sp.classList.remove('is-open');so.classList.remove('is-visible');}
+function os(){sp.classList.add('is-open');so.classList.add('is-visible');st.classList.add('rot');}
+function cs(){sp.classList.remove('is-open');so.classList.remove('is-visible');st.classList.remove('rot');}
 st.addEventListener('click',function(){sp.classList.contains('is-open')?cs():os();});
 so.addEventListener('click',cs);
 document.addEventListener('keydown',function(e){if(e.key==='Escape'&&sp.classList.contains('is-open'))cs();});
@@ -426,10 +427,28 @@ function rni(item,cat){
   });
 })();
 
-/* Overview */
-$('#overviewTech').textContent='DeepSeek豪掷1.4亿护航宇树IPO；阿里千问Agentic能力全球第一；Sand.ai千亿MoE视频模型开源；OpenAI最快下周推Astra模型；Nature AI基础模型跨越蛋白-细胞-肿瘤；AMD收购Taalas补强AI推理芯片。';
-$('#overviewApp').textContent='OpenAI发布Agent Plugins标准，亚马逊微软加入指导委员会；阿里云Wan3.0视频生成公测；美国AI安全新规出炉；荣耀MagicOS11液态玻璃设计亮相；SpaceX与中国上演太空AI竞赛；字节整合豆包飞书转向ToB。';
-$('#overviewEnterprise').textContent='张一鸣内部下令绝不依赖AI蒸馏；DeepSeek官宣涨价服务器挤爆；23岁OpenAI天才少女离职；Jeff Dean今天正式告别谷歌；英伟达考虑降配Rubin Ultra应对HBM短缺；谷歌AI换帅13年老将接棒不叫CEO；Meta被判罚5.67亿美元。';
+/* Overview — 今日速览：优先使用关键词总结（news-data.js 生成），fallback 标题主句 */
+function renderOverview(){
+  var OV = ND.overview;
+  function brief(arr){
+    var list=(arr||[]).slice(0,6).map(function(n){
+      var t=(n.title||'').split('｜')[0].split('|')[0].split('：')[0].split(':')[0];
+      return t;
+    }).filter(function(t){return t;});
+    return list.length?list.join('；'):'暂无数据';
+  }
+  if (OV && (OV.tech || OV.app || OV.enterprise)) {
+    // 关键词式总结（提取核心要点，非照搬原文）
+    $('#overviewTech').textContent=(OV.tech||[]).join('、')||'暂无数据';
+    $('#overviewApp').textContent=(OV.app||[]).join('、')||'暂无数据';
+    $('#overviewEnterprise').textContent=(OV.enterprise||[]).join('、')||'暂无数据';
+  } else {
+    $('#overviewTech').textContent=brief(ND.tech);
+    $('#overviewApp').textContent=brief(ND.app);
+    $('#overviewEnterprise').textContent=brief(ND.enterprise);
+  }
+}
+renderOverview();
 
 /* A-Share Sectors */
 (function(){
@@ -452,7 +471,9 @@ list.appendChild(li);
 
 /* Word Frequency */
 (function(){
-var freq=[{w:'AI',wt:.95},{w:'DeepSeek',wt:.90},{w:'大模型',wt:.87},{w:'谷歌',wt:.85},{w:'字节',wt:.82},{w:'OpenAI',wt:.80},{w:'Agent',wt:.77},{w:'AMD',wt:.72},{w:'英伟达',wt:.70},{w:'视频生成',wt:.68},{w:'机器人',wt:.65},{w:'芯片',wt:.62},{w:'千问',wt:.58},{w:'宇树',wt:.54},{w:'阿里云',wt:.50},{w:'太空AI',wt:.48},{w:'Astra',wt:.45},{w:'蒸馏',wt:.43},{w:'AI安全',wt:.40},{w:'具身智能',wt:.38}];
+// 热词统计：优先使用 news-data.js 生成的 hotwords（随新闻更新），fallback 静态兜底
+var freq = (ND.hotwords && ND.hotwords.length) ? ND.hotwords : [
+{w:'AI',wt:.95},{w:'DeepSeek',wt:.90},{w:'大模型',wt:.87},{w:'谷歌',wt:.85},{w:'字节',wt:.82},{w:'OpenAI',wt:.80},{w:'Agent',wt:.77},{w:'AMD',wt:.72},{w:'英伟达',wt:.70},{w:'视频生成',wt:.68},{w:'机器人',wt:.65},{w:'芯片',wt:.62},{w:'千问',wt:.58},{w:'宇树',wt:.54},{w:'阿里云',wt:.50},{w:'太空AI',wt:.48},{w:'Astra',wt:.45},{w:'蒸馏',wt:.43},{w:'AI安全',wt:.40},{w:'具身智能',wt:.38}];
 var cloud=$('#wordFreqCloud');
 freq.forEach(function(item){
 var s=document.createElement('span');s.className='wfi';s.textContent=item.w;
