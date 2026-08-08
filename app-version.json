@@ -1,6 +1,7 @@
 {
-  "version": "1.2",
-  "versionCode": 5,
+  "version": "1.3",
+  "versionCode": 6,
   "apkUrl": "https://fjsy56.github.io/daily-report/latest.apk",
+  "downloadUrl": "",
   "note": "新增自动升级功能"
 }
