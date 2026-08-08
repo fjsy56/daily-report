@@ -148,7 +148,7 @@ class MainActivity : ComponentActivity() {
 
     /* ===== 自动升级：蓝奏云为更新主通道（国内网络可达），WebView 内核过反爬 ===== */
     // 蓝奏云公开分享链接（固定不变，文件名带版本号，更新文件后链接不变）
-    private val LANZOU_SHARE_URL = "https://wwbjt.lanzoum.com/iGee4418nf0h"
+    private val LANZOU_SHARE_URL = "https://wwbjt.lanzoum.com/iABcG4196ylg"
     private var lanzouChecking = false
     private var lanzouWv: WebView? = null
 
