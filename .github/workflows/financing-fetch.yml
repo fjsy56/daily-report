@@ -40,10 +40,4 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: 部署到 Netlify（仅数据变化时）
-        if: steps.commit.outputs.changed == 'true'
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        run: |
-          npm install -g netlify-cli --silent
-          npx netlify-cli deploy --prod --dir=. --site=meiriyibao.netlify.app
+      # 部署由 deploy-pages.yml 在 push 时自动完成（GitHub Pages，免费无限）
