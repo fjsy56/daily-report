@@ -1,21 +1,113 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "tech": [
     {
-      "title": "OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道",
-      "url": "http://www.geekpark.net/news/368504",
-      "excerpt": "古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等 8 月 7 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 7 日）发布 Power On 实时通讯，爆料称 OpenAI 的首款 AI 硬件为冰球（Ho",
+      "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
+      "url": "http://www.geekpark.net/news/368556",
+      "excerpt": "作者｜Techno 之王 编辑｜靖宇 8 月 4 日，「DeepSeek 斩杀线」竟然冲上微博热搜。V4 Flash 正式版凭借极致的性价比，在全球 AI 大模型的「成本-性能」坐标系上划出了一条残酷的行业生死线——比它贵的没它强，比它弱的没它便宜。开发者社区",
       "src": "极客公园",
       "tag": "DeepSeek",
       "cat": "tech"
     },
     {
-      "title": "这枚不到 5 克的戒指，藏着 AI 交互的未来",
-      "url": "http://www.geekpark.net/news/368497",
-      "excerpt": "智能戒指是一个被行业反复捡起、又反复放下的品类。 过去十多年，从消息通知、移动支付、身份识别到手势控制，厂商几乎把所有对可穿戴设备的想象都装进过戒指。它足够贴身，又比手表更轻，理论上应该是最接近人的计算设备之一。但在真实使用中，一枚没有屏幕、算力和电池空间都极",
+      "title": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
+      "url": "http://www.geekpark.net/news/368553",
+      "excerpt": "如果说 2025 年是具身智能爆发的一年，那么今年，行业竞争已经开始进入新的阶段。 从国内外越来越多机器人公司发布新产品，到资本持续加码，具身智能正成为 AI 领域最受关注的方向之一。但随着行业快速发展，一个新的共识正在形成：真正限制机器人进化速度的，不再只是",
       "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "excerpt": "再花15亿美元买现成AI编程团队",
+      "src": "量子位",
+      "tag": "谷歌",
+      "cat": "tech"
+    },
+    {
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "excerpt": "啊，这真是个AI“失控”的夏天",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
+    },
+    {
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "excerpt": "AI语音“听、说、创”一站式满足",
+      "src": "量子位",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "excerpt": "从「能用」走向「规模化落地」",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "url": "https://www.qbitai.com/2026/08/467878.html",
+      "excerpt": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新",
+      "url": "http://www.geekpark.net/news/368563",
+      "excerpt": "30 秒视频直出不是参数升级，是创作方式的切换。 作者｜张勇毅 编辑｜靖宇 5 个月前，我们在体验 Seedance 2.0 那篇「AI 上新」的时候，提到了一个关键判断——「AI 视频第一阶段的比赛，结束了」。 看完之后，我一直在想一个问题：第二阶段是什么？",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "Fitbit Air 手环深度体验：「无屏」只是手段，模型能力才是护城河",
+      "url": "http://www.geekpark.net/news/368562",
+      "excerpt": "无屏只是形态，模型才决定产品的上限。 作者｜张勇毅 编辑｜靖宇 如果你问我：今年最火的 AI 硬件是什么？这个问题大概会有很多答案。 但如果你问的问题收束成：「今年最火的 AI 可穿戴硬件是什么？」那答案大概率只有一个—— Fitbit Air。 仅仅一个数据",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "app"
+    },
+    {
+      "title": "AI Agent 手机下半场，「国标」L3 只是起点",
+      "url": "http://www.geekpark.net/news/368561",
+      "excerpt": "一张证书，暂时还不会影响到你「换机」节奏。 作者｜张勇毅 编辑｜靖宇 时间回到 7 月下旬，如果你关注智能手机领域的话，应该会记得大量手机厂商开始官宣自己的手机，通过了国家人工智能 L3 级认证。 这轮集体官宣的起点，是 2026 年 7 月 17 日公布的首",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "六巨头定AI插件新标准！撞脸Claude，Anthropic没上桌",
+      "url": "https://aiera.com.cn/2026/08/08/other/admin/108219/%e5%85%ad%e5%b7%a8%e5%a4%b4%e5%ae%9aai%e6%8f%92%e4%bb%b6%e6%96%b0%e6%a0%87%e5%87%86%ef%bc%81%e6%92%9e%e8%84%b8claude%ef%bc%8canthropic%e6%b2%a1%e4%b8%8a%e6%a1%8c/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "Agent",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道",
+      "url": "http://www.geekpark.net/news/368565",
+      "excerpt": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程 据报道，OpenAI 表示，不能排除其即将推出的模型 Astra 具备「关键性」网络能力，这促使 OpenAI 扩大安全测试范围，并暂停不符合更严格安全要求的内部活动。这是人工智能模型网络能力快",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "enterprise"
     },
     {
       "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
@@ -34,113 +126,13 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "url": "https://www.qbitai.com/2026/08/467871.html",
-      "excerpt": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "url": "https://www.qbitai.com/2026/08/467840.html",
-      "excerpt": "算力、网络、内存与存储开始围绕每个Token协同",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "智元下架了首席科学家罗剑岚",
-      "url": "https://www.qbitai.com/2026/08/467730.html",
-      "excerpt": "智元机器人高管生变！",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-      "url": "https://www.qbitai.com/2026/08/467663.html",
-      "excerpt": "指环王成为大模型新基准",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
-      "url": "http://www.geekpark.net/news/368503",
-      "excerpt": "未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影",
-      "src": "极客公园",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "从会聊天到能管钱：Agent 进入交易时代",
-      "url": "http://www.geekpark.net/news/368494",
-      "excerpt": "新加坡滨海湾花园，AGI Playground 2026 的主舞台灯光亮起。台下坐着 50 多家全球 VC、数百位 AI Builder，对 Agent 下一个阶段发展方向充满期待。 大家都在看一个问题： 当 Agent 从对话走向执行，我们离自动交付还有多远",
-      "src": "极客公园",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-      "url": "https://www.qbitai.com/2026/08/467834.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "app"
-    },
-    {
-      "title": "黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设",
-      "url": "https://aiera.com.cn/2026/08/07/other/admin/108159/%e9%bb%8e%e6%9b%bc%e5%8a%a8%e5%8a%9b%e6%90%ba%e6%89%8b%e5%85%89%e8%bd%ae%e6%99%ba%e8%83%bd%e4%b8%8e%e8%af%ba%e4%ba%a6%e8%85%be%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%8c%e5%89%91%e6%8c%872026%e5%b9%b4/",
+      "title": "刚刚，GPT-5.6全员免费！下一代巨兽Astra打响闪电战",
+      "url": "https://aiera.com.cn/2026/08/08/other/admin/108275/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-5-6%e5%85%a8%e5%91%98%e5%85%8d%e8%b4%b9%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%b7%a8%e5%85%bdastra%e6%89%93%e5%93%8d%e9%97%aa%e7%94%b5%e6%88%98/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "影石产品将上线 AI 语音助手，分区域接入阿里千问和 Gemini 模型",
-      "url": "https://www.ithome.com/0/986/938.htm",
-      "excerpt": "IT之家 8 月 7 日消息，据新浪科技报道，影石 Insta360 今日（8 月 7 日）为 GO Ultra 拇指相机上线 AI 语音助手。该功能按区域采用不同大模型方案：中国大陆地区接入阿里千问大模型，中国港澳台及海外地区使用 Google Gemini",
-      "src": "IT之家",
-      "tag": "谷歌",
-      "cat": "app"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S",
-      "url": "http://www.geekpark.net/news/368495",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 1999 年，Jeff Dean 加入谷歌的时候，这家公司只有 20 个人，办公室在 Palo Alto 一家 T-Mobile 门店的楼上。27 年后，他是谷歌的首席科学家，身后是 MapReduce、Bigtable、Spann",
-      "src": "极客公园",
-      "tag": "谷歌",
-      "cat": "enterprise"
-    },
-    {
-      "title": "传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑",
-      "url": "http://www.geekpark.net/news/368444",
-      "excerpt": "传 DeepSeek 重启融资 据多名交易人士透露，大模型公司 DeepSeek 重启了第二轮融资，本轮计划募资 500 亿元，投前估值约 5000 亿元，并计划将在 8 月下旬完成签约。 多位投资人提到，DeepSeek 第二轮融资至少在 7 月中旬就已开启",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "enterprise"
-    },
-    {
-      "title": "谷歌巨震！诺奖得主卸任DeepMind CEO，首席科学家Jeff Dean离职创业",
-      "url": "https://aiera.com.cn/2026/08/07/other/admin/108150/%e8%b0%b7%e6%ad%8c%e5%b7%a8%e9%9c%87%ef%bc%81%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bb%e5%8d%b8%e4%bb%bbdeepmind-ceo%ef%bc%8c%e9%a6%96%e5%b8%ad%e7%a7%91%e5%ad%a6%e5%ae%b6jeff-dean%e7%a6%bb%e8%81%8c/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "谷歌",
-      "cat": "enterprise"
-    },
-    {
-      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-      "url": "https://www.qbitai.com/2026/08/467486.html",
-      "excerpt": "采集、仿真、训练和评测，闭环了",
-      "src": "量子位",
-      "tag": "具身智能",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
-  "total": 17
+  "total": 16
 };
