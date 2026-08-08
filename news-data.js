@@ -18,6 +18,38 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "url": "https://www.qbitai.com/2026/08/468631.html",
+      "excerpt": "这就有些尴尬了。",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "url": "https://www.qbitai.com/2026/08/468555.html",
+      "excerpt": "海外团队纷纷下注，NeoLab浪潮狂飙",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "url": "https://www.qbitai.com/2026/08/468498.html",
+      "excerpt": "「我，Jeff Dean，打钱」",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "url": "https://www.qbitai.com/2026/08/468462.html",
+      "excerpt": "唉，赶紧整完快点发布吧。。。",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
       "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "excerpt": "再花15亿美元买现成AI编程团队",
@@ -29,38 +61,6 @@ window.__NEWS_DATA__ = {
       "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
       "url": "https://www.qbitai.com/2026/08/468338.html",
       "excerpt": "啊，这真是个AI“失控”的夏天",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "excerpt": "AI语音“听、说、创”一站式满足",
-      "src": "量子位",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-      "url": "https://www.qbitai.com/2026/08/466738.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "excerpt": "从「能用」走向「规模化落地」",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-      "url": "https://www.qbitai.com/2026/08/467878.html",
-      "excerpt": "AI卷向运动赛道，Keep的新答卷能否跑通？",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -98,6 +98,22 @@ window.__NEWS_DATA__ = {
       "src": "新智元",
       "tag": "Agent",
       "cat": "app"
+    },
+    {
+      "title": "摩托罗拉 Moto Pad 70 平板海外发布：天玑 6400 芯片，支持 5G 移动数据网络",
+      "url": "https://www.ithome.com/0/987/422.htm",
+      "excerpt": "IT之家 8 月 8 日消息，摩托罗拉现已在印度市场推出 Moto Pad 70 平板电脑，新品配备 12.1 英寸 2.5K 屏幕，拥有联发科天玑 6400 芯片，支持 5G 移动数据网络，起售价 33,999 印度卢比（IT之家注：现汇率约合 2,413 ",
+      "src": "IT之家",
+      "tag": "芯片",
+      "cat": "app"
+    },
+    {
+      "title": "华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机",
+      "url": "https://www.ithome.com/0/987/417.htm",
+      "excerpt": "IT之家 8 月 8 日消息，据华为终端 BG CEO 何刚分享，在科威特华为 Pura 90s 发布会现场，十年华为老用户 Ahmed 展示了他个人收藏的 23 台华为设备。从视频画面可以看到，这名来自科威特的华为用户的收藏覆盖了直板手机、折叠屏手机、平板等",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "app"
     }
   ],
   "enterprise": [
@@ -110,19 +126,19 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "url": "https://www.qbitai.com/2026/08/467877.html",
-      "excerpt": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "excerpt": "AI语音“听、说、创”一站式满足",
       "src": "量子位",
       "tag": "阿里",
       "cat": "tech"
     },
     {
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "excerpt": "Chat优化版",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
@@ -134,5 +150,113 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     }
   ],
-  "total": 16
+  "overview": {
+    "tech": [
+      "AI",
+      "DeepSeek",
+      "的「斩杀线」",
+      "正在重塑",
+      "行业的世界观",
+      "ChatGPT"
+    ],
+    "app": [
+      "AI",
+      "Seedance",
+      "实测",
+      "上新",
+      "Fitbit",
+      "Air"
+    ],
+    "enterprise": [
+      "AI",
+      "DeepSeek",
+      "王兴兴回应",
+      "投资宇树",
+      "将展开重点合作",
+      "微信内测朋友圈"
+    ]
+  },
+  "hotwords": [
+    {
+      "w": "AI",
+      "wt": 0.95
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.45
+    },
+    {
+      "w": "Astra",
+      "wt": 0.45
+    },
+    {
+      "w": "王兴兴回应",
+      "wt": 0.4
+    },
+    {
+      "w": "投资宇树",
+      "wt": 0.4
+    },
+    {
+      "w": "将展开重点合作",
+      "wt": 0.4
+    },
+    {
+      "w": "微信内测朋友圈",
+      "wt": 0.4
+    },
+    {
+      "w": "新功能",
+      "wt": 0.4
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.4
+    },
+    {
+      "w": "Seedance",
+      "wt": 0.4
+    },
+    {
+      "w": "实测",
+      "wt": 0.4
+    },
+    {
+      "w": "上新",
+      "wt": 0.4
+    },
+    {
+      "w": "Fitbit",
+      "wt": 0.4
+    },
+    {
+      "w": "Air",
+      "wt": 0.4
+    },
+    {
+      "w": "手环深度体验",
+      "wt": 0.4
+    },
+    {
+      "w": "「无屏」只是手段",
+      "wt": 0.4
+    },
+    {
+      "w": "Agent",
+      "wt": 0.4
+    },
+    {
+      "w": "L3",
+      "wt": 0.4
+    },
+    {
+      "w": "手机下半场",
+      "wt": 0.4
+    },
+    {
+      "w": "只是起点",
+      "wt": 0.4
+    }
+  ],
+  "total": 18
 };
