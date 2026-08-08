@@ -147,7 +147,7 @@ class MainActivity : ComponentActivity() {
         kotlinx.coroutines.MainScope().launch {
             try {
                 val verJson = withContext(Dispatchers.IO) {
-                    val conn = URL("https://meiriyibao.netlify.app/app-version.json").openConnection()
+                    val conn = URL("https://fjsy56.github.io/daily-report/app-version.json").openConnection()
                     conn.setRequestProperty("Cache-Control", "no-cache")
                     conn.connectTimeout = 10000
                     conn.readTimeout = 10000
@@ -416,7 +416,7 @@ class MainActivity : ComponentActivity() {
         bodyBuilder.append("""<w:p><w:r><w:br w:type="page"/></w:r></w:p>""")
         bodyBuilder.append(wp("left", wrb("导出说明", sz=28)))
         bodyBuilder.append(wp("left", wr("本文档由「每日一报」Android 应用自动生成。", sz=20, color="666666")))
-        bodyBuilder.append(wp("left", wr("完整实时版请访问: https://meiriyibao.netlify.app", sz=20, color="666666")))
+        bodyBuilder.append(wp("left", wr("完整实时版请访问: https://fjsy56.github.io/daily-report", sz=20, color="666666")))
         bodyBuilder.append(wp("left", wr("A股数据: 东方财富", sz=20, color="666666")))
 
         bodyBuilder.append("""</w:body>""")
@@ -535,7 +535,7 @@ fun DailyReportApp(
 
                     Spacer(modifier = Modifier.height(4.dp))
                     Text(
-                        text = "meiriyibao.netlify.app",
+                        text = "fjsy56.github.io/daily-report",
                         fontSize = 12.sp,
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
                     )
@@ -637,8 +637,8 @@ fun DailyReportApp(
 
                             override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest?): Boolean {
                                 val url = request?.url?.toString() ?: return false
-                                if (url.startsWith("https://meiriyibao.netlify.app") ||
-                                    url.startsWith("http://meiriyibao.netlify.app") ||
+                                if (url.startsWith("https://fjsy56.github.io/daily-report") ||
+                                    url.startsWith("http://fjsy56.github.io/daily-report") ||
                                     url.startsWith("http://localhost") ||
                                     url.startsWith("https://localhost")) {
                                     return false
@@ -659,7 +659,7 @@ fun DailyReportApp(
                             }
                         }
 
-                        loadUrl("https://meiriyibao.netlify.app")
+                        loadUrl("https://fjsy56.github.io/daily-report/")
                         onWebViewReady(this)
                     }
                 },
@@ -770,7 +770,7 @@ private val CHANGELOG = listOf(
         version = "1.0",
         title = "每日一报 App 首发",
         notes = listOf(
-            "内置浏览每日一报网页版（meiriyibao.netlify.app）",
+            "内置浏览每日一报网页版（fjsy56.github.io/daily-report）",
             "侧边栏提供「分享截图」「导出Word」功能",
             "支持暗色模式自动适配与字号调节"
         )
