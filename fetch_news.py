@@ -6,6 +6,8 @@ import json, re, sys, os
 from datetime import datetime
 from xml.etree import ElementTree as ET
 import urllib.request
+from collections import Counter
+from collections import Counter
 
 TIMEOUT = 20
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; DailyReport/1.0)"}
@@ -46,6 +48,42 @@ def clean_text(s):
     s = s.replace("&#39;", "'").replace("&ldquo;", "“").replace("&rdquo;", "”")
     s = re.sub(r"\s+", " ", s).strip()
     return s[:130]
+
+# ---- 关键词 / 热词提取（今日速览关键词总结 + 热词统计，随新闻自动更新） ----
+STOP_WORDS = set("的 了 与 和 及 在 是 将 称 为 或 其 该 新 今日 首次 正式 发布 宣布 推出 上线 "
+                 "国内 全球 最新 曝 曝光 突发 重磅 消息 报道 记者 编辑 来源 点击 查看 全文 详情 "
+                 "我们 它们 这些 那些 一个 这个 那个 已经 开始 成为 进行 表示 透露 回应 确认".split())
+
+def _split_words(title):
+    """从单个标题提取词元：英文词 + 中文短片段（2-8字，过滤停用词）"""
+    out = []
+    for m in re.findall(r"[A-Za-z][A-Za-z0-9.+-]{1,24}", title or ""):
+        out.append(m)
+    for p in re.split(r"[｜|：:;；、，,。！？!?（）()\[\]【】\s]+", title or ""):
+        p = p.strip()
+        if 2 <= len(p) <= 8 and p not in STOP_WORDS and not re.search(r"[A-Za-z0-9]", p):
+            out.append(p)
+    return out
+
+def extract_keywords(texts, top_n=6):
+    """从一批标题中提取高频关键词（今日速览用：提取核心要点而非照搬原文）"""
+    counter = Counter()
+    for t in texts:
+        for w in _split_words(t):
+            counter[w] += 1
+    return [w for w, _ in counter.most_common(top_n * 3) if len(w) >= 2][:top_n]
+
+def build_hotwords(texts, top_n=20):
+    """全站热词统计：词频归一化为 0-1 权重（前端词云样式用）"""
+    counter = Counter()
+    for t in texts:
+        for w in _split_words(t):
+            counter[w] += 1
+    top = counter.most_common(top_n)
+    if not top:
+        return []
+    mx = top[0][1]
+    return [{"w": w, "wt": round(0.35 + 0.6 * (c / mx), 2)} for w, c in top]
 
 def extract_tag(title):
     """从标题提取领域/公司标签（公司名优先，其次技术领域，最后融资类兜底）"""
@@ -294,11 +332,22 @@ def main():
     while len(ent_news) < 4 and remaining:
         ent_news.append(remaining.pop(0))
 
+    # 今日速览关键词总结（每类 Top 关键词）+ 全站热词（随新闻自动更新）
+    all_titles = [a["title"] for a in all_articles]
+    overview = {
+        "tech": extract_keywords([a["title"] for a in tech_news], 6),
+        "app": extract_keywords([a["title"] for a in app_news], 6),
+        "enterprise": extract_keywords([a["title"] for a in ent_news], 6),
+    }
+    hotwords = build_hotwords(all_titles, 20)
+
     data = {
         "date": datetime.now().strftime("%Y-%m-%d"),
         "tech": tech_news,
         "app": app_news,
         "enterprise": ent_news,
+        "overview": overview,
+        "hotwords": hotwords,
         "total": len(tech_news) + len(app_news) + len(ent_news)
     }
 
