@@ -1,20 +1,20 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "tech": [
     {
-      "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
-      "url": "http://www.geekpark.net/news/368556",
-      "excerpt": "作者｜Techno 之王 编辑｜靖宇 8 月 4 日，「DeepSeek 斩杀线」竟然冲上微博热搜。V4 Flash 正式版凭借极致的性价比，在全球 AI 大模型的「成本-性能」坐标系上划出了一条残酷的行业生死线——比它贵的没它强，比它弱的没它便宜。开发者社区",
+      "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
+      "url": "http://www.geekpark.net/news/368577",
+      "excerpt": "苹果中国官网删除 Apple 智能接入阿里千问使用手册 8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而",
       "src": "极客公园",
-      "tag": "DeepSeek",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
-      "title": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
-      "url": "http://www.geekpark.net/news/368553",
-      "excerpt": "如果说 2025 年是具身智能爆发的一年，那么今年，行业竞争已经开始进入新的阶段。 从国内外越来越多机器人公司发布新产品，到资本持续加码，具身智能正成为 AI 领域最受关注的方向之一。但随着行业快速发展，一个新的共识正在形成：真正限制机器人进化速度的，不再只是",
-      "src": "极客公园",
-      "tag": "具身智能",
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "url": "https://www.qbitai.com/2026/08/468715.html",
+      "excerpt": "谷歌缓兵之计把人留下",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -68,6 +68,14 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
+      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+      "url": "http://www.geekpark.net/news/368579",
+      "excerpt": "浏览器是功能，不是目的地。 作者｜张勇毅 编辑｜靖宇 2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。 OpenAI 自研 AI Agent 浏览",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
+    {
       "title": "Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新",
       "url": "http://www.geekpark.net/news/368563",
       "excerpt": "30 秒视频直出不是参数升级，是创作方式的切换。 作者｜张勇毅 编辑｜靖宇 5 个月前，我们在体验 Seedance 2.0 那篇「AI 上新」的时候，提到了一个关键判断——「AI 视频第一阶段的比赛，结束了」。 看完之后，我一直在想一个问题：第二阶段是什么？",
@@ -90,30 +98,6 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "Agent",
       "cat": "app"
-    },
-    {
-      "title": "六巨头定AI插件新标准！撞脸Claude，Anthropic没上桌",
-      "url": "https://aiera.com.cn/2026/08/08/other/admin/108219/%e5%85%ad%e5%b7%a8%e5%a4%b4%e5%ae%9aai%e6%8f%92%e4%bb%b6%e6%96%b0%e6%a0%87%e5%87%86%ef%bc%81%e6%92%9e%e8%84%b8claude%ef%bc%8canthropic%e6%b2%a1%e4%b8%8a%e6%a1%8c/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "摩托罗拉 Moto Pad 70 平板海外发布：天玑 6400 芯片，支持 5G 移动数据网络",
-      "url": "https://www.ithome.com/0/987/422.htm",
-      "excerpt": "IT之家 8 月 8 日消息，摩托罗拉现已在印度市场推出 Moto Pad 70 平板电脑，新品配备 12.1 英寸 2.5K 屏幕，拥有联发科天玑 6400 芯片，支持 5G 移动数据网络，起售价 33,999 印度卢比（IT之家注：现汇率约合 2,413 ",
-      "src": "IT之家",
-      "tag": "芯片",
-      "cat": "app"
-    },
-    {
-      "title": "华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机",
-      "url": "https://www.ithome.com/0/987/417.htm",
-      "excerpt": "IT之家 8 月 8 日消息，据华为终端 BG CEO 何刚分享，在科威特华为 Pura 90s 发布会现场，十年华为老用户 Ahmed 展示了他个人收藏的 23 台华为设备。从视频画面可以看到，这名来自科威特的华为用户的收藏覆盖了直板手机、折叠屏手机、平板等",
-      "src": "IT之家",
-      "tag": "华为",
-      "cat": "app"
     }
   ],
   "enterprise": [
@@ -126,24 +110,24 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "excerpt": "AI语音“听、说、创”一站式满足",
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "url": "https://www.qbitai.com/2026/08/468766.html",
+      "excerpt": "据说GPT-5.6很适合拿来做游戏",
       "src": "量子位",
-      "tag": "阿里",
-      "cat": "tech"
+      "tag": "行业动态",
+      "cat": "enterprise"
     },
     {
-      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "title": "突发！OpenAI最新模型Astra失控，奥特曼紧急补漏洞",
+      "url": "https://aiera.com.cn/2026/08/09/other/admin/108419/%e7%aa%81%e5%8f%91%ef%bc%81openai%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%b4%a7%e6%80%a5%e8%a1%a5%e6%bc%8f%e6%b4%9e/",
       "excerpt": "",
-      "src": "量子位",
-      "tag": "苹果",
+      "src": "新智元",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "刚刚，GPT-5.6全员免费！下一代巨兽Astra打响闪电战",
-      "url": "https://aiera.com.cn/2026/08/08/other/admin/108275/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-5-6%e5%85%a8%e5%91%98%e5%85%8d%e8%b4%b9%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%b7%a8%e5%85%bdastra%e6%89%93%e5%93%8d%e9%97%aa%e7%94%b5%e6%88%98/",
+      "title": "Cursor，即将彻底消失！",
+      "url": "https://aiera.com.cn/2026/08/09/other/admin/108404/cursor%ef%bc%8c%e5%8d%b3%e5%b0%86%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
       "excerpt": "",
       "src": "新智元",
       "tag": "行业动态",
@@ -153,19 +137,19 @@ window.__NEWS_DATA__ = {
   "overview": {
     "tech": [
       "AI",
-      "DeepSeek",
-      "的「斩杀线」",
-      "正在重塑",
-      "行业的世界观",
-      "ChatGPT"
+      "Jeff",
+      "Dean",
+      "Apple",
+      "iPhone17",
+      "苹果或近期上调"
     ],
     "app": [
       "AI",
-      "Seedance",
-      "实测",
-      "上新",
-      "Fitbit",
-      "Air"
+      "OpenAI",
+      "年时间证明",
+      "你并不用为",
+      "换浏览器",
+      "Seedance"
     ],
     "enterprise": [
       "AI",
@@ -182,12 +166,60 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "DeepSeek",
+      "w": "OpenAI",
+      "wt": 0.45
+    },
+    {
+      "w": "Jeff",
+      "wt": 0.45
+    },
+    {
+      "w": "Dean",
       "wt": 0.45
     },
     {
       "w": "Astra",
       "wt": 0.45
+    },
+    {
+      "w": "年时间证明",
+      "wt": 0.4
+    },
+    {
+      "w": "你并不用为",
+      "wt": 0.4
+    },
+    {
+      "w": "换浏览器",
+      "wt": 0.4
+    },
+    {
+      "w": "Apple",
+      "wt": 0.4
+    },
+    {
+      "w": "iPhone17",
+      "wt": 0.4
+    },
+    {
+      "w": "苹果或近期上调",
+      "wt": 0.4
+    },
+    {
+      "w": "价格",
+      "wt": 0.4
+    },
+    {
+      "w": "年后",
+      "wt": 0.4
+    },
+    {
+      "w": "网络流量是人类",
+      "wt": 0.4
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.4
     },
     {
       "w": "王兴兴回应",
@@ -208,55 +240,7 @@ window.__NEWS_DATA__ = {
     {
       "w": "新功能",
       "wt": 0.4
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.4
-    },
-    {
-      "w": "Seedance",
-      "wt": 0.4
-    },
-    {
-      "w": "实测",
-      "wt": 0.4
-    },
-    {
-      "w": "上新",
-      "wt": 0.4
-    },
-    {
-      "w": "Fitbit",
-      "wt": 0.4
-    },
-    {
-      "w": "Air",
-      "wt": 0.4
-    },
-    {
-      "w": "手环深度体验",
-      "wt": 0.4
-    },
-    {
-      "w": "「无屏」只是手段",
-      "wt": 0.4
-    },
-    {
-      "w": "Agent",
-      "wt": 0.4
-    },
-    {
-      "w": "L3",
-      "wt": 0.4
-    },
-    {
-      "w": "手机下半场",
-      "wt": 0.4
-    },
-    {
-      "w": "只是起点",
-      "wt": 0.4
     }
   ],
-  "total": 18
+  "total": 16
 };
