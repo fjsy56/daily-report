@@ -672,7 +672,7 @@ class MainActivity : ComponentActivity() {
         bodyBuilder.append("""<w:p><w:r><w:br w:type="page"/></w:r></w:p>""")
         bodyBuilder.append(wp("left", wrb("导出说明", sz=28)))
         bodyBuilder.append(wp("left", wr("本文档由「每日一报」Android 应用自动生成。", sz=20, color="666666")))
-        bodyBuilder.append(wp("left", wr("完整实时版请访问: https://fjsy56.github.io/daily-report", sz=20, color="666666")))
+        bodyBuilder.append(wp("left", wr("完整实时版请访问: https://7cu0a.top", sz=20, color="666666")))
         bodyBuilder.append(wp("left", wr("A股数据: 东方财富", sz=20, color="666666")))
 
         bodyBuilder.append("""</w:body>""")
@@ -792,7 +792,7 @@ fun DailyReportApp(
 
                     Spacer(modifier = Modifier.height(4.dp))
                     Text(
-                        text = "fjsy56.github.io/daily-report",
+                        text = "7cu0a.top",
                         fontSize = 12.sp,
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
                     )
@@ -907,8 +907,8 @@ fun DailyReportApp(
 
                             override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest?): Boolean {
                                 val url = request?.url?.toString() ?: return false
-                                if (url.startsWith("https://fjsy56.github.io/daily-report") ||
-                                    url.startsWith("http://fjsy56.github.io/daily-report") ||
+                                if (url.startsWith("https://7cu0a.top") ||
+                                    url.startsWith("http://7cu0a.top") ||
                                     url.startsWith("http://localhost") ||
                                     url.startsWith("https://localhost")) {
                                     return false
@@ -929,7 +929,7 @@ fun DailyReportApp(
                             }
                         }
 
-                        loadUrl("https://fjsy56.github.io/daily-report/")
+                        loadUrl("https://7cu0a.top/")
                         onWebViewReady(this)
                     }
                 },
