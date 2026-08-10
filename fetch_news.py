@@ -356,6 +356,21 @@ def main():
     with open("news-data.js", "w", encoding="utf-8") as f:
         f.write(js_content)
 
+    # 更新 index.html 中的新闻版本参数（URL 变化 → 浏览器/CDN 缓存失效 → 展示最新数据）
+    # news-data.js 响应头带 max-age=31536000,immutable，必须用带版本参数的 URL 绕过缓存
+    today = datetime.now().strftime("%Y%m%d")
+    html_path = "index.html"
+    try:
+        with open(html_path, encoding="utf-8") as f:
+            html = f.read()
+        new_html = re.sub(r'news-data\.js\?v=[A-Za-z0-9_]*', f'news-data.js?v={today}', html)
+        if new_html != html:
+            with open(html_path, "w", encoding="utf-8") as f:
+                f.write(new_html)
+            print(f"   已更新: index.html (news-data.js?v={today})")
+    except Exception as e:
+        print(f"   ⚠️ 更新 index.html 失败: {e}")
+
     print(f"\n{'='*50}")
     print(f"✅ 完成！共 {data['total']} 条新闻")
     print(f"   前沿科技: {len(tech_news)} | 科技应用: {len(app_news)} | 科技企业: {len(ent_news)}")
