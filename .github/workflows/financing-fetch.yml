@@ -31,7 +31,7 @@ jobs:
           if git status --porcelain | grep -q financing-data.js; then
             git config user.name "Daily Bot"
             git config user.email "bot@daily-news.local"
-            git add financing-data.js
+            git add financing-data.js index.html
             git commit -m "💰 融资事件更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
