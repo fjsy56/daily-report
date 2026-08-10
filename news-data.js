@@ -10,6 +10,14 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "url": "https://www.qbitai.com/2026/08/469500.html",
+      "excerpt": "会话越长，人的表现越差",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
       "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
       "url": "https://www.qbitai.com/2026/08/469475.html",
       "excerpt": "先解决这轮内存荒！",
@@ -56,14 +64,6 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "url": "https://www.qbitai.com/2026/08/468782.html",
-      "excerpt": "AI参与创造下一代AI",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
     }
   ],
   "app": [
@@ -106,14 +106,6 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
-    },
-    {
-      "title": "数十亿美元机器人公司，为何都盯上了叠衣服",
-      "url": "https://www.ithome.com/0/987/806.htm",
-      "excerpt": "8 月 10 日，据《商业内幕》报道，包括 Figure AI、Sunday Robotics、Weave Robotics、1X 在内的一批机器人创业公司，正将“叠衣服”作为家用机器人进入真实家庭的重要突破口。这些公司累计融资规模达到数十亿美元，但要让售价数",
-      "src": "IT之家",
-      "tag": "具身智能",
-      "cat": "app"
     }
   ],
   "enterprise": [
@@ -142,22 +134,22 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "诺奖得主Hassabis，也要走了！",
-      "url": "https://aiera.com.cn/2026/08/10/other/admin/108548/%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bbhassabis%ef%bc%8c%e4%b9%9f%e8%a6%81%e8%b5%b0%e4%ba%86%ef%bc%81/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
+      "title": "最会买鸿蒙版 2.70 上架：订单微信提醒、悬浮底栏、三方登录、比价高返",
+      "url": "https://www.ithome.com/0/987/820.htm",
+      "excerpt": "最会买鸿蒙版 2.70 正式上架，大家快来下载体验。最会买，专注于购物返利。优惠券叠加返利返现，购物大大省钱！返利现支持淘宝、天猫、京东、拼多多、唯品会、飞猪、饿了么、美团外卖、京东外卖、滴滴出行等平台或场景。本次更新重点介绍：商品识别弹窗完善，支持收藏；当未",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
+      "Claude",
       "Apple",
       "iPhone17",
       "苹果或近期上调",
-      "价格",
-      "年后"
+      "价格"
     ],
     "app": [
       "AI",
@@ -182,20 +174,20 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "Claude",
+      "wt": 0.5
+    },
+    {
       "w": "极客早知道",
-      "wt": 0.46
+      "wt": 0.45
     },
     {
       "w": "OpenAI",
-      "wt": 0.46
-    },
-    {
-      "w": "Claude",
-      "wt": 0.46
+      "wt": 0.45
     },
     {
       "w": "CEO",
-      "wt": 0.46
+      "wt": 0.45
     },
     {
       "w": "宇树科技今日申购",
@@ -258,5 +250,5 @@ window.__NEWS_DATA__ = {
       "wt": 0.4
     }
   ],
-  "total": 18
+  "total": 17
 };
