@@ -95,47 +95,49 @@ def load_existing():
         print(f'  ⚠ 读取已有数据失败: {e}')
         return [], set()
 
-def extract_items(page, page_no):
-    """从渲染后的页面提取融资事件条目"""
-    rows = page.query_selector_all('div.table-row.table-row-body')
-    items = []
-    for row in rows:
-        try:
-            link_el = row.query_selector('a.project-info')
-            if not link_el:
-                continue
-            href = link_el.get_attribute('href') or ''
-            m = re.search(r'/project/(\d+)', href)
-            if not m:
-                continue
-            pid = m.group(1)
-            name_el = row.query_selector('.projectName')
-            brief_el = row.query_selector('.projectBrief')
-            date_el = row.query_selector('.financingDate-content')
-            ind_el = row.query_selector('.industryList-content')
-            round_el = row.query_selector('.financingRoundRemark-content')
-            money_el = row.query_selector('.financingMoney-content')
-            inv_el = row.query_selector('.investor-content')
-            name = name_el.inner_text().strip() if name_el else ''
-            brief = brief_el.inner_text().strip() if brief_el else ''
-            date = date_el.inner_text().strip() if date_el else ''
-            industry = ind_el.inner_text().replace('\u00a0', ' ') if ind_el else ''
-            industry = [i.strip() for i in industry.split() if i.strip()]
-            rnd = round_el.inner_text().strip() if round_el else ''
-            money = money_el.inner_text().strip() if money_el else ''
-            inv = inv_el.inner_text().strip() if inv_el else ''
-            if not name or not pid:
-                continue
-            items.append({
-                'id': pid, 'date': date, 'name': name, 'desc': brief,
-                'industry': [i for i in industry.replace('\u00a0', '').split() if i],
-                'round': rnd, 'amount': money, 'investors': inv,
-                'url': f'https://pitchhub.36kr.com/project/{pid}',
-                'province': '中国',  # 稍后补
-            })
-        except Exception as e:
-            print(f'  ⚠ 条目解析失败: {e}')
-    return items
+def fetch_page_api(page, page_no):
+    """导航到融资列表页，拦截 financing API 响应（页面 DOM 渲染在无头下不稳定，API 更可靠）"""
+    captured = []
+
+    def on_response(resp):
+        if 'project/financing/list' in resp.url:
+            try:
+                captured.append(resp.json())
+            except Exception:
+                pass
+
+    page.on('response', on_response)
+    try:
+        page.goto(f'https://pitchhub.36kr.com/investevent?pageSize=20&pageNo={page_no}',
+                  timeout=45000, wait_until='networkidle')
+        page.wait_for_timeout(2500)
+    except Exception as e:
+        print(f'  ❌ 页面加载失败: {e}')
+        return []
+    page.remove_listener('response', on_response)
+    if not captured:
+        return []
+    data = captured[0]
+    return data.get('data', {}).get('financingList', []) or []
+
+
+def api_item_to_dict(it):
+    """36氪 financing API 条目 → 数据字典"""
+    ts = it.get('financingDate') or 0
+    date = datetime.fromtimestamp(ts / 1000).strftime('%Y-%m-%d') if ts else ''
+    pid = str(it.get('projectId', ''))
+    return {
+        'id': pid,
+        'date': date,
+        'name': it.get('projectName', ''),
+        'desc': it.get('projectBrief', ''),
+        'industry': it.get('industryList', []) or [],
+        'round': it.get('financingRoundRemark', ''),
+        'amount': it.get('financingMoney', ''),
+        'investors': it.get('investor', ''),
+        'url': it.get('projectUrlRoute', '') or (f'https://pitchhub.36kr.com/project/{pid}' if pid else ''),
+        'province': '中国',  # 稍后补
+    }
 
 def main():
     print('=' * 50)
@@ -157,17 +159,9 @@ def main():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(user_agent=UA, viewport={'width': 1280, 'height': 900})
         while True:
-            url = f'https://pitchhub.36kr.com/investevent?pageSize=20&pageNo={page_no}'
             print(f'\n📄 抓取第 {page_no} 页...')
-            try:
-                page.goto(url, timeout=45000, wait_until='networkidle')
-                page.wait_for_timeout(2500)
-                items = extract_items(page, page_no)
-            except Exception as e:
-                print(f'  ❌ 页面加载失败: {e}')
-                break
-
-            if not items:
+            raw = fetch_page_api(page, page_no)
+            if not raw:
                 empty_pages += 1
                 if empty_pages >= 2:
                     print('  连续无数据，停止翻页')
@@ -175,6 +169,7 @@ def main():
                 page_no += 1
                 continue
             empty_pages = 0
+            items = [it for it in (api_item_to_dict(x) for x in raw) if it['id']]
 
             # 判断停止条件
             all_exist = all(it['id'] in existing_ids for it in items)
