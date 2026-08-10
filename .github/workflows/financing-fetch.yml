@@ -28,7 +28,7 @@ jobs:
       - name: 有变化则提交推送
         id: commit
         run: |
-          if git status --porcelain | grep -q financing-data.js; then
+          if git status --porcelain | grep -qE 'financing-data\.js|index\.html'; then
             git config user.name "Daily Bot"
             git config user.email "bot@daily-news.local"
             git add financing-data.js index.html
