@@ -240,6 +240,19 @@ def main():
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         f.write(js)
 
+    # 更新 index.html 中的融资版本参数（小时级：URL 变化 → 缓存失效 → 展示最新融资数据）
+    hour = datetime.now().strftime("%Y%m%d%H")
+    try:
+        with open('index.html', encoding='utf-8') as f:
+            html = f.read()
+        new_html = re.sub(r'financing-data\.js\?v=[A-Za-z0-9_]*', f'financing-data.js?v={hour}', html)
+        if new_html != html:
+            with open('index.html', 'w', encoding='utf-8') as f:
+                f.write(new_html)
+            print(f'   已更新 index.html (financing-data.js?v={hour})')
+    except Exception as e:
+        print(f'   ⚠️ 更新 index.html 失败: {e}')
+
     print(f'\n✅ 完成！共 {len(all_items)} 条（新增 {len(new_items)}）')
     print(f'   已写入 {DATA_FILE}')
 
