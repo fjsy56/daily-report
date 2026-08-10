@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "Daily Bot"
           git config user.email "bot@daily-news.local"
-          git add news-data.js
+          git add news-data.js index.html
           git commit -m "📰 每日新闻更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push
 
