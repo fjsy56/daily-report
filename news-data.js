@@ -1,5 +1,5 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "tech": [
     {
       "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
@@ -10,63 +10,71 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-      "url": "https://www.qbitai.com/2026/08/468715.html",
-      "excerpt": "谷歌缓兵之计把人留下",
+      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+      "url": "https://www.qbitai.com/2026/08/469475.html",
+      "excerpt": "先解决这轮内存荒！",
+      "src": "量子位",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+      "url": "https://www.qbitai.com/2026/08/469454.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-      "url": "https://www.qbitai.com/2026/08/468631.html",
-      "excerpt": "这就有些尴尬了。",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-      "url": "https://www.qbitai.com/2026/08/468555.html",
-      "excerpt": "海外团队纷纷下注，NeoLab浪潮狂飙",
+      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+      "url": "https://www.qbitai.com/2026/08/469213.html",
+      "excerpt": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-      "url": "https://www.qbitai.com/2026/08/468498.html",
-      "excerpt": "「我，Jeff Dean，打钱」",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-      "url": "https://www.qbitai.com/2026/08/468462.html",
-      "excerpt": "唉，赶紧整完快点发布吧。。。",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-      "url": "https://www.qbitai.com/2026/08/468398.html",
-      "excerpt": "再花15亿美元买现成AI编程团队",
+      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+      "url": "https://www.qbitai.com/2026/08/469076.html",
+      "excerpt": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
       "src": "量子位",
       "tag": "谷歌",
       "cat": "tech"
     },
     {
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "url": "https://www.qbitai.com/2026/08/468338.html",
-      "excerpt": "啊，这真是个AI“失控”的夏天",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "url": "https://www.qbitai.com/2026/08/469010.html",
+      "excerpt": "Claude不是我说你，钱真不能这么花",
       "src": "量子位",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "url": "https://www.qbitai.com/2026/08/468913.html",
+      "excerpt": "作者读博时就在研究，17年后被AI解开了",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "url": "https://www.qbitai.com/2026/08/468782.html",
+      "excerpt": "AI参与创造下一代AI",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道",
+      "url": "http://www.geekpark.net/news/368581",
+      "excerpt": "苹果被曝正在测试长鑫科技存储芯片，用于 iPhone 和 MacBook 8 月 9 日，据《华尔街日报》报道，苹果公司正在其 iPhone 和 MacBook 等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "app"
+    },
     {
       "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
       "url": "http://www.geekpark.net/news/368579",
@@ -92,11 +100,19 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "AI Agent 手机下半场，「国标」L3 只是起点",
-      "url": "http://www.geekpark.net/news/368561",
-      "excerpt": "一张证书，暂时还不会影响到你「换机」节奏。 作者｜张勇毅 编辑｜靖宇 时间回到 7 月下旬，如果你关注智能手机领域的话，应该会记得大量手机厂商开始官宣自己的手机，通过了国家人工智能 L3 级认证。 这轮集体官宣的起点，是 2026 年 7 月 17 日公布的首",
-      "src": "极客公园",
-      "tag": "Agent",
+      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+      "url": "https://www.qbitai.com/2026/08/469493.html",
+      "excerpt": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "数十亿美元机器人公司，为何都盯上了叠衣服",
+      "url": "https://www.ithome.com/0/987/806.htm",
+      "excerpt": "8 月 10 日，据《商业内幕》报道，包括 Figure AI、Sunday Robotics、Weave Robotics、1X 在内的一批机器人创业公司，正将“叠衣服”作为家用机器人进入真实家庭的重要突破口。这些公司累计融资规模达到数十亿美元，但要让售价数",
+      "src": "IT之家",
+      "tag": "具身智能",
       "cat": "app"
     }
   ],
@@ -110,24 +126,24 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "url": "https://www.qbitai.com/2026/08/468766.html",
-      "excerpt": "据说GPT-5.6很适合拿来做游戏",
-      "src": "量子位",
+      "title": "硅谷万亿AI帝国CEO，竟是双面「末日教主」！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108535/%e7%a1%85%e8%b0%b7%e4%b8%87%e4%ba%bfai%e5%b8%9d%e5%9b%bdceo%ef%bc%8c%e7%ab%9f%e6%98%af%e5%8f%8c%e9%9d%a2%e3%80%8c%e6%9c%ab%e6%97%a5%e6%95%99%e4%b8%bb%e3%80%8d%ef%bc%81/",
+      "excerpt": "",
+      "src": "新智元",
       "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "突发！OpenAI最新模型Astra失控，奥特曼紧急补漏洞",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108419/%e7%aa%81%e5%8f%91%ef%bc%81openai%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%b4%a7%e6%80%a5%e8%a1%a5%e6%bc%8f%e6%b4%9e/",
+      "title": "Anthropic CEO急了：新人都是冲钱来的！AI巨头最大危机不是算力，是留人",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108519/anthropic-ceo%e6%80%a5%e4%ba%86%ef%bc%9a%e6%96%b0%e4%ba%ba%e9%83%bd%e6%98%af%e5%86%b2%e9%92%b1%e6%9d%a5%e7%9a%84%ef%bc%81ai%e5%b7%a8%e5%a4%b4%e6%9c%80%e5%a4%a7%e5%8d%b1%e6%9c%ba%e4%b8%8d%e6%98%af/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "OpenAI",
-      "cat": "tech"
+      "tag": "行业动态",
+      "cat": "enterprise"
     },
     {
-      "title": "Cursor，即将彻底消失！",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108404/cursor%ef%bc%8c%e5%8d%b3%e5%b0%86%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
+      "title": "诺奖得主Hassabis，也要走了！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108548/%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bbhassabis%ef%bc%8c%e4%b9%9f%e8%a6%81%e8%b5%b0%e4%ba%86%ef%bc%81/",
       "excerpt": "",
       "src": "新智元",
       "tag": "行业动态",
@@ -137,27 +153,27 @@ window.__NEWS_DATA__ = {
   "overview": {
     "tech": [
       "AI",
-      "Jeff",
-      "Dean",
       "Apple",
       "iPhone17",
-      "苹果或近期上调"
+      "苹果或近期上调",
+      "价格",
+      "年后"
     ],
     "app": [
       "AI",
-      "OpenAI",
-      "年时间证明",
-      "你并不用为",
-      "换浏览器",
-      "Seedance"
+      "宇树科技今日申购",
+      "中一签或赚",
+      "万元",
+      "极客早知道",
+      "OpenAI"
     ],
     "enterprise": [
       "AI",
+      "CEO",
       "DeepSeek",
       "王兴兴回应",
       "投资宇树",
-      "将展开重点合作",
-      "微信内测朋友圈"
+      "将展开重点合作"
     ]
   },
   "hotwords": [
@@ -166,20 +182,32 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "极客早知道",
+      "wt": 0.46
+    },
+    {
       "w": "OpenAI",
-      "wt": 0.45
+      "wt": 0.46
     },
     {
-      "w": "Jeff",
-      "wt": 0.45
+      "w": "Claude",
+      "wt": 0.46
     },
     {
-      "w": "Dean",
-      "wt": 0.45
+      "w": "CEO",
+      "wt": 0.46
     },
     {
-      "w": "Astra",
-      "wt": 0.45
+      "w": "宇树科技今日申购",
+      "wt": 0.4
+    },
+    {
+      "w": "中一签或赚",
+      "wt": 0.4
+    },
+    {
+      "w": "万元",
+      "wt": 0.4
     },
     {
       "w": "年时间证明",
@@ -228,19 +256,7 @@ window.__NEWS_DATA__ = {
     {
       "w": "投资宇树",
       "wt": 0.4
-    },
-    {
-      "w": "将展开重点合作",
-      "wt": 0.4
-    },
-    {
-      "w": "微信内测朋友圈",
-      "wt": 0.4
-    },
-    {
-      "w": "新功能",
-      "wt": 0.4
     }
   ],
-  "total": 16
+  "total": 18
 };
