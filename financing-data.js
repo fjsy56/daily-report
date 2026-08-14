@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-08-07 15:50",
- "total": 496,
+ "updated": "2026-08-14 00:58",
+ "total": 497,
  "industries": [
   "产业升级",
   "企业服务",
@@ -88,6 +88,21 @@ window.__FINANCING_DATA__ = {
   "陕西省"
  ],
  "list": [
+  {
+   "id": "3934903771614341",
+   "date": "2026-08-11",
+   "name": "中药药浴乳开创者",
+   "desc": "中医药保健用品皮肤慢病解决方案供应商",
+   "industry": [
+    "消费电商",
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "3000人民币",
+   "investors": "未透露",
+   "url": "https://pitchhub.36kr.com/project/3934903771614341",
+   "province": "浙江省"
+  },
   {
    "id": "3926295227764102",
    "date": "2026-08-01",
