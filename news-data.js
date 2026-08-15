@@ -1,68 +1,68 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "tech": [
     {
-      "title": "「美国豆包手机」全系涨价，新东西全留给了 Gemini",
-      "url": "http://www.geekpark.net/news/368766",
-      "excerpt": "Pixel 11 不是一台想赢的手机，它是 Gemini 的身体。 作者｜张勇毅 编辑｜靖宇 纽约时间 8 月 12 日下午，谷歌在布鲁克林开完了今年的 Made by Google 发布会。 Pixel 11 全系四款手机、Pixel Watch 5，加上防",
+      "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
+      "url": "http://www.geekpark.net/news/368849",
+      "excerpt": "智谱正式发布 GLM-5.3，拥有更强编程能力 8 月 14 日，据介绍，与 GLM-5.2 相比，GLM-5.3 基座模型未变，但通过极致的后训练 Scaling 大大提高了模型的智能上界。 GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM",
       "src": "极客公园",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "这家靠全景起步的公司，正在逐步让用户「忘掉相机」",
+      "url": "http://www.geekpark.net/news/368847",
+      "excerpt": "你上一次打开全景相机，是什么时候？ 几个全景品类的老用户告诉我：全景相机很容易「吃灰」。他们当年冲着拍出酷炫的运动视频下单，到手之后发现不是没有相机，而是没那么多时间去滑雪、潜水、登山&hellip;&hellip;机器用了几次就放抽屉里了。 不过，更多最近一",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "阿里云，接得住中国智驾吗？",
+      "url": "http://www.geekpark.net/news/368846",
+      "excerpt": "作者｜李苏 编辑｜靖宇 8 月，乌兰察布。 近 30 位来自核心车企和方案商的智驾关键力量，被请进了阿里巴巴数据中心。 这里承载着中国智能驾驶研发 60% 的算力。数据中心昼夜不停，像一颗强健搏动的心脏；而道路上智能驾驶的车辆每一次从容的转弯、精准的刹停、安稳",
+      "src": "极客公园",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "excerpt": "所有人都可免费下载部署及商用。",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+      "url": "https://www.qbitai.com/2026/08/473153.html",
+      "excerpt": "布林亲自下场督战",
+      "src": "量子位",
       "tag": "谷歌",
       "cat": "tech"
     },
     {
-      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-      "url": "https://www.qbitai.com/2026/08/472016.html",
-      "excerpt": "好数学家不挑AI模型",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚！Ilya首个模型曝光了",
-      "url": "https://www.qbitai.com/2026/08/471701.html",
-      "excerpt": "SSI第一剑，劈向持续学习",
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "url": "https://www.qbitai.com/2026/08/473149.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "梁文锋突袭马斯克！DeepSeek V4 Pro对战Grok 4.6，首测夯爆了",
-      "url": "https://aiera.com.cn/2026/08/14/other/admin/109091/%e6%a2%81%e6%96%87%e9%94%8b%e7%aa%81%e8%a2%ad%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%81deepseek-v4-pro%e5%af%b9%e6%88%98grok-4-6%ef%bc%8c%e9%a6%96%e6%b5%8b%e5%a4%af%e7%88%86%e4%ba%86/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "DeepSeek",
-      "cat": "tech"
-    },
-    {
-      "title": "困扰数学圈22年的难题，居然被协和实习医生解决了？",
-      "url": "https://aiera.com.cn/2026/08/14/other/admin/109064/%e5%9b%b0%e6%89%b0%e6%95%b0%e5%ad%a6%e5%9c%8822%e5%b9%b4%e7%9a%84%e9%9a%be%e9%a2%98%ef%bc%8c%e5%b1%85%e7%84%b6%e8%a2%ab%e5%8d%8f%e5%92%8c%e5%ae%9e%e4%b9%a0%e5%8c%bb%e7%94%9f%e8%a7%a3%e5%86%b3%e4%ba%86/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚，中国AI交卷！40年难题56分钟破局，AI不再「学习」",
-      "url": "https://aiera.com.cn/2026/08/14/other/admin/109045/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bdai%e4%ba%a4%e5%8d%b7%ef%bc%8140%e5%b9%b4%e9%9a%be%e9%a2%9856%e5%88%86%e9%92%9f%e7%a0%b4%e5%b1%80%ef%bc%8cai%e4%b8%8d%e5%86%8d%e3%80%8c%e5%ad%a6%e4%b9%a0/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Claude新风口杀疯！海外年轻人上头，刷App成瘾",
-      "url": "https://aiera.com.cn/2026/08/14/other/admin/109027/claude%e6%96%b0%e9%a3%8e%e5%8f%a3%e6%9d%80%e7%96%af%ef%bc%81%e6%b5%b7%e5%a4%96%e5%b9%b4%e8%bd%bb%e4%ba%ba%e4%b8%8a%e5%a4%b4%ef%bc%8c%e5%88%b7app%e6%88%90%e7%98%be/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Opus 5通关ARC-AGI-3！Harness正在变成捆住模型的绳子",
-      "url": "https://aiera.com.cn/2026/08/14/other/admin/109017/opus-5%e9%80%9a%e5%85%b3arc-agi-3%ef%bc%81harness%e6%ad%a3%e5%9c%a8%e5%8f%98%e6%88%90%e6%8d%86%e4%bd%8f%e6%a8%a1%e5%9e%8b%e7%9a%84%e7%bb%b3%e5%ad%90/",
+      "title": "GPT-5.6一夜刷新AI智能天花板！最小模型成本暴降25倍",
+      "url": "https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d/",
       "excerpt": "",
       "src": "新智元",
       "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了",
+      "url": "https://aiera.com.cn/2026/08/15/other/admin/109207/%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c%e7%a2%be%e5%8e%8b%e8%b0%b7%e6%ad%8c%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%88thinking-machines%e8%af%9e%e7%94%9f%ef%bc%8c%e8%af%ad%e9%9f%b3%e8%b5%9b%e9%81%93/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "谷歌",
       "cat": "tech"
     }
   ],
@@ -84,35 +84,35 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
-      "url": "http://www.geekpark.net/news/368747",
-      "excerpt": "DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 58 月 13 日消息，DeepSeek V4 Pro 正式版正式发布，已更新至 API，调用模型名不变。新版本增强了 Agent 能力，支持 Responses API ",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
-      "url": "http://www.geekpark.net/news/368744",
-      "excerpt": "作者｜lfei 编辑｜靖宇 8 月 3 日， Genspark 创始人&CEO 景鲲在 AGI Playground 2026 大会上发布了 GenOffice 。这是一款 AI 深度集成的本地 Office 客户端，其亮点在于打通了从 AI 生成到工作交付间",
-      "src": "极客公园",
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "url": "https://www.qbitai.com/2026/08/473038.html",
+      "excerpt": "顺手拿下最强开源安全模型",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "excerpt": "欢迎，为后人种点树",
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "url": "https://www.qbitai.com/2026/08/473144.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "DeepSeek",
+      "tag": "百度",
       "cat": "app"
     },
     {
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "excerpt": "首颗AI芯片已进入量产",
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "url": "https://www.qbitai.com/2026/08/472722.html",
+      "excerpt": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
       "src": "量子位",
-      "tag": "芯片",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码",
+      "url": "https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "OpenAI",
       "cat": "app"
     }
   ],
@@ -126,46 +126,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-      "url": "https://www.qbitai.com/2026/08/472067.html",
-      "excerpt": "马斯克版Workbuddy也来了",
+      "title": "7亿年薪留不住！余家辉离职Meta创业",
+      "url": "https://www.qbitai.com/2026/08/473261.html",
+      "excerpt": "真就只待了一年",
       "src": "量子位",
-      "tag": "马斯克",
+      "tag": "Meta",
       "cat": "enterprise"
     },
     {
-      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-      "url": "https://www.qbitai.com/2026/08/472060.html",
-      "excerpt": "重新定义物理AI数据基础设施",
+      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+      "url": "https://www.qbitai.com/2026/08/472718.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "具身智能",
-      "cat": "enterprise"
-    },
-    {
-      "title": "追觅卖出首台超 3 万美元 AURORA 手机：编号 001，带有俞浩签名",
-      "url": "https://www.ithome.com/0/989/677.htm",
-      "excerpt": "IT之家 8 月 14 日消息，综合蓝鲸新闻、红星资本局今日报道，追觅手机负责人 8 月 13 日在朋友圈透露，公司已正式交付 001 号 AURORA 手机。据其透露，3 万美元（IT之家注：现汇率约合 20.3 万元人民币）交易款项已全部到账，其中首付款 ",
-      "src": "IT之家",
       "tag": "行业动态",
       "cat": "enterprise"
+    },
+    {
+      "title": "GPT-5也会话到嘴边想不起来！谷歌测了450万次：钥匙丢了",
+      "url": "https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "谷歌",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Claude",
-      "刚刚",
-      "Gemini",
-      "新东西全留给了",
-      "Ilya"
+      "AI+",
+      "GLM-5.3",
+      "智谱发布",
+      "编程能力更强",
+      "模型"
     ],
     "app": [
+      "AI",
       "DeepSeek",
       "Agent",
       "Harness",
-      "实测",
-      "V4",
-      "Pro"
+      "Android",
+      "实测"
     ],
     "enterprise": [
       "DeepSeek",
@@ -183,79 +183,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "DeepSeek",
-      "wt": 0.72
+      "wt": 0.71
+    },
+    {
+      "w": "GLM-5.3",
+      "wt": 0.59
     },
     {
       "w": "Harness",
-      "wt": 0.65
+      "wt": 0.59
     },
     {
       "w": "Agent",
-      "wt": 0.57
-    },
-    {
-      "w": "Claude",
-      "wt": 0.57
-    },
-    {
-      "w": "V4",
-      "wt": 0.57
-    },
-    {
-      "w": "Pro",
-      "wt": 0.57
-    },
-    {
-      "w": "实测",
-      "wt": 0.5
-    },
-    {
-      "w": "上新",
-      "wt": 0.5
-    },
-    {
-      "w": "Grok",
-      "wt": 0.5
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.5
-    },
-    {
-      "w": "Android",
-      "wt": 0.42
-    },
-    {
-      "w": "一夜",
-      "wt": 0.42
-    },
-    {
-      "w": "万星",
-      "wt": 0.42
-    },
-    {
-      "w": "界的",
-      "wt": 0.42
-    },
-    {
-      "w": "来了",
-      "wt": 0.42
-    },
-    {
-      "w": "Cowork",
-      "wt": 0.42
+      "wt": 0.59
     },
     {
       "w": "OpenAI",
-      "wt": 0.42
+      "wt": 0.59
     },
     {
-      "w": "公测",
-      "wt": 0.42
+      "w": "Pro",
+      "wt": 0.59
     },
     {
-      "w": "对标",
-      "wt": 0.42
+      "w": "刚刚",
+      "wt": 0.59
+    },
+    {
+      "w": "AI+",
+      "wt": 0.59
+    },
+    {
+      "w": "智谱发布",
+      "wt": 0.47
+    },
+    {
+      "w": "编程能力更强",
+      "wt": 0.47
+    },
+    {
+      "w": "模型",
+      "wt": 0.47
+    },
+    {
+      "w": "微信",
+      "wt": 0.47
+    },
+    {
+      "w": "朋友圈现在",
+      "wt": 0.47
+    },
+    {
+      "w": "过去",
+      "wt": 0.47
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.47
+    },
+    {
+      "w": "阿里云",
+      "wt": 0.47
+    },
+    {
+      "w": "接得住中国智驾吗",
+      "wt": 0.47
+    },
+    {
+      "w": "Android",
+      "wt": 0.47
+    },
+    {
+      "w": "实测",
+      "wt": 0.47
     }
   ],
   "total": 18
