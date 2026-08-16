@@ -1,6 +1,30 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "tech": [
+    {
+      "title": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+      "url": "http://www.geekpark.net/news/368854",
+      "excerpt": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展 8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。 作为大",
+      "src": "极客公园",
+      "tag": "腾讯",
+      "cat": "tech"
+    },
+    {
+      "title": "3 个月烧掉 105 亿，腾讯急了",
+      "url": "http://www.geekpark.net/news/368852",
+      "excerpt": "头图来源：视觉中国 腾讯的 AI 故事，正在进入一个更昂贵的阶段。 8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non-IFRS 归母净利",
+      "src": "极客公园",
+      "tag": "腾讯",
+      "cat": "tech"
+    },
+    {
+      "title": "当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题",
+      "url": "http://www.geekpark.net/news/368851",
+      "excerpt": "头图来源：视觉中国 「人人都应该有一个 AI 工作台」，最近这段时间，网络上掀起了一阵搭建个人工作台的热潮。 先是一位百万级大网红用 WorkBuddy 几句话搭出了一个专属工作台，视频发出后，抖音、小红书的评论区随即变成了「大型交作业现场」—— 有人搭自媒体",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
       "url": "http://www.geekpark.net/news/368849",
@@ -26,105 +50,57 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "url": "https://www.qbitai.com/2026/08/473379.html",
-      "excerpt": "所有人都可免费下载部署及商用。",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "excerpt": "理解大模型，无需再训练一个替代网络",
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-      "url": "https://www.qbitai.com/2026/08/473153.html",
-      "excerpt": "布林亲自下场督战",
-      "src": "量子位",
-      "tag": "谷歌",
-      "cat": "tech"
-    },
-    {
-      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-      "url": "https://www.qbitai.com/2026/08/473149.html",
-      "excerpt": "",
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "excerpt": "音潮API限时免费开放",
       "src": "量子位",
       "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "GPT-5.6一夜刷新AI智能天花板！最小模型成本暴降25倍",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109207/%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c%e7%a2%be%e5%8e%8b%e8%b0%b7%e6%ad%8c%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%88thinking-machines%e8%af%9e%e7%94%9f%ef%bc%8c%e8%af%ad%e9%9f%b3%e8%b5%9b%e9%81%93/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "谷歌",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
-      "url": "http://www.geekpark.net/news/368809",
-      "excerpt": "Agent 行业需要一个 Android。 作者｜张勇毅 编辑｜靖宇 北京时间 8 月 13 日晚上八点半，DeepSeek 正式公布了它成立以来的第一个 Agent 产品，之前预热很久，大家期待值很高的 Deepseek Harness。 截至发稿，它的 G",
-      "src": "极客公园",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "excerpt": "推理能力还能自定义",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "url": "https://www.qbitai.com/2026/08/473597.html",
+      "excerpt": "大家已经给DeepSeek装上了啥",
+      "src": "量子位",
       "tag": "DeepSeek",
       "cat": "app"
     },
     {
-      "title": "实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新",
-      "url": "http://www.geekpark.net/news/368777",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 没有预告，没有倒计时，甚至连更新日志都没来得及写好。DeepSeek V4 Pro 的正式版，就这么悄悄的来了。 8 月 13 日凌晨，DeepSeek 官网悄悄刷新了 API 文档。模型名还是那个 deepseek-v4-pro，",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "excerpt": "顺手拿下最强开源安全模型",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "百度",
-      "cat": "app"
-    },
-    {
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "excerpt": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+      "url": "https://www.qbitai.com/2026/08/473407.html",
+      "excerpt": "1.9万字全文实录",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "OpenAI",
+      "title": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 模型，可直接选用",
+      "url": "https://www.ithome.com/0/990/264.htm",
+      "excerpt": "IT之家 8 月 16 日消息，近日，千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 两款前沿模型。即日起，用户可在产品首页的「前沿模型」档位直接选用。DeepSeek V4 Pro 是 DeepSeek 最新旗舰大模型，支持 100 万",
+      "src": "IT之家",
+      "tag": "DeepSeek",
       "cat": "app"
     }
   ],
   "enterprise": [
-    {
-      "title": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
-      "url": "http://www.geekpark.net/news/368789",
-      "excerpt": "对标 Claude Cowork：DeepSeek Harness 公测，同步开放插件生态 8 月 13 日消息，DeepSeek-V4-Pro-0813 正式开源，同时还推出了其开源（MIT 协议）的代码智能体框架 Harness 的 v0.1 开发者预览版",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "enterprise"
-    },
     {
       "title": "7亿年薪留不住！余家辉离职Meta创业",
       "url": "https://www.qbitai.com/2026/08/473261.html",
@@ -134,46 +110,54 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-      "url": "https://www.qbitai.com/2026/08/472718.html",
-      "excerpt": "",
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "url": "https://www.qbitai.com/2026/08/473395.html",
+      "excerpt": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "enterprise"
+      "tag": "华为",
+      "cat": "tech"
     },
     {
-      "title": "GPT-5也会话到嘴边想不起来！谷歌测了450万次：钥匙丢了",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2/",
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "excerpt": "所有人都可免费下载部署及商用。",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109319/388%e4%b8%aapr%e5%85%a8%e9%83%a8ai%e6%93%8d%e5%88%80%ef%bc%8c180%e4%b8%aa%e5%b7%b2%e5%90%88%e5%b9%b6%ef%bc%81claude%e4%b9%8b%e7%88%b6%ef%bc%9a%e7%a8%8b%e5%ba%8f%e5%91%98%e5%8f%aa%e5%89%a9%e4%b8%8b/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "谷歌",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "AI+",
-      "GLM-5.3",
-      "智谱发布",
-      "编程能力更强",
-      "模型"
+      "Anthropic",
+      "评估",
+      "风险上升",
+      "暂不公开更强模型",
+      "刘炽平"
     ],
     "app": [
-      "AI",
       "DeepSeek",
+      "Opus",
       "Agent",
-      "Harness",
-      "Android",
-      "实测"
+      "Qwen3.8-27B",
+      "Claude",
+      "源神启动"
     ],
     "enterprise": [
-      "DeepSeek",
-      "Harness",
-      "Claude",
-      "Cowork",
-      "OpenAI",
-      "公测"
+      "Meta",
+      "高效低成本开发",
+      "商业增长回报高",
+      "Qwen3.8-27B",
+      "刚刚",
+      "开源了"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.71
+      "w": "Anthropic",
+      "wt": 0.61
+    },
+    {
+      "w": "Claude",
+      "wt": 0.61
     },
     {
       "w": "GLM-5.3",
-      "wt": 0.59
-    },
-    {
-      "w": "Harness",
-      "wt": 0.59
-    },
-    {
-      "w": "Agent",
-      "wt": 0.59
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.59
-    },
-    {
-      "w": "Pro",
-      "wt": 0.59
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.59
-    },
-    {
-      "w": "AI+",
-      "wt": 0.59
-    },
-    {
-      "w": "智谱发布",
-      "wt": 0.47
-    },
-    {
-      "w": "编程能力更强",
-      "wt": 0.47
+      "wt": 0.52
     },
     {
       "w": "模型",
-      "wt": 0.47
+      "wt": 0.52
     },
     {
-      "w": "微信",
-      "wt": 0.47
+      "w": "Qwen3.8-27B",
+      "wt": 0.52
     },
     {
-      "w": "朋友圈现在",
-      "wt": 0.47
+      "w": "DeepSeek",
+      "wt": 0.52
     },
     {
-      "w": "过去",
-      "wt": 0.47
+      "w": "刚刚",
+      "wt": 0.52
     },
     {
-      "w": "极客早知道",
-      "wt": 0.47
+      "w": "Pro",
+      "wt": 0.52
     },
     {
-      "w": "阿里云",
-      "wt": 0.47
+      "w": "评估",
+      "wt": 0.44
     },
     {
-      "w": "接得住中国智驾吗",
-      "wt": 0.47
+      "w": "风险上升",
+      "wt": 0.44
     },
     {
-      "w": "Android",
-      "wt": 0.47
+      "w": "暂不公开更强模型",
+      "wt": 0.44
     },
     {
-      "w": "实测",
-      "wt": 0.47
+      "w": "刘炽平",
+      "wt": 0.44
+    },
+    {
+      "w": "微信将成为",
+      "wt": 0.44
+    },
+    {
+      "w": "为先的生态系统",
+      "wt": 0.44
+    },
+    {
+      "w": "个月烧掉",
+      "wt": 0.44
+    },
+    {
+      "w": "腾讯急了",
+      "wt": 0.44
+    },
+    {
+      "w": "HTML",
+      "wt": 0.44
+    },
+    {
+      "w": "WorkBuddy",
+      "wt": 0.44
+    },
+    {
+      "w": "开始批量写",
+      "wt": 0.44
     }
   ],
-  "total": 18
+  "total": 16
 };
