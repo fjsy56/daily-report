@@ -1,6 +1,30 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "tech": [
+    {
+      "title": "「广告位」时代已死，智能体商业开收「中介费」",
+      "url": "http://www.geekpark.net/news/369078",
+      "excerpt": "「意图」这两个字，在整场支付宝 AI 生态合作伙伴大会上被提及了超 40 次。 如果说 5 月的 AI 支付生态大会上，Token Pay、AI 钱包，加上此前推出的 AI 付与 AI 收，代表支付宝明确了「支付可以用 AI」；那么这一次，我们看到的是，支付宝",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "睡觉时往脑袋上通电，4000 个美国人抢着买单",
+      "url": "http://www.geekpark.net/news/369077",
+      "excerpt": "提到印度科技，你想到的大概是外包、程序员和满街的仿制药。很少有人会想到，2026 年美国众筹市场上最快破百万美元的印度健康硬件，是一群班加罗尔年轻人做的一枚神经刺激贴片。 这款睡眠设备 DUSQ，6 月 9 日在 Kickstarter 上线，设备重 12 克",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "宇树往事",
+      "url": "http://www.geekpark.net/news/369047",
+      "excerpt": "今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。 对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。 大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 20",
+      "src": "极客公园",
+      "tag": "宇树",
+      "cat": "tech"
+    },
     {
       "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
       "url": "http://www.geekpark.net/news/369013",
@@ -10,252 +34,228 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
-      "url": "http://www.geekpark.net/news/368962",
-      "excerpt": "今年6月26日，英国气温飙到了36摄氏度，创下十多年来的纪录。 26万台小电风扇，从中国出发，在不到两周的时间里涌进了欧洲人的家门。不少英国人从下单到收货，只用了两天半。 放在五年前，跨境卖家根本不敢想象这么快。而现在，这不得不成为“基础”。 8月5日，菜鸟集",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板",
-      "url": "http://www.geekpark.net/news/368932",
-      "excerpt": "在天上，为全景影像打下地基。 作者｜张勇毅 编辑｜郑玄 即使你不怎么关注摩托车，今年你大概也刷到过张雪机车的故事：一支成立不到两年的中国车队，第一次征战世界超级摩托车锦标赛，今年 3 月底就在葡萄牙波尔蒂芒以近 4 秒的优势拿下队史首冠，周末连下两回合；到 6",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "宇树发布「机器超人」：原地跳高 2m；豆包上线新功能，手机可远程控制电脑；吉利汽车架构调整，李书福辞任董事会主席｜极客早知道",
-      "url": "http://www.geekpark.net/news/368929",
-      "excerpt": "宇树科技发布「超人」机器人，并定 8 月 19 日科创板上市 8 月 17 日，宇树科技发布了一款人形机器人新品「超人」，原地跳高 2m，极限速度 12.66m/s（0.85m 腿长），超越全世界全人类原地跳高和奔跑速度纪录。 宇树科技表示，全新整机刚用 3 ",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "郭富城换车，30万级顶配华为全家桶",
-      "url": "https://www.qbitai.com/2026/08/475009.html",
-      "excerpt": "5.3米六座家用SUV",
-      "src": "量子位",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-      "url": "https://www.qbitai.com/2026/08/474868.html",
-      "excerpt": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+      "url": "https://www.qbitai.com/2026/08/476075.html",
+      "excerpt": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "突发！Cursor一夜干掉了GitHub",
-      "url": "https://aiera.com.cn/2026/08/19/other/admin/109724/%e7%aa%81%e5%8f%91%ef%bc%81cursor%e4%b8%80%e5%a4%9c%e5%b9%b2%e6%8e%89%e4%ba%86github/",
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "url": "https://www.qbitai.com/2026/08/475931.html",
       "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "顶尖数学家含泪退圈：熬了多年的博士难题，被AI几周秒杀！",
-      "url": "https://aiera.com.cn/2026/08/19/other/admin/109705/%e9%a1%b6%e5%b0%96%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%90%ab%e6%b3%aa%e9%80%80%e5%9c%88%ef%bc%9a%e7%86%ac%e4%ba%86%e5%a4%9a%e5%b9%b4%e7%9a%84%e5%8d%9a%e5%a3%ab%e9%9a%be%e9%a2%98%ef%bc%8c%e8%a2%abai%e5%87%a0/",
+      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+      "url": "https://www.qbitai.com/2026/08/475477.html",
+      "excerpt": "构建全栈物理AI基础设施",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "突发！OpenAI紧急暂停GPT-6训练",
+      "url": "https://aiera.com.cn/2026/08/20/other/admin/109883/%e7%aa%81%e5%8f%91%ef%bc%81openai%e7%b4%a7%e6%80%a5%e6%9a%82%e5%81%9cgpt-6%e8%ae%ad%e7%bb%83/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "行业动态",
+      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
-      "url": "http://www.geekpark.net/news/369003",
-      "excerpt": "嘲讽与反转，是属于 DSH 同一个架构的因果两端。 作者｜张勇毅 编辑｜靖宇 8 月 14 日上午，DeepSeek Harness 上线 GitHub 还不到十二小时，项目 GitHub Star 就突破了 5 万。跻身 GitHub 史上最速达成记录之列。",
+      "title": "中国首次实现火箭陆地回收；宇树上市，市值最高超 4000 亿；蔡明同款机器人亮相，9.9 万元｜极客早知道",
+      "url": "http://www.geekpark.net/news/369056",
+      "excerpt": "朱雀三号遥二发射成功，我国首次实现火箭陆地回收 据央视新闻报道，8 月 19 日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪，飞行任务取得圆满成功。这是我国在重复使用火箭关键技术上取得的又一",
       "src": "极客公园",
-      "tag": "DeepSeek",
+      "tag": "宇树",
       "cat": "app"
     },
     {
-      "title": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
-      "url": "http://www.geekpark.net/news/368995",
-      "excerpt": "OpenAI第二季度营收 67 亿美元，增速远不及 Anthropic 据《华尔街日报》报道，OpenAI 向投资者透露，其第二季度营收较第一季度增长了 18%，但亏损进一步扩大。这一业绩令部分股东感到失望，他们此前曾期望这家公司在追赶竞争对手 Anthrop",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-      "url": "https://www.qbitai.com/2026/08/474857.html",
-      "excerpt": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+      "url": "https://www.qbitai.com/2026/08/476078.html",
+      "excerpt": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-      "url": "https://www.qbitai.com/2026/08/474838.html",
-      "excerpt": "给机器人造一个更接近真实的“第二世界”",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-      "url": "https://www.qbitai.com/2026/08/474840.html",
-      "excerpt": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "excerpt": "成本也正成为Agent商业化需要考虑的重要因素",
       "src": "量子位",
       "tag": "阿里",
       "cat": "app"
     },
     {
-      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
-      "url": "https://www.qbitai.com/2026/08/474806.html",
-      "excerpt": "代码能跑≠游戏能玩",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/475907.html",
+      "excerpt": "超维动力KAI全栈具身智能硬核登场",
       "src": "量子位",
-      "tag": "Agent",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "url": "https://www.qbitai.com/2026/08/475901.html",
+      "excerpt": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "src": "量子位",
+      "tag": "AI安全",
+      "cat": "app"
+    },
+    {
+      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
+      "url": "https://aiera.com.cn/2026/08/20/other/admin/109884/%e4%b8%89%e7%ae%ad%e9%bd%90%e5%8f%91%ef%bc%81%e4%bc%98%e5%bf%85%e9%80%89wrc2026%e5%85%a8%e6%96%b9%e4%bd%8d%e5%b1%95%e7%a4%ba%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%b7%a5%e4%b8%9a%e3%80%81/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-      "url": "https://www.qbitai.com/2026/08/474907.html",
-      "excerpt": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
-      "src": "量子位",
-      "tag": "融资",
+      "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "url": "http://www.geekpark.net/news/369051",
+      "excerpt": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。 作者 | Li Yuan 8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。 当市场盯着这家「机器人身体",
+      "src": "极客公园",
+      "tag": "宇树",
       "cat": "enterprise"
     },
     {
-      "title": "传闻谷歌找上 AMD，扩展 TPU v10 合作对象",
-      "url": "https://www.ithome.com/0/991/561.htm",
-      "excerpt": "IT之家 8 月 19 日消息，根据一份泄露到外部的 SemiAnalysis 报告，有市场传闻称 Google（谷歌）正与 AMD 合作开发一个第十代 TPU 项目，这很有可能成为 AMD 拿下的首个定制 AI ASIC 项目。报告认为，AMD 拥有强大的先",
-      "src": "IT之家",
-      "tag": "谷歌",
+      "title": "MiniMax核心工程负责人阿岛离职",
+      "url": "https://www.qbitai.com/2026/08/475869.html",
+      "excerpt": "从技术研发到开发者沟通，长期活跃在开发者一线",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "今日起，阿里“千问办公”接入企业微信",
-      "url": "https://www.qbitai.com/2026/08/474803.html",
-      "excerpt": "国内三大办公平台全面支持",
-      "src": "量子位",
-      "tag": "阿里",
-      "cat": "app"
-    },
-    {
-      "title": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
-      "url": "https://aiera.com.cn/2026/08/19/other/admin/109687/anthropic%e6%b1%82%e9%94%a4%e5%be%97%e9%94%a4%ef%bc%81mythos-2%e8%a2%ab%e6%9b%9d%e9%9b%aa%e8%97%8f%ef%bc%8cmythos-3%e6%ad%a3%e7%a7%98%e5%af%86%e7%a0%94%e5%8f%91/",
+      "title": "都标5美元，账单差三成！OpenAI高管：token从来没法直接比价",
+      "url": "https://aiera.com.cn/2026/08/20/other/admin/109859/%e9%83%bd%e6%a0%875%e7%be%8e%e5%85%83%ef%bc%8c%e8%b4%a6%e5%8d%95%e5%b7%ae%e4%b8%89%e6%88%90%ef%bc%81openai%e9%ab%98%e7%ae%a1%ef%bc%9atoken%e4%bb%8e%e6%9d%a5%e6%b2%a1%e6%b3%95%e7%9b%b4%e6%8e%a5/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "操作系统",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
+      "title": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机",
+      "url": "https://aiera.com.cn/2026/08/20/other/admin/109848/%e7%aa%81%e5%8f%91%ef%bc%8cfable-5-1%e6%b3%84%e9%9c%b2%e4%ba%86%ef%bc%81claude%e5%8f%88%e5%8f%92%e5%8f%95%e5%85%a8%e7%90%83%e5%a4%a7%e5%ae%95%e6%9c%ba/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
+      "个美国人抢着买单",
+      "宇树往事",
       "MB",
       "传一个",
       "模型上天要四周",
-      "TikTok",
-      "三天",
-      "从深圳到伦敦"
+      "Q3"
     ],
     "app": [
-      "AI",
-      "Agent",
-      "DeepSeek",
-      "Harness",
-      "Store",
-      "黑鲸鱼"
+      "宇树上市",
+      "市值最高超",
+      "万元",
+      "极客早知道",
+      "WRC",
+      "Agent"
     ],
     "enterprise": [
-      "Mythos",
-      "MAX",
-      "AMD",
-      "TPU",
-      "v10",
-      "传闻谷歌找上"
+      "独家",
+      "宇树上市庆功宴上",
+      "MiniMax",
+      "OpenAI",
+      "token",
+      "账单差三成"
     ]
   },
   "hotwords": [
     {
-      "w": "AI",
+      "w": "WRC",
       "wt": 0.95
     },
     {
-      "w": "Agent",
-      "wt": 0.52
+      "w": "OpenAI",
+      "wt": 0.95
+    },
+    {
+      "w": "Claude",
+      "wt": 0.95
+    },
+    {
+      "w": "个美国人抢着买单",
+      "wt": 0.65
+    },
+    {
+      "w": "宇树上市",
+      "wt": 0.65
+    },
+    {
+      "w": "市值最高超",
+      "wt": 0.65
+    },
+    {
+      "w": "万元",
+      "wt": 0.65
     },
     {
       "w": "极客早知道",
-      "wt": 0.52
+      "wt": 0.65
     },
     {
-      "w": "Mythos",
-      "wt": 0.52
+      "w": "独家",
+      "wt": 0.65
     },
     {
-      "w": "OpenAI",
-      "wt": 0.52
+      "w": "宇树上市庆功宴上",
+      "wt": 0.65
+    },
+    {
+      "w": "宇树往事",
+      "wt": 0.65
     },
     {
       "w": "MB",
-      "wt": 0.44
+      "wt": 0.65
     },
     {
       "w": "传一个",
-      "wt": 0.44
+      "wt": 0.65
     },
     {
       "w": "模型上天要四周",
-      "wt": 0.44
+      "wt": 0.65
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.44
+      "w": "Q3",
+      "wt": 0.65
     },
     {
-      "w": "Harness",
-      "wt": 0.44
+      "w": "Agent",
+      "wt": 0.65
     },
     {
-      "w": "Store",
-      "wt": 0.44
+      "w": "IDC",
+      "wt": 0.65
     },
     {
-      "w": "黑鲸鱼",
-      "wt": 0.44
+      "w": "AI50",
+      "wt": 0.65
     },
     {
-      "w": "SpaceX",
-      "wt": 0.44
+      "w": "MiniMax",
+      "wt": 0.65
     },
     {
-      "w": "特斯拉与",
-      "wt": 0.44
-    },
-    {
-      "w": "合并预期升温",
-      "wt": 0.44
-    },
-    {
-      "w": "TikTok",
-      "wt": 0.44
-    },
-    {
-      "w": "三天",
-      "wt": 0.44
-    },
-    {
-      "w": "从深圳到伦敦",
-      "wt": 0.44
-    },
-    {
-      "w": "原地跳高",
-      "wt": 0.44
-    },
-    {
-      "w": "豆包上线新功能",
-      "wt": 0.44
+      "w": "具身数据底座开卖",
+      "wt": 0.65
     }
   ],
   "total": 18
