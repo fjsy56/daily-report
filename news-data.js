@@ -1,6 +1,30 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "tech": [
+    {
+      "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
+      "url": "http://www.geekpark.net/news/369201",
+      "excerpt": "作者｜Cynthia 编辑｜靖宇 7 月 31 日，MiniMax H3 发布当天，我们就做了实测。 屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
+      "url": "http://www.geekpark.net/news/369200",
+      "excerpt": "作者｜李苏 编辑｜靖宇 8 月 20 日晚，阿里巴巴发布新季度业绩。 阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 133%，利润率升至 1",
+      "src": "极客公园",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
+      "url": "http://www.geekpark.net/news/369161",
+      "excerpt": "头图来源：chatgpt 生成 前几天，我们注意小红书在海外发布了一款大模型 dots3-note preview。 这款模型采用 MoE 架构，总参数 280B、激活参数 16B，支持 512K 上下文，并具备文本、视觉、语音的多模态理解能力。它属于 dot",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "tech"
+    },
     {
       "title": "曝周杰伦将代言 vivo 手机；华为「阔直板」手机曝光；柯洁透露战胜 AI 秘诀：装弱智｜极客早知道",
       "url": "http://www.geekpark.net/news/369114",
@@ -10,162 +34,146 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "「广告位」时代已死，智能体商业开收「中介费」",
-      "url": "http://www.geekpark.net/news/369078",
-      "excerpt": "「意图」这两个字，在整场支付宝 AI 生态合作伙伴大会上被提及了超 40 次。 如果说 5 月的 AI 支付生态大会上，Token Pay、AI 钱包，加上此前推出的 AI 付与 AI 收，代表支付宝明确了「支付可以用 AI」；那么这一次，我们看到的是，支付宝",
-      "src": "极客公园",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "睡觉时往脑袋上通电，4000 个美国人抢着买单",
-      "url": "http://www.geekpark.net/news/369077",
-      "excerpt": "提到印度科技，你想到的大概是外包、程序员和满街的仿制药。很少有人会想到，2026 年美国众筹市场上最快破百万美元的印度健康硬件，是一群班加罗尔年轻人做的一枚神经刺激贴片。 这款睡眠设备 DUSQ，6 月 9 日在 Kickstarter 上线，设备重 12 克",
-      "src": "极客公园",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "excerpt": "让科学家的时间回到科学创造",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "宇树往事",
-      "url": "http://www.geekpark.net/news/369047",
-      "excerpt": "今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。 对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。 大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 20",
-      "src": "极客公园",
-      "tag": "宇树",
+      "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+      "url": "https://www.qbitai.com/2026/08/476532.html",
+      "excerpt": "一点新鲜变化都没有吗？",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
-      "url": "https://www.qbitai.com/2026/08/476409.html",
+      "title": "Claude Code 被轻易攻破，仅需一个假工具",
+      "url": "https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7/",
       "excerpt": "",
-      "src": "量子位",
+      "src": "新智元",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "url": "https://www.qbitai.com/2026/08/476406.html",
+      "title": "震撼！OpenAI全面开源Codex Harness",
+      "url": "https://aiera.com.cn/2026/08/22/other/admin/110103/%e9%9c%87%e6%92%bc%ef%bc%81openai%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90codex-harness/",
       "excerpt": "",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "url": "https://www.qbitai.com/2026/08/476280.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-      "url": "https://www.qbitai.com/2026/08/476281.html",
-      "excerpt": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-      "src": "量子位",
-      "tag": "行业动态",
+      "src": "新智元",
+      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "中国首次实现火箭陆地回收；宇树上市，市值最高超 4000 亿；蔡明同款机器人亮相，9.9 万元｜极客早知道",
-      "url": "http://www.geekpark.net/news/369056",
-      "excerpt": "朱雀三号遥二发射成功，我国首次实现火箭陆地回收 据央视新闻报道，8 月 19 日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪，飞行任务取得圆满成功。这是我国在重复使用火箭关键技术上取得的又一",
+      "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
+      "url": "http://www.geekpark.net/news/369206",
+      "excerpt": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8 8 月 21 日消息，深度求索官方宣布全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 D",
       "src": "极客公园",
-      "tag": "宇树",
+      "tag": "DeepSeek",
       "cat": "app"
     },
     {
-      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
-      "url": "https://www.qbitai.com/2026/08/476413.html",
-      "excerpt": "墨奇，开始加速了",
+      "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
+      "url": "http://www.geekpark.net/news/369162",
+      "excerpt": "头图来源：Wapoo 官网 极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇资本担任公司独家融资",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "app"
+    },
+    {
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "url": "https://www.qbitai.com/2026/08/476778.html",
+      "excerpt": "载重4.2吨、容积19.32m³",
+      "src": "量子位",
+      "tag": "自动驾驶",
+      "cat": "app"
+    },
+    {
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "excerpt": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "url": "https://www.qbitai.com/2026/08/476403.html",
-      "excerpt": "",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "excerpt": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-      "url": "https://www.qbitai.com/2026/08/476199.html",
-      "excerpt": "经典RSI剧本开始动摇",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "excerpt": "机器人看3秒演示就能学会",
       "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "五一视界发布两大具身产品，首次披露“低空-太空-深空”三层空天战略",
-      "url": "https://aiera.com.cn/2026/08/21/other/admin/110054/%e4%ba%94%e4%b8%80%e8%a7%86%e7%95%8c%e5%8f%91%e5%b8%83%e4%b8%a4%e5%a4%a7%e5%85%b7%e8%ba%ab%e4%ba%a7%e5%93%81%ef%bc%8c%e9%a6%96%e6%ac%a1%e6%8a%ab%e9%9c%b2%e4%bd%8e%e7%a9%ba-%e5%a4%aa%e7%a9%ba/",
-      "excerpt": "",
-      "src": "新智元",
       "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
-      "url": "http://www.geekpark.net/news/369051",
-      "excerpt": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。 作者 | Li Yuan 8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。 当市场盯着这家「机器人身体",
-      "src": "极客公园",
-      "tag": "宇树",
-      "cat": "enterprise"
-    },
-    {
-      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
-      "url": "https://www.qbitai.com/2026/08/476400.html",
-      "excerpt": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
+      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "excerpt": "离开谷歌的原因之一：小团队可以极致聚焦！",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "钛动科技宣布完成新一轮融资",
-      "url": "https://aiera.com.cn/2026/08/21/other/admin/110058/%e9%92%9b%e5%8a%a8%e7%a7%91%e6%8a%80%e5%ae%a3%e5%b8%83%e5%ae%8c%e6%88%90%e6%96%b0%e4%b8%80%e8%bd%ae%e8%9e%8d%e8%b5%84/",
-      "excerpt": "",
-      "src": "新智元",
+      "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+      "url": "https://www.ithome.com/0/992/941.htm",
+      "excerpt": "IT之家 8 月 22 日消息，CNBC 昨日（8 月 21 日）发布博文，报道称在 Anthropic 的首次公开募股（IPO）招股说明书中，把美国公众对人工智能的抵制情绪列为关键风险因素。报道称在旧金山举办“试探性推介”会议中，Anthropic 首席财务",
+      "src": "IT之家",
       "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "全新深蓝 G318 上市：华为乾崑 ADS 5 Pro、鸿蒙座舱，限时优惠价 19.68 万元起",
-      "url": "https://www.ithome.com/0/992/588.htm",
-      "excerpt": "IT之家 8 月 21 日消息，在今日举行的 2026 成都车展上，全新深蓝 G318 上市，限时优惠价 19.68 万元起：四驱舒享天枢版：19.98 万元，限时优惠价 19.68 万元四驱舒享乾崑版：21.98 万元，限时优惠价 21.68 万元四驱空悬乾",
-      "src": "IT之家",
-      "tag": "华为",
-      "cat": "enterprise"
+      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/476525.html",
+      "excerpt": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "直击AI4S算力难题！中科曙光全链路解决方案亮相2026科学智能大会",
+      "url": "https://aiera.com.cn/2026/08/21/other/admin/110086/%e7%9b%b4%e5%87%bbai4s%e7%ae%97%e5%8a%9b%e9%9a%be%e9%a2%98%ef%bc%81%e4%b8%ad%e7%a7%91%e6%9b%99%e5%85%89%e5%85%a8%e9%93%be%e8%b7%af%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e4%ba%ae%e7%9b%b82026%e7%a7%91/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
+      "Claude",
+      "Code",
       "AI",
-      "vivo",
-      "曝周杰伦将代言",
-      "手机",
-      "柯洁透露战胜",
-      "秘诀"
+      "MiniMax",
+      "做视频领域的",
+      "SOTA"
     ],
     "app": [
-      "宇树上市",
-      "市值最高超",
-      "万元",
-      "极客早知道",
-      "WRC",
-      "收纳"
+      "AI",
+      "DeepSeek",
+      "上线多模态功能",
+      "多家车企召回",
+      "万辆车",
+      "TikTok"
     ],
     "enterprise": [
-      "Q2",
-      "独家",
-      "宇树上市庆功宴上",
+      "Jeff",
+      "Dean",
+      "IPO",
+      "Anthropic",
       "AI",
-      "G318",
-      "ADS"
+      "冲击全球最大"
     ]
   },
   "hotwords": [
@@ -174,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "Claude",
+      "wt": 0.59
+    },
+    {
+      "w": "Code",
+      "wt": 0.59
+    },
+    {
       "w": "WRC",
-      "wt": 0.85
+      "wt": 0.59
     },
     {
-      "w": "极客早知道",
-      "wt": 0.55
+      "w": "OpenAI",
+      "wt": 0.59
     },
     {
-      "w": "Q2",
-      "wt": 0.55
+      "w": "DeepSeek",
+      "wt": 0.47
+    },
+    {
+      "w": "上线多模态功能",
+      "wt": 0.47
+    },
+    {
+      "w": "多家车企召回",
+      "wt": 0.47
+    },
+    {
+      "w": "万辆车",
+      "wt": 0.47
+    },
+    {
+      "w": "MiniMax",
+      "wt": 0.47
+    },
+    {
+      "w": "做视频领域的",
+      "wt": 0.47
+    },
+    {
+      "w": "SOTA",
+      "wt": 0.47
+    },
+    {
+      "w": "从单点突破到全数",
+      "wt": 0.47
+    },
+    {
+      "w": "TikTok",
+      "wt": 0.47
+    },
+    {
+      "w": "Wapoo",
+      "wt": 0.47
+    },
+    {
+      "w": "产品经理创业",
+      "wt": 0.47
+    },
+    {
+      "w": "视频共创平台",
+      "wt": 0.47
     },
     {
       "w": "vivo",
-      "wt": 0.45
+      "wt": 0.47
     },
     {
       "w": "曝周杰伦将代言",
-      "wt": 0.45
+      "wt": 0.47
     },
     {
       "w": "手机",
-      "wt": 0.45
-    },
-    {
-      "w": "柯洁透露战胜",
-      "wt": 0.45
-    },
-    {
-      "w": "秘诀",
-      "wt": 0.45
-    },
-    {
-      "w": "装弱智",
-      "wt": 0.45
-    },
-    {
-      "w": "个美国人抢着买单",
-      "wt": 0.45
-    },
-    {
-      "w": "宇树上市",
-      "wt": 0.45
-    },
-    {
-      "w": "市值最高超",
-      "wt": 0.45
-    },
-    {
-      "w": "万元",
-      "wt": 0.45
-    },
-    {
-      "w": "独家",
-      "wt": 0.45
-    },
-    {
-      "w": "宇树上市庆功宴上",
-      "wt": 0.45
-    },
-    {
-      "w": "宇树往事",
-      "wt": 0.45
-    },
-    {
-      "w": "收纳",
-      "wt": 0.45
-    },
-    {
-      "w": "补货",
-      "wt": 0.45
-    },
-    {
-      "w": "叠衣服…",
-      "wt": 0.45
+      "wt": 0.47
     }
   ],
-  "total": 17
+  "total": 18
 };
