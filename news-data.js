@@ -1,6 +1,14 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "tech": [
+    {
+      "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
+      "url": "http://www.geekpark.net/news/369223",
+      "excerpt": "如果物理 AI 也能 scaling，意味着什么？ 作者｜Li Yuan 编辑｜靖宇 研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。 然后，他们把刷子拿走，换成一根香蕉。 机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。 随后，香蕉又被换成了一只",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "tech"
+    },
     {
       "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
       "url": "http://www.geekpark.net/news/369215",
@@ -18,55 +26,55 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
-      "url": "http://www.geekpark.net/news/369201",
-      "excerpt": "作者｜Cynthia 编辑｜靖宇 7 月 31 日，MiniMax H3 发布当天，我们就做了实测。 屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-      "url": "http://www.geekpark.net/news/369200",
-      "excerpt": "作者｜李苏 编辑｜靖宇 8 月 20 日晚，阿里巴巴发布新季度业绩。 阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 133%，利润率升至 1",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "url": "https://www.qbitai.com/2026/08/477155.html",
-      "excerpt": "一脑驱动多形落地",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "excerpt": "Tim和胡彦斌亲自颁奖",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "url": "https://www.qbitai.com/2026/08/477094.html",
-      "excerpt": "采集，从一条腕带开始",
+      "title": "具身创业里的香港教授们",
+      "url": "https://www.qbitai.com/2026/08/478289.html",
+      "excerpt": "香港的大学里冒出了一批很特别的人",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "url": "https://www.qbitai.com/2026/08/477090.html",
-      "excerpt": "将真实场景重建为持续更新、可计算的4D数字世界。",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "url": "https://www.qbitai.com/2026/08/478234.html",
+      "excerpt": "多多支持像王兴兴这样优秀的具身机器人创业者",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "宇树",
       "cat": "tech"
     },
     {
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "url": "https://www.qbitai.com/2026/08/476930.html",
-      "excerpt": "让具身智能技术真正落地千行万业。",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "excerpt": "Tokenizer、视频编码、API报错全扒一遍",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
+      "url": "https://www.qbitai.com/2026/08/478020.html",
+      "excerpt": "机器人开卡丁车连续过弯，一镜到底全自主",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+      "url": "http://www.geekpark.net/news/369221",
+      "excerpt": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。 作者｜Li Yuan 编辑｜靖宇 每年走进世界机器人大会，人们最先看到的都是身体。 有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛起几十公斤重物。我们也",
+      "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "app"
+    },
     {
       "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
       "url": "http://www.geekpark.net/news/369206",
@@ -76,104 +84,88 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
-      "url": "http://www.geekpark.net/news/369162",
-      "excerpt": "头图来源：Wapoo 官网 极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇资本担任公司独家融资",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "app"
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "excerpt": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "excerpt": "玩的就是真实",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "url": "https://www.qbitai.com/2026/08/477246.html",
-      "excerpt": "直击WRC",
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "url": "https://www.qbitai.com/2026/08/478093.html",
+      "excerpt": "AstraTennis时刻背后的硬核技术",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477016.html",
-      "excerpt": "具身智能赛道壁垒不在出货量",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "url": "https://www.qbitai.com/2026/08/476965.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "具身智能",
+      "title": "Anthropic 最强大模型 Fable 5 遇冷，企业用户转向更便宜 AI 产品",
+      "url": "https://www.ithome.com/0/993/426.htm",
+      "excerpt": "IT之家 8 月 24 日消息，据英国《金融时报》报道，Anthropic 的美国客户正在使用更便宜的替代品来替代其最强大的 AI 工具，这在其预计将实现有史以来规模最大的 IPO 之前，对其高支出的商业模式提出了质疑。支付集团 Ramp 收集的 7 万家公司",
+      "src": "IT之家",
+      "tag": "大模型",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "谷歌TPU之父，被Anthropic连夜挖走了！",
-      "url": "https://aiera.com.cn/2026/08/23/other/admin/110261/%e8%b0%b7%e6%ad%8ctpu%e4%b9%8b%e7%88%b6%ef%bc%8c%e8%a2%abanthropic%e8%bf%9e%e5%a4%9c%e6%8c%96%e8%b5%b0%e4%ba%86%ef%bc%81/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "谷歌",
-      "cat": "tech"
+      "title": "传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军",
+      "url": "http://www.geekpark.net/news/369224",
+      "excerpt": "OpenAI CEO 奥特曼：担心人工智能会被少数强势主体掌控 8 月 24 日消息，OpenAI 首席执行官萨姆 · 奥特曼表示，他担心人工智能终有一天会被少数公司、模型或个人所控制，让绝大多数消费者在技术如何塑造世界这个问题上没有发言权。 Anthropi",
+      "src": "极客公园",
+      "tag": "融资",
+      "cat": "enterprise"
     },
     {
-      "title": "突发，GPT-5.6 Sol大降价！OpenAI把价格战烧到旗舰",
-      "url": "https://aiera.com.cn/2026/08/23/other/admin/110248/%e7%aa%81%e5%8f%91%ef%bc%8cgpt-5-6-sol%e5%a4%a7%e9%99%8d%e4%bb%b7%ef%bc%81openai%e6%8a%8a%e4%bb%b7%e6%a0%bc%e6%88%98%e7%83%a7%e5%88%b0%e6%97%97%e8%88%b0/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "数学的终结：40位顶尖数学家齐聚OpenAI秘密会议",
-      "url": "https://aiera.com.cn/2026/08/23/other/admin/110233/%e6%95%b0%e5%ad%a6%e7%9a%84%e7%bb%88%e7%bb%93%ef%bc%9a40%e4%bd%8d%e9%a1%b6%e5%b0%96%e6%95%b0%e5%ad%a6%e5%ae%b6%e9%bd%90%e8%81%9aopenai%e7%a7%98%e5%af%86%e4%bc%9a%e8%ae%ae/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚，英伟达AI刷爆ARC-AGI-3！华人班底一口气屠了183关",
-      "url": "https://aiera.com.cn/2026/08/23/other/admin/110215/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%beai%e5%88%b7%e7%88%86arc-agi-3%ef%bc%81%e5%8d%8e%e4%ba%ba%e7%8f%ad%e5%ba%95%e4%b8%80%e5%8f%a3%e6%b0%94%e5%b1%a0%e4%ba%86183%e5%85%b3/",
-      "excerpt": "",
-      "src": "新智元",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "url": "https://www.qbitai.com/2026/08/478164.html",
+      "excerpt": "内存成本飙升逼涨硬件",
+      "src": "量子位",
       "tag": "英伟达",
+      "cat": "enterprise"
+    },
+    {
+      "title": "AI时代，声音如何成为「声产力」？韶音OpenFit 2 AI媒体沟通会举行",
+      "url": "https://aiera.com.cn/2026/08/24/other/admin/110436/ai%e6%97%b6%e4%bb%a3%ef%bc%8c%e5%a3%b0%e9%9f%b3%e5%a6%82%e4%bd%95%e6%88%90%e4%b8%ba%e3%80%8c%e5%a3%b0%e4%ba%a7%e5%8a%9b%e3%80%8d%ef%bc%9f%e9%9f%b6%e9%9f%b3openfit-2-ai%e5%aa%92%e4%bd%93%e6%b2%9f/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Anthropic「巴拿马计划」曝光！数百万旧书被切脊喂给ASI",
+      "url": "https://aiera.com.cn/2026/08/24/other/admin/110431/anthropic%e3%80%8c%e5%b7%b4%e6%8b%bf%e9%a9%ac%e8%ae%a1%e5%88%92%e3%80%8d%e6%9b%9d%e5%85%89%ef%bc%81%e6%95%b0%e7%99%be%e4%b8%87%e6%97%a7%e4%b9%a6%e8%a2%ab%e5%88%87%e8%84%8a%e5%96%82%e7%bb%99asi/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "DeepSeek",
-      "Cybercab",
-      "Ox",
-      "Alpha",
-      "特斯拉"
+      "Gen1.5",
+      "GPT3",
+      "模型带来重要进展",
+      "物理",
+      "正在接近"
     ],
     "app": [
-      "Demo",
-      "WRC",
+      "银河星脑的愿景",
       "DeepSeek",
       "上线多模态功能",
       "多家车企召回",
-      "万辆车"
+      "万辆车",
+      "WRC"
     ],
     "enterprise": [
-      "OpenAI",
-      "TPU",
-      "Anthropic",
-      "GPT-5.6",
-      "Sol",
-      "数学的终结"
+      "AI",
+      "Hugging",
+      "Face",
+      "Altman",
+      "AG.AL",
+      "寻求出售"
     ]
   },
   "hotwords": [
@@ -182,81 +174,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "WRC",
-      "wt": 0.71
+      "w": "Anthropic",
+      "wt": 0.49
     },
     {
       "w": "DeepSeek",
-      "wt": 0.59
+      "wt": 0.44
     },
     {
-      "w": "Demo",
-      "wt": 0.59
+      "w": "Hugging",
+      "wt": 0.4
     },
     {
-      "w": "OpenAI",
-      "wt": 0.59
+      "w": "Face",
+      "wt": 0.4
     },
     {
-      "w": "Cybercab",
-      "wt": 0.47
+      "w": "Altman",
+      "wt": 0.4
     },
     {
-      "w": "Ox",
-      "wt": 0.47
+      "w": "AG.AL",
+      "wt": 0.4
     },
     {
-      "w": "Alpha",
-      "wt": 0.47
+      "w": "寻求出售",
+      "wt": 0.4
     },
     {
-      "w": "特斯拉",
-      "wt": 0.47
+      "w": "估值",
+      "wt": 0.4
     },
     {
-      "w": "日首秀",
-      "wt": 0.47
+      "w": "亿美元",
+      "wt": 0.4
     },
     {
-      "w": "神秘",
-      "wt": 0.47
+      "w": "担心",
+      "wt": 0.4
     },
     {
-      "w": "模型爆火网络",
-      "wt": 0.47
+      "w": "成都",
+      "wt": 0.4
     },
     {
-      "w": "越会用",
-      "wt": 0.47
+      "w": "获电竞世俱杯冠军",
+      "wt": 0.4
     },
     {
-      "w": "的人",
-      "wt": 0.47
+      "w": "Gen1.5",
+      "wt": 0.4
     },
     {
-      "w": "上线多模态功能",
-      "wt": 0.47
+      "w": "GPT3",
+      "wt": 0.4
     },
     {
-      "w": "多家车企召回",
-      "wt": 0.47
+      "w": "模型带来重要进展",
+      "wt": 0.4
     },
     {
-      "w": "万辆车",
-      "wt": 0.47
+      "w": "物理",
+      "wt": 0.4
     },
     {
-      "w": "MiniMax",
-      "wt": 0.47
+      "w": "正在接近",
+      "wt": 0.4
     },
     {
-      "w": "Claude",
-      "wt": 0.47
+      "w": "时刻",
+      "wt": 0.4
     },
     {
-      "w": "Code",
-      "wt": 0.47
+      "w": "银河星脑的愿景",
+      "wt": 0.4
     }
   ],
-  "total": 18
+  "total": 17
 };
