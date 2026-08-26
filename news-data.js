@@ -1,110 +1,118 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "tech": [
     {
-      "title": "「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」",
-      "url": "http://www.geekpark.net/news/369302",
-      "excerpt": "玄戒 O3 的跑分是烟花，玄戒 O100 的带宽才是信号。 作者｜张勇毅 编辑｜靖宇 8 月 24 日下午，小米一口气发布了三颗新芯片：玄戒 O3、玄戒 O100、玄戒 D100。 距离第一代玄戒 O1 亮相，过去了 459 天。但这次小米确实打了一场准备充分",
+      "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
+      "url": "http://www.geekpark.net/news/369356",
+      "excerpt": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户——你的图标被留在第四屏，和",
       "src": "极客公园",
-      "tag": "行业动态",
+      "tag": "操作系统",
       "cat": "tech"
     },
     {
-      "title": "年轻人的网络社交，正在偷偷「鸽化」",
-      "url": "http://www.geekpark.net/news/369290",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 「 从前的日色变得慢，车，马，邮件都慢 。」 作家木心的小诗「车马慢」，到现在还是不少年轻人的微信签名。对于长在移动互联网中的年轻原住民来说，前互联网是时代的「慢」，不是不便，而是一种「怀古」的浪漫。 这也怪不了他们，微信等即时通信工",
+      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
+      "url": "http://www.geekpark.net/news/369324",
+      "excerpt": "头图来源：oxalpha.com 最近，海外开发者圈又被一个没有名字的模型刷屏了。 8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模型，100 万 token 上下文、支持图片和视频输入、能调用工具、免费。随后，它被接进 OpenC",
       "src": "极客公园",
-      "tag": "行业动态",
+      "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
-      "url": "https://www.qbitai.com/2026/08/478791.html",
-      "excerpt": "机器人大脑新SOTA",
+      "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
+      "url": "https://www.qbitai.com/2026/08/478860.html",
+      "excerpt": "球技丝滑、现场爆满",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "VC开始靠AI预测未来了",
-      "url": "https://www.qbitai.com/2026/08/478774.html",
-      "excerpt": "FutureX榜单前十占了仨",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "url": "https://www.qbitai.com/2026/08/479314.html",
+      "excerpt": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线",
-      "url": "https://www.qbitai.com/2026/08/478690.html",
-      "excerpt": "",
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "url": "https://www.qbitai.com/2026/08/479192.html",
+      "excerpt": "SenseNova U1.5 Lite",
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "url": "https://www.qbitai.com/2026/08/478670.html",
-      "excerpt": "Visa看到的AI未来",
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "url": "https://www.qbitai.com/2026/08/479096.html",
+      "excerpt": "AI科研能力从工具级转向系统级",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "url": "https://www.qbitai.com/2026/08/478568.html",
-      "excerpt": "全球大厂开始押注的AI科研，终于有了统一标准",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "让Claude改报错，它却把红灯换成了黄灯！三星芯片验证，AI三次闯祸",
+      "url": "https://aiera.com.cn/2026/08/26/other/admin/110715/%e8%ae%a9claude%e6%94%b9%e6%8a%a5%e9%94%99%ef%bc%8c%e5%ae%83%e5%8d%b4%e6%8a%8a%e7%ba%a2%e7%81%af%e6%8d%a2%e6%88%90%e4%ba%86%e9%bb%84%e7%81%af%ef%bc%81%e4%b8%89%e6%98%9f%e8%8a%af%e7%89%87%e9%aa%8c/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "芯片",
       "cat": "tech"
     },
     {
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "url": "https://www.qbitai.com/2026/08/478473.html",
-      "excerpt": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
-      "src": "量子位",
-      "tag": "阿里",
+      "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
+      "url": "https://aiera.com.cn/2026/08/26/other/admin/110705/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9c%87%e6%92%bc%e9%a6%96%e6%b5%8bvera-rubin%ef%bc%8cdeepseek%e5%90%9e%e5%90%90%e6%9a%b4%e6%b6%a830%e5%80%8d%ef%bc%81/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "DeepSeek",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "硅谷押注的下一个 Harness，是整个桌面操作系统",
-      "url": "http://www.geekpark.net/news/369298",
-      "excerpt": "不是 AI 操作系统，是 AI 读得懂的操作系统 作者｜张勇毅 编辑｜靖宇 截止目前，有了 DeepSeek Harness 之类 CLI 产品之后，你电脑里的 AI 几乎已经无所不能：它可以总结网页，润色邮件，改两张图。 目前做不了几乎只有一件事：碰你的电脑",
+      "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
+      "url": "http://www.geekpark.net/news/369355",
+      "excerpt": "苹果突袭发布 M6 与 M5 Ultra 芯片，新 Mac mini、Mac Studio 全面押注本地 AI 8 月 25 日，苹果未举办发布会，直接上架了两款全新自研芯片 M6 与 M5 Ultra，以及搭载它们的新款 Mac mini 与新款 Mac S",
       "src": "极客公园",
-      "tag": "操作系统",
+      "tag": "字节",
       "cat": "app"
     },
     {
-      "title": "「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球",
-      "url": "http://www.geekpark.net/news/369283",
-      "excerpt": "作者｜李苏 编辑｜ 郑玄 一场特殊的网球比赛，一次数字智能向物理智能的跨越。 人形机器人挥出第一拍之前，没有人确定它能不能接住对面飞来的球。 事实上，球贴着边线飞来，机器人横移数步挥拍回击，球落在界内。它接住了，比赛继续。 这是 8 月 22 日第二届世界人形",
+      "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
+      "url": "http://www.geekpark.net/news/369354",
+      "excerpt": "「内存涨价狂潮」，专门吃掉便宜的那一档 作者｜张勇毅 编辑｜靖宇 只要是今年持续有关注 AI 软件领域的人，你一定不会忘记 Mac mini 在其中的「江湖」地位：因为 OpenClaw 爆火，这类工具要一台机器长期开着跑，因此量大管饱的 Mac mini M",
       "src": "极客公园",
-      "tag": "具身智能",
+      "tag": "苹果",
       "cat": "app"
     },
     {
-      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
-      "url": "https://www.qbitai.com/2026/08/478675.html",
-      "excerpt": "虽然明确机器人创业，但依然在职蔚来",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+      "url": "http://www.geekpark.net/news/369344",
+      "excerpt": "头图来源：视觉中国、ChatGPT 生成 8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。 它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "app"
+    },
+    {
+      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+      "url": "https://www.qbitai.com/2026/08/479631.html",
+      "excerpt": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "app"
+    },
+    {
+      "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+      "url": "https://www.qbitai.com/2026/08/479348.html",
+      "excerpt": "shui jiang shuai xian sha",
+      "src": "量子位",
+      "tag": "字节",
+      "cat": "app"
+    },
+    {
+      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+      "url": "https://www.qbitai.com/2026/08/479132.html",
+      "excerpt": "字节、汇川等已入股未来不远机器人最新一轮融资",
       "src": "量子位",
       "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "索尼 Xperia 10 VIII 手机细节：屏幕亮度提升 50%，保留 3.5mm 端口，6 年安全更新",
-      "url": "https://www.ithome.com/0/993/948.htm",
-      "excerpt": "IT之家 8 月 25 日消息，在今天（8 月 25 日）召开的新品发布会上，索尼正式发布 Xperia 10 VIII 手机，官方后续发布推文，介绍了这款旗舰手机的更多细节。屏幕方面，这款手机采用 6.1 英寸屏幕，分辨率为 19.5:9，刷新率为 120H",
-      "src": "IT之家",
-      "tag": "AI安全",
-      "cat": "app"
-    },
-    {
-      "title": "版本间隔 4 周 → 2 周：微软加速 WebView2 Runtime 更迭，和 Edge 浏览器同步更新",
-      "url": "https://www.ithome.com/0/993/945.htm",
-      "excerpt": "IT之家 8 月 25 日消息，微软昨日（8 月 24 日）发布博文，宣布自 Microsoft Edge 152 版本（计划 8 月 27 日发布）开始，WebView2 Runtime 将跟随 Edge 浏览器的更新节奏，从现有的 4 周一次缩短到每隔 2",
-      "src": "IT之家",
-      "tag": "微软",
       "cat": "app"
     }
   ],
@@ -118,54 +126,54 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "130 亿美元，Hugging Face 要卖了",
-      "url": "http://www.geekpark.net/news/369289",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 又一家 AI 中间层公司，要卖了。 当地时间 8 月 23 日，外媒爆出消息，Hugging Face 正在探索出售，估值可能达到 130 亿美元甚至更高。这家总部位于纽约的公司，已经聘请了投行来试探潜在买家的兴趣。 这个价格放在三",
-      "src": "极客公园",
-      "tag": "行业动态",
+      "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+      "url": "https://www.qbitai.com/2026/08/479320.html",
+      "excerpt": "不和老黄商量",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
-      "title": "突发！Hugging Face 要被卖了：最新报价约870亿元",
-      "url": "https://aiera.com.cn/2026/08/25/other/admin/110508/%e7%aa%81%e5%8f%91%ef%bc%81hugging-face-%e8%a6%81%e8%a2%ab%e5%8d%96%e4%ba%86%ef%bc%9a%e6%9c%80%e6%96%b0%e6%8a%a5%e4%bb%b7%e7%ba%a6870%e4%ba%bf%e5%85%83/",
+      "title": "AI开始替人类调用AI！token用量已是人类5.2倍",
+      "url": "https://aiera.com.cn/2026/08/26/other/admin/110666/ai%e5%bc%80%e5%a7%8b%e6%9b%bf%e4%ba%ba%e7%b1%bb%e8%b0%83%e7%94%a8ai%ef%bc%81token%e7%94%a8%e9%87%8f%e5%b7%b2%e6%98%af%e4%ba%ba%e7%b1%bb5-2%e5%80%8d/",
       "excerpt": "",
       "src": "新智元",
       "tag": "行业动态",
-      "cat": "enterprise"
+      "cat": "tech"
     },
     {
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "url": "https://www.qbitai.com/2026/08/478469.html",
-      "excerpt": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
-      "src": "量子位",
-      "tag": "芯片",
+      "title": "全球首个！10万小时人类数据全开源，Hugging Face罕见站台",
+      "url": "https://aiera.com.cn/2026/08/26/other/admin/110655/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8110%e4%b8%87%e5%b0%8f%e6%97%b6%e4%ba%ba%e7%b1%bb%e6%95%b0%e6%8d%ae%e5%85%a8%e5%bc%80%e6%ba%90%ef%bc%8chugging-face%e7%bd%95%e8%a7%81%e7%ab%99%e5%8f%b0/",
+      "excerpt": "",
+      "src": "新智元",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "「米芯」三连发",
-      "雷军五年花了",
-      "年轻人的网络社交",
-      "正在偷偷「鸽化」",
-      "DM0.5"
+      "HarmonyOS",
+      "从被找到",
+      "被用好到被修好",
+      "WRC",
+      "PhanthyMotus"
     ],
     "app": [
-      "Harness",
-      "硅谷押注的下一个",
-      "AstraTennis",
-      "ResNet",
-      "Xperia",
-      "VIII"
+      "AI",
+      "M6",
+      "Mac",
+      "Agent",
+      "M5",
+      "Ultra"
     ],
     "enterprise": [
-      "Hugging",
-      "Face",
+      "AI",
       "TRAE",
       "IPO",
       "Anthropic",
-      "扣子并入豆包"
+      "扣子并入豆包",
+      "拓竹回应"
     ]
   },
   "hotwords": [
@@ -174,47 +182,11 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Anthropic",
-      "wt": 0.8
-    },
-    {
-      "w": "Hugging",
-      "wt": 0.65
-    },
-    {
-      "w": "Face",
-      "wt": 0.65
-    },
-    {
-      "w": "TRAE",
+      "w": "M6",
       "wt": 0.5
     },
     {
-      "w": "IPO",
-      "wt": 0.5
-    },
-    {
-      "w": "扣子并入豆包",
-      "wt": 0.5
-    },
-    {
-      "w": "拓竹回应",
-      "wt": 0.5
-    },
-    {
-      "w": "传闻",
-      "wt": 0.5
-    },
-    {
-      "w": "消息不实",
-      "wt": 0.5
-    },
-    {
-      "w": "要钱还是使命",
-      "wt": 0.5
-    },
-    {
-      "w": "面试流程曝光",
+      "w": "Mac",
       "wt": 0.5
     },
     {
@@ -222,33 +194,69 @@ window.__NEWS_DATA__ = {
       "wt": 0.5
     },
     {
-      "w": "「米芯」三连发",
+      "w": "Agent",
       "wt": 0.5
     },
     {
-      "w": "雷军五年花了",
+      "w": "OpenAI",
       "wt": 0.5
     },
     {
-      "w": "Harness",
-      "wt": 0.5
+      "w": "M5",
+      "wt": 0.42
     },
     {
-      "w": "硅谷押注的下一个",
-      "wt": 0.5
+      "w": "Ultra",
+      "wt": 0.42
     },
     {
-      "w": "亿美元",
-      "wt": 0.5
+      "w": "Mini",
+      "wt": 0.42
     },
     {
-      "w": "要卖了",
-      "wt": 0.5
+      "w": "SpaceX",
+      "wt": 0.42
     },
     {
-      "w": "年轻人的网络社交",
-      "wt": 0.5
+      "w": "苹果突袭发布",
+      "wt": 0.42
+    },
+    {
+      "w": "芯片与新款",
+      "wt": 0.42
+    },
+    {
+      "w": "字节发布",
+      "wt": 0.42
+    },
+    {
+      "w": "HarmonyOS",
+      "wt": 0.42
+    },
+    {
+      "w": "从被找到",
+      "wt": 0.42
+    },
+    {
+      "w": "被用好到被修好",
+      "wt": 0.42
+    },
+    {
+      "w": "mini",
+      "wt": 0.42
+    },
+    {
+      "w": "苹果",
+      "wt": 0.42
+    },
+    {
+      "w": "两年涨",
+      "wt": 0.42
+    },
+    {
+      "w": "产品向豆包集结",
+      "wt": 0.42
     }
   ],
-  "total": 17
+  "total": 18
 };
