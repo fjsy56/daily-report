@@ -1,179 +1,179 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "tech": [
     {
-      "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
-      "url": "http://www.geekpark.net/news/369356",
-      "excerpt": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户——你的图标被留在第四屏，和",
-      "src": "极客公园",
-      "tag": "操作系统",
-      "cat": "tech"
-    },
-    {
-      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
-      "url": "http://www.geekpark.net/news/369324",
-      "excerpt": "头图来源：oxalpha.com 最近，海外开发者圈又被一个没有名字的模型刷屏了。 8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模型，100 万 token 上下文、支持图片和视频输入、能调用工具、免费。随后，它被接进 OpenC",
-      "src": "极客公园",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
-      "url": "https://www.qbitai.com/2026/08/478860.html",
-      "excerpt": "球技丝滑、现场爆满",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "excerpt": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
-      "url": "https://www.qbitai.com/2026/08/479192.html",
-      "excerpt": "SenseNova U1.5 Lite",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "url": "https://www.qbitai.com/2026/08/479096.html",
-      "excerpt": "AI科研能力从工具级转向系统级",
-      "src": "量子位",
+      "title": "影石Cameraman，AI故事的尽头还是概念",
+      "url": "https://www.huxiu.com/article/4886544.html",
+      "excerpt": "",
+      "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "让Claude改报错，它却把红灯换成了黄灯！三星芯片验证，AI三次闯祸",
-      "url": "https://aiera.com.cn/2026/08/26/other/admin/110715/%e8%ae%a9claude%e6%94%b9%e6%8a%a5%e9%94%99%ef%bc%8c%e5%ae%83%e5%8d%b4%e6%8a%8a%e7%ba%a2%e7%81%af%e6%8d%a2%e6%88%90%e4%ba%86%e9%bb%84%e7%81%af%ef%bc%81%e4%b8%89%e6%98%9f%e8%8a%af%e7%89%87%e9%aa%8c/",
+      "title": "“科技合伙人”，为何火了？",
+      "url": "https://www.huxiu.com/article/4886535.html",
       "excerpt": "",
-      "src": "新智元",
-      "tag": "芯片",
+      "src": "虎嗅",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
-      "url": "https://aiera.com.cn/2026/08/26/other/admin/110705/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9c%87%e6%92%bc%e9%a6%96%e6%b5%8bvera-rubin%ef%bc%8cdeepseek%e5%90%9e%e5%90%90%e6%9a%b4%e6%b6%a830%e5%80%8d%ef%bc%81/",
+      "title": "AI博主批量停更，15天60亿播放的“剧N代”却在红果杀疯了",
+      "url": "https://www.huxiu.com/article/4886494.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "新榜newrankcn",
+      "url": "https://www.huxiu.com/article/4886494.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
+      "url": "http://www.geekpark.net/news/369395",
+      "excerpt": "头图来源：OJO 官网 极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。 这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "url": "https://www.qbitai.com/2026/08/479919.html",
+      "excerpt": "GLM-5.3 Flash",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+      "url": "https://www.qbitai.com/2026/08/479834.html",
+      "excerpt": "具身智能迈向GPT时刻",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "小鹏第二代VLA大模型迎来首次重大升级，AI开始理解“时间”",
+      "url": "https://aiera.com.cn/2026/08/27/other/admin/110897/%e5%b0%8f%e9%b9%8f%e7%ac%ac%e4%ba%8c%e4%bb%a3vla%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%bf%8e%e6%9d%a5%e9%a6%96%e6%ac%a1%e9%87%8d%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%8cai%e5%bc%80%e5%a7%8b%e7%90%86%e8%a7%a3/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "DeepSeek",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
-      "url": "http://www.geekpark.net/news/369355",
-      "excerpt": "苹果突袭发布 M6 与 M5 Ultra 芯片，新 Mac mini、Mac Studio 全面押注本地 AI 8 月 25 日，苹果未举办发布会，直接上架了两款全新自研芯片 M6 与 M5 Ultra，以及搭载它们的新款 Mac mini 与新款 Mac S",
-      "src": "极客公园",
-      "tag": "字节",
+      "title": "甩掉遥控器，超越博尔特，“硅基”迈入全自主时代：没有“人”的“机器人”该如何奔跑",
+      "url": "https://www.huxiu.com/article/4886521.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
-      "url": "http://www.geekpark.net/news/369354",
-      "excerpt": "「内存涨价狂潮」，专门吃掉便宜的那一档 作者｜张勇毅 编辑｜靖宇 只要是今年持续有关注 AI 软件领域的人，你一定不会忘记 Mac mini 在其中的「江湖」地位：因为 OpenClaw 爆火，这类工具要一台机器长期开着跑，因此量大管饱的 Mac mini M",
+      "title": "一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼",
+      "url": "http://www.geekpark.net/news/369478",
+      "excerpt": "作者 | siqi 编辑 | 郑玄 据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。 极壳（",
       "src": "极客公园",
-      "tag": "苹果",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-      "url": "http://www.geekpark.net/news/369344",
-      "excerpt": "头图来源：视觉中国、ChatGPT 生成 8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。 它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调",
+      "title": "Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道",
+      "url": "http://www.geekpark.net/news/369414",
+      "excerpt": "智谱正式发布并开源 GLM-5.3-Flash，Ox Alpha「牛来」 身份揭晓 8 月 26 日，智谱正式上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列的首个原生多模态模型，也正是上周以来匿名登顶 OpenRouter",
       "src": "极客公园",
-      "tag": "字节",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-      "url": "https://www.qbitai.com/2026/08/479631.html",
-      "excerpt": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+      "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
+      "url": "http://www.geekpark.net/news/369401",
+      "excerpt": "AI to B，要真的能「救火」。 去年年底的一个深夜，古茗科技集团运维负责人刘星光再次被手机震动惊醒——屏幕上跳动着上百条数据库告警短信。 「这不是什么意外。」刘星光说，「古茗全国上万家门店，每一杯奶茶的下单、库存调度、会员积分、联名营销，都跑在 100 多",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+      "url": "https://www.qbitai.com/2026/08/480092.html",
+      "excerpt": "好能增长，好能商业化啊！",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+      "url": "https://www.qbitai.com/2026/08/480005.html",
+      "excerpt": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
       "src": "量子位",
       "tag": "大模型",
-      "cat": "app"
-    },
-    {
-      "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
-      "url": "https://www.qbitai.com/2026/08/479348.html",
-      "excerpt": "shui jiang shuai xian sha",
-      "src": "量子位",
-      "tag": "字节",
-      "cat": "app"
-    },
-    {
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "url": "https://www.qbitai.com/2026/08/479132.html",
-      "excerpt": "字节、汇川等已入股未来不远机器人最新一轮融资",
-      "src": "量子位",
-      "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-      "url": "http://www.geekpark.net/news/369303",
-      "excerpt": "TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\" 8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE",
+      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
+      "url": "http://www.geekpark.net/news/369463",
+      "excerpt": "作者｜桦林舞王 编辑｜靖宇 1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。 那场诉讼不仅让烟草公司付出了巨额赔偿，更从根本上改变了一个行业的运行规则——禁止向未成年人投放广告、禁止用卡通形象推销香烟、在产品",
       "src": "极客公园",
-      "tag": "字节",
+      "tag": "Meta",
       "cat": "enterprise"
     },
     {
-      "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-      "url": "https://www.qbitai.com/2026/08/479320.html",
-      "excerpt": "不和老黄商量",
+      "title": "129 亿美元，英伟达拿下 Hugging Face",
+      "url": "http://www.geekpark.net/news/369458",
+      "excerpt": "作者｜Wildcard 编辑｜靖宇 129 亿美元，英伟达要把 Hugging Face 买下来了。 当地时间 8 月 26 日外媒率先爆出消息， 两天前还只是 Hugging Face「正在探索出售」的新闻，转眼就变成了「双方已达成协议」。速度快得让人来不及",
+      "src": "极客公园",
+      "tag": "英伟达",
+      "cat": "enterprise"
+    },
+    {
+      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+      "url": "https://www.qbitai.com/2026/08/480079.html",
+      "excerpt": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "AI开始替人类调用AI！token用量已是人类5.2倍",
-      "url": "https://aiera.com.cn/2026/08/26/other/admin/110666/ai%e5%bc%80%e5%a7%8b%e6%9b%bf%e4%ba%ba%e7%b1%bb%e8%b0%83%e7%94%a8ai%ef%bc%81token%e7%94%a8%e9%87%8f%e5%b7%b2%e6%98%af%e4%ba%ba%e7%b1%bb5-2%e5%80%8d/",
+      "title": "疯了，A社IPO大饼画到30万亿美元！一个美国的GDP",
+      "url": "https://aiera.com.cn/2026/08/27/other/admin/110840/%e7%96%af%e4%ba%86%ef%bc%8ca%e7%a4%beipo%e5%a4%a7%e9%a5%bc%e7%94%bb%e5%88%b030%e4%b8%87%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81%e4%b8%80%e4%b8%aa%e7%be%8e%e5%9b%bd%e7%9a%84gdp/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "全球首个！10万小时人类数据全开源，Hugging Face罕见站台",
-      "url": "https://aiera.com.cn/2026/08/26/other/admin/110655/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8110%e4%b8%87%e5%b0%8f%e6%97%b6%e4%ba%ba%e7%b1%bb%e6%95%b0%e6%8d%ae%e5%85%a8%e5%bc%80%e6%ba%90%ef%bc%8chugging-face%e7%bd%95%e8%a7%81%e7%ab%99%e5%8f%b0/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "大模型",
-      "cat": "tech"
+      "tag": "融资",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "HarmonyOS",
-      "从被找到",
-      "被用好到被修好",
-      "WRC",
-      "PhanthyMotus"
+      "Cameraman",
+      "“科技合伙人”",
+      "为何火了",
+      "newrankcn",
+      "离开剪映后创业"
     ],
     "app": [
-      "AI",
-      "M6",
-      "Mac",
       "Agent",
-      "M5",
-      "Ultra"
+      "AI",
+      "甩掉遥控器",
+      "超越博尔特",
+      "IFA",
+      "一年卖出"
     ],
     "enterprise": [
-      "AI",
-      "TRAE",
-      "IPO",
-      "Anthropic",
-      "扣子并入豆包",
-      "拓竹回应"
+      "亿美元",
+      "Meta",
+      "影响了两代人后",
+      "被判赔",
+      "Hugging",
+      "Face"
     ]
   },
   "hotwords": [
@@ -182,80 +182,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "M6",
-      "wt": 0.5
-    },
-    {
-      "w": "Mac",
-      "wt": 0.5
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.5
-    },
-    {
       "w": "Agent",
-      "wt": 0.5
+      "wt": 0.52
     },
     {
-      "w": "OpenAI",
-      "wt": 0.5
-    },
-    {
-      "w": "M5",
-      "wt": 0.42
+      "w": "亿美元",
+      "wt": 0.44
     },
     {
       "w": "Ultra",
-      "wt": 0.42
+      "wt": 0.44
     },
     {
-      "w": "Mini",
-      "wt": 0.42
+      "w": "Cameraman",
+      "wt": 0.39
     },
     {
-      "w": "SpaceX",
-      "wt": 0.42
+      "w": "“科技合伙人”",
+      "wt": 0.39
     },
     {
-      "w": "苹果突袭发布",
-      "wt": 0.42
+      "w": "为何火了",
+      "wt": 0.39
     },
     {
-      "w": "芯片与新款",
-      "wt": 0.42
+      "w": "甩掉遥控器",
+      "wt": 0.39
     },
     {
-      "w": "字节发布",
-      "wt": 0.42
+      "w": "超越博尔特",
+      "wt": 0.39
     },
     {
-      "w": "HarmonyOS",
-      "wt": 0.42
+      "w": "newrankcn",
+      "wt": 0.39
     },
     {
-      "w": "从被找到",
-      "wt": 0.42
+      "w": "IFA",
+      "wt": 0.39
     },
     {
-      "w": "被用好到被修好",
-      "wt": 0.42
+      "w": "一年卖出",
+      "wt": 0.39
     },
     {
-      "w": "mini",
-      "wt": 0.42
+      "w": "万台后",
+      "wt": 0.39
     },
     {
-      "w": "苹果",
-      "wt": 0.42
+      "w": "极壳将在",
+      "wt": 0.39
     },
     {
-      "w": "两年涨",
-      "wt": 0.42
+      "w": "发布下一代外骨骼",
+      "wt": 0.39
     },
     {
-      "w": "产品向豆包集结",
-      "wt": 0.42
+      "w": "Meta",
+      "wt": 0.39
+    },
+    {
+      "w": "影响了两代人后",
+      "wt": 0.39
+    },
+    {
+      "w": "被判赔",
+      "wt": 0.39
+    },
+    {
+      "w": "Hugging",
+      "wt": 0.39
+    },
+    {
+      "w": "Face",
+      "wt": 0.39
     }
   ],
   "total": 18
