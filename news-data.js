@@ -1,6 +1,30 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "tech": [
+    {
+      "title": "全球首例，AI辅助医生完成脑外科手术",
+      "url": "https://www.huxiu.com/article/4887022.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "“AI味”不是在一句话里，而是渗透了所有的文字",
+      "url": "https://www.huxiu.com/article/4887016.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
+      "url": "http://www.geekpark.net/news/369550",
+      "excerpt": "8 月 28 日，腾讯发布并开源混元 Hy4 preview。 这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBu",
+      "src": "极客公园",
+      "tag": "腾讯",
+      "cat": "tech"
+    },
     {
       "title": "Coding 自由之后，人开始成为最大的瓶颈",
       "url": "http://www.geekpark.net/news/369547",
@@ -18,6 +42,14 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
       "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
       "url": "https://www.qbitai.com/2026/08/480666.html",
       "excerpt": "久久不愿来到台前的智元掌舵人",
@@ -32,41 +64,33 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "首款癌症疫苗，一针300万？？？",
-      "url": "https://www.qbitai.com/2026/08/480557.html",
-      "excerpt": "别让顶级治疗方法称为富人专属",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "url": "https://www.qbitai.com/2026/08/480482.html",
-      "excerpt": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-      "url": "https://www.qbitai.com/2026/08/480227.html",
-      "excerpt": "国产算力跑通视频生成规模化应用",
-      "src": "量子位",
-      "tag": "视频生成",
-      "cat": "tech"
-    },
-    {
-      "title": "突发！Fable 5.1灰度了",
-      "url": "https://aiera.com.cn/2026/08/28/other/admin/111068/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-1%e7%81%b0%e5%ba%a6%e4%ba%86/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "机器人跑得越来越快，上班还是个新手",
+      "url": "https://www.huxiu.com/article/4887014.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "这款AI应用三周估值涨五倍",
+      "url": "https://www.huxiu.com/article/4886985.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
+      "cat": "app"
+    },
+    {
+      "title": "Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃",
+      "url": "http://www.geekpark.net/news/369549",
+      "excerpt": "消息称 Anthropic 最早 10 天后公布招股书 据知情人士称，Anthropic 计划在美国劳动节（9 月 7 日）后公布其 IPO 招股说明书，并可能在 9 月下旬或 10 月初在美上市。 该公司拟允许现有股东在 IPO 中出售股份，部分股东的禁售期",
+      "src": "极客公园",
+      "tag": "马斯克",
+      "cat": "app"
+    },
     {
       "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
       "url": "http://www.geekpark.net/news/369481",
@@ -90,31 +114,15 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "Agent",
       "cat": "app"
-    },
-    {
-      "title": "他亲手造出o1和o3，却突然宣布：人类可以永远退休了！",
-      "url": "https://aiera.com.cn/2026/08/28/other/admin/111039/%e4%bb%96%e4%ba%b2%e6%89%8b%e9%80%a0%e5%87%bao1%e5%92%8co3%ef%bc%8c%e5%8d%b4%e7%aa%81%e7%84%b6%e5%ae%a3%e5%b8%83%ef%bc%9a%e4%ba%ba%e7%b1%bb%e5%8f%af%e4%bb%a5%e6%b0%b8%e8%bf%9c%e9%80%80%e4%bc%91/",
-      "excerpt": "",
-      "src": "新智元",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
-      "url": "http://www.geekpark.net/news/369463",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。 那场诉讼不仅让烟草公司付出了巨额赔偿，更从根本上改变了一个行业的运行规则——禁止向未成年人投放广告、禁止用卡通形象推销香烟、在产品",
-      "src": "极客公园",
-      "tag": "Meta",
-      "cat": "enterprise"
-    },
-    {
-      "title": "129 亿美元，英伟达拿下 Hugging Face",
-      "url": "http://www.geekpark.net/news/369458",
-      "excerpt": "作者｜Wildcard 编辑｜靖宇 129 亿美元，英伟达要把 Hugging Face 买下来了。 当地时间 8 月 26 日外媒率先爆出消息， 两天前还只是 Hugging Face「正在探索出售」的新闻，转眼就变成了「双方已达成协议」。速度快得让人来不及",
-      "src": "极客公园",
-      "tag": "英伟达",
+      "title": "天使投资人赚了1000倍",
+      "url": "https://www.huxiu.com/article/4887011.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
@@ -134,38 +142,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "长鑫存储开通微博首个关注小米手机，此前被曝是玄戒 O3 的 LPDDR6 内存核心合作伙伴",
-      "url": "https://www.ithome.com/0/995/817.htm",
-      "excerpt": "IT之家 8 月 28 日消息，长鑫存储技术有限公司开通了官方微博。IT之家注意到，该账号目前有三个关注，其中首个关注的账号便是小米手机。据IT之家此前报道，本月 24 日，小米首款 AI 旗舰 SoC 玄戒 O3 今日发布，行业首发支持 LPDDR6。据财联",
+      "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
+      "url": "https://www.ithome.com/0/995/966.htm",
+      "excerpt": "IT之家 8 月 29 日消息，微软 XBOX CEO 阿莎 · 夏尔马近日接受 BBC 采访时透露，她非常清楚当前游戏主机面临的价格困境，并希望重点关注旗下产品可负担性。夏尔马表示，微软的次世代游戏主机“Project Helix”（螺旋计划）必须在保证性能",
       "src": "IT之家",
-      "tag": "小米",
+      "tag": "微软",
       "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
-      "Coding",
-      "自由之后",
-      "WALL-SS",
-      "自变量",
-      "突破三大瓶颈",
-      "AI"
+      "AI",
+      "全球首例",
+      "Hy4",
+      "preview",
+      "腾讯重金投入",
+      "之后"
     ],
     "app": [
       "AI",
-      "特努斯时代首秀",
-      "苹果发布会定档",
-      "家公司联名信",
-      "重视",
-      "时代网络安全"
+      "上班还是个新手",
+      "Anthropic",
+      "SpaceX",
+      "HY4",
+      "preview"
     ],
     "enterprise": [
-      "亿美元",
-      "Meta",
-      "影响了两代人后",
-      "被判赔",
-      "Hugging",
-      "Face"
+      "Claude",
+      "被高估的视触觉",
+      "容易复制的生意",
+      "有多大投资价值",
+      "XBOX",
+      "CEO"
     ]
   },
   "hotwords": [
@@ -174,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "IFA",
-      "wt": 0.55
+      "w": "Claude",
+      "wt": 0.59
     },
     {
-      "w": "亿美元",
-      "wt": 0.55
+      "w": "preview",
+      "wt": 0.47
+    },
+    {
+      "w": "刚刚",
+      "wt": 0.47
+    },
+    {
+      "w": "全球首例",
+      "wt": 0.41
+    },
+    {
+      "w": "上班还是个新手",
+      "wt": 0.41
+    },
+    {
+      "w": "Hy4",
+      "wt": 0.41
+    },
+    {
+      "w": "腾讯重金投入",
+      "wt": 0.41
+    },
+    {
+      "w": "之后",
+      "wt": 0.41
+    },
+    {
+      "w": "混元",
+      "wt": 0.41
+    },
+    {
+      "w": "交出了什么答卷",
+      "wt": 0.41
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.41
+    },
+    {
+      "w": "SpaceX",
+      "wt": 0.41
+    },
+    {
+      "w": "HY4",
+      "wt": 0.41
+    },
+    {
+      "w": "将发招股书",
+      "wt": 0.41
+    },
+    {
+      "w": "预计募资",
+      "wt": 0.41
+    },
+    {
+      "w": "亿美元超越",
+      "wt": 0.41
+    },
+    {
+      "w": "腾讯发布",
+      "wt": 0.41
+    },
+    {
+      "w": "模型",
+      "wt": 0.41
     },
     {
       "w": "Coding",
-      "wt": 0.45
-    },
-    {
-      "w": "自由之后",
-      "wt": 0.45
-    },
-    {
-      "w": "WALL-SS",
-      "wt": 0.45
-    },
-    {
-      "w": "自变量",
-      "wt": 0.45
-    },
-    {
-      "w": "突破三大瓶颈",
-      "wt": 0.45
-    },
-    {
-      "w": "特努斯时代首秀",
-      "wt": 0.45
-    },
-    {
-      "w": "苹果发布会定档",
-      "wt": 0.45
-    },
-    {
-      "w": "家公司联名信",
-      "wt": 0.45
-    },
-    {
-      "w": "重视",
-      "wt": 0.45
-    },
-    {
-      "w": "时代网络安全",
-      "wt": 0.45
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.45
-    },
-    {
-      "w": "一年卖出",
-      "wt": 0.45
-    },
-    {
-      "w": "万台后",
-      "wt": 0.45
-    },
-    {
-      "w": "极壳将在",
-      "wt": 0.45
-    },
-    {
-      "w": "发布下一代外骨骼",
-      "wt": 0.45
-    },
-    {
-      "w": "Meta",
-      "wt": 0.45
-    },
-    {
-      "w": "影响了两代人后",
-      "wt": 0.45
+      "wt": 0.41
     }
   ],
-  "total": 17
+  "total": 18
 };
