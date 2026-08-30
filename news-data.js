@@ -1,20 +1,28 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "tech": [
     {
-      "title": "全球首例，AI辅助医生完成脑外科手术",
-      "url": "https://www.huxiu.com/article/4887022.html",
+      "title": "当 AI 开始拥有「手」：一场围绕执行权的新基础设施战争",
+      "url": "https://www.huxiu.com/article/4887106.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "“AI味”不是在一句话里，而是渗透了所有的文字",
-      "url": "https://www.huxiu.com/article/4887016.html",
+      "title": "HavenlonLabs",
+      "url": "https://www.huxiu.com/article/4887106.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "天数智芯盈利了，但钱不是卖芯片赚的",
+      "url": "https://www.huxiu.com/article/4887103.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "芯片",
       "cat": "tech"
     },
     {
@@ -42,25 +50,17 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-      "url": "https://www.qbitai.com/2026/08/480700.html",
-      "excerpt": "",
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "excerpt": "推理软件栈的微小差异，就能改变输出token",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "url": "https://www.qbitai.com/2026/08/480666.html",
-      "excerpt": "久久不愿来到台前的智元掌舵人",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-      "url": "https://www.qbitai.com/2026/08/480591.html",
-      "excerpt": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "url": "https://www.qbitai.com/2026/08/481318.html",
+      "excerpt": "本科读车辆工程，如今教AI第一班",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -68,19 +68,11 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "机器人跑得越来越快，上班还是个新手",
-      "url": "https://www.huxiu.com/article/4887014.html",
+      "title": "机器人运动会的奖牌，到底说明什么？",
+      "url": "https://www.huxiu.com/article/4887110.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "这款AI应用三周估值涨五倍",
-      "url": "https://www.huxiu.com/article/4886985.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "融资",
       "cat": "app"
     },
     {
@@ -100,80 +92,72 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼",
-      "url": "http://www.geekpark.net/news/369478",
-      "excerpt": "作者 | siqi 编辑 | 郑玄 据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。 极壳（",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "excerpt": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "excerpt": "AI「自进化」，越来越近了",
       "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "天使投资人赚了1000倍",
-      "url": "https://www.huxiu.com/article/4887011.html",
+      "title": "3个90后创业4年，公司估值2000亿",
+      "url": "https://www.huxiu.com/article/4887109.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "url": "https://www.qbitai.com/2026/08/480487.html",
-      "excerpt": "Claude觉醒超体",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
+      "url": "http://www.geekpark.net/news/369551",
+      "excerpt": "OpenAI 终止与 Cursor 合作 8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 ",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
-      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
-      "url": "https://www.qbitai.com/2026/08/480236.html",
-      "excerpt": "重新审视触视觉",
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "url": "https://www.qbitai.com/2026/08/481075.html",
+      "excerpt": "3秒可处理200份PDF",
       "src": "量子位",
-      "tag": "融资",
-      "cat": "enterprise"
+      "tag": "大模型",
+      "cat": "tech"
     },
     {
-      "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
-      "url": "https://www.ithome.com/0/995/966.htm",
-      "excerpt": "IT之家 8 月 29 日消息，微软 XBOX CEO 阿莎 · 夏尔马近日接受 BBC 采访时透露，她非常清楚当前游戏主机面临的价格困境，并希望重点关注旗下产品可负担性。夏尔马表示，微软的次世代游戏主机“Project Helix”（螺旋计划）必须在保证性能",
-      "src": "IT之家",
-      "tag": "微软",
-      "cat": "enterprise"
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "url": "https://www.qbitai.com/2026/08/480940.html",
+      "excerpt": "Coding正在变成Al世界的数字执行力",
+      "src": "量子位",
+      "tag": "阿里",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "全球首例",
+      "开始拥有「手」",
+      "HavenlonLabs",
+      "天数智芯盈利了",
       "Hy4",
-      "preview",
-      "腾讯重金投入",
-      "之后"
+      "preview"
     ],
     "app": [
-      "AI",
-      "上班还是个新手",
+      "Claude",
+      "到底说明什么",
       "Anthropic",
       "SpaceX",
       "HY4",
       "preview"
     ],
     "enterprise": [
-      "Claude",
-      "被高估的视触觉",
-      "容易复制的生意",
-      "有多大投资价值",
-      "XBOX",
-      "CEO"
+      "OpenAI",
+      "Cursor",
+      "Anthropic",
+      "终止与",
+      "合作",
+      "雷军"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "OpenAI",
+      "wt": 0.61
+    },
+    {
       "w": "Claude",
-      "wt": 0.59
+      "wt": 0.61
     },
     {
-      "w": "preview",
-      "wt": 0.47
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.47
-    },
-    {
-      "w": "全球首例",
-      "wt": 0.41
-    },
-    {
-      "w": "上班还是个新手",
-      "wt": 0.41
-    },
-    {
-      "w": "Hy4",
-      "wt": 0.41
-    },
-    {
-      "w": "腾讯重金投入",
-      "wt": 0.41
-    },
-    {
-      "w": "之后",
-      "wt": 0.41
-    },
-    {
-      "w": "混元",
-      "wt": 0.41
-    },
-    {
-      "w": "交出了什么答卷",
-      "wt": 0.41
+      "w": "Cursor",
+      "wt": 0.52
     },
     {
       "w": "Anthropic",
-      "wt": 0.41
+      "wt": 0.52
     },
     {
-      "w": "SpaceX",
-      "wt": 0.41
-    },
-    {
-      "w": "HY4",
-      "wt": 0.41
-    },
-    {
-      "w": "将发招股书",
-      "wt": 0.41
-    },
-    {
-      "w": "预计募资",
-      "wt": 0.41
-    },
-    {
-      "w": "亿美元超越",
-      "wt": 0.41
-    },
-    {
-      "w": "腾讯发布",
-      "wt": 0.41
-    },
-    {
-      "w": "模型",
-      "wt": 0.41
+      "w": "preview",
+      "wt": 0.52
     },
     {
       "w": "Coding",
-      "wt": 0.41
+      "wt": 0.52
+    },
+    {
+      "w": "到底说明什么",
+      "wt": 0.44
+    },
+    {
+      "w": "开始拥有「手」",
+      "wt": 0.44
+    },
+    {
+      "w": "HavenlonLabs",
+      "wt": 0.44
+    },
+    {
+      "w": "天数智芯盈利了",
+      "wt": 0.44
+    },
+    {
+      "w": "终止与",
+      "wt": 0.44
+    },
+    {
+      "w": "合作",
+      "wt": 0.44
+    },
+    {
+      "w": "雷军",
+      "wt": 0.44
+    },
+    {
+      "w": "万公里",
+      "wt": 0.44
+    },
+    {
+      "w": "华纳与索尼起诉",
+      "wt": 0.44
+    },
+    {
+      "w": "索赔数十亿美元",
+      "wt": 0.44
+    },
+    {
+      "w": "Hy4",
+      "wt": 0.44
+    },
+    {
+      "w": "腾讯重金投入",
+      "wt": 0.44
+    },
+    {
+      "w": "之后",
+      "wt": 0.44
     }
   ],
-  "total": 18
+  "total": 16
 };
