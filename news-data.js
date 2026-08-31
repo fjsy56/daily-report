@@ -1,163 +1,179 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "tech": [
     {
-      "title": "当 AI 开始拥有「手」：一场围绕执行权的新基础设施战争",
-      "url": "https://www.huxiu.com/article/4887106.html",
+      "title": "折叠屏iPhone 永远不该配手写笔",
+      "url": "https://www.huxiu.com/article/4887371.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "当作业一键生成，名校如何为AI划定边界？",
+      "url": "https://www.huxiu.com/article/4887361.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "HavenlonLabs",
-      "url": "https://www.huxiu.com/article/4887106.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "天数智芯盈利了，但钱不是卖芯片赚的",
-      "url": "https://www.huxiu.com/article/4887103.html",
+      "title": "硅谷顶级风投中国AI 考察笔记：芯片制裁逼出“效率怪物”，中美AI 根本无法脱钩",
+      "url": "https://www.huxiu.com/article/4887323.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "芯片",
       "cat": "tech"
     },
     {
-      "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
-      "url": "http://www.geekpark.net/news/369550",
-      "excerpt": "8 月 28 日，腾讯发布并开源混元 Hy4 preview。 这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBu",
-      "src": "极客公园",
-      "tag": "腾讯",
+      "title": "深潮TechFlow",
+      "url": "https://www.huxiu.com/article/4887323.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Coding 自由之后，人开始成为最大的瓶颈",
-      "url": "http://www.geekpark.net/news/369547",
-      "excerpt": "过去，一个人有了一个产品想法，首先遇到的问题可能是：我会不会编程？我要不要组一个团队？甚至，要不要先去融一笔钱？ 但 AI Coding 正在改变这条路径。 在 TRAE AI 创造力大赛现场，极客公园创始人张鹏和科技创作者小狮日记、参赛选手不憨，以及 TRA",
+      "title": "OpenAI 内部，AI 建立了三代「文明」",
+      "url": "http://www.geekpark.net/news/369610",
+      "excerpt": "作者｜Wildcard 编辑｜靖宇 无数的科幻电影，都曾经尝试设想过，一个无法控制的人工智能失控，会发生什么事。 没有人能想到，科幻电影中的未来，会这么快到来。 当地时间 8 月 26 日，两份报告同时投下了一颗炸弹。 一份来自 OpenAI 自己，37 页的",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "人类，越来越难理解 AI",
+      "url": "http://www.geekpark.net/news/369609",
+      "excerpt": "作者｜Techno 之王 编辑｜靖宇 很多使用 AI 的同学，应该都看到过 AI 助手在回答你问题之前，它们的一些思考。例如 DeepSeek 曾经在思考中判断「卧槽，用户怒了！」。 你很难说这是整活，还是 AI 真的在思考。 好在，世界上真的有人，在全职审核",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
-      "url": "http://www.geekpark.net/news/369508",
-      "excerpt": "机器人世界模型的下一场竞争，可能不是画质，是架构。 作者｜Li Yuan 编辑｜郑玄 一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。 视频生成模型只要让画",
+      "title": "编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结",
+      "url": "http://www.geekpark.net/news/369517",
+      "excerpt": "作者｜Moonshot 编辑｜郑玄 8 月 20 日晚，MoonshotAI 在 GitHub 上更新了 kimi-code 0.38.0。没有发布会，也没有新闻稿。但这条信息，被我通过千问部署的一个定时任务「捕获」了。 很快，千问把一篇 3100 字的稿件推",
       "src": "极客公园",
-      "tag": "具身智能",
+      "tag": "阿里",
       "cat": "tech"
     },
     {
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "excerpt": "推理软件栈的微小差异，就能改变输出token",
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "excerpt": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "url": "https://www.qbitai.com/2026/08/481318.html",
-      "excerpt": "本科读车辆工程，如今教AI第一班",
-      "src": "量子位",
-      "tag": "行业动态",
+      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "机器人运动会的奖牌，到底说明什么？",
-      "url": "https://www.huxiu.com/article/4887110.html",
+      "title": "当AI开始研究如何让AI更安全",
+      "url": "https://www.huxiu.com/article/4887329.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "具身智能",
+      "tag": "AI安全",
       "cat": "app"
     },
     {
-      "title": "Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃",
-      "url": "http://www.geekpark.net/news/369549",
-      "excerpt": "消息称 Anthropic 最早 10 天后公布招股书 据知情人士称，Anthropic 计划在美国劳动节（9 月 7 日）后公布其 IPO 招股说明书，并可能在 9 月下旬或 10 月初在美上市。 该公司拟允许现有股东在 IPO 中出售股份，部分股东的禁售期",
+      "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
+      "url": "http://www.geekpark.net/news/369559",
+      "excerpt": "SK 海力士 CEO：内存短缺或将持续至 2030 年 SK 海力士预计，当前的内存短缺局面可能会持续到 2030 年底，市场目前尚未出现明显的需求放缓迹象。SK 海力士首席执行官郭鲁勋在公司位于美国印第安纳州的新封装工厂奠基仪式后表示，即使未来市场开始降温，",
       "src": "极客公园",
-      "tag": "马斯克",
+      "tag": "华为",
       "cat": "app"
     },
     {
-      "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
-      "url": "http://www.geekpark.net/news/369481",
-      "excerpt": "特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为「惊喜闪耀」（Sur",
+      "title": "折叠屏的尽头，是不折叠：华为 Pura X View 体验",
+      "url": "http://www.geekpark.net/news/369558",
+      "excerpt": "阔直板不是「发明」，是用户投出来的票 作者｜张勇毅 编辑｜靖宇 Pura X View 到办公室的第一天，来围观的同事，好几个人的第一反应是同一句话「这个尺寸有点像曾经的黑莓手机」。 华为 Pura X View 实机，是一个直屏手机前所未见的尺寸｜图片来源：",
       "src": "极客公园",
-      "tag": "英伟达",
+      "tag": "华为",
       "cat": "app"
     },
     {
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "excerpt": "AI「自进化」，越来越近了",
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "excerpt": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
+      "src": "量子位",
+      "tag": "自动驾驶",
+      "cat": "app"
+    },
+    {
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "excerpt": "核弹爆炸",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "app"
+    },
+    {
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "excerpt": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "3个90后创业4年，公司估值2000亿",
-      "url": "https://www.huxiu.com/article/4887109.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
-      "url": "http://www.geekpark.net/news/369551",
-      "excerpt": "OpenAI 终止与 Cursor 合作 8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 ",
+      "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
+      "url": "http://www.geekpark.net/news/369608",
+      "excerpt": "作者｜ 宇航猿 编辑｜ 靖宇 很少有机器人，能让你第一眼就笑出来。 8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。 一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 ",
       "src": "极客公园",
-      "tag": "OpenAI",
+      "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-      "url": "https://www.qbitai.com/2026/08/481075.html",
-      "excerpt": "3秒可处理200份PDF",
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
+      "tag": "华为",
+      "cat": "enterprise"
     },
     {
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "url": "https://www.qbitai.com/2026/08/480940.html",
-      "excerpt": "Coding正在变成Al世界的数字执行力",
+      "title": "华为投资控股有限公司 2026 上半年营收 4678 亿元，净利润 234 亿元",
+      "url": "https://www.ithome.com/0/996/578.htm",
+      "excerpt": "IT之家 8 月 31 日消息，华为投资控股有限公司（华为集团的控股母公司）上半年营收 4678.19 亿元，上年同期为 4270.39 亿元，同比增长约 9.55%；净利润 234.28 亿元，上年同期为 370.54 亿元。IT之家注意到，上半年华为研发费",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "enterprise"
+    },
+    {
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "excerpt": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
       "src": "量子位",
-      "tag": "阿里",
-      "cat": "tech"
+      "tag": "Agent",
+      "cat": "app"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "开始拥有「手」",
-      "HavenlonLabs",
-      "天数智芯盈利了",
-      "Hy4",
-      "preview"
+      "OpenAI",
+      "iPhone",
+      "永远不该配手写笔",
+      "当作业一键生成",
+      "考察笔记"
     ],
     "app": [
-      "Claude",
-      "到底说明什么",
-      "Anthropic",
-      "SpaceX",
-      "HY4",
-      "preview"
+      "AI",
+      "AirPods",
+      "或将于",
+      "月发布",
+      "极客早知道",
+      "Pura"
     ],
     "enterprise": [
-      "OpenAI",
-      "Cursor",
-      "Anthropic",
-      "终止与",
-      "合作",
-      "雷军"
+      "亿元",
+      "Hugging",
+      "Face",
+      "美元的小黄鸭",
+      "藏着",
+      "最大的野心"
     ]
   },
   "hotwords": [
@@ -167,80 +183,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.61
+      "wt": 0.57
     },
     {
-      "w": "Claude",
-      "wt": 0.61
+      "w": "亿元",
+      "wt": 0.51
     },
     {
-      "w": "Cursor",
-      "wt": 0.52
+      "w": "iPhone",
+      "wt": 0.4
     },
     {
-      "w": "Anthropic",
-      "wt": 0.52
+      "w": "永远不该配手写笔",
+      "wt": 0.4
     },
     {
-      "w": "preview",
-      "wt": 0.52
+      "w": "当作业一键生成",
+      "wt": 0.4
     },
     {
-      "w": "Coding",
-      "wt": 0.52
+      "w": "考察笔记",
+      "wt": 0.4
     },
     {
-      "w": "到底说明什么",
-      "wt": 0.44
+      "w": "根本无法脱钩",
+      "wt": 0.4
     },
     {
-      "w": "开始拥有「手」",
-      "wt": 0.44
+      "w": "TechFlow",
+      "wt": 0.4
     },
     {
-      "w": "HavenlonLabs",
-      "wt": 0.44
+      "w": "AirPods",
+      "wt": 0.4
     },
     {
-      "w": "天数智芯盈利了",
-      "wt": 0.44
+      "w": "或将于",
+      "wt": 0.4
     },
     {
-      "w": "终止与",
-      "wt": 0.44
+      "w": "月发布",
+      "wt": 0.4
     },
     {
-      "w": "合作",
-      "wt": 0.44
+      "w": "极客早知道",
+      "wt": 0.4
     },
     {
-      "w": "雷军",
-      "wt": 0.44
+      "w": "内部",
+      "wt": 0.4
     },
     {
-      "w": "万公里",
-      "wt": 0.44
+      "w": "人类",
+      "wt": 0.4
     },
     {
-      "w": "华纳与索尼起诉",
-      "wt": 0.44
+      "w": "越来越难理解",
+      "wt": 0.4
     },
     {
-      "w": "索赔数十亿美元",
-      "wt": 0.44
+      "w": "Hugging",
+      "wt": 0.4
     },
     {
-      "w": "Hy4",
-      "wt": 0.44
+      "w": "Face",
+      "wt": 0.4
     },
     {
-      "w": "腾讯重金投入",
-      "wt": 0.44
+      "w": "美元的小黄鸭",
+      "wt": 0.4
     },
     {
-      "w": "之后",
-      "wt": 0.44
+      "w": "藏着",
+      "wt": 0.4
     }
   ],
-  "total": 16
+  "total": 18
 };
