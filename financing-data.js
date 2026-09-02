@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-01 18:15",
- "total": 567,
+ "updated": "2026-09-02 17:41",
+ "total": 574,
  "industries": [
   "产业升级",
   "企业服务",
@@ -94,6 +94,48 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2144451174712580",
+   "date": "2026-09-01",
+   "name": "格林生物科技",
+   "desc": "生物香料生产销售商",
+   "industry": [
+    "其他"
+   ],
+   "round": "IPO",
+   "amount": "8.78亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2144451174712580",
+   "province": "浙江省"
+  },
+  {
+   "id": "1957863211339008",
+   "date": "2026-08-31",
+   "name": "宇测生物",
+   "desc": "单分子免疫诊断技术服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "超5000万人民币",
+   "investors": "泰州战新私募基金、优宁维、领航新界",
+   "url": "https://pitchhub.36kr.com/project/1957863211339008",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678517821699078",
+   "date": "2026-08-31",
+   "name": "概伦电子",
+   "desc": "集成电路设计解决方案提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "10.5亿人民币",
+   "investors": "国投创业、湖北省铁路发展基金",
+   "url": "https://pitchhub.36kr.com/project/1678517821699078",
+   "province": "山东省"
+  },
+  {
    "id": "2144458189620487",
    "date": "2026-08-31",
    "name": "贝特利股份",
@@ -134,6 +176,34 @@ window.__FINANCING_DATA__ = {
    "investors": "华银金投",
    "url": "https://pitchhub.36kr.com/project/1818823234834564",
    "province": "上海市"
+  },
+  {
+   "id": "1679718917952258",
+   "date": "2026-08-30",
+   "name": "艾唯尔科技",
+   "desc": "智能交互机器人生产商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "国天电子",
+   "url": "https://pitchhub.36kr.com/project/1679718917952258",
+   "province": "广东省"
+  },
+  {
+   "id": "1678356684502019",
+   "date": "2026-08-30",
+   "name": "国兴智能",
+   "desc": "特种机器人及配套底盘研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "并购/合并",
+   "amount": "2.65亿人民币",
+   "investors": "洪田股份",
+   "url": "https://pitchhub.36kr.com/project/1678356684502019",
+   "province": "山东省"
   },
   {
    "id": "2231847633192709",
@@ -249,6 +319,20 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "1976878232154629",
+   "date": "2026-08-28",
+   "name": "西清能源",
+   "desc": "数字能源系统解决方案提供商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "眉山天投集团",
+   "url": "https://pitchhub.36kr.com/project/1976878232154629",
+   "province": "北京市"
+  },
+  {
    "id": "2012749382518274",
    "date": "2026-08-28",
    "name": "乐佰图",
@@ -274,6 +358,20 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "中科创星、银河创新资本",
    "url": "https://pitchhub.36kr.com/project/2180555639688322",
+   "province": "上海市"
+  },
+  {
+   "id": "2317910965127683",
+   "date": "2026-08-27",
+   "name": "万宇在线",
+   "desc": "一家游戏资讯网站",
+   "industry": [
+    "体育游戏"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "砾游投资",
+   "url": "https://pitchhub.36kr.com/project/2317910965127683",
    "province": "上海市"
   },
   {
