@@ -1,122 +1,122 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "tech": [
     {
-      "title": "美鹰派报告罕见承认“双线失守”: 限72小时审核中国新AI模型, 防其全球扩散",
-      "url": "https://www.huxiu.com/article/4887934.html",
+      "title": "全球最火的AI，终于出手“管孩子”了",
+      "url": "https://www.huxiu.com/article/4888232.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "NaturePortfolio",
+      "url": "https://www.huxiu.com/article/4888222.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "NASA小卫星不用GPS，拿“垃圾”定位：AI时代没有路线图该怎么办？",
+      "url": "https://www.huxiu.com/article/4888220.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "太空AI",
+      "cat": "tech"
+    },
+    {
+      "title": "成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了",
+      "url": "http://www.geekpark.net/news/369768",
+      "excerpt": "头图来源：Fullive.ai 一家成立几个月、第一款产品即将量产的 AI 硬件公司，已经连续融了三轮：高瓴连续三轮加注，智元机器人等机构先后进入股东名单；到了今年 7 月，招商局创投又领投了它的新一轮融资。 这家公司叫 Fullive.ai，创始人郑昊本科就",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "智谱和 MiniMax，把大模型做成了两种生意",
+      "url": "http://www.geekpark.net/news/369775",
+      "excerpt": "头图来源：视觉中国 两家中国大模型公司，在五天里先后交出了上市后的首份中报。 MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 超过 8 亿美元。智谱随后公布：上半年收入 9.54 亿元人民币，同比增长近 400%；8 月",
+      "src": "极客公园",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "对话中东学者赵军：金字塔是历史，生意经、AI战、平衡术才是埃及的当下",
-      "url": "https://www.huxiu.com/article/4887918.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "豆包手机要开卖了，端侧智能争夺的其实是代办权",
-      "url": "https://www.huxiu.com/article/4887888.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "拒绝“纯过日子”，AI作品对历史和现实大胆开麦了…",
-      "url": "https://www.huxiu.com/article/4887871.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
-      "url": "http://www.geekpark.net/news/369719",
-      "excerpt": "作者｜苏子华 编辑｜靖宇 极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。从一张几百元的价格，直接抬升到一万元。 婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。 关键变化发",
+      "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
+      "url": "http://www.geekpark.net/news/369777",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年夏天，林氏家居想卖一张布艺床。 然后，阿里妈妈万相点睛给它找到了一群电竞玩家。并建议他们投放那些搜索过「电竞房布置」「游戏房改造」「RGB 灯带」「二次元痛房」的用户。 对于林氏家居这样一家诞生于互联网、长期依赖数",
       "src": "极客公园",
-      "tag": "具身智能",
+      "tag": "阿里",
       "cat": "tech"
     },
     {
-      "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
-      "url": "http://www.geekpark.net/news/369690",
-      "excerpt": "​ 苹果新任 CEO 约翰·特努斯在 X 平台发布首条动态向关注者问好 苹果首席执行官约翰·特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "流量红利退潮，快手想用 AI 和老友们破局",
-      "url": "http://www.geekpark.net/news/369631",
-      "excerpt": "头图来源：快手 8 月 29 日，在 2026 快手光合创作者大会上，快手科技创始人、董事长兼 CEO 程一笑公布了一组数据：快手每天发布的作品超过 5800 万，近一年有超过 2.7 亿用户发布过作品，持续发布作品超过 10 年的创作者则超过 1700 万。",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "excerpt": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "excerpt": "从工厂一路干到家庭",
       "src": "量子位",
       "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "AI办公，一场血腥堑壕战",
-      "url": "https://www.huxiu.com/article/4887948.html",
+      "title": "博尔特也拦不住这届机器人，但它们还不会钉钉子",
+      "url": "https://www.huxiu.com/article/4888222.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "行业动态",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "url": "https://www.qbitai.com/2026/09/482967.html",
-      "excerpt": "AI客服日扛1.5万通电话",
-      "src": "量子位",
+      "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
+      "url": "http://www.geekpark.net/news/369767",
+      "excerpt": "头图来源：视觉中国 前段时间，Anthropic 发布了 Model Hardware Standard，尝试给 AI Agent 建立一套与硬件沟通的通用语言。接入这套标准后，显微镜、机械臂等不同厂商、不同接口的设备，可以被 Agent 发现、理解和调用。 ",
+      "src": "极客公园",
       "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "url": "https://www.qbitai.com/2026/09/482652.html",
-      "excerpt": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道",
+      "url": "http://www.geekpark.net/news/369745",
+      "excerpt": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景 9 月 2 日消息，谷歌在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能",
+      "src": "极客公园",
+      "tag": "字节",
       "cat": "app"
     },
     {
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "excerpt": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "excerpt": "遥操，可能真的危险了",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "excerpt": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-      "src": "量子位",
-      "tag": "操作系统",
-      "cat": "app"
-    },
-    {
-      "title": "全新OpenClaw 2.0发布：龙虾史上最大更新，已无人关心",
-      "url": "https://aiera.com.cn/2026/09/02/other/admin/111798/%e5%85%a8%e6%96%b0openclaw-2-0%e5%8f%91%e5%b8%83%ef%bc%9a%e9%be%99%e8%99%be%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%8c%e5%b7%b2%e6%97%a0%e4%ba%ba%e5%85%b3%e5%bf%83/",
+      "title": "刚刚，全球首台「万元级」高性能人形机器人诞生！比Mac还便宜",
+      "url": "https://aiera.com.cn/2026/09/03/other/admin/111886/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%b0%e3%80%8c%e4%b8%87%e5%85%83%e7%ba%a7%e3%80%8d%e9%ab%98%e6%80%a7%e8%83%bd%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e8%af%9e%e7%94%9f/",
       "excerpt": "",
       "src": "新智元",
-      "tag": "行业动态",
+      "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
+    {
+      "title": "上头AI裁员的老板里，超过一半都后悔了",
+      "url": "https://www.huxiu.com/article/4888226.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
     {
       "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
       "url": "http://www.geekpark.net/news/369724",
@@ -126,54 +126,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
-      "url": "http://www.geekpark.net/news/369718",
-      "excerpt": "作者｜苏子华 编辑｜靖宇 现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。 因为 Violoop 已经把它们变成了现实。 Violoop 实物图｜图片来源：Violoop Vio",
-      "src": "极客公园",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道",
-      "url": "http://www.geekpark.net/news/369634",
-      "excerpt": "库克发文告别苹果 CEO 一职：头衔会变，但对 Apple 社区的热爱永远不会改变 9 月 1 日消息，现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果首席执行官。届时，蒂姆 · 库克将出任苹果董事会执行董事长。 蒂姆 · 库",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "enterprise"
-    },
-    {
-      "title": "字节今年第二次上调期权价格：在职员工 241.35 美元 / 股，涨幅约 5.1%",
-      "url": "https://www.ithome.com/0/997/508.htm",
-      "excerpt": "IT之家 9 月 2 日消息，据新浪科技今日消息，字节发布通知调整期权价格，在职员工从 229.5 美元（IT之家注：现汇率约合 1,546 元人民币） / 股调整至 241.35 美元（现汇率约合 1,626 元人民币） / 股，涨幅比例约 5.1%。这是 ",
+      "title": "微软调整财报口径：智能体与基础设施、设备与消费者 2 板块，Azure 营收纳入报告范围",
+      "url": "https://www.ithome.com/0/997/990.htm",
+      "excerpt": "IT之家 9 月 3 日消息，Microsoft（微软）当地时间 9 月 2 日宣布调整财报口径，将其整体业务从此前的“生产力和商业流程”“智能云”“更个人化计算”3 板块调整为“智能体与基础设施”“设备与消费者”2 板块结构。“智能体与基础设施”大致相当于“",
       "src": "IT之家",
-      "tag": "字节",
+      "tag": "微软",
       "cat": "enterprise"
+    },
+    {
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "excerpt": "4激光雷达+双M100上车",
+      "src": "量子位",
+      "tag": "苹果",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "防其全球扩散",
-      "对话中东学者赵军",
-      "金字塔是历史",
-      "生意经",
-      "豆包手机要开卖了"
+      "NaturePortfolio",
+      "NASA",
+      "GPS",
+      "拿“垃圾”定位",
+      "专治失眠的"
     ],
     "app": [
-      "AI",
-      "一场血腥堑壕战",
       "Agent",
-      "按结果领工资",
-      "Claude",
-      "Fable"
+      "AI",
+      "下一场竞争",
+      "谁能成为",
+      "SpaceX",
+      "马斯克"
     ],
     "enterprise": [
+      "AI",
+      "超过一半都后悔了",
       "对话黄青虬",
       "成立半年估值",
       "阿里腾讯联投",
-      "WorkBuddy",
-      "拿下数亿融资",
-      "CEO"
+      "Azure"
     ]
   },
   "hotwords": [
@@ -182,15 +174,11 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "WorkBuddy",
+      "w": "Agent",
       "wt": 0.48
     },
     {
-      "w": "CEO",
-      "wt": 0.48
-    },
-    {
-      "w": "Claude",
+      "w": "Demo",
       "wt": 0.48
     },
     {
@@ -198,65 +186,69 @@ window.__NEWS_DATA__ = {
       "wt": 0.48
     },
     {
-      "w": "OpenClaw",
+      "w": "刚刚",
       "wt": 0.48
     },
     {
-      "w": "Galaxy",
-      "wt": 0.48
-    },
-    {
-      "w": "一场血腥堑壕战",
+      "w": "超过一半都后悔了",
       "wt": 0.42
     },
     {
-      "w": "防其全球扩散",
+      "w": "NaturePortfolio",
       "wt": 0.42
     },
     {
-      "w": "对话中东学者赵军",
+      "w": "NASA",
       "wt": 0.42
     },
     {
-      "w": "金字塔是历史",
+      "w": "GPS",
       "wt": 0.42
     },
     {
-      "w": "生意经",
+      "w": "拿“垃圾”定位",
       "wt": 0.42
     },
     {
-      "w": "豆包手机要开卖了",
+      "w": "专治失眠的",
       "wt": 0.42
     },
     {
-      "w": "拒绝“纯过日子”",
+      "w": "床头灯「火」了",
       "wt": 0.42
     },
     {
-      "w": "对话黄青虬",
+      "w": "MiniMax",
       "wt": 0.42
     },
     {
-      "w": "成立半年估值",
+      "w": "智谱和",
       "wt": 0.42
     },
     {
-      "w": "阿里腾讯联投",
+      "w": "下一场竞争",
       "wt": 0.42
     },
     {
-      "w": "从几百元",
+      "w": "谁能成为",
       "wt": 0.42
     },
     {
-      "w": "涨到一万元",
+      "w": "SpaceX",
       "wt": 0.42
     },
     {
-      "w": "拿下数亿融资",
+      "w": "马斯克",
+      "wt": 0.42
+    },
+    {
+      "w": "火箭再炸一次",
+      "wt": 0.42
+    },
+    {
+      "w": "就没了",
       "wt": 0.42
     }
   ],
-  "total": 18
+  "total": 17
 };
