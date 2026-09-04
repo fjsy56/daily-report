@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-02 17:41",
- "total": 574,
+ "updated": "2026-09-04 17:25",
+ "total": 596,
  "industries": [
   "产业升级",
   "企业服务",
@@ -94,6 +94,176 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2144867659580677",
+   "date": "2026-09-02",
+   "name": "金达钛业",
+   "desc": "有色金属制品制造企业",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "IPO",
+   "amount": "4.37亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2144867659580677",
+   "province": "辽宁省"
+  },
+  {
+   "id": "2183657618037125",
+   "date": "2026-09-02",
+   "name": "国科光芯",
+   "desc": "激光雷达生产商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B+轮",
+   "amount": "数亿人民币",
+   "investors": "四川科创投资集团、凯泰资本、山东科创",
+   "url": "https://pitchhub.36kr.com/project/2183657618037125",
+   "province": "浙江省"
+  },
+  {
+   "id": "2002546017460098",
+   "date": "2026-09-02",
+   "name": "优宝特智能",
+   "desc": "提供智慧解决方案的平台商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "亿级人民币",
+   "investors": "东证资本、济南先行投资集团、淄博高新投、联想之星",
+   "url": "https://pitchhub.36kr.com/project/2002546017460098",
+   "province": "山东省"
+  },
+  {
+   "id": "1678250242733064",
+   "date": "2026-09-02",
+   "name": "中科昊芯",
+   "desc": "数字信号处理器研发商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "悦湖资本",
+   "url": "https://pitchhub.36kr.com/project/1678250242733064",
+   "province": "北京市"
+  },
+  {
+   "id": "2011448637818116",
+   "date": "2026-09-02",
+   "name": "纽欧申医药",
+   "desc": "中枢神经系统创新药研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "超8000万美元",
+   "investors": "头部产业资本、波士顿投资、君联资本、经纬创投、真脉投资、上海国投先导、礼来亚洲基金",
+   "url": "https://pitchhub.36kr.com/project/2011448637818116",
+   "province": "上海市"
+  },
+  {
+   "id": "2282970431991433",
+   "date": "2026-09-01",
+   "name": "天下先智创机器人",
+   "desc": "仓储物流机器人制造商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "数亿人民币",
+   "investors": "初芯基金、经纬创投、合肥国资",
+   "url": "https://pitchhub.36kr.com/project/2282970431991433",
+   "province": "北京市"
+  },
+  {
+   "id": "1818823674810505",
+   "date": "2026-09-01",
+   "name": "夸夫超导",
+   "desc": "高端超导材料及应用技术集成供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "鼎晖投资、梅花创投、兴证资本、基石资本、兴证投资、国君创投、招银国际资本",
+   "url": "https://pitchhub.36kr.com/project/1818823674810505",
+   "province": "安徽省"
+  },
+  {
+   "id": "2079289991190277",
+   "date": "2026-09-01",
+   "name": "麦得发",
+   "desc": "基于PHA产品及生物材料的医疗器械研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "超亿人民币",
+   "investors": "粤财创投、白云基金",
+   "url": "https://pitchhub.36kr.com/project/2079289991190277",
+   "province": "广东省"
+  },
+  {
+   "id": "1679684809757447",
+   "date": "2026-09-01",
+   "name": "紫微科技",
+   "desc": "太空飞行器研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "数亿人民币",
+   "investors": "东方富海、云晖资本、弘晖基金、博源资本、中关村科学城、四川省科创投、龙雏基金、合信方册投资",
+   "url": "https://pitchhub.36kr.com/project/1679684809757447",
+   "province": "北京市"
+  },
+  {
+   "id": "2011459088385288",
+   "date": "2026-09-01",
+   "name": "优存科技",
+   "desc": "半导体存储设备开发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "E轮",
+   "amount": "6000万人民币",
+   "investors": "国民技术",
+   "url": "https://pitchhub.36kr.com/project/2011459088385288",
+   "province": "江苏省"
+  },
+  {
+   "id": "3969220740697984",
+   "date": "2026-09-01",
+   "name": "MCT毫厘智能",
+   "desc": "微流控生产型芯片研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "海富产业基金",
+   "url": "https://pitchhub.36kr.com/project/3969220740697984",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678420453700614",
+   "date": "2026-09-01",
+   "name": "康诺思腾",
+   "desc": "创新型手术机器人开发商",
+   "industry": [
+    "医疗健康",
+    "智能硬件"
+   ],
+   "round": "D轮",
+   "amount": "7亿美元",
+   "investors": "美敦力中国基金",
+   "url": "https://pitchhub.36kr.com/project/1678420453700614",
+   "province": "广东省"
+  },
+  {
    "id": "2144451174712580",
    "date": "2026-09-01",
    "name": "格林生物科技",
@@ -106,6 +276,92 @@ window.__FINANCING_DATA__ = {
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2144451174712580",
    "province": "浙江省"
+  },
+  {
+   "id": "1679622339711745",
+   "date": "2026-08-31",
+   "name": "熵评科技",
+   "desc": "实时流程智能平台",
+   "industry": [
+    "企业服务",
+    "前沿技术"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "朗玛峰创投",
+   "url": "https://pitchhub.36kr.com/project/1679622339711745",
+   "province": "上海市"
+  },
+  {
+   "id": "2072162317369602",
+   "date": "2026-08-31",
+   "name": "业展电子",
+   "desc": "低阻值电阻生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "冯源资本、远致瑞信、红枫中孚股权、凯思基金、粤财基金、美的资本、广汽资本",
+   "url": "https://pitchhub.36kr.com/project/2072162317369602",
+   "province": "广东省"
+  },
+  {
+   "id": "1818791501549703",
+   "date": "2026-08-31",
+   "name": "兴德融科技",
+   "desc": "砷化镓光电芯片研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "D轮",
+   "amount": "未透露",
+   "investors": "君桐资本、鋆昊资本",
+   "url": "https://pitchhub.36kr.com/project/1818791501549703",
+   "province": "江苏省"
+  },
+  {
+   "id": "2145437168092419",
+   "date": "2026-08-31",
+   "name": "北京犀灵视觉",
+   "desc": "感存算一体智能视觉传感器研发商",
+   "industry": [
+    "先进制造",
+    "智能硬件"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "国鼎资本、上海天使会、相关产业方",
+   "url": "https://pitchhub.36kr.com/project/2145437168092419",
+   "province": "北京市"
+  },
+  {
+   "id": "2144587729880322",
+   "date": "2026-08-31",
+   "name": "美克医学",
+   "desc": "医学诊断产品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "金光紫金",
+   "url": "https://pitchhub.36kr.com/project/2144587729880322",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679804990722822",
+   "date": "2026-08-31",
+   "name": "阿基米德半导体",
+   "desc": "功率半导体器件及模块研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "芯碁微装、稳正资产",
+   "url": "https://pitchhub.36kr.com/project/1679804990722822",
+   "province": "安徽省"
   },
   {
    "id": "1957863211339008",
@@ -361,6 +617,35 @@ window.__FINANCING_DATA__ = {
    "province": "上海市"
   },
   {
+   "id": "2075039779539721",
+   "date": "2026-08-27",
+   "name": "千贝科技",
+   "desc": "节能健康产品研发销售商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "仁毅资本",
+   "url": "https://pitchhub.36kr.com/project/2075039779539721",
+   "province": "广东省"
+  },
+  {
+   "id": "1788973073462657",
+   "date": "2026-08-27",
+   "name": "谱析光晶",
+   "desc": "碳化硅特种芯片和特种系统提供商",
+   "industry": [
+    "先进制造",
+    "通信/半导体"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "成都创投、谷雨嘉禾、京铭资本、源禾资本、浦科投资、开开门投资、瀚海千里、山东财金集团",
+   "url": "https://pitchhub.36kr.com/project/1788973073462657",
+   "province": "浙江省"
+  },
+  {
    "id": "2317910965127683",
    "date": "2026-08-27",
    "name": "万宇在线",
@@ -443,6 +728,34 @@ window.__FINANCING_DATA__ = {
    "investors": "全球知名战略投资机构、RA Capital Management、汉康资本、夏尔巴投资、信成基金、启明创投、元生创投、鼎晖投资",
    "url": "https://pitchhub.36kr.com/project/1958600631047169",
    "province": "浙江省"
+  },
+  {
+   "id": "2125594997877377",
+   "date": "2026-08-26",
+   "name": "戈洛立科技",
+   "desc": "风电设备研发商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "三一重工",
+   "url": "https://pitchhub.36kr.com/project/2125594997877377",
+   "province": "上海市"
+  },
+  {
+   "id": "2012737525679881",
+   "date": "2026-08-26",
+   "name": "触点智能",
+   "desc": "半导体芯片与模组精密封装设备商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "D+轮",
+   "amount": "未透露",
+   "investors": "武创投、凯盈资本、上海国盛投资集团",
+   "url": "https://pitchhub.36kr.com/project/2012737525679881",
+   "province": "广东省"
   },
   {
    "id": "2204959045120393",
