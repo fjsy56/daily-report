@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-06 14:00",
- "total": 600,
+ "updated": "2026-09-06 16:45",
+ "total": 606,
  "industries": [
   "产业升级",
   "企业服务",
@@ -66,6 +66,7 @@ window.__FINANCING_DATA__ = {
  "provinces": [
   "上海市",
   "中国",
+  "云南省",
   "内蒙古自治区",
   "北京市",
   "四川省",
@@ -93,6 +94,77 @@ window.__FINANCING_DATA__ = {
   "陕西省"
  ],
  "list": [
+  {
+   "id": "2142619125673860",
+   "date": "2026-09-04",
+   "name": "中科方寸知微",
+   "desc": "能源行业人工智能技术研发及推广服务商",
+   "industry": [
+    "产业升级",
+    "物联网/硬件"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "毅达资本、苏豪投资集团",
+   "url": "https://pitchhub.36kr.com/project/2142619125673860",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678204353016838",
+   "date": "2026-09-03",
+   "name": "ACE虚拟歌姬",
+   "desc": "AI虚拟音乐创作平台",
+   "industry": [
+    "元宇宙"
+   ],
+   "round": "Pre-B轮",
+   "amount": "4000万美元",
+   "investors": "创世伙伴CCV、顺为资本、Alphaist Partners、五源资本、博裕资本、海外投资机构HF0",
+   "url": "https://pitchhub.36kr.com/project/1678204353016838",
+   "province": "北京市"
+  },
+  {
+   "id": "2040424422464134",
+   "date": "2026-09-03",
+   "name": "小壹",
+   "desc": "智能宠物产品研发销售企业",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "瑞力投资",
+   "url": "https://pitchhub.36kr.com/project/2040424422464134",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678239584793606",
+   "date": "2026-09-03",
+   "name": "世通亨奇",
+   "desc": "数据智能解决方案服务商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B+轮",
+   "amount": "5亿人民币",
+   "investors": "京国瑞投资、太平创新、乐礼资本、芯能创投、广发信德、厚纪资本、联通创投、南方德茂资本、北京信息产业发展基金",
+   "url": "https://pitchhub.36kr.com/project/1678239584793606",
+   "province": "北京市"
+  },
+  {
+   "id": "2030957796033920",
+   "date": "2026-09-02",
+   "name": "昆明帝银",
+   "desc": "矿产开发及钻探设备销售商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "并购/合并",
+   "amount": "2.81亿人民币",
+   "investors": "东方铁塔",
+   "url": "https://pitchhub.36kr.com/project/2030957796033920",
+   "province": "云南省"
+  },
   {
    "id": "2144867659580677",
    "date": "2026-09-02",
@@ -162,6 +234,20 @@ window.__FINANCING_DATA__ = {
    "investors": "头部产业资本、波士顿投资、君联资本、经纬创投、真脉投资、上海国投先导、礼来亚洲基金",
    "url": "https://pitchhub.36kr.com/project/2011448637818116",
    "province": "上海市"
+  },
+  {
+   "id": "2144819077383429",
+   "date": "2026-09-01",
+   "name": "航胜航空机械",
+   "desc": "机械零部件生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "历城金控",
+   "url": "https://pitchhub.36kr.com/project/2144819077383429",
+   "province": "江西省"
   },
   {
    "id": "2282970431991433",
