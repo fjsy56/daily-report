@@ -1,33 +1,33 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "tech": [
     {
-      "title": "马斯克预警AI电力缺口",
-      "url": "https://www.huxiu.com/article/4888793.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "财联社AI daily©",
-      "url": "https://www.huxiu.com/article/4888793.html",
+      "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+      "url": "https://www.huxiu.com/article/4888906.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从AGI到后工作时代：我们将如何穿过这最危险的十年",
-      "url": "https://www.huxiu.com/article/4888773.html",
+      "title": "IFA现场直击：中国硬件，正在攻下欧洲最后一块高地",
+      "url": "https://www.huxiu.com/article/4888911.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从印刷机到AI：信息平权后的机会分化",
-      "url": "https://www.huxiu.com/article/4888784.html",
+      "title": "被断章取义的「TOKEN自由」：没钱就不配学计算机？",
+      "url": "https://www.huxiu.com/article/4888905.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "HavenlonLabs",
+      "url": "https://www.huxiu.com/article/4888905.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -50,23 +50,39 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
-      "url": "http://www.geekpark.net/news/369800",
-      "excerpt": "头图来源：OpenAI 作者｜桦林舞王 编辑｜靖宇 2026 年 9 月 3 日，OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」 他措辞很谨",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "excerpt": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "excerpt": "手握两篇顶会论文",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "阿里",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "大模型高歌猛进，但AI应用却活力不足了",
+      "url": "https://www.huxiu.com/article/4888919.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "大模型",
+      "cat": "app"
+    },
+    {
+      "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
+      "url": "http://www.geekpark.net/news/369875",
+      "excerpt": "大模型厂商纷纷「卖 Token」，消息称 Kimi、MiniMax 等即将在天猫开店 上海证券报 9 月 5 日独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
     {
       "title": "对话 Sharpa 李一帆：通用机器人要么全能，要么无能",
       "url": "http://www.geekpark.net/news/369851",
@@ -76,39 +92,15 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "url": "https://www.qbitai.com/2026/09/484293.html",
-      "excerpt": "不训练模型、不调参数",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "网友“手搓”Apple Music 鸿蒙版应用：适配沉浸光感特性，上架时间待定",
+      "url": "https://www.ithome.com/0/998/945.htm",
+      "excerpt": "IT之家 9 月 6 日消息，据B站 UP 主 @Jerry的鸿蒙开发日常 分享，其在华为鸿蒙 HarmonyOS 系统上开发了一款三方 Apple Music 应用，具体上架时间待定。该开发者表示，目前这个软件是绕了很多远路开发的流程，最主要是版权管理那方面",
+      "src": "IT之家",
+      "tag": "苹果",
       "cat": "app"
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "excerpt": "如此“反骨”的方法，具体又是怎么实现的？",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "url": "https://www.qbitai.com/2026/09/484551.html",
-      "excerpt": "最后靠Harness救回来",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "enterprise": [
-    {
-      "title": "投资人开抢AI剧了",
-      "url": "https://www.huxiu.com/article/4888800.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
     {
       "title": "传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元",
       "url": "http://www.geekpark.net/news/369871",
@@ -132,24 +124,32 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "enterprise"
+    },
+    {
+      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+      "url": "https://www.ithome.com/0/998/949.htm",
+      "excerpt": "IT之家 9 月 6 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月上市，官方现已陆续公布新机的合作厂商，包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等等。据此前官方预热，努比亚 NaviX Ultra 将搭载豆包手机助",
+      "src": "IT之家",
+      "tag": "芯片",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
       "GPT-6",
-      "AGI",
-      "OpenAI",
-      "daily",
-      "复活了"
+      "Anthropic",
+      "索尼",
+      "IFA",
+      "中国硬件"
     ],
     "app": [
-      "Sharpa",
-      "对话",
-      "李一帆",
-      "要么无能",
-      "ScienceDiscovery",
-      "RSI"
+      "AI",
+      "大模型高歌猛进",
+      "iPhone",
+      "Pro",
+      "Kimi",
+      "MiniMax"
     ],
     "enterprise": [
       "AI",
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.61
-    },
-    {
       "w": "GPT-6",
-      "wt": 0.61
+      "wt": 0.65
     },
     {
-      "w": "AGI",
-      "wt": 0.52
+      "w": "OpenAI",
+      "wt": 0.55
     },
     {
-      "w": "daily",
-      "wt": 0.44
+      "w": "大模型高歌猛进",
+      "wt": 0.45
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.45
+    },
+    {
+      "w": "索尼",
+      "wt": 0.45
+    },
+    {
+      "w": "IFA",
+      "wt": 0.45
+    },
+    {
+      "w": "中国硬件",
+      "wt": 0.45
+    },
+    {
+      "w": "TOKEN",
+      "wt": 0.45
+    },
+    {
+      "w": "HavenlonLabs",
+      "wt": 0.45
+    },
+    {
+      "w": "iPhone",
+      "wt": 0.45
+    },
+    {
+      "w": "Pro",
+      "wt": 0.45
+    },
+    {
+      "w": "Kimi",
+      "wt": 0.45
+    },
+    {
+      "w": "MiniMax",
+      "wt": 0.45
+    },
+    {
+      "w": "Agent",
+      "wt": 0.45
+    },
+    {
+      "w": "仅涨价",
+      "wt": 0.45
+    },
+    {
+      "w": "美元",
+      "wt": 0.45
+    },
+    {
+      "w": "将在天猫开店",
+      "wt": 0.45
+    },
+    {
+      "w": "攻击德国网站",
+      "wt": 0.45
     },
     {
       "w": "复活了",
-      "wt": 0.44
-    },
-    {
-      "w": "VIP",
-      "wt": 0.44
-    },
-    {
-      "w": "人人影视回归",
-      "wt": 0.44
-    },
-    {
-      "w": "终身",
-      "wt": 0.44
-    },
-    {
-      "w": "Sharpa",
-      "wt": 0.44
-    },
-    {
-      "w": "对话",
-      "wt": 0.44
-    },
-    {
-      "w": "李一帆",
-      "wt": 0.44
-    },
-    {
-      "w": "要么无能",
-      "wt": 0.44
-    },
-    {
-      "w": "梅卡曼德上市",
-      "wt": 0.44
-    },
-    {
-      "w": "能力超群",
-      "wt": 0.44
-    },
-    {
-      "w": "联合国",
-      "wt": 0.44
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.44
-    },
-    {
-      "w": "总裁说",
-      "wt": 0.44
-    },
-    {
-      "w": "来了",
-      "wt": 0.44
-    },
-    {
-      "w": "令人无语的一幕",
-      "wt": 0.44
+      "wt": 0.45
     }
   ],
   "total": 16
