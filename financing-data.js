@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-04 17:25",
- "total": 596,
+ "updated": "2026-09-06 14:00",
+ "total": 600,
  "industries": [
   "产业升级",
   "企业服务",
@@ -432,6 +432,62 @@ window.__FINANCING_DATA__ = {
    "investors": "华银金投",
    "url": "https://pitchhub.36kr.com/project/1818823234834564",
    "province": "上海市"
+  },
+  {
+   "id": "1818758898897025",
+   "date": "2026-08-30",
+   "name": "四川九州",
+   "desc": "光电子器件制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "1824.62万人民币",
+   "investors": "四川九洲",
+   "url": "https://pitchhub.36kr.com/project/1818758898897025",
+   "province": "四川省"
+  },
+  {
+   "id": "2001592197832580",
+   "date": "2026-08-30",
+   "name": "力翔电池",
+   "desc": "批发商贸服务提供商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "厦门火炬集团",
+   "url": "https://pitchhub.36kr.com/project/2001592197832580",
+   "province": "安徽省"
+  },
+  {
+   "id": "2011603631359489",
+   "date": "2026-08-30",
+   "name": "清数科技",
+   "desc": "大数据创新创业平台",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "腾瑞创投",
+   "url": "https://pitchhub.36kr.com/project/2011603631359489",
+   "province": "北京市"
+  },
+  {
+   "id": "2060979932182408",
+   "date": "2026-08-30",
+   "name": "中唯精密",
+   "desc": "智能装备制造商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "君行健创投",
+   "url": "https://pitchhub.36kr.com/project/2060979932182408",
+   "province": "天津市"
   },
   {
    "id": "1679718917952258",
