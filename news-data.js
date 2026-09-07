@@ -1,36 +1,12 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "tech": [
     {
-      "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
-      "url": "https://www.huxiu.com/article/4888906.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "IFA现场直击：中国硬件，正在攻下欧洲最后一块高地",
-      "url": "https://www.huxiu.com/article/4888911.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "被断章取义的「TOKEN自由」：没钱就不配学计算机？",
-      "url": "https://www.huxiu.com/article/4888905.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "HavenlonLabs",
-      "url": "https://www.huxiu.com/article/4888905.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道",
+      "url": "http://www.geekpark.net/news/369884",
+      "excerpt": "雷军：小米汽车累计交付量超过 80 万辆 9 月 7 日消息，小米创办人、董事长兼 CEO 雷军刚刚宣布，小米汽车累计交付量超过 80 万辆。 据本月早些时候报道，2026 年 8 月，小米汽车交付量持续超过 30,000 台。小米汽车表示，正全力为小米澎程上",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
@@ -42,11 +18,19 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道",
-      "url": "http://www.geekpark.net/news/369801",
-      "excerpt": "GPT-6 曝光，OpenAI 总裁说：AGI 来了 当地时间 9 月 3 日，GPT-6 Astra 正式发布。OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "url": "https://www.qbitai.com/2026/09/485056.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "excerpt": "让机器人学会利用更长的多模态Context",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
@@ -64,17 +48,25 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "阿里",
       "cat": "tech"
+    },
+    {
+      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "url": "https://www.qbitai.com/2026/09/484683.html",
+      "excerpt": "当AI开始“预演”一场暴雨",
+      "src": "量子位",
+      "tag": "马斯克",
+      "cat": "tech"
+    },
+    {
+      "title": "截至 2026 年 6 月，华为穿戴设备全球累计出货量位居第一",
+      "url": "https://www.ithome.com/0/999/353.htm",
+      "excerpt": "IT之家 9 月 7 日消息，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中。华为终端 BG CEO 何刚宣布，截至 2026 年 6 月，华为穿戴设备全球累计出货量位居第一。IT之家注意到，Omdia 数据显示，2",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "tech"
     }
   ],
   "app": [
-    {
-      "title": "大模型高歌猛进，但AI应用却活力不足了",
-      "url": "https://www.huxiu.com/article/4888919.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "大模型",
-      "cat": "app"
-    },
     {
       "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
       "url": "http://www.geekpark.net/news/369875",
@@ -92,11 +84,19 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "网友“手搓”Apple Music 鸿蒙版应用：适配沉浸光感特性，上架时间待定",
-      "url": "https://www.ithome.com/0/998/945.htm",
-      "excerpt": "IT之家 9 月 6 日消息，据B站 UP 主 @Jerry的鸿蒙开发日常 分享，其在华为鸿蒙 HarmonyOS 系统上开发了一款三方 Apple Music 应用，具体上架时间待定。该开发者表示，目前这个软件是绕了很多远路开发的流程，最主要是版权管理那方面",
-      "src": "IT之家",
-      "tag": "苹果",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "url": "https://www.qbitai.com/2026/09/485064.html",
+      "excerpt": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "excerpt": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+      "src": "量子位",
+      "tag": "阿里",
       "cat": "app"
     }
   ],
@@ -118,46 +118,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "url": "https://www.qbitai.com/2026/09/484547.html",
-      "excerpt": "国产卡跑出高品质 AI Token 生产级性能",
+      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "url": "https://www.qbitai.com/2026/09/485039.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
-      "url": "https://www.ithome.com/0/998/949.htm",
-      "excerpt": "IT之家 9 月 6 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月上市，官方现已陆续公布新机的合作厂商，包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等等。据此前官方预热，努比亚 NaviX Ultra 将搭载豆包手机助",
+      "title": "5999 元起华为 Pura X View 阔直板手机正式上市：16:9.5 比例面板、麒麟 9030S 处理器",
+      "url": "https://www.ithome.com/0/999/348.htm",
+      "excerpt": "IT之家 9 月 7 日消息，在今天的华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会中，华为 Pura X View 阔直板手机正式上市，该机将于 9 月 9 日 10:08 开启首销，官方同步提供了购机五重礼权益和",
       "src": "IT之家",
-      "tag": "芯片",
+      "tag": "华为",
       "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "GPT-6",
-      "Anthropic",
-      "索尼",
-      "IFA",
-      "中国硬件"
+      "AppStore",
+      "雷军",
+      "小米汽车销量突破",
+      "苹果元老辞职",
+      "传不满激进"
     ],
     "app": [
-      "AI",
-      "大模型高歌猛进",
+      "Agent",
       "iPhone",
       "Pro",
       "Kimi",
-      "MiniMax"
+      "MiniMax",
+      "OpenAI"
     ],
     "enterprise": [
-      "AI",
       "VIP",
       "人人影视回归",
       "终身",
       "梅卡曼德上市",
-      "Token"
+      "B+",
+      "产业龙头领投"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "GPT-6",
-      "wt": 0.65
+      "w": "Agent",
+      "wt": 0.75
+    },
+    {
+      "w": "HarmonyOS",
+      "wt": 0.75
+    },
+    {
+      "w": "Pura",
+      "wt": 0.75
+    },
+    {
+      "w": "View",
+      "wt": 0.75
+    },
+    {
+      "w": "处理器",
+      "wt": 0.75
+    },
+    {
+      "w": "AppStore",
+      "wt": 0.55
+    },
+    {
+      "w": "雷军",
+      "wt": 0.55
+    },
+    {
+      "w": "小米汽车销量突破",
+      "wt": 0.55
+    },
+    {
+      "w": "苹果元老辞职",
+      "wt": 0.55
+    },
+    {
+      "w": "传不满激进",
+      "wt": 0.55
+    },
+    {
+      "w": "增收方案",
+      "wt": 0.55
+    },
+    {
+      "w": "韩国推出首档人机",
+      "wt": 0.55
+    },
+    {
+      "w": "恋综",
+      "wt": 0.55
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.55
+    },
+    {
+      "w": "iPhone",
+      "wt": 0.55
+    },
+    {
+      "w": "Pro",
+      "wt": 0.55
+    },
+    {
+      "w": "Kimi",
+      "wt": 0.55
+    },
+    {
+      "w": "MiniMax",
+      "wt": 0.55
     },
     {
       "w": "OpenAI",
       "wt": 0.55
-    },
-    {
-      "w": "大模型高歌猛进",
-      "wt": 0.45
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.45
-    },
-    {
-      "w": "索尼",
-      "wt": 0.45
-    },
-    {
-      "w": "IFA",
-      "wt": 0.45
-    },
-    {
-      "w": "中国硬件",
-      "wt": 0.45
-    },
-    {
-      "w": "TOKEN",
-      "wt": 0.45
-    },
-    {
-      "w": "HavenlonLabs",
-      "wt": 0.45
-    },
-    {
-      "w": "iPhone",
-      "wt": 0.45
-    },
-    {
-      "w": "Pro",
-      "wt": 0.45
-    },
-    {
-      "w": "Kimi",
-      "wt": 0.45
-    },
-    {
-      "w": "MiniMax",
-      "wt": 0.45
-    },
-    {
-      "w": "Agent",
-      "wt": 0.45
-    },
-    {
-      "w": "仅涨价",
-      "wt": 0.45
-    },
-    {
-      "w": "美元",
-      "wt": 0.45
-    },
-    {
-      "w": "将在天猫开店",
-      "wt": 0.45
-    },
-    {
-      "w": "攻击德国网站",
-      "wt": 0.45
-    },
-    {
-      "w": "复活了",
-      "wt": 0.45
     }
   ],
   "total": 16
