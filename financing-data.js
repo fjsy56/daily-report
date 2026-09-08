@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-06 16:45",
- "total": 606,
+ "updated": "2026-09-08 17:48",
+ "total": 616,
  "industries": [
   "产业升级",
   "企业服务",
@@ -95,6 +95,105 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1817521239820169",
+   "date": "2026-09-06",
+   "name": "杰锋汽车",
+   "desc": "汽车进排气系统以及发动机零部件提供商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "IPO",
+   "amount": "3.21亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1817521239820169",
+   "province": "安徽省"
+  },
+  {
+   "id": "1818815316922500",
+   "date": "2026-09-06",
+   "name": "麦科田医疗",
+   "desc": "手术期整体解决方案提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "IPO",
+   "amount": "6.00亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1818815316922500",
+   "province": "广东省"
+  },
+  {
+   "id": "2317922003257608",
+   "date": "2026-09-06",
+   "name": "建科药业",
+   "desc": "医疗器械制造商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "IPO",
+   "amount": "2.32亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2317922003257608",
+   "province": "海南省"
+  },
+  {
+   "id": "2072087460544513",
+   "date": "2026-09-06",
+   "name": "长亭未来科技",
+   "desc": "科技公司",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "国和投资、农银投资、顺禧基金、深高新投",
+   "url": "https://pitchhub.36kr.com/project/2072087460544513",
+   "province": "北京市"
+  },
+  {
+   "id": "2012745602614787",
+   "date": "2026-09-06",
+   "name": "华力微电子",
+   "desc": "芯片代工企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "82.679亿人民币",
+   "investors": "华虹半导体",
+   "url": "https://pitchhub.36kr.com/project/2012745602614787",
+   "province": "上海市"
+  },
+  {
+   "id": "1678250824463368",
+   "date": "2026-09-06",
+   "name": "中科类脑",
+   "desc": "国内首家类脑智能技术及应用科技创新公司",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B+轮",
+   "amount": "数亿人民币",
+   "investors": "中车资本、银杏谷资本、水木基金、启迪基金",
+   "url": "https://pitchhub.36kr.com/project/1678250824463368",
+   "province": "安徽省"
+  },
+  {
+   "id": "2963469621895689",
+   "date": "2026-09-06",
+   "name": "云通数达",
+   "desc": "专业的数智交通服务商",
+   "industry": [
+    "汽车出行",
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "4000万人民币",
+   "investors": "温州湾投资、金昌投资、每日互动、华旦天使投资、启峰资本AsiaTech Ventures",
+   "url": "https://pitchhub.36kr.com/project/2963469621895689",
+   "province": "浙江省"
+  },
+  {
    "id": "2142619125673860",
    "date": "2026-09-04",
    "name": "中科方寸知微",
@@ -108,6 +207,20 @@ window.__FINANCING_DATA__ = {
    "investors": "毅达资本、苏豪投资集团",
    "url": "https://pitchhub.36kr.com/project/2142619125673860",
    "province": "江苏省"
+  },
+  {
+   "id": "2221833300738569",
+   "date": "2026-09-03",
+   "name": "微釜半导体",
+   "desc": "半导体器件专用设备制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "上海岩泉科技有限公司",
+   "url": "https://pitchhub.36kr.com/project/2221833300738569",
+   "province": "上海市"
   },
   {
    "id": "1678204353016838",
@@ -150,6 +263,34 @@ window.__FINANCING_DATA__ = {
    "investors": "京国瑞投资、太平创新、乐礼资本、芯能创投、广发信德、厚纪资本、联通创投、南方德茂资本、北京信息产业发展基金",
    "url": "https://pitchhub.36kr.com/project/1678239584793606",
    "province": "北京市"
+  },
+  {
+   "id": "2066622945280003",
+   "date": "2026-09-02",
+   "name": "桑瑞斯",
+   "desc": "粉末涂料研发制造商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "北新建材",
+   "url": "https://pitchhub.36kr.com/project/2066622945280003",
+   "province": "安徽省"
+  },
+  {
+   "id": "2179900713078148",
+   "date": "2026-09-02",
+   "name": "瑞科美新能源",
+   "desc": "锂电池及电池材料研发商",
+   "industry": [
+    "其他"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "浙股坤鑫投资、温州国投资本、鹏辉能源、荣通资本",
+   "url": "https://pitchhub.36kr.com/project/2179900713078148",
+   "province": "湖北省"
   },
   {
    "id": "2030957796033920",
