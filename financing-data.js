@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-08 17:48",
- "total": 616,
+ "updated": "2026-09-09 20:36",
+ "total": 626,
  "industries": [
   "产业升级",
   "企业服务",
@@ -265,6 +265,34 @@ window.__FINANCING_DATA__ = {
    "province": "北京市"
   },
   {
+   "id": "2180996919921799",
+   "date": "2026-09-02",
+   "name": "埃柯瑞",
+   "desc": "质量流量计销售商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中核产业基金",
+   "url": "https://pitchhub.36kr.com/project/2180996919921799",
+   "province": "上海市"
+  },
+  {
+   "id": "3976300424285825",
+   "date": "2026-09-02",
+   "name": "艾佛光通",
+   "desc": "工程和技术研究和试验发展提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "广州开发区产业基金、广州华南理工资管",
+   "url": "https://pitchhub.36kr.com/project/3976300424285825",
+   "province": "广东省"
+  },
+  {
    "id": "2066622945280003",
    "date": "2026-09-02",
    "name": "桑瑞斯",
@@ -375,6 +403,49 @@ window.__FINANCING_DATA__ = {
    "investors": "头部产业资本、波士顿投资、君联资本、经纬创投、真脉投资、上海国投先导、礼来亚洲基金",
    "url": "https://pitchhub.36kr.com/project/2011448637818116",
    "province": "上海市"
+  },
+  {
+   "id": "2012743392216836",
+   "date": "2026-09-01",
+   "name": "帝耐激光",
+   "desc": "国产高端激光设备制造商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "安徽省属企业改革发展基金母基金",
+   "url": "https://pitchhub.36kr.com/project/2012743392216836",
+   "province": "江苏省"
+  },
+  {
+   "id": "2077440668751878",
+   "date": "2026-09-01",
+   "name": "天启新材",
+   "desc": "氰酸酯树脂制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "定向增发",
+   "amount": "4999万人民币",
+   "investors": "华金资本",
+   "url": "https://pitchhub.36kr.com/project/2077440668751878",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678241046049799",
+   "date": "2026-09-01",
+   "name": "东方空间",
+   "desc": "商业航天技术公司",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "申银万国投资、上海知识产权基金",
+   "url": "https://pitchhub.36kr.com/project/1678241046049799",
+   "province": "山东省"
   },
   {
    "id": "2144819077383429",
@@ -659,6 +730,35 @@ window.__FINANCING_DATA__ = {
    "investors": "华银金投",
    "url": "https://pitchhub.36kr.com/project/1818823234834564",
    "province": "上海市"
+  },
+  {
+   "id": "2234396321400840",
+   "date": "2026-08-30",
+   "name": "MIAOYUN",
+   "desc": "易用、智能运维的云原生系统服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "腾瑞创投",
+   "url": "https://pitchhub.36kr.com/project/2234396321400840",
+   "province": "四川省"
+  },
+  {
+   "id": "3961767323326084",
+   "date": "2026-08-30",
+   "name": "SleepUp",
+   "desc": "SleepUp：可穿戴脑电与AI数字疗法整合平台",
+   "industry": [
+    "医疗健康",
+    "物联网/硬件"
+   ],
+   "round": "Pre-A轮",
+   "amount": "未透露",
+   "investors": "未透露",
+   "url": "https://pitchhub.36kr.com/project/3961767323326084",
+   "province": "广东省"
   },
   {
    "id": "1818758898897025",
@@ -1013,6 +1113,21 @@ window.__FINANCING_DATA__ = {
    "province": "浙江省"
   },
   {
+   "id": "3955405840979593",
+   "date": "2026-08-26",
+   "name": "店播AI",
+   "desc": "面向实体店的AI短视频自动化营销服务商",
+   "industry": [
+    "文化娱乐",
+    "企业服务"
+   ],
+   "round": "种子轮",
+   "amount": "15万人民币",
+   "investors": "暂无",
+   "url": "https://pitchhub.36kr.com/project/3955405840979593",
+   "province": "北京市"
+  },
+  {
    "id": "2125594997877377",
    "date": "2026-08-26",
    "name": "戈洛立科技",
@@ -1169,6 +1284,21 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "3953919266753664",
+   "date": "2026-08-25",
+   "name": "知饰科技",
+   "desc": "借开源AI东风，创新装修赛道，做产业路由器",
+   "industry": [
+    "消费电商",
+    "本地生活"
+   ],
+   "round": "天使轮",
+   "amount": "200人民币",
+   "investors": "未透露",
+   "url": "https://pitchhub.36kr.com/project/3953919266753664",
+   "province": "上海市"
+  },
+  {
    "id": "1678531841176577",
    "date": "2026-08-25",
    "name": "沐创集成电路",
@@ -1253,6 +1383,21 @@ window.__FINANCING_DATA__ = {
    "investors": "卓势资本",
    "url": "https://pitchhub.36kr.com/project/3510578612544644",
    "province": "中国"
+  },
+  {
+   "id": "3953164357062017",
+   "date": "2026-08-24",
+   "name": "全自动多功能试验机",
+   "desc": "全自动多功能五金件试验机技术达到国际领先",
+   "industry": [
+    "先进制造",
+    "能源环保"
+   ],
+   "round": "天使轮",
+   "amount": "1000人民币",
+   "investors": "股权融资",
+   "url": "https://pitchhub.36kr.com/project/3953164357062017",
+   "province": "辽宁省"
   },
   {
    "id": "2182953317783940",
