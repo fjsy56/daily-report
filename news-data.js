@@ -1,36 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "tech": [
     {
-      "title": "最高院出台新规：开源AI软件如何做风险披露才能真正免责？",
-      "url": "https://www.huxiu.com/article/4889479.html",
+      "title": "OpenAI智能体Hugging Face入侵事件观察",
+      "url": "https://www.huxiu.com/article/4889803.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "大模型",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "50万人的“零花钱”，没了",
-      "url": "https://www.huxiu.com/article/4889474.html",
+      "title": "解禁面前，为什么壁仞大跌、天数微涨、摩尔跌停？",
+      "url": "https://www.huxiu.com/article/4889816.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "DeepSeek突然扩招150人，AI越强公司怎么还越需要人？",
-      "url": "https://www.huxiu.com/article/4889464.html",
+      "title": "财联社AI daily©",
+      "url": "https://www.huxiu.com/article/4889807.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "DeepSeek",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "芯片没进中国，算力进了",
-      "url": "https://www.huxiu.com/article/4889444.html",
+      "title": "人类的数学研究要被AI接管了？",
+      "url": "https://www.huxiu.com/article/4889805.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "芯片",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道",
+      "url": "http://www.geekpark.net/news/370026",
+      "excerpt": "消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部 9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。 熟",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
@@ -56,23 +64,15 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
-      "url": "http://www.geekpark.net/news/369959",
-      "excerpt": "作者｜Cynthia 编辑｜ 郑玄 2016 年， 后来被反复宣布了无数次元年的 VR 产业，正式迎来了第一次爆发浪潮。 这一年 3 月 28 日，Oculus Rift 首批发货，售价 599 美元的产品很快被销售一空；两天后，曾在微软 Windows 10",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "B面具身智能：机器人烧钱，数采公司躺赚？",
-      "url": "https://www.huxiu.com/article/4889438.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "具身智能",
+      "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
+      "url": "http://www.geekpark.net/news/370061",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同",
+      "src": "极客公园",
+      "tag": "阿里",
       "cat": "app"
     },
     {
@@ -84,39 +84,47 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "判断用不用你的软件，Agent 只需 500 个 Token",
-      "url": "http://www.geekpark.net/news/369960",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 现在几乎每个开发者都在用 AI Agent 干活。Cursor、Claude Code、Windsurf、Gemini CLI，各种 Coding Agent 已经深度嵌入了日常工作流。一个普遍的体验是，让 Agent 去调某些 AP",
-      "src": "极客公园",
-      "tag": "Agent",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "excerpt": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "app"
     },
     {
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "url": "https://www.qbitai.com/2026/09/485525.html",
-      "excerpt": "谁说现在机器人都长得差不多的！",
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "excerpt": "从Demo到货架，这两家公司要让具身智能算得过账",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "韩国电池材料企业瞄准人形机器人，开辟电动汽车外新增长赛道",
-      "url": "https://www.ithome.com/0/999/808.htm",
-      "excerpt": "IT之家 9 月 8 日消息，韩国电池材料企业 EcoPro Co.计划加入韩国电池材料厂商进军人形机器人产业的行列，希望凭借更轻、能量密度更高的电池需求，寻找电动汽车之外的新增长市场。EcoPro 表示，公司计划加快高镍正极材料以及下一代固态电池技术的研发，",
-      "src": "IT之家",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "日本首个“人形机器人救护车”现身，搭载机器人专用担架、维修零部件等",
-      "url": "https://www.ithome.com/0/999/807.htm",
-      "excerpt": "IT之家 9 月 8 日消息，日本 GMO 互联网集团旗下公司“GMO AI & 机器人商事”（GMO AIR）今天宣布推出“人形机器人救护车”，是日本首个专门服务人形机器人的维修车辆。IT之家了解到，这辆救护车可在人形机器人发生故障时赶赴现场，提供诊断、维修",
-      "src": "IT之家",
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "excerpt": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
+    {
+      "title": "Anthropic顶尖大牛愤然离职：AI明年或彻底失控",
+      "url": "https://www.huxiu.com/article/4889807.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "url": "https://www.qbitai.com/2026/09/486052.html",
+      "excerpt": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
       "url": "https://www.qbitai.com/2026/09/485854.html",
@@ -132,48 +140,30 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "excerpt": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "excerpt": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "最高院出台新规",
-      "没了",
-      "DeepSeek",
-      "芯片没进中国",
-      "算力进了"
+      "OpenAI",
+      "Hugging",
+      "Face",
+      "解禁面前",
+      "为什么壁仞大跌"
     ],
     "app": [
-      "机器人烧钱",
-      "数采公司躺赚",
       "AI",
       "张一鸣亲自督导",
       "社交」功能",
-      "Agent"
+      "宜宾"
     ],
     "enterprise": [
       "AI",
-      "GPT-6",
-      "token",
-      "WAIC",
-      "CONNECT",
-      "MALAYSIA"
+      "Anthropic",
+      "SkyProduction",
+      "MiniMax",
+      "H3",
+      "GPT-6"
     ]
   },
   "hotwords": [
@@ -182,81 +172,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "GPT-6",
-      "wt": 0.48
+      "w": "OpenAI",
+      "wt": 0.41
     },
     {
-      "w": "最高院出台新规",
-      "wt": 0.42
+      "w": "Hugging",
+      "wt": 0.41
     },
     {
-      "w": "没了",
-      "wt": 0.42
+      "w": "Face",
+      "wt": 0.41
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.42
+      "w": "解禁面前",
+      "wt": 0.41
     },
     {
-      "w": "机器人烧钱",
-      "wt": 0.42
+      "w": "为什么壁仞大跌",
+      "wt": 0.41
     },
     {
-      "w": "数采公司躺赚",
-      "wt": 0.42
+      "w": "天数微涨",
+      "wt": 0.41
     },
     {
-      "w": "芯片没进中国",
-      "wt": 0.42
+      "w": "摩尔跌停",
+      "wt": 0.41
     },
     {
-      "w": "算力进了",
-      "wt": 0.42
+      "w": "Anthropic",
+      "wt": 0.41
     },
     {
-      "w": "IFA",
-      "wt": 0.42
+      "w": "daily",
+      "wt": 0.41
     },
     {
-      "w": "现场",
-      "wt": 0.42
+      "w": "iPhone",
+      "wt": 0.41
     },
     {
-      "w": "单人一月烧掉",
-      "wt": 0.42
+      "w": "HY4",
+      "wt": 0.41
     },
     {
-      "w": "硅谷开始倒查员工",
-      "wt": 0.42
+      "w": "折叠屏",
+      "wt": 0.41
     },
     {
-      "w": "账单",
-      "wt": 0.42
+      "w": "初期产量受限",
+      "wt": 0.41
     },
     {
-      "w": "张一鸣亲自督导",
-      "wt": 0.42
+      "w": "每日仅数百部",
+      "wt": 0.41
     },
     {
-      "w": "社交」功能",
-      "wt": 0.42
+      "w": "环比增长",
+      "wt": 0.41
     },
     {
-      "w": "时代",
-      "wt": 0.42
+      "w": "腾讯",
+      "wt": 0.41
     },
     {
-      "w": "Agent",
-      "wt": 0.42
+      "w": "特斯拉时隔",
+      "wt": 0.41
     },
     {
-      "w": "Token",
-      "wt": 0.42
+      "w": "个月再降价",
+      "wt": 0.41
     },
     {
-      "w": "只需",
-      "wt": 0.42
+      "w": "极客早知道",
+      "wt": 0.41
     }
   ],
-  "total": 18
+  "total": 17
 };
