@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-09 20:36",
- "total": 626,
+ "updated": "2026-09-10 18:12",
+ "total": 641,
  "industries": [
   "产业升级",
   "企业服务",
@@ -94,6 +94,220 @@ window.__FINANCING_DATA__ = {
   "陕西省"
  ],
  "list": [
+  {
+   "id": "1817520292808578",
+   "date": "2026-09-09",
+   "name": "中电仪器",
+   "desc": "测量仪器研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "16.33亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1817520292808578",
+   "province": "北京市"
+  },
+  {
+   "id": "3964480617715592",
+   "date": "2026-09-08",
+   "name": "安柏芮ANDPERIOD",
+   "desc": "专注敏感肌女性的高端经期护理品牌",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "天使轮",
+   "amount": "数百万人民币",
+   "investors": "未披露",
+   "url": "https://pitchhub.36kr.com/project/3964480617715592",
+   "province": "上海市"
+  },
+  {
+   "id": "3518816432071305",
+   "date": "2026-09-08",
+   "name": "杭州镭萌科技有限公司",
+   "desc": "专注于情感智能与潮玩IP融合创新的科技公司",
+   "industry": [
+    "消费电商",
+    "智能硬件"
+   ],
+   "round": "天使轮",
+   "amount": "千万级人民币",
+   "investors": "时尚资本、浙江弘颐",
+   "url": "https://pitchhub.36kr.com/project/3518816432071305",
+   "province": "浙江省"
+  },
+  {
+   "id": "1818765597282437",
+   "date": "2026-09-08",
+   "name": "江西大有",
+   "desc": "非晶纳米晶合金软磁铁芯制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "安徽省属企业改革发展基金母基金、巨磁智能、蚌埠投资",
+   "url": "https://pitchhub.36kr.com/project/1818765597282437",
+   "province": "江西省"
+  },
+  {
+   "id": "1678273022538752",
+   "date": "2026-09-08",
+   "name": "亮亮视野",
+   "desc": "AR+AI企业级服务商",
+   "industry": [
+    "前沿技术",
+    "智能硬件"
+   ],
+   "round": "C+轮",
+   "amount": "超3亿人民币",
+   "investors": "北京信息产业发展基金、北京市新材料产业投资基金",
+   "url": "https://pitchhub.36kr.com/project/1678273022538752",
+   "province": "北京市"
+  },
+  {
+   "id": "1818824521289859",
+   "date": "2026-09-08",
+   "name": "微光基因",
+   "desc": "新型基因编辑技术研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-A+轮",
+   "amount": "超亿人民币",
+   "investors": "元航资本、华方资本、倚锋资本、君领投资、广州颠覆性基金、南京市创投集团",
+   "url": "https://pitchhub.36kr.com/project/1818824521289859",
+   "province": "江苏省"
+  },
+  {
+   "id": "2205347916902785",
+   "date": "2026-09-08",
+   "name": "卓誉电气",
+   "desc": "高端运控领域制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "超亿人民币",
+   "investors": "东吴创新资本、柯力传感、国龙基金、湖南财鑫集团、常德开源、东方富海",
+   "url": "https://pitchhub.36kr.com/project/2205347916902785",
+   "province": "江苏省"
+  },
+  {
+   "id": "3977716379815815",
+   "date": "2026-09-07",
+   "name": "博格科技",
+   "desc": "显微加工及检测仪器制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "近2亿人民币",
+   "investors": "元禾控股、盈富泰克、苏州战新基金",
+   "url": "https://pitchhub.36kr.com/project/3977716379815815",
+   "province": "江苏省"
+  },
+  {
+   "id": "2144582174000389",
+   "date": "2026-09-07",
+   "name": "至博光电",
+   "desc": "光电智能探测及传感设备制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "Pre-A轮",
+   "amount": "数千万人民币",
+   "investors": "国科新能创投、安徽国控资本",
+   "url": "https://pitchhub.36kr.com/project/2144582174000389",
+   "province": "安徽省"
+  },
+  {
+   "id": "1679661982618374",
+   "date": "2026-09-07",
+   "name": "矩阵时光",
+   "desc": "人工智能数据服务提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "普济无量产投",
+   "url": "https://pitchhub.36kr.com/project/1679661982618374",
+   "province": "江苏省"
+  },
+  {
+   "id": "2268940252973696",
+   "date": "2026-09-07",
+   "name": "金叶玉阳化纤",
+   "desc": "滤棒生厂商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "深圳市恒信汇科技有限责任公司",
+   "url": "https://pitchhub.36kr.com/project/2268940252973696",
+   "province": "湖北省"
+  },
+  {
+   "id": "1817558639249283",
+   "date": "2026-09-07",
+   "name": "KIRI Innovation",
+   "desc": "3D扫描重建技术服务商",
+   "industry": [
+    "智能硬件",
+    "元宇宙"
+   ],
+   "round": "A+轮",
+   "amount": "数亿人民币",
+   "investors": "君科丹木、东证资本、同创伟业、力合科创、深高新投、合世家、三七互娱创投基金",
+   "url": "https://pitchhub.36kr.com/project/1817558639249283",
+   "province": "北京市"
+  },
+  {
+   "id": "2291306044441857",
+   "date": "2026-09-07",
+   "name": "小雨智造",
+   "desc": "工业机器人产销商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "B++轮",
+   "amount": "数亿人民币",
+   "investors": "Blooming Star、Kamet Capital Partners、盈峰资本",
+   "url": "https://pitchhub.36kr.com/project/2291306044441857",
+   "province": "北京市"
+  },
+  {
+   "id": "1679778993394439",
+   "date": "2026-09-06",
+   "name": "迪谱诊断",
+   "desc": "创新型诊断技术及产品供应商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "1.49亿人民币",
+   "investors": "迪安诊断",
+   "url": "https://pitchhub.36kr.com/project/1679778993394439",
+   "province": "浙江省"
+  },
+  {
+   "id": "2071885199048706",
+   "date": "2026-09-06",
+   "name": "三凯机电",
+   "desc": "动力传动装置专业制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "国和投资、元禾控股",
+   "url": "https://pitchhub.36kr.com/project/2071885199048706",
+   "province": "浙江省"
+  },
   {
    "id": "1817521239820169",
    "date": "2026-09-06",
