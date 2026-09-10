@@ -1,36 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "tech": [
     {
-      "title": "OpenAI智能体Hugging Face入侵事件观察",
-      "url": "https://www.huxiu.com/article/4889803.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "解禁面前，为什么壁仞大跌、天数微涨、摩尔跌停？",
-      "url": "https://www.huxiu.com/article/4889816.html",
+      "title": "二十年前的大危机，让这个北方小城拿到了AI时代的大结果",
+      "url": "https://www.huxiu.com/article/4890101.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "财联社AI daily©",
-      "url": "https://www.huxiu.com/article/4889807.html",
+      "title": "全球AI职位Offer超7成被男性拿下，“阴阳失调”的AI风口？",
+      "url": "https://www.huxiu.com/article/4890075.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "人类的数学研究要被AI接管了？",
-      "url": "https://www.huxiu.com/article/4889805.html",
+      "title": "LinkedIn领英",
+      "url": "https://www.huxiu.com/article/4890075.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "苹果首款天价折叠屏，被炒到了9万",
+      "url": "https://www.huxiu.com/article/4890076.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "AI创作者自任男主角，《我的妹妹不可爱》硬是火了",
+      "url": "https://www.huxiu.com/article/4890053.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "苹果第一台折叠 iPhone，15999 元起",
+      "url": "http://www.geekpark.net/news/370088",
+      "excerpt": "iPhone Duo，国行 15999 元起 作者｜张勇毅 编辑｜靖宇 北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
@@ -48,22 +64,6 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
-      "url": "http://www.geekpark.net/news/370006",
-      "excerpt": "「有人星夜赶科场，有人辞官归故里。」 作者｜张勇毅 编辑｜靖宇 过去很长一段时间里，微软员工之间流传着一张自发维护的表格，用来互相交换薪资和奖金数字，大公司里常见的那种「工资透明化」地下工程。 今年，这张后来被 Business Insider 拿到的表格上，",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI 时代，「种草」这件事会变成什么样？",
-      "url": "http://www.geekpark.net/news/369962",
-      "excerpt": "作者｜靖宇 互联网时代，鲜有一个网站或者应用，能像小红书一样在不停的转换身份和功能的进化中，穿越周期。 对于现在的网民来说，你几乎能在小红书上面搜索到各种小妙招。它还是攻略集宝鉴，哪里旅游不踩坑全部奉献给小伙伴。 当然，没人能忘了，这是国内公认的「种草」平台，",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
@@ -76,94 +76,88 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
-      "url": "http://www.geekpark.net/news/369965",
-      "excerpt": "消息称字节正开发实时空间视频生成 AI 模型：张一鸣亲自督导，最快下个月发布 9 月 7 日消息，据彭博社报道，字节跳动正准备推出一款实时空间视频生成 AI 模型。创始人张一鸣正亲自督导这款新模型的研发工作，该模型计划最早于下月发布。 知情人士透露，张一鸣近期",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "app"
-    },
-    {
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "url": "https://www.qbitai.com/2026/09/486288.html",
-      "excerpt": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "app"
-    },
-    {
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "url": "https://www.qbitai.com/2026/09/486280.html",
-      "excerpt": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "url": "https://www.qbitai.com/2026/09/486747.html",
+      "excerpt": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "url": "https://www.qbitai.com/2026/09/486038.html",
-      "excerpt": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "url": "https://www.qbitai.com/2026/09/486684.html",
+      "excerpt": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
+    {
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "url": "https://www.qbitai.com/2026/09/486350.html",
+      "excerpt": "赶上了API限时五折",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "Anthropic顶尖大牛愤然离职：AI明年或彻底失控",
-      "url": "https://www.huxiu.com/article/4889807.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道",
+      "url": "http://www.geekpark.net/news/370089",
+      "excerpt": "苹果首款折叠 iPhone Duo 亮相，国行 15999 元起 北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，99",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "enterprise"
+    },
+    {
+      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+      "url": "https://www.qbitai.com/2026/09/486651.html",
+      "excerpt": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-      "url": "https://www.qbitai.com/2026/09/486052.html",
-      "excerpt": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
+      "title": "支持前实习生创业项目：消息称阿里拟领投 AI 评测公司 UniPat 的 3 亿美元融资",
+      "url": "https://www.ithome.com/1/000/856.htm",
+      "excerpt": "IT之家 9 月 10 日消息，据彭博社今天（10 日）上午报道，阿里巴巴集团拟领投 AI 训练与基准测试初创公司 UniPat AI 的一轮 3 亿美元（IT之家注：现汇率约合 20.18 亿元人民币）融资，本轮估值达 25 亿美元（现汇率约合 168.14",
+      "src": "IT之家",
+      "tag": "阿里",
+      "cat": "enterprise"
     },
     {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
-      "excerpt": "Blender也不用学了",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "excerpt": "百万奖金、大厂直通、VC跟投",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
+      "title": "英伟达与澳洲伙伴合作，近两年建设至多 2GW 数据中心 AI 工厂",
+      "url": "https://www.ithome.com/1/000/569.htm",
+      "excerpt": "IT之家 9 月 10 日消息，NVIDIA（英伟达）当地时间本月 9 日宣布与澳洲 NVIDIA 云合作伙伴及 AI 基础设施合作伙伴生态系统展开合作，扩充可部署多世代 AI 工厂所需的土地、电力、机房空间。Firmus、Sharon AI、IREN、Res",
+      "src": "IT之家",
+      "tag": "英伟达",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "OpenAI",
-      "Hugging",
-      "Face",
-      "解禁面前",
-      "为什么壁仞大跌"
+      "iPhone",
+      "二十年前的大危机",
+      "Offer",
+      "LinkedIn",
+      "苹果第一台折叠"
     ],
     "app": [
-      "AI",
-      "张一鸣亲自督导",
-      "社交」功能",
-      "宜宾"
+      "HSImul3R",
+      "AGI",
+      "ChatGPT",
+      "Images",
+      "X2.5",
+      "Bug"
     ],
     "enterprise": [
       "AI",
-      "Anthropic",
-      "SkyProduction",
-      "MiniMax",
-      "H3",
-      "GPT-6"
+      "iPhone",
+      "Deepseek",
+      "IPO",
+      "FDE",
+      "首发"
     ]
   },
   "hotwords": [
@@ -172,43 +166,59 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.41
-    },
-    {
-      "w": "Hugging",
-      "wt": 0.41
-    },
-    {
-      "w": "Face",
-      "wt": 0.41
-    },
-    {
-      "w": "解禁面前",
-      "wt": 0.41
-    },
-    {
-      "w": "为什么壁仞大跌",
-      "wt": 0.41
-    },
-    {
-      "w": "天数微涨",
-      "wt": 0.41
-    },
-    {
-      "w": "摩尔跌停",
-      "wt": 0.41
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.41
-    },
-    {
-      "w": "daily",
-      "wt": 0.41
-    },
-    {
       "w": "iPhone",
+      "wt": 0.53
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.47
+    },
+    {
+      "w": "二十年前的大危机",
+      "wt": 0.41
+    },
+    {
+      "w": "Offer",
+      "wt": 0.41
+    },
+    {
+      "w": "LinkedIn",
+      "wt": 0.41
+    },
+    {
+      "w": "Deepseek",
+      "wt": 0.41
+    },
+    {
+      "w": "IPO",
+      "wt": 0.41
+    },
+    {
+      "w": "FDE",
+      "wt": 0.41
+    },
+    {
+      "w": "首发",
+      "wt": 0.41
+    },
+    {
+      "w": "元折叠屏",
+      "wt": 0.41
+    },
+    {
+      "w": "被曝备战科创板",
+      "wt": 0.41
+    },
+    {
+      "w": "团队",
+      "wt": 0.41
+    },
+    {
+      "w": "苹果第一台折叠",
+      "wt": 0.41
+    },
+    {
+      "w": "元起",
       "wt": 0.41
     },
     {
@@ -230,23 +240,7 @@ window.__NEWS_DATA__ = {
     {
       "w": "环比增长",
       "wt": 0.41
-    },
-    {
-      "w": "腾讯",
-      "wt": 0.41
-    },
-    {
-      "w": "特斯拉时隔",
-      "wt": 0.41
-    },
-    {
-      "w": "个月再降价",
-      "wt": 0.41
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.41
     }
   ],
-  "total": 17
+  "total": 16
 };
