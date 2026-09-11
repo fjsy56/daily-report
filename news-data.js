@@ -1,44 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "tech": [
     {
-      "title": "二十年前的大危机，让这个北方小城拿到了AI时代的大结果",
-      "url": "https://www.huxiu.com/article/4890101.html",
+      "title": "虎嗅 AI 100 闭门会",
+      "url": "https://www.huxiu.com/article/4890174.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "全球AI职位Offer超7成被男性拿下，“阴阳失调”的AI风口？",
-      "url": "https://www.huxiu.com/article/4890075.html",
+      "title": "ChatGPT Pro 20X紧急停售，算力都拿去解千禧年难题了？",
+      "url": "https://www.huxiu.com/article/4890420.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "具身智能，关联交易虚火",
+      "url": "https://www.huxiu.com/article/4890418.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "人工智能这门产业，到底值不值得你关心？",
+      "url": "https://www.huxiu.com/article/4890403.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "LinkedIn领英",
-      "url": "https://www.huxiu.com/article/4890075.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "苹果首款天价折叠屏，被炒到了9万",
-      "url": "https://www.huxiu.com/article/4890076.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "AI创作者自任男主角，《我的妹妹不可爱》硬是火了",
-      "url": "https://www.huxiu.com/article/4890053.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "微信，悄悄迈出 AI 社交的第一步",
+      "url": "http://www.geekpark.net/news/370155",
+      "excerpt": "头图来源：视觉中国、ChatGPT 生成 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需",
+      "src": "极客公园",
+      "tag": "腾讯",
       "cat": "tech"
     },
     {
@@ -50,29 +50,37 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道",
-      "url": "http://www.geekpark.net/news/370026",
-      "excerpt": "消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部 9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。 熟",
-      "src": "极客公园",
-      "tag": "苹果",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "url": "https://www.qbitai.com/2026/09/487273.html",
+      "excerpt": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "src": "量子位",
+      "tag": "芯片",
       "cat": "tech"
     },
     {
-      "title": "IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上",
-      "url": "http://www.geekpark.net/news/370007",
-      "excerpt": "本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇 屏幕消失不是做减法，是把「显示」换成了「采集」。 作者｜张勇毅 编辑｜靖宇 IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到",
-      "src": "极客公园",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "excerpt": "今年12月，北京，MEET2027智能未来大会！",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
-      "url": "http://www.geekpark.net/news/370061",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同",
+      "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
+      "url": "http://www.geekpark.net/news/370157",
+      "excerpt": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60% 9 月 10 日消息，深度求索今日正式发布DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态",
       "src": "极客公园",
-      "tag": "阿里",
+      "tag": "DeepSeek",
+      "cat": "app"
+    },
+    {
+      "title": "走出聊天框，Agent 开始进入现实世界",
+      "url": "http://www.geekpark.net/news/370064",
+      "excerpt": "头图来源：小度 Agent 正在寻找自己的「身体」。 过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不",
+      "src": "极客公园",
+      "tag": "Agent",
       "cat": "app"
     },
     {
@@ -84,23 +92,31 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-      "url": "https://www.qbitai.com/2026/09/486684.html",
-      "excerpt": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "app"
-    },
-    {
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "excerpt": "赶上了API限时五折",
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "app"
+      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "银河通用：成立34个月、6轮融资70亿：具身智能赛道“资金收割机”的底气与隐忧",
+      "url": "https://www.huxiu.com/article/4890421.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "enterprise"
+    },
+    {
+      "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+      "url": "http://www.geekpark.net/news/370150",
+      "excerpt": "在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
     {
       "title": "苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道",
       "url": "http://www.geekpark.net/news/370089",
@@ -110,25 +126,9 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-      "url": "https://www.qbitai.com/2026/09/486651.html",
-      "excerpt": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "支持前实习生创业项目：消息称阿里拟领投 AI 评测公司 UniPat 的 3 亿美元融资",
-      "url": "https://www.ithome.com/1/000/856.htm",
-      "excerpt": "IT之家 9 月 10 日消息，据彭博社今天（10 日）上午报道，阿里巴巴集团拟领投 AI 训练与基准测试初创公司 UniPat AI 的一轮 3 亿美元（IT之家注：现汇率约合 20.18 亿元人民币）融资，本轮估值达 25 亿美元（现汇率约合 168.14",
-      "src": "IT之家",
-      "tag": "阿里",
-      "cat": "enterprise"
-    },
-    {
-      "title": "英伟达与澳洲伙伴合作，近两年建设至多 2GW 数据中心 AI 工厂",
-      "url": "https://www.ithome.com/1/000/569.htm",
-      "excerpt": "IT之家 9 月 10 日消息，NVIDIA（英伟达）当地时间本月 9 日宣布与澳洲 NVIDIA 云合作伙伴及 AI 基础设施合作伙伴生态系统展开合作，扩充可部署多世代 AI 工厂所需的土地、电力、机房空间。Firmus、Sharon AI、IREN、Res",
+      "title": "英伟达 CEO 黄仁勋重申：公司明年可以实现 70% 的同比增长",
+      "url": "https://www.ithome.com/1/001/332.htm",
+      "excerpt": "IT之家 9 月 11 日消息，据外媒 TechCrunch 今天（11 日）报道，英伟达 CEO 黄仁勋在高盛 Communacopia+ 科技大会上，再次不遗余力地为公司造势。他向与会者解释，为何英伟达有望继续扩大 AI 领域的领先优势，并且直到明年年底，",
       "src": "IT之家",
       "tag": "英伟达",
       "cat": "enterprise"
@@ -137,27 +137,27 @@ window.__NEWS_DATA__ = {
   "overview": {
     "tech": [
       "AI",
-      "iPhone",
-      "二十年前的大危机",
-      "Offer",
-      "LinkedIn",
-      "苹果第一台折叠"
+      "虎嗅",
+      "闭门会",
+      "ChatGPT",
+      "Pro",
+      "具身智能"
     ],
     "app": [
-      "HSImul3R",
-      "AGI",
-      "ChatGPT",
-      "Images",
-      "X2.5",
-      "Bug"
+      "DeepSeek",
+      "V4.1",
+      "Flash",
+      "全是抄的",
+      "亿美元",
+      "极客早知道"
     ],
     "enterprise": [
-      "AI",
+      "银河通用",
+      "年出货",
+      "万台后",
       "iPhone",
       "Deepseek",
-      "IPO",
-      "FDE",
-      "首发"
+      "IPO"
     ]
   },
   "hotwords": [
@@ -167,79 +167,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "iPhone",
-      "wt": 0.53
+      "wt": 0.65
     },
     {
       "w": "极客早知道",
-      "wt": 0.47
+      "wt": 0.55
     },
     {
-      "w": "二十年前的大危机",
-      "wt": 0.41
+      "w": "虎嗅",
+      "wt": 0.45
     },
     {
-      "w": "Offer",
-      "wt": 0.41
+      "w": "闭门会",
+      "wt": 0.45
     },
     {
-      "w": "LinkedIn",
-      "wt": 0.41
+      "w": "ChatGPT",
+      "wt": 0.45
     },
     {
-      "w": "Deepseek",
-      "wt": 0.41
+      "w": "Pro",
+      "wt": 0.45
     },
     {
-      "w": "IPO",
-      "wt": 0.41
+      "w": "具身智能",
+      "wt": 0.45
     },
     {
-      "w": "FDE",
-      "wt": 0.41
+      "w": "关联交易虚火",
+      "wt": 0.45
     },
     {
-      "w": "首发",
-      "wt": 0.41
+      "w": "银河通用",
+      "wt": 0.45
     },
     {
-      "w": "元折叠屏",
-      "wt": 0.41
+      "w": "人工智能这门产业",
+      "wt": 0.45
     },
     {
-      "w": "被曝备战科创板",
-      "wt": 0.41
+      "w": "DeepSeek",
+      "wt": 0.45
     },
     {
-      "w": "团队",
-      "wt": 0.41
+      "w": "V4.1",
+      "wt": 0.45
     },
     {
-      "w": "苹果第一台折叠",
-      "wt": 0.41
+      "w": "Flash",
+      "wt": 0.45
     },
     {
-      "w": "元起",
-      "wt": 0.41
+      "w": "全是抄的",
+      "wt": 0.45
     },
     {
-      "w": "HY4",
-      "wt": 0.41
+      "w": "亿美元",
+      "wt": 0.45
     },
     {
-      "w": "折叠屏",
-      "wt": 0.41
+      "w": "Agent",
+      "wt": 0.45
     },
     {
-      "w": "初期产量受限",
-      "wt": 0.41
+      "w": "走出聊天框",
+      "wt": 0.45
     },
     {
-      "w": "每日仅数百部",
-      "wt": 0.41
+      "w": "开始进入现实世界",
+      "wt": 0.45
     },
     {
-      "w": "环比增长",
-      "wt": 0.41
+      "w": "微信",
+      "wt": 0.45
     }
   ],
   "total": 16
