@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-12 01:02",
- "total": 645,
+ "updated": "2026-09-12 16:49",
+ "total": 660,
  "industries": [
   "产业升级",
   "企业服务",
@@ -46,6 +46,7 @@ window.__FINANCING_DATA__ = {
   "G轮",
   "H轮",
   "IPO",
+  "Pre-A+++轮",
   "Pre-A++轮",
   "Pre-A+轮",
   "Pre-A轮",
@@ -95,6 +96,161 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2012751753889280",
+   "date": "2026-09-10",
+   "name": "传周半导体",
+   "desc": "光电传感器定制方案提供商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "Pre-A++轮",
+   "amount": "近亿人民币",
+   "investors": "上海科创集团、三合资本、道禾长期投资",
+   "url": "https://pitchhub.36kr.com/project/2012751753889280",
+   "province": "上海市"
+  },
+  {
+   "id": "2182734253152643",
+   "date": "2026-09-10",
+   "name": "丹源医学",
+   "desc": "植入式心律管理医疗器械商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "约印医疗基金、浙大启真创投",
+   "url": "https://pitchhub.36kr.com/project/2182734253152643",
+   "province": "浙江省"
+  },
+  {
+   "id": "3411341799559301",
+   "date": "2026-09-10",
+   "name": "派铂宇航",
+   "desc": "专业化航空航天管路系统设计制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "数千万人民币",
+   "investors": "深高新投、兴铁产业投资基金、华西金智",
+   "url": "https://pitchhub.36kr.com/project/3411341799559301",
+   "province": "四川省"
+  },
+  {
+   "id": "2080329664911112",
+   "date": "2026-09-10",
+   "name": "玉汝成",
+   "desc": "医用口腔材料和口腔设备公司",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "数千万人民币",
+   "investors": "穗开投资、珠海高新金投、谊安集团",
+   "url": "https://pitchhub.36kr.com/project/2080329664911112",
+   "province": "广东省"
+  },
+  {
+   "id": "1817515762730889",
+   "date": "2026-09-10",
+   "name": "西湖机器人",
+   "desc": "机器人智能化服务供应商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "A轮",
+   "amount": "数亿人民币",
+   "investors": "海愿资本、翠微基金、银杏谷资本、西湖科创投、中山创投",
+   "url": "https://pitchhub.36kr.com/project/1817515762730889",
+   "province": "浙江省"
+  },
+  {
+   "id": "1678485085697024",
+   "date": "2026-09-10",
+   "name": "星测未来",
+   "desc": "微纳卫星载荷解决方案服务商",
+   "industry": [
+    "前沿技术",
+    "智能硬件"
+   ],
+   "round": "A++轮",
+   "amount": "数亿人民币",
+   "investors": "北创投、华映资本、新尚投资、新鼎资本、康华医疗、匀升投资、晨峰基石创投、见月资本、君一资本、惠丰达资本、锡创投、厚天资本",
+   "url": "https://pitchhub.36kr.com/project/1678485085697024",
+   "province": "北京市"
+  },
+  {
+   "id": "2012738949744388",
+   "date": "2026-09-09",
+   "name": "人和创建",
+   "desc": "IT咨询解决方案与服务提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "并购/合并",
+   "amount": "1.4亿人民币",
+   "investors": "艾融软件",
+   "url": "https://pitchhub.36kr.com/project/2012738949744388",
+   "province": "北京市"
+  },
+  {
+   "id": "2181068212096130",
+   "date": "2026-09-09",
+   "name": "大鱼智行车",
+   "desc": "两轮电动自行车品牌",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "Pre-B轮",
+   "amount": "近亿元人民币",
+   "investors": "深圳同鑫资本、多家机构",
+   "url": "https://pitchhub.36kr.com/project/2181068212096130",
+   "province": "广东省"
+  },
+  {
+   "id": "1679640662315782",
+   "date": "2026-09-09",
+   "name": "瑞幸咖啡",
+   "desc": "咖啡连锁品牌",
+   "industry": [
+    "本地生活"
+   ],
+   "round": "战略融资",
+   "amount": "10亿美元",
+   "investors": "穆巴达拉",
+   "url": "https://pitchhub.36kr.com/project/1679640662315782",
+   "province": "福建省"
+  },
+  {
+   "id": "1923298775908480",
+   "date": "2026-09-09",
+   "name": "镭昱半导体",
+   "desc": "微显示芯片解决方案提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "Pre-A+++轮",
+   "amount": "近亿人民币",
+   "investors": "招银国际资本、沣途资本",
+   "url": "https://pitchhub.36kr.com/project/1923298775908480",
+   "province": "江苏省"
+  },
+  {
+   "id": "3521905344853123",
+   "date": "2026-09-09",
+   "name": "讯兔科技",
+   "desc": "投研决策数据智能服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "超3亿人民币",
+   "investors": "中国保险投资基金、广发信德、启明创投、琥珀资本 Ambrum Capital、嘉程资本、信宸资本、钟鼎资本",
+   "url": "https://pitchhub.36kr.com/project/3521905344853123",
+   "province": "上海市"
+  },
+  {
    "id": "1817520292808578",
    "date": "2026-09-09",
    "name": "中电仪器",
@@ -106,6 +262,62 @@ window.__FINANCING_DATA__ = {
    "amount": "16.33亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1817520292808578",
+   "province": "北京市"
+  },
+  {
+   "id": "1678548733539333",
+   "date": "2026-09-08",
+   "name": "深水海纳",
+   "desc": "水生态环境智慧治理领域",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "塔城西域矿业",
+   "url": "https://pitchhub.36kr.com/project/1678548733539333",
+   "province": "广东省"
+  },
+  {
+   "id": "1818786177470597",
+   "date": "2026-09-08",
+   "name": "宏科电子",
+   "desc": "宏科电子是一家新型电子元件生产商，其为用户提供多层片式瓷介电容器、单层微波瓷介电容器、半导体瓷介电容器、电子功能陶瓷材料等产品的研究、开发、生产，广泛应用于航空、军事等技术装备领域和投资、消费类电子仪器、整机中。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "战略融资",
+   "amount": "5.44亿人民币",
+   "investors": "成都宏明电子",
+   "url": "https://pitchhub.36kr.com/project/1818786177470597",
+   "province": "四川省"
+  },
+  {
+   "id": "3896737370866817",
+   "date": "2026-09-08",
+   "name": "智诊科技",
+   "desc": "专注医疗人工智能的创新企业",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "天使+",
+   "amount": "未透露",
+   "investors": "华睿投资、惠山国控",
+   "url": "https://pitchhub.36kr.com/project/3896737370866817",
+   "province": "浙江省"
+  },
+  {
+   "id": "1679716597338880",
+   "date": "2026-09-08",
+   "name": "航景创新",
+   "desc": "大载荷无人直升机研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "C轮",
+   "amount": "数亿人民币",
+   "investors": "中金资本、兴湘集团、湘投基金、财信产业基金、北京市商业航天和低空经济基金、元航资本",
+   "url": "https://pitchhub.36kr.com/project/1679716597338880",
    "province": "北京市"
   },
   {
