@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-10 18:12",
- "total": 641,
+ "updated": "2026-09-12 01:02",
+ "total": 645,
  "industries": [
   "产业升级",
   "企业服务",
@@ -281,6 +281,20 @@ window.__FINANCING_DATA__ = {
    "province": "北京市"
   },
   {
+   "id": "2343343295070599",
+   "date": "2026-09-06",
+   "name": "峰智睿联",
+   "desc": "智能动力系统产品研销商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "常高新创投",
+   "url": "https://pitchhub.36kr.com/project/2343343295070599",
+   "province": "北京市"
+  },
+  {
    "id": "1679778993394439",
    "date": "2026-09-06",
    "name": "迪谱诊断",
@@ -408,6 +422,20 @@ window.__FINANCING_DATA__ = {
    "province": "浙江省"
   },
   {
+   "id": "1958586377573383",
+   "date": "2026-09-05",
+   "name": "宇邦新材",
+   "desc": "光伏焊带产品研发生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "8.61亿人民币",
+   "investors": "苏州德翎",
+   "url": "https://pitchhub.36kr.com/project/1958586377573383",
+   "province": "江苏省"
+  },
+  {
    "id": "2142619125673860",
    "date": "2026-09-04",
    "name": "中科方寸知微",
@@ -421,6 +449,34 @@ window.__FINANCING_DATA__ = {
    "investors": "毅达资本、苏豪投资集团",
    "url": "https://pitchhub.36kr.com/project/2142619125673860",
    "province": "江苏省"
+  },
+  {
+   "id": "3979132029324928",
+   "date": "2026-09-03",
+   "name": "中润药业",
+   "desc": "医药健康服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "并购/合并",
+   "amount": "1.6亿人民币",
+   "investors": "四环生物",
+   "url": "https://pitchhub.36kr.com/project/3979132029324928",
+   "province": "广东省"
+  },
+  {
+   "id": "2079485239498497",
+   "date": "2026-09-03",
+   "name": "先进连接",
+   "desc": "纳米银材料研发生产企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "宁波通商基金",
+   "url": "https://pitchhub.36kr.com/project/2079485239498497",
+   "province": "广东省"
   },
   {
    "id": "2221833300738569",
