@@ -1,33 +1,33 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "tech": [
     {
-      "title": "虎嗅 AI 100 闭门会",
-      "url": "https://www.huxiu.com/article/4890174.html",
+      "title": "AI 时代的“4399”，可把我玩嗨了",
+      "url": "https://www.huxiu.com/article/4890666.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "ChatGPT Pro 20X紧急停售，算力都拿去解千禧年难题了？",
-      "url": "https://www.huxiu.com/article/4890420.html",
+      "title": "“GPU四小龙”齐聚科创板，最后登陆的燧原成色如何？",
+      "url": "https://www.huxiu.com/article/4890642.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "OpenAI",
+      "tag": "英伟达",
       "cat": "tech"
     },
     {
-      "title": "具身智能，关联交易虚火",
-      "url": "https://www.huxiu.com/article/4890418.html",
+      "title": "AI 真正的进化史：今天的一切，究竟是谁铺出来的",
+      "url": "https://www.huxiu.com/article/4890634.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "具身智能",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "人工智能这门产业，到底值不值得你关心？",
-      "url": "https://www.huxiu.com/article/4890403.html",
+      "title": "HavenlonLabs",
+      "url": "https://www.huxiu.com/article/4890634.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -50,17 +50,17 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "url": "https://www.qbitai.com/2026/09/487273.html",
-      "excerpt": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "url": "https://www.qbitai.com/2026/09/487688.html",
+      "excerpt": "冲刺港股IPO",
       "src": "量子位",
-      "tag": "芯片",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "url": "https://www.qbitai.com/2026/09/487176.html",
-      "excerpt": "今年12月，北京，MEET2027智能未来大会！",
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "excerpt": "25位菲尔兹奖得主联名吹哨",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -84,29 +84,29 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "url": "https://www.qbitai.com/2026/09/486747.html",
-      "excerpt": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "excerpt": "看清「一个真正的人」",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "url": "https://www.qbitai.com/2026/09/487163.html",
-      "excerpt": "",
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "url": "https://www.qbitai.com/2026/09/487573.html",
+      "excerpt": "原来你俩互相下单呢",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "Meta",
       "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "银河通用：成立34个月、6轮融资70亿：具身智能赛道“资金收割机”的底气与隐忧",
-      "url": "https://www.huxiu.com/article/4890421.html",
+      "title": "“AI毁灭人类”警报拉响，OpenAI、Anthropic前研究员离职发声：两巨头正拿全人类命运豪赌",
+      "url": "https://www.huxiu.com/article/4890677.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "具身智能",
+      "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
@@ -126,38 +126,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "英伟达 CEO 黄仁勋重申：公司明年可以实现 70% 的同比增长",
-      "url": "https://www.ithome.com/1/001/332.htm",
-      "excerpt": "IT之家 9 月 11 日消息，据外媒 TechCrunch 今天（11 日）报道，英伟达 CEO 黄仁勋在高盛 Communacopia+ 科技大会上，再次不遗余力地为公司造势。他向与会者解释，为何英伟达有望继续扩大 AI 领域的领先优势，并且直到明年年底，",
+      "title": "Hugging Face CEO：Anthropic 研究员谈 AI 灭绝风险，就像空调维修工谈气候变化",
+      "url": "https://www.ithome.com/1/001/582.htm",
+      "excerpt": "IT之家 9 月 12 日消息，Hugging Face CEO 克莱门特 · 德朗格质疑了外界围绕前 Anthropic 研究人员雅各布 · 考克森展开的讨论。考克森曾提出，AI 从业者私下担忧这项技术最终可能导致全人类灭亡。对此，德朗格 11 日晚间在 X",
       "src": "IT之家",
-      "tag": "英伟达",
+      "tag": "行业动态",
       "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "虎嗅",
-      "闭门会",
-      "ChatGPT",
-      "Pro",
-      "具身智能"
+      "可把我玩嗨了",
+      "GPU",
+      "真正的进化史",
+      "今天的一切",
+      "究竟是谁铺出来的"
     ],
     "app": [
+      "Agent",
       "DeepSeek",
       "V4.1",
       "Flash",
       "全是抄的",
-      "亿美元",
-      "极客早知道"
+      "亿美元"
     ],
     "enterprise": [
-      "银河通用",
+      "AI",
+      "Anthropic",
+      "OpenAI",
       "年出货",
       "万台后",
-      "iPhone",
-      "Deepseek",
-      "IPO"
+      "iPhone"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "iPhone",
-      "wt": 0.65
+      "w": "Anthropic",
+      "wt": 0.59
     },
     {
       "w": "极客早知道",
-      "wt": 0.55
-    },
-    {
-      "w": "虎嗅",
-      "wt": 0.45
-    },
-    {
-      "w": "闭门会",
-      "wt": 0.45
-    },
-    {
-      "w": "ChatGPT",
-      "wt": 0.45
-    },
-    {
-      "w": "Pro",
-      "wt": 0.45
-    },
-    {
-      "w": "具身智能",
-      "wt": 0.45
-    },
-    {
-      "w": "关联交易虚火",
-      "wt": 0.45
-    },
-    {
-      "w": "银河通用",
-      "wt": 0.45
-    },
-    {
-      "w": "人工智能这门产业",
-      "wt": 0.45
-    },
-    {
-      "w": "DeepSeek",
-      "wt": 0.45
-    },
-    {
-      "w": "V4.1",
-      "wt": 0.45
-    },
-    {
-      "w": "Flash",
-      "wt": 0.45
-    },
-    {
-      "w": "全是抄的",
-      "wt": 0.45
-    },
-    {
-      "w": "亿美元",
-      "wt": 0.45
+      "wt": 0.47
     },
     {
       "w": "Agent",
-      "wt": 0.45
+      "wt": 0.47
+    },
+    {
+      "w": "iPhone",
+      "wt": 0.47
+    },
+    {
+      "w": "元起",
+      "wt": 0.47
+    },
+    {
+      "w": "OpenAI",
+      "wt": 0.41
+    },
+    {
+      "w": "可把我玩嗨了",
+      "wt": 0.41
+    },
+    {
+      "w": "GPU",
+      "wt": 0.41
+    },
+    {
+      "w": "真正的进化史",
+      "wt": 0.41
+    },
+    {
+      "w": "今天的一切",
+      "wt": 0.41
+    },
+    {
+      "w": "究竟是谁铺出来的",
+      "wt": 0.41
+    },
+    {
+      "w": "HavenlonLabs",
+      "wt": 0.41
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.41
+    },
+    {
+      "w": "V4.1",
+      "wt": 0.41
+    },
+    {
+      "w": "Flash",
+      "wt": 0.41
+    },
+    {
+      "w": "全是抄的",
+      "wt": 0.41
+    },
+    {
+      "w": "亿美元",
+      "wt": 0.41
     },
     {
       "w": "走出聊天框",
-      "wt": 0.45
+      "wt": 0.41
     },
     {
       "w": "开始进入现实世界",
-      "wt": 0.45
-    },
-    {
-      "w": "微信",
-      "wt": 0.45
+      "wt": 0.41
     }
   ],
   "total": 16
