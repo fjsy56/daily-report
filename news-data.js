@@ -1,35 +1,59 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "tech": [
     {
-      "title": "AI 时代的“4399”，可把我玩嗨了",
-      "url": "https://www.huxiu.com/article/4890666.html",
+      "title": "一位生物女博士要敲钟了",
+      "url": "https://www.huxiu.com/article/4890778.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "“GPU四小龙”齐聚科创板，最后登陆的燧原成色如何？",
-      "url": "https://www.huxiu.com/article/4890642.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "英伟达",
-      "cat": "tech"
-    },
-    {
-      "title": "AI 真正的进化史：今天的一切，究竟是谁铺出来的",
-      "url": "https://www.huxiu.com/article/4890634.html",
+      "title": "日薪千元的AI实习生，在焦虑什么？",
+      "url": "https://www.huxiu.com/article/4890679.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "HavenlonLabs",
-      "url": "https://www.huxiu.com/article/4890634.html",
+      "title": "“有效算力”，成智算集群竞争重点",
+      "url": "https://www.huxiu.com/article/4890770.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "陶哲轩、邓煜等25位数学家，联名向AI公司“宣战”",
+      "url": "https://www.huxiu.com/article/4890766.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "GPT-6认出了万物，具身基座模型还剩什么",
+      "url": "https://www.huxiu.com/article/4890765.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+      "url": "http://www.geekpark.net/news/370228",
+      "excerpt": "OpenAI 首席执行官：今年不会上市，不能冒哪怕 10% 杀死所有人的风险 OpenAI 首席执行官 Sam Altman 在接受采访时表示，这家人工智能公司专注于解决围绕 AI 技术的安全担忧，今年不会上市。 Altman 表示，今年进行首次公开募股「时机",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
+      "url": "http://www.geekpark.net/news/370227",
+      "excerpt": "打开 Pocket 的前十分钟，我以为自己打开了一个 Instagram 版的 4399。 不久前，Meta 在美国正式推出了 Pocket。Pocket 的玩法很好理解，用户不用写代码，只要告诉 AI「我想做一个什么东西」，几十秒后就能得到一个可以直接操作的",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
@@ -39,30 +63,6 @@ window.__NEWS_DATA__ = {
       "excerpt": "头图来源：视觉中国、ChatGPT 生成 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需",
       "src": "极客公园",
       "tag": "腾讯",
-      "cat": "tech"
-    },
-    {
-      "title": "苹果第一台折叠 iPhone，15999 元起",
-      "url": "http://www.geekpark.net/news/370088",
-      "excerpt": "iPhone Duo，国行 15999 元起 作者｜张勇毅 编辑｜靖宇 北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-      "url": "https://www.qbitai.com/2026/09/487688.html",
-      "excerpt": "冲刺港股IPO",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-      "url": "https://www.qbitai.com/2026/09/487653.html",
-      "excerpt": "25位菲尔兹奖得主联名吹哨",
-      "src": "量子位",
-      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -84,31 +84,39 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "url": "https://www.qbitai.com/2026/09/487631.html",
-      "excerpt": "看清「一个真正的人」",
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "url": "https://www.qbitai.com/2026/09/488672.html",
+      "excerpt": "亮源新创的Physical Al路线清晰了",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "url": "https://www.qbitai.com/2026/09/488447.html",
+      "excerpt": "Agent的下一步是关系型生产力",
       "src": "量子位",
       "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-      "url": "https://www.qbitai.com/2026/09/487573.html",
-      "excerpt": "原来你俩互相下单呢",
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "url": "https://www.qbitai.com/2026/09/487860.html",
+      "excerpt": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
       "src": "量子位",
-      "tag": "Meta",
-      "cat": "tech"
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
+      "excerpt": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "src": "量子位",
+      "tag": "AI安全",
+      "cat": "app"
     }
   ],
   "enterprise": [
-    {
-      "title": "“AI毁灭人类”警报拉响，OpenAI、Anthropic前研究员离职发声：两巨头正拿全人类命运豪赌",
-      "url": "https://www.huxiu.com/article/4890677.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
     {
       "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
       "url": "http://www.geekpark.net/news/370150",
@@ -118,30 +126,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道",
-      "url": "http://www.geekpark.net/news/370089",
-      "excerpt": "苹果首款折叠 iPhone Duo 亮相，国行 15999 元起 北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，99",
-      "src": "极客公园",
-      "tag": "DeepSeek",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "excerpt": "RSI太危险，得管！",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
-      "title": "Hugging Face CEO：Anthropic 研究员谈 AI 灭绝风险，就像空调维修工谈气候变化",
-      "url": "https://www.ithome.com/1/001/582.htm",
-      "excerpt": "IT之家 9 月 12 日消息，Hugging Face CEO 克莱门特 · 德朗格质疑了外界围绕前 Anthropic 研究人员雅各布 · 考克森展开的讨论。考克森曾提出，AI 从业者私下担忧这项技术最终可能导致全人类灭亡。对此，德朗格 11 日晚间在 X",
-      "src": "IT之家",
+      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+      "url": "https://www.qbitai.com/2026/09/488519.html",
+      "excerpt": "出身寒微不是耻辱，放弃自己才是。",
+      "src": "量子位",
       "tag": "行业动态",
-      "cat": "enterprise"
+      "cat": "tech"
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "excerpt": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "可把我玩嗨了",
-      "GPU",
-      "真正的进化史",
-      "今天的一切",
-      "究竟是谁铺出来的"
+      "在焦虑什么",
+      "“有效算力”",
+      "陶哲轩",
+      "GPT-6",
+      "OpenAI"
     ],
     "app": [
       "Agent",
@@ -152,12 +168,12 @@ window.__NEWS_DATA__ = {
       "亿美元"
     ],
     "enterprise": [
-      "AI",
-      "Anthropic",
-      "OpenAI",
       "年出货",
       "万台后",
-      "iPhone"
+      "OpenAI",
+      "Dario",
+      "AI",
+      "GitHub"
     ]
   },
   "hotwords": [
@@ -166,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Anthropic",
-      "wt": 0.59
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.47
-    },
-    {
-      "w": "Agent",
-      "wt": 0.47
-    },
-    {
-      "w": "iPhone",
-      "wt": 0.47
-    },
-    {
-      "w": "元起",
-      "wt": 0.47
+      "w": "GPT-6",
+      "wt": 0.48
     },
     {
       "w": "OpenAI",
-      "wt": 0.41
+      "wt": 0.48
+    },
+    {
+      "w": "Agent",
+      "wt": 0.48
+    },
+    {
+      "w": "在焦虑什么",
+      "wt": 0.42
+    },
+    {
+      "w": "“有效算力”",
+      "wt": 0.42
+    },
+    {
+      "w": "陶哲轩",
+      "wt": 0.42
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.42
+    },
+    {
+      "w": "Deepseek",
+      "wt": 0.42
+    },
+    {
+      "w": "末日」警告",
+      "wt": 0.42
+    },
+    {
+      "w": "灰度测试",
+      "wt": 0.42
+    },
+    {
+      "w": "语音对话",
+      "wt": 0.42
     },
     {
       "w": "可把我玩嗨了",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
-      "w": "GPU",
-      "wt": 0.41
-    },
-    {
-      "w": "真正的进化史",
-      "wt": 0.41
-    },
-    {
-      "w": "今天的一切",
-      "wt": 0.41
-    },
-    {
-      "w": "究竟是谁铺出来的",
-      "wt": 0.41
-    },
-    {
-      "w": "HavenlonLabs",
-      "wt": 0.41
+      "w": "上新",
+      "wt": 0.42
     },
     {
       "w": "DeepSeek",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "V4.1",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "Flash",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "全是抄的",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "亿美元",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
-      "w": "走出聊天框",
-      "wt": 0.41
-    },
-    {
-      "w": "开始进入现实世界",
-      "wt": 0.41
+      "w": "极客早知道",
+      "wt": 0.42
     }
   ],
-  "total": 16
+  "total": 18
 };
