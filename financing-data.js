@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-12 16:49",
- "total": 660,
+ "updated": "2026-09-14 18:03",
+ "total": 664,
  "industries": [
   "产业升级",
   "企业服务",
@@ -179,6 +179,50 @@ window.__FINANCING_DATA__ = {
    "investors": "北创投、华映资本、新尚投资、新鼎资本、康华医疗、匀升投资、晨峰基石创投、见月资本、君一资本、惠丰达资本、锡创投、厚天资本",
    "url": "https://pitchhub.36kr.com/project/1678485085697024",
    "province": "北京市"
+  },
+  {
+   "id": "1678239998293001",
+   "date": "2026-09-09",
+   "name": "东劢医疗",
+   "desc": "东劢，医疗器械创新创业的主动脉",
+   "industry": [
+    "产业升级",
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "甬山投资",
+   "url": "https://pitchhub.36kr.com/project/1678239998293001",
+   "province": "江苏省"
+  },
+  {
+   "id": "2282930558348934",
+   "date": "2026-09-09",
+   "name": "恒流科技",
+   "desc": "高端导电剂解决方案供应商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "隽赐投资",
+   "url": "https://pitchhub.36kr.com/project/2282930558348934",
+   "province": "江苏省"
+  },
+  {
+   "id": "3445460196963845",
+   "date": "2026-09-09",
+   "name": "奥维领芯",
+   "desc": "半导体创新企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "苏州国发创投、深圳聚合资本、国新国证投资",
+   "url": "https://pitchhub.36kr.com/project/3445460196963845",
+   "province": "广东省"
   },
   {
    "id": "2012738949744388",
@@ -491,6 +535,20 @@ window.__FINANCING_DATA__ = {
    "investors": "Blooming Star、Kamet Capital Partners、盈峰资本",
    "url": "https://pitchhub.36kr.com/project/2291306044441857",
    "province": "北京市"
+  },
+  {
+   "id": "3421021705549058",
+   "date": "2026-09-06",
+   "name": "EasyLink",
+   "desc": "数据基础设施AI原生企业",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "道禾长期投资",
+   "url": "https://pitchhub.36kr.com/project/3421021705549058",
+   "province": "上海市"
   },
   {
    "id": "2343343295070599",
