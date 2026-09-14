@@ -1,44 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "tech": [
     {
-      "title": "一位生物女博士要敲钟了",
-      "url": "https://www.huxiu.com/article/4890778.html",
+      "title": "AI 治不了朋友圈的病",
+      "url": "https://www.huxiu.com/article/4891033.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "日薪千元的AI实习生，在焦虑什么？",
-      "url": "https://www.huxiu.com/article/4890679.html",
+      "title": "曾经拼命加速的AI巨头，终于开始怕AI了",
+      "url": "https://www.huxiu.com/article/4891014.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "“有效算力”，成智算集群竞争重点",
-      "url": "https://www.huxiu.com/article/4890770.html",
+      "title": "动察Beating©",
+      "url": "https://www.huxiu.com/article/4891014.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "陶哲轩、邓煜等25位数学家，联名向AI公司“宣战”",
-      "url": "https://www.huxiu.com/article/4890766.html",
+      "title": "京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」",
+      "url": "https://www.huxiu.com/article/4890978.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "字节",
+      "cat": "tech"
+    },
+    {
+      "title": "上下文税：企业AI的隐形瓶颈",
+      "url": "https://www.huxiu.com/article/4890972.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "GPT-6认出了万物，具身基座模型还剩什么",
-      "url": "https://www.huxiu.com/article/4890765.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "具身智能",
+      "title": "专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件",
+      "url": "http://www.geekpark.net/news/370269",
+      "excerpt": "最近这两周，一只「机器鸭」在 X 上刷屏了。 这只叫 Microduck 的机器鸭，由 Hugging Face 旗下的 Pollen Robotics 设计，售价 399 美元。高峰期平均每 4 秒卖出一台，五天后预售破万台，销售额突破 500 万美元，目前",
+      "src": "极客公园",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -56,17 +64,17 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "微信，悄悄迈出 AI 社交的第一步",
-      "url": "http://www.geekpark.net/news/370155",
-      "excerpt": "头图来源：视觉中国、ChatGPT 生成 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需",
-      "src": "极客公园",
-      "tag": "腾讯",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
+      "url": "http://www.geekpark.net/news/370231",
+      "excerpt": "折叠屏七年没解决的问题，从来不在铰链上。 作者｜张勇毅 编辑｜靖宇 2011 年 9 月 30 日，苹果递交了一份名叫「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "app"
+    },
     {
       "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
       "url": "http://www.geekpark.net/news/370157",
@@ -84,83 +92,59 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "excerpt": "亮源新创的Physical Al路线清晰了",
-      "src": "量子位",
+      "title": "IDC 报告：2026Q2 全球家用清洁机器人市场出货约 1120.5 万台，同比增长 21.5%",
+      "url": "https://www.ithome.com/1/002/218.htm",
+      "excerpt": "IT之家 9 月 14 日消息，据国际数据公司（IDC）最新追踪报告数据显示，2026 年第二季度，全球家用清洁机器人市场出货约 1120.5 万台，同比增长 21.5%。其中扫地机器人市场出货 788.5 万台，头部厂商集中度持续攀升。经历一季度 36.6%",
+      "src": "IT之家",
       "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "url": "https://www.qbitai.com/2026/09/488447.html",
-      "excerpt": "Agent的下一步是关系型生产力",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-      "url": "https://www.qbitai.com/2026/09/487860.html",
-      "excerpt": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "url": "https://www.qbitai.com/2026/09/487796.html",
-      "excerpt": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-      "src": "量子位",
-      "tag": "AI安全",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
-      "url": "http://www.geekpark.net/news/370150",
-      "excerpt": "在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "url": "https://www.qbitai.com/2026/09/488380.html",
-      "excerpt": "RSI太危险，得管！",
+      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+      "url": "https://www.qbitai.com/2026/09/488699.html",
+      "excerpt": "还是太嫩了啊Dario",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "马斯克",
       "cat": "enterprise"
     },
     {
-      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-      "url": "https://www.qbitai.com/2026/09/488519.html",
-      "excerpt": "出身寒微不是耻辱，放弃自己才是。",
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "url": "https://www.qbitai.com/2026/09/489023.html",
+      "excerpt": "AI 蛋白质设计迈入“动态时代”",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "url": "https://www.qbitai.com/2026/09/487752.html",
-      "excerpt": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "url": "https://www.qbitai.com/2026/09/488933.html",
+      "excerpt": "让模型和设备共同进化",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "url": "https://www.qbitai.com/2026/09/488912.html",
+      "excerpt": "险资、券商与头部创投持续加码",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "在焦虑什么",
-      "“有效算力”",
-      "陶哲轩",
-      "GPT-6",
-      "OpenAI"
+      "治不了朋友圈的病",
+      "Beating",
+      "京东建十万卡",
+      "上下文税",
+      "这是个信号"
     ],
     "app": [
-      "Agent",
+      "体验还差临门一脚",
       "DeepSeek",
       "V4.1",
       "Flash",
@@ -168,12 +152,12 @@ window.__NEWS_DATA__ = {
       "亿美元"
     ],
     "enterprise": [
-      "年出货",
-      "万台后",
-      "OpenAI",
-      "Dario",
       "AI",
-      "GitHub"
+      "IPO",
+      "SpaceX",
+      "奥特曼被骗",
+      "QuantaMind",
+      "Science"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "GPT-6",
-      "wt": 0.48
+      "w": "治不了朋友圈的病",
+      "wt": 0.39
+    },
+    {
+      "w": "Beating",
+      "wt": 0.39
+    },
+    {
+      "w": "京东建十万卡",
+      "wt": 0.39
+    },
+    {
+      "w": "上下文税",
+      "wt": 0.39
+    },
+    {
+      "w": "这是个信号",
+      "wt": 0.39
+    },
+    {
+      "w": "体验还差临门一脚",
+      "wt": 0.39
     },
     {
       "w": "OpenAI",
-      "wt": 0.48
-    },
-    {
-      "w": "Agent",
-      "wt": 0.48
-    },
-    {
-      "w": "在焦虑什么",
-      "wt": 0.42
-    },
-    {
-      "w": "“有效算力”",
-      "wt": 0.42
-    },
-    {
-      "w": "陶哲轩",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "Anthropic",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "Deepseek",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "末日」警告",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "灰度测试",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "语音对话",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "可把我玩嗨了",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "上新",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "DeepSeek",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "V4.1",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "Flash",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "全是抄的",
-      "wt": 0.42
+      "wt": 0.39
     },
     {
       "w": "亿美元",
-      "wt": 0.42
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.42
+      "wt": 0.39
     }
   ],
-  "total": 18
+  "total": 16
 };
