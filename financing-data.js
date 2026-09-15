@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-14 18:03",
- "total": 664,
+ "updated": "2026-09-15 16:28",
+ "total": 666,
  "industries": [
   "产业升级",
   "企业服务",
@@ -95,6 +95,20 @@ window.__FINANCING_DATA__ = {
   "陕西省"
  ],
  "list": [
+  {
+   "id": "2316502007515400",
+   "date": "2026-09-14",
+   "name": "天枢摇光",
+   "desc": "高性能三维几何引擎和底层算法库研发商",
+   "industry": [
+    "工具软件"
+   ],
+   "round": "Pre-A轮",
+   "amount": "数千万人民币",
+   "investors": "合创资本、元航资本",
+   "url": "https://pitchhub.36kr.com/project/2316502007515400",
+   "province": "浙江省"
+  },
   {
    "id": "2012751753889280",
    "date": "2026-09-10",
@@ -306,6 +320,20 @@ window.__FINANCING_DATA__ = {
    "amount": "16.33亿人民币",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1817520292808578",
+   "province": "北京市"
+  },
+  {
+   "id": "1805555517681671",
+   "date": "2026-09-08",
+   "name": "歌锐科技",
+   "desc": "精准影像引导手术机器人领域的领先创新者",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中宏基金",
+   "url": "https://pitchhub.36kr.com/project/1805555517681671",
    "province": "北京市"
   },
   {
