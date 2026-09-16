@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-15 16:28",
- "total": 666,
+ "updated": "2026-09-16 18:00",
+ "total": 678,
  "industries": [
   "产业升级",
   "企业服务",
@@ -96,6 +96,63 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678290571899905",
+   "date": "2026-09-15",
+   "name": "信诺维",
+   "desc": "生物医药研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "IPO",
+   "amount": "18.03亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678290571899905",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678388839445508",
+   "date": "2026-09-14",
+   "name": "宇道生物",
+   "desc": "互联网新药研发数据管理平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "数千万美元",
+   "investors": "信宸资本、德诚资本、达晨财智、国联投资",
+   "url": "https://pitchhub.36kr.com/project/1678388839445508",
+   "province": "上海市"
+  },
+  {
+   "id": "2060977498830724",
+   "date": "2026-09-14",
+   "name": "思微传感",
+   "desc": "中高端压力芯片及传感器级产品供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "天使轮",
+   "amount": "近2亿人民币",
+   "investors": "中国船舶集团、中国国新控股、西安沣东控股、欣盛投资",
+   "url": "https://pitchhub.36kr.com/project/2060977498830724",
+   "province": "陕西省"
+  },
+  {
+   "id": "2333784429867780",
+   "date": "2026-09-14",
+   "name": "森丸电子",
+   "desc": "半导体领域技术开发与服务商",
+   "industry": [
+    "企业服务",
+    "通信/半导体"
+   ],
+   "round": "A轮",
+   "amount": "亿级人民币",
+   "investors": "知名光模块产业方、耀途资本  Glory Ventures、顺融资本",
+   "url": "https://pitchhub.36kr.com/project/2333784429867780",
+   "province": "江苏省"
+  },
+  {
    "id": "2316502007515400",
    "date": "2026-09-14",
    "name": "天枢摇光",
@@ -108,6 +165,121 @@ window.__FINANCING_DATA__ = {
    "investors": "合创资本、元航资本",
    "url": "https://pitchhub.36kr.com/project/2316502007515400",
    "province": "浙江省"
+  },
+  {
+   "id": "2181087190584712",
+   "date": "2026-09-13",
+   "name": "明泰智能",
+   "desc": "智能技术服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "安元投资",
+   "url": "https://pitchhub.36kr.com/project/2181087190584712",
+   "province": "广东省"
+  },
+  {
+   "id": "1678548883436544",
+   "date": "2026-09-13",
+   "name": "深知未来",
+   "desc": "人工智能全彩夜视产品研发商",
+   "industry": [
+    "产业升级",
+    "前沿技术"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "德载厚资本、鸿德源创、南岭投资",
+   "url": "https://pitchhub.36kr.com/project/1678548883436544",
+   "province": "广东省"
+  },
+  {
+   "id": "1678493925667848",
+   "date": "2026-09-13",
+   "name": "智核生物",
+   "desc": "单域抗体放射性药物研发平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "D轮",
+   "amount": "未透露",
+   "investors": "星空资本",
+   "url": "https://pitchhub.36kr.com/project/1678493925667848",
+   "province": "江苏省"
+  },
+  {
+   "id": "2174046484430344",
+   "date": "2026-09-13",
+   "name": "芯爱科技",
+   "desc": "高端封装基板产品生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "玖兆投资、联和资本、睿势基金、瑞芯微",
+   "url": "https://pitchhub.36kr.com/project/2174046484430344",
+   "province": "江苏省"
+  },
+  {
+   "id": "3550215908816009",
+   "date": "2026-09-13",
+   "name": "云图知行",
+   "desc": "为出海企业提供全球化软件与数据解决方案",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "A轮",
+   "amount": "数亿人民币",
+   "investors": "商汤国香资本、靖亚资本、隐山资本、彼岸时代",
+   "url": "https://pitchhub.36kr.com/project/3550215908816009",
+   "province": "北京市"
+  },
+  {
+   "id": "3418032699880969",
+   "date": "2026-09-13",
+   "name": "因克斯",
+   "desc": "高性能机器人一体化关节模组",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "3亿人民币",
+   "investors": "普华资本、锦秋基金、华控基金、深创投、复星创富、华瑞创投、南京市交通集团、华睿投资、苏创投、纳爱斯投资、中信金石",
+   "url": "https://pitchhub.36kr.com/project/3418032699880969",
+   "province": "江苏省"
+  },
+  {
+   "id": "2565810129622278",
+   "date": "2026-09-12",
+   "name": "新赛尔",
+   "desc": "国产高性能TEC厂商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "高诚澴锋",
+   "url": "https://pitchhub.36kr.com/project/2565810129622278",
+   "province": "湖北省"
+  },
+  {
+   "id": "2011630062536457",
+   "date": "2026-09-11",
+   "name": "通富微电",
+   "desc": "集成电路封装测试服务商",
+   "industry": [
+    "先进制造",
+    "通信/半导体"
+   ],
+   "round": "定向增发",
+   "amount": "42.09亿人民币",
+   "investors": "电科投资、南通投资管理、南通战新私募基金、江苏高投集团、J.P. Morgan Securities LLC、诺德基金、兴证全球基金、艾为电子、财通基金、华泰资产、北方工业、摩根士丹利、易米基金、中信证券资管、华芯投资、伊洛基金、华安资管",
+   "url": "https://pitchhub.36kr.com/project/2011630062536457",
+   "province": "江苏省"
   },
   {
    "id": "2012751753889280",
