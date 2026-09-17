@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-16 18:00",
- "total": 678,
+ "updated": "2026-09-17 18:51",
+ "total": 688,
  "industries": [
   "产业升级",
   "企业服务",
@@ -92,7 +92,8 @@ window.__FINANCING_DATA__ = {
   "贵州省",
   "辽宁省",
   "重庆市",
-  "陕西省"
+  "陕西省",
+  "青海省"
  ],
  "list": [
   {
@@ -280,6 +281,147 @@ window.__FINANCING_DATA__ = {
    "investors": "电科投资、南通投资管理、南通战新私募基金、江苏高投集团、J.P. Morgan Securities LLC、诺德基金、兴证全球基金、艾为电子、财通基金、华泰资产、北方工业、摩根士丹利、易米基金、中信证券资管、华芯投资、伊洛基金、华安资管",
    "url": "https://pitchhub.36kr.com/project/2011630062536457",
    "province": "江苏省"
+  },
+  {
+   "id": "1958599818499081",
+   "date": "2026-09-10",
+   "name": "瑞吉维思",
+   "desc": "干细胞医疗产品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "天使+",
+   "amount": "未透露",
+   "investors": "昆高新集团",
+   "url": "https://pitchhub.36kr.com/project/1958599818499081",
+   "province": "上海市"
+  },
+  {
+   "id": "2079254851032839",
+   "date": "2026-09-10",
+   "name": "广州和一医疗",
+   "desc": "水凝胶产品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "达安创谷",
+   "url": "https://pitchhub.36kr.com/project/2079254851032839",
+   "province": "广东省"
+  },
+  {
+   "id": "2144459650614536",
+   "date": "2026-09-10",
+   "name": "云瀚科技",
+   "desc": "从事水务智慧化业务",
+   "industry": [
+    "农林牧渔"
+   ],
+   "round": "并购/合并",
+   "amount": "4350万人民币",
+   "investors": "飞乐音响",
+   "url": "https://pitchhub.36kr.com/project/2144459650614536",
+   "province": "上海市"
+  },
+  {
+   "id": "1818787511013509",
+   "date": "2026-09-10",
+   "name": "中利光纤",
+   "desc": "光纤通信产品研发生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "4.55亿人民币",
+   "investors": "俊知集团",
+   "url": "https://pitchhub.36kr.com/project/1818787511013509",
+   "province": "青海省"
+  },
+  {
+   "id": "2144776432780548",
+   "date": "2026-09-10",
+   "name": "界面新闻",
+   "desc": "中国具有影响力的原创财经新媒体",
+   "industry": [
+    "文化娱乐"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "新华传媒",
+   "url": "https://pitchhub.36kr.com/project/2144776432780548",
+   "province": "上海市"
+  },
+  {
+   "id": "2124371407972998",
+   "date": "2026-09-10",
+   "name": "创视智能",
+   "desc": "工业视觉、智能制造、自动化解决方案供应商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "石湖基金",
+   "url": "https://pitchhub.36kr.com/project/2124371407972998",
+   "province": "江苏省"
+  },
+  {
+   "id": "1698473050149633",
+   "date": "2026-09-10",
+   "name": "易咖智车",
+   "desc": "智能数字化移动平台（IDV）科技型企业",
+   "industry": [
+    "先进制造",
+    "智能硬件"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "南京交控",
+   "url": "https://pitchhub.36kr.com/project/1698473050149633",
+   "province": "上海市"
+  },
+  {
+   "id": "1678313173791751",
+   "date": "2026-09-10",
+   "name": "励楷科技",
+   "desc": "神经介入植入医疗器械研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "泰鲲基金",
+   "url": "https://pitchhub.36kr.com/project/1678313173791751",
+   "province": "上海市"
+  },
+  {
+   "id": "1965837246552582",
+   "date": "2026-09-10",
+   "name": "赛陆医疗",
+   "desc": "测序和空间组学平台开发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "滕华投资、艾德生物、深创投、凯普生物、致凯资产",
+   "url": "https://pitchhub.36kr.com/project/1965837246552582",
+   "province": "广东省"
+  },
+  {
+   "id": "1679794716578565",
+   "date": "2026-09-10",
+   "name": "钧嵌传感",
+   "desc": "新能源汽车用传感器研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C++轮",
+   "amount": "未透露",
+   "investors": "秀湖基金、远瞻资本",
+   "url": "https://pitchhub.36kr.com/project/1679794716578565",
+   "province": "上海市"
   },
   {
    "id": "2012751753889280",
