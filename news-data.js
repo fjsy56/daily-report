@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "tech": [
+    {
+      "title": "MASTERCARD 开始让 AGENT 在边界内自己付款",
+      "url": "https://www.huxiu.com/article/4892268.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "HavenlonLabs",
+      "url": "https://www.huxiu.com/article/4892268.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "DLSS5把显卡干趴下了，英伟达却觉得这很重要",
+      "url": "https://www.huxiu.com/article/4892262.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "英伟达",
+      "cat": "tech"
+    },
+    {
+      "title": "有没有发现，Codex 的额度越来越不经用了",
+      "url": "https://www.huxiu.com/article/4892229.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
+      "url": "http://www.geekpark.net/news/370539",
+      "excerpt": "传 Manus 即将完成 5 亿美元融资，估值 40 亿美元 据彭博社 9 月 17 日报道，AI 智能体公司 Manus 即将完成 5 亿美元融资。这是该公司撤销 Meta 收购交易后的首轮融资。 报道表示：在新一轮融资中，Manus 的估值将提高一倍，至 ",
+      "src": "极客公园",
+      "tag": "英伟达",
+      "cat": "tech"
+    },
     {
       "title": "京东押注物理 AI，冲在前面的是一群 95 后",
       "url": "http://www.geekpark.net/news/370519",
@@ -24,6 +64,66 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "苹果",
       "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "RAG搜索结果侵权吗？我国最高院和美国版权局给出了不同思路",
+      "url": "https://www.huxiu.com/article/4892265.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "excerpt": "用通用AI去啃最硬的骨头，这条路走得通",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "excerpt": "Git白学了？？？",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "url": "https://www.qbitai.com/2026/09/491454.html",
+      "excerpt": "中国电信，TeleAgent",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "url": "https://www.qbitai.com/2026/09/491391.html",
+      "excerpt": "文档和PPT都能做了",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "刚刚，唐杰发布智谱RSI首个成果",
+      "url": "https://www.qbitai.com/2026/09/491357.html",
+      "excerpt": "GLM已经开始参与构建GLM了",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "excerpt": "作价40亿美元推进新融资",
+      "src": "量子位",
+      "tag": "融资",
+      "cat": "enterprise"
     },
     {
       "title": "在飞书的上下文底座上，豆包开工了",
@@ -42,121 +142,38 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "助听器躺赚三十年暴利，被 AI 打破了",
-      "url": "http://www.geekpark.net/news/370445",
-      "excerpt": "一个塞在耳朵里的小东西，卖到十万一副，丢失甚至需要动用全城搜索？ 助听器，是一门奇特的生意。 整个全球市场，近九成的助听器市场份额被五家外资公司把持：索诺瓦（峰力）、Demant（奥迪康）、WS 听力、瑞声达、斯达克。他们的旗舰产品在中国线下，一对要卖到七到十",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "马斯克睡进工地！为AI基建拼了",
-      "url": "https://www.qbitai.com/2026/09/491280.html",
-      "excerpt": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
-      "src": "量子位",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-      "url": "https://www.qbitai.com/2026/09/491147.html",
-      "excerpt": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "excerpt": "构建个体专属AI助理",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "excerpt": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "“双百”里程碑：鸿蒙智行问界汽车累计辅助驾驶里程达成 100 亿公里、活跃用户增至 100 万名",
-      "url": "https://www.ithome.com/1/003/704.htm",
-      "excerpt": "IT之家 9 月 17 日消息，鸿蒙智行问界汽车官方刚刚宣布达成“双百”里程碑：问界汽车累计辅助驾驶里程达成 100 亿公里；问界汽车累计辅助驾驶活跃用户增至 100 万名。IT之家注：问界（AITO）是赛力斯联手华为推出高端智慧汽车品牌，发布于 2021 年",
-      "src": "IT之家",
-      "tag": "华为",
-      "cat": "app"
-    },
-    {
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "excerpt": "1亿Tokens人人免费领",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "url": "https://www.qbitai.com/2026/09/491062.html",
-      "excerpt": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "url": "https://www.qbitai.com/2026/09/490950.html",
-      "excerpt": "奖励曲线、显卡故障全公开",
-      "src": "量子位",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "excerpt": "九大空间测试10B规模通用模型中8项第一",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "url": "https://www.qbitai.com/2026/09/490760.html",
-      "excerpt": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "智谱 GLM 公开国内大模型首个递归自我改进实践：AI 在十万卡国产集群上自建推理系统",
-      "url": "https://www.ithome.com/1/003/705.htm",
-      "excerpt": "IT之家 9 月 17 日消息，今日，智谱 GLM 团队披露递归自我改进（Recursive Self‑Improvement，简称 RSI）方向首个工程化实践进展，也就是让 AI 自己动手改进自己的运行系统。具体来说，由 GLM-5.3 驱动的 Infra ",
-      "src": "IT之家",
-      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "AI",
-      "京东押注物理",
-      "冲在前面的是一群",
-      "IFA",
-      "追觅四大赛道",
-      "首秀"
+      "iPhone",
+      "MASTERCARD",
+      "AGENT",
+      "开始让",
+      "在边界内自己付款",
+      "HavenlonLabs"
     ],
     "app": [
       "AI",
-      "Model",
+      "Claude",
       "Agent",
-      "Workflow",
-      "Open",
-      "Day"
+      "刚刚",
+      "RAG",
+      "AGI"
     ],
     "enterprise": [
       "AI",
-      "ZDTaichu5.0-9B",
-      "通用能力不打折",
-      "GLM",
-      "智谱"
+      "Manus",
+      "估值居然就翻倍了",
+      "豆包开工了",
+      "Token",
+      "Arm"
     ]
   },
   "hotwords": [
@@ -165,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "京东押注物理",
-      "wt": 0.4
-    },
-    {
-      "w": "冲在前面的是一群",
-      "wt": 0.4
-    },
-    {
-      "w": "IFA",
-      "wt": 0.4
-    },
-    {
-      "w": "追觅四大赛道",
-      "wt": 0.4
-    },
-    {
-      "w": "首秀",
-      "wt": 0.4
-    },
-    {
-      "w": "一套技术",
-      "wt": 0.4
-    },
-    {
-      "w": "四个出口",
-      "wt": 0.4
-    },
-    {
-      "w": "SpaceX",
-      "wt": 0.4
+      "w": "Claude",
+      "wt": 0.61
     },
     {
       "w": "iPhone",
-      "wt": 0.4
+      "wt": 0.52
     },
     {
-      "w": "Pro",
-      "wt": 0.4
+      "w": "Code",
+      "wt": 0.52
     },
     {
-      "w": "Pocket",
-      "wt": 0.4
+      "w": "Agent",
+      "wt": 0.52
     },
     {
-      "w": "系列卖爆",
-      "wt": 0.4
+      "w": "刚刚",
+      "wt": 0.52
     },
     {
-      "w": "大疆",
-      "wt": 0.4
+      "w": "MASTERCARD",
+      "wt": 0.44
     },
     {
-      "w": "开售",
-      "wt": 0.4
+      "w": "AGENT",
+      "wt": 0.44
     },
     {
-      "w": "极客早知道",
-      "wt": 0.4
+      "w": "开始让",
+      "wt": 0.44
     },
     {
-      "w": "豆包开工了",
-      "wt": 0.4
+      "w": "在边界内自己付款",
+      "wt": 0.44
     },
     {
-      "w": "Token",
-      "wt": 0.4
+      "w": "HavenlonLabs",
+      "wt": 0.44
     },
     {
-      "w": "Arm",
-      "wt": 0.4
+      "w": "RAG",
+      "wt": 0.44
     },
     {
-      "w": "之后",
-      "wt": 0.4
+      "w": "DLSS5",
+      "wt": 0.44
+    },
+    {
+      "w": "Codex",
+      "wt": 0.44
+    },
+    {
+      "w": "有没有发现",
+      "wt": 0.44
+    },
+    {
+      "w": "Tim",
+      "wt": 0.44
+    },
+    {
+      "w": "Duo",
+      "wt": 0.44
+    },
+    {
+      "w": "影视飓风",
+      "wt": 0.44
+    },
+    {
+      "w": "黄仁勋",
+      "wt": 0.44
+    },
+    {
+      "w": "英伟达",
+      "wt": 0.44
     }
   ],
-  "total": 16
+  "total": 18
 };
