@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-17 18:51",
- "total": 688,
+ "updated": "2026-09-18 17:34",
+ "total": 698,
  "industries": [
   "产业升级",
   "企业服务",
@@ -96,6 +96,147 @@ window.__FINANCING_DATA__ = {
   "青海省"
  ],
  "list": [
+  {
+   "id": "2917158493562120",
+   "date": "2026-09-16",
+   "name": "氢成绿动",
+   "desc": "氨氢融合燃料大功率内燃机研发商",
+   "industry": [
+    "前沿技术",
+    "能源环保"
+   ],
+   "round": "天使+",
+   "amount": "近亿人民币",
+   "investors": "朝希资本、顺为资本",
+   "url": "https://pitchhub.36kr.com/project/2917158493562120",
+   "province": "湖北省"
+  },
+  {
+   "id": "3989039586332297",
+   "date": "2026-09-16",
+   "name": "香山股份",
+   "desc": "称重计量和健康运动测量产品研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "6.45亿人民币",
+   "investors": "均胜电子",
+   "url": "https://pitchhub.36kr.com/project/3989039586332297",
+   "province": "广东省"
+  },
+  {
+   "id": "1678524537385991",
+   "date": "2026-09-16",
+   "name": "毕生之研",
+   "desc": "分子理性护肤品牌",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "珀莱雅",
+   "url": "https://pitchhub.36kr.com/project/1678524537385991",
+   "province": "上海市"
+  },
+  {
+   "id": "3531812975555456",
+   "date": "2026-09-16",
+   "name": "钱塘隆越",
+   "desc": "定制化新型给药装置解决方案供应商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "数亿人民币",
+   "investors": "惠每资本、启真创投、辰元创投",
+   "url": "https://pitchhub.36kr.com/project/3531812975555456",
+   "province": "浙江省"
+  },
+  {
+   "id": "2431094378372487",
+   "date": "2026-09-16",
+   "name": "美柏生物",
+   "desc": "人源ECM复合胶原蛋白生产商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "数千万人民币",
+   "investors": "远大产融投资",
+   "url": "https://pitchhub.36kr.com/project/2431094378372487",
+   "province": "北京市"
+  },
+  {
+   "id": "1713104606472705",
+   "date": "2026-09-15",
+   "name": "阴极荧光系统",
+   "desc": "阴极荧光系统仪器研发制造商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "3亿人民币",
+   "investors": "康裕资本、传化集团、中信金石、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1713104606472705",
+   "province": "北京市"
+  },
+  {
+   "id": "2119652524746377",
+   "date": "2026-09-15",
+   "name": "复融生物",
+   "desc": "研究蛋白药物开发创新型研发企业",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-B轮",
+   "amount": "未透露",
+   "investors": "复健资本、广发信德、德同资本、常熟高新区投资引导基金、苏州宸枫",
+   "url": "https://pitchhub.36kr.com/project/2119652524746377",
+   "province": "江苏省"
+  },
+  {
+   "id": "2181107169348997",
+   "date": "2026-09-15",
+   "name": "箭元科技",
+   "desc": "火箭产品提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "超23亿人民币",
+   "investors": "IDG资本、混沌投资、杭州资本、和达投资、岭澜投资、华福资本、毅达资本、九智资本、天问时代、锦沙资本、瀚晖资本、钱塘产业集团、尚势资本、仁爱集团、国沃创投、长浙投资、君礼私募基金",
+   "url": "https://pitchhub.36kr.com/project/2181107169348997",
+   "province": "北京市"
+  },
+  {
+   "id": "1818744517873796",
+   "date": "2026-09-15",
+   "name": "高芯众科",
+   "desc": "半导体真空腔体零部件制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "迈为股份、汇芯投资、动潮投资、江丰电子",
+   "url": "https://pitchhub.36kr.com/project/1818744517873796",
+   "province": "江苏省"
+  },
+  {
+   "id": "1818809125474437",
+   "date": "2026-09-15",
+   "name": "FLUX富勒",
+   "desc": "仓储物流软件提供商",
+   "industry": [
+    "物流"
+   ],
+   "round": "B轮",
+   "amount": "3.5亿人民币",
+   "investors": "深创投、经纬创投、国机资本、昆山国科创投、交银投资、蛮石资本",
+   "url": "https://pitchhub.36kr.com/project/1818809125474437",
+   "province": "上海市"
+  },
   {
    "id": "1678290571899905",
    "date": "2026-09-15",
