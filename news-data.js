@@ -1,37 +1,87 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "tech": [
     {
-      "title": "MASTERCARD 开始让 AGENT 在边界内自己付款",
-      "url": "https://www.huxiu.com/article/4892268.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "HavenlonLabs",
-      "url": "https://www.huxiu.com/article/4892268.html",
+      "title": "智谱ZCode传包风波，那些没回答的事",
+      "url": "https://www.huxiu.com/article/4892469.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "DLSS5把显卡干趴下了，英伟达却觉得这很重要",
-      "url": "https://www.huxiu.com/article/4892262.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "英伟达",
-      "cat": "tech"
-    },
-    {
-      "title": "有没有发现，Codex 的额度越来越不经用了",
-      "url": "https://www.huxiu.com/article/4892229.html",
+      "title": "中东土豪，扫货AI",
+      "url": "https://www.huxiu.com/article/4892466.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
+    },
+    {
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://www.huxiu.com/article/4892463.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "太空AI",
+      "cat": "tech"
+    },
+    {
+      "title": "Nature：别让AI工具取代人类",
+      "url": "https://www.huxiu.com/article/4892460.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "姚星丞之后，AI人才的中间层开始掉价",
+      "url": "https://www.huxiu.com/article/4892458.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道",
+      "url": "http://www.geekpark.net/news/370608",
+      "excerpt": "谷歌最新旗舰模型 Gemini 4 Pro 疑似「偷跑」，多项指标领先 Astra 和 Fable 5.1 9 月 18 日，Google 下一代旗舰模型 Gemini 4 Pro 疑似正以「gemini-3.8-flash」名称「偷跑」上线。据反馈，谷歌在 ",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "AI 硬件创业者，疯狂涌入手机的背面",
+      "url": "http://www.geekpark.net/news/370610",
+      "excerpt": "头图来源：产品小红书账号、官网 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "那个教 ChatGPT 说话的人，做了一个「哑巴」模型",
+      "url": "http://www.geekpark.net/news/370603",
+      "excerpt": "作者｜桦林舞王 编辑｜靖宇 AI 圈子里最懂怎么让模型「开口聊天」的人，现在决定剥夺大模型的语言能力。 这位前 OpenAI 研究员、ChatGPT 的共同发明者 Diogo Almeida，在潜行两年后带着他的新公司 TypeSafe AI 和 4000 万",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "url": "https://www.qbitai.com/2026/09/492421.html",
+      "excerpt": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "excerpt": "用通用AI去啃最硬的骨头，这条路走得通",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
     },
     {
       "title": "影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
@@ -48,132 +98,66 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "追觅四大赛道 IFA 首秀：一套技术，四个出口",
-      "url": "http://www.geekpark.net/news/370506",
-      "excerpt": "追觅在 IFA 上展出的不是四条产品线，是一套技术的四个出口。 作者｜张勇毅 编辑｜郑玄 去年一年，全球扫地机器人的出货量约 2412 万台。同一年，全球人形机器人的出货量约 1.8 万台。两个数字都来自 IDC，中间差了 1300 多倍。 带着这两个数字走进",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道",
-      "url": "http://www.geekpark.net/news/370472",
-      "excerpt": "全球首款 AI 智能体手机努比亚 NaviX Ultra 上市：5999 元起，首销销售额「一秒破亿」 9 月 16 日，中兴旗下努比亚今日下午正式发布 NaviX Ultra，官方称其为「全球首款 AI 智能体手机」，也被外界称为「第二代豆包手机」，标志着 ",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "RAG搜索结果侵权吗？我国最高院和美国版权局给出了不同思路",
-      "url": "https://www.huxiu.com/article/4892265.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "excerpt": "用通用AI去啃最硬的骨头，这条路走得通",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "url": "https://www.qbitai.com/2026/09/491711.html",
-      "excerpt": "Git白学了？？？",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-      "url": "https://www.qbitai.com/2026/09/491454.html",
-      "excerpt": "中国电信，TeleAgent",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "url": "https://www.qbitai.com/2026/09/491391.html",
-      "excerpt": "文档和PPT都能做了",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "刚刚，唐杰发布智谱RSI首个成果",
-      "url": "https://www.qbitai.com/2026/09/491357.html",
-      "excerpt": "GLM已经开始参与构建GLM了",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "url": "https://www.qbitai.com/2026/09/491764.html",
-      "excerpt": "作价40亿美元推进新融资",
-      "src": "量子位",
+      "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
+      "url": "http://www.geekpark.net/news/370611",
+      "excerpt": "最近有个创业者找我交流的时候，聊到团队接下来还要做进一步的融资，很认真地问了我一个问题：这次做对外传播也是希望能对融资有帮助，你有什么建议？ 我当时听完，先跟他说了两个目睹了好几代创业者后的观察： 首先，咱要个心理预期：绝大部分情况下，第一笔投资是你最好拿的那",
+      "src": "极客公园",
       "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "在飞书的上下文底座上，豆包开工了",
-      "url": "http://www.geekpark.net/news/370460",
-      "excerpt": "今年，不少公司的工作群里，将会多一些「新同事」。 它们是 AI，但可以像普通员工一样被拉进群聊，阅读此前的讨论和文档，参与会议、承接任务，并调用不同的业务工具完成工作。你甚至可以看到 Agent 在群里 @ 另一个 Agent，共同推进一项复杂工作。 当 Ag",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案",
-      "url": "http://www.geekpark.net/news/370453",
-      "excerpt": "如果说今年 3 月，Arm 推出首款自研 CPU 芯片，是这家公司向市场释放的一个信号，它开始尝试突破过去「只提供底层架构授权」的角色边界。那么在上海举办的 Arm Everywhere China 活动上，Arm 想传递的信息更加明确，不要再用过去「CPU ",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "url": "https://www.qbitai.com/2026/09/491649.html",
-      "excerpt": "构建个体专属AI助理",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "url": "https://www.qbitai.com/2026/09/492426.html",
+      "excerpt": "协同布局AI基础设施",
       "src": "量子位",
       "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
+      "url": "https://www.ithome.com/1/004/467.htm",
+      "excerpt": "IT之家 9 月 19 日消息，据路透社报道，当地时间 18 日，OpenAI 发言人确认，CEO 萨姆 · 奥尔特曼将于下周在纽约举行的联合国大会期间，向联合国安全理事会介绍人工智能议题并作简报。由 15 个成员组成的安理会计划在当地时间 23 日召开人工智",
+      "src": "IT之家",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://www.qbitai.com/2026/09/492467.html",
+      "excerpt": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "iPhone",
-      "MASTERCARD",
-      "AGENT",
-      "开始让",
-      "在边界内自己付款",
-      "HavenlonLabs"
+      "AI",
+      "ZCode",
+      "那些没回答的事",
+      "中东土豪",
+      "Nature",
+      "姚星丞之后"
     ],
     "app": [
       "AI",
-      "Claude",
-      "Agent",
-      "刚刚",
-      "RAG",
-      "AGI"
+      "AGI",
+      "Science",
+      "竟在医院",
+      "Tim",
+      "iPhone"
     ],
     "enterprise": [
       "AI",
-      "Manus",
-      "估值居然就翻倍了",
-      "豆包开工了",
-      "Token",
-      "Arm"
+      "是「思想履约」",
+      "OpenAI",
+      "CEO",
+      "向安理会作",
+      "议题简报"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Claude",
-      "wt": 0.61
-    },
-    {
       "w": "iPhone",
-      "wt": 0.52
+      "wt": 0.45
     },
     {
-      "w": "Code",
-      "wt": 0.52
+      "w": "AGI",
+      "wt": 0.45
     },
     {
-      "w": "Agent",
-      "wt": 0.52
+      "w": "ZCode",
+      "wt": 0.4
     },
     {
-      "w": "刚刚",
-      "wt": 0.52
+      "w": "那些没回答的事",
+      "wt": 0.4
     },
     {
-      "w": "MASTERCARD",
-      "wt": 0.44
+      "w": "中东土豪",
+      "wt": 0.4
     },
     {
-      "w": "AGENT",
-      "wt": 0.44
+      "w": "Nature",
+      "wt": 0.4
     },
     {
-      "w": "开始让",
-      "wt": 0.44
+      "w": "姚星丞之后",
+      "wt": 0.4
     },
     {
-      "w": "在边界内自己付款",
-      "wt": 0.44
+      "w": "是「思想履约」",
+      "wt": 0.4
     },
     {
-      "w": "HavenlonLabs",
-      "wt": 0.44
+      "w": "Chatterfly",
+      "wt": 0.4
     },
     {
-      "w": "RAG",
-      "wt": 0.44
+      "w": "传折叠屏",
+      "wt": 0.4
     },
     {
-      "w": "DLSS5",
-      "wt": 0.44
+      "w": "维修费",
+      "wt": 0.4
     },
     {
-      "w": "Codex",
-      "wt": 0.44
+      "w": "苹果",
+      "wt": 0.4
     },
     {
-      "w": "有没有发现",
-      "wt": 0.44
+      "w": "价格未公布",
+      "wt": 0.4
     },
     {
-      "w": "Tim",
-      "wt": 0.44
+      "w": "腾讯",
+      "wt": 0.4
     },
     {
-      "w": "Duo",
-      "wt": 0.44
+      "w": "输入法开启内测",
+      "wt": 0.4
     },
     {
-      "w": "影视飓风",
-      "wt": 0.44
+      "w": "软高管",
+      "wt": 0.4
     },
     {
-      "w": "黄仁勋",
-      "wt": 0.44
+      "w": "极客早知道",
+      "wt": 0.4
     },
     {
-      "w": "英伟达",
-      "wt": 0.44
+      "w": "硬件创业者",
+      "wt": 0.4
+    },
+    {
+      "w": "ChatGPT",
+      "wt": 0.4
     }
   ],
-  "total": 18
+  "total": 16
 };
