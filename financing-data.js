@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-18 17:34",
- "total": 698,
+ "updated": "2026-09-19 16:18",
+ "total": 703,
  "industries": [
   "产业升级",
   "企业服务",
@@ -252,6 +252,34 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "2144853322597639",
+   "date": "2026-09-14",
+   "name": "山东威高普瑞医药包装",
+   "desc": "医疗投资控股公司",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "并购/合并",
+   "amount": "85.1081亿人民币",
+   "investors": "威高血净",
+   "url": "https://pitchhub.36kr.com/project/2144853322597639",
+   "province": "山东省"
+  },
+  {
+   "id": "2012741534008834",
+   "date": "2026-09-14",
+   "name": "湖南京能",
+   "desc": "新能源产业解决方案提供商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "金投致源",
+   "url": "https://pitchhub.36kr.com/project/2012741534008834",
+   "province": "湖南省"
+  },
+  {
    "id": "1678388839445508",
    "date": "2026-09-14",
    "name": "宇道生物",
@@ -307,6 +335,49 @@ window.__FINANCING_DATA__ = {
    "investors": "合创资本、元航资本",
    "url": "https://pitchhub.36kr.com/project/2316502007515400",
    "province": "浙江省"
+  },
+  {
+   "id": "2011458381415689",
+   "date": "2026-09-13",
+   "name": "为方能源",
+   "desc": "钠离子电池研发商",
+   "industry": [
+    "先进制造",
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "贝特瑞",
+   "url": "https://pitchhub.36kr.com/project/2011458381415689",
+   "province": "广东省"
+  },
+  {
+   "id": "2179868599455112",
+   "date": "2026-09-13",
+   "name": "鑫宇股份",
+   "desc": "汽车发动机及变速箱精密铸造件研发制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "4.66亿人民币",
+   "investors": "美心翼申",
+   "url": "https://pitchhub.36kr.com/project/2179868599455112",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679775923770113",
+   "date": "2026-09-13",
+   "name": "迈邦生物",
+   "desc": "细胞培养基产品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "南京新工投资、华泰紫金投资、道兴投资",
+   "url": "https://pitchhub.36kr.com/project/1679775923770113",
+   "province": "上海市"
   },
   {
    "id": "2181087190584712",
