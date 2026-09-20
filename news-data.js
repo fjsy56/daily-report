@@ -1,43 +1,51 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "tech": [
     {
-      "title": "智谱ZCode传包风波，那些没回答的事",
-      "url": "https://www.huxiu.com/article/4892469.html",
+      "title": "具身智能，留不住“一把手”",
+      "url": "https://www.huxiu.com/article/4892619.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "今天的 SaaS，明天可能只是 AI 的一个 Skill",
+      "url": "https://www.huxiu.com/article/4892602.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "中东土豪，扫货AI",
-      "url": "https://www.huxiu.com/article/4892466.html",
+      "title": "HavenlonLabs",
+      "url": "https://www.huxiu.com/article/4892602.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.huxiu.com/article/4892463.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "太空AI",
-      "cat": "tech"
-    },
-    {
-      "title": "Nature：别让AI工具取代人类",
-      "url": "https://www.huxiu.com/article/4892460.html",
+      "title": "25名顶尖数学家炮轰AI巨头“抢成果”，AI会让数学家失去工作吗？",
+      "url": "https://www.huxiu.com/article/4892599.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "姚星丞之后，AI人才的中间层开始掉价",
-      "url": "https://www.huxiu.com/article/4892458.html",
+      "title": "比Grok Build、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
+      "url": "https://www.huxiu.com/article/4892596.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "不可逆的人类衰老，快被 AI 破解了",
+      "url": "http://www.geekpark.net/news/370664",
+      "excerpt": "作者｜Li Yuan 编辑｜郑玄 2026 年 9 月，42 个平均 67 岁的人，在六只不同的时钟上同时变年轻了。 这些时钟不在墙上，而在他们的血液里。 服用一种名叫 rentosertib 的药物四周后，患者体内近 3000 种蛋白被检测，其中 326 种",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
@@ -50,54 +58,62 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "AI 硬件创业者，疯狂涌入手机的背面",
-      "url": "http://www.geekpark.net/news/370610",
-      "excerpt": "头图来源：产品小红书账号、官网 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数",
-      "src": "极客公园",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "excerpt": "AI有可能终结我们所有人",
+      "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "那个教 ChatGPT 说话的人，做了一个「哑巴」模型",
-      "url": "http://www.geekpark.net/news/370603",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 AI 圈子里最懂怎么让模型「开口聊天」的人，现在决定剥夺大模型的语言能力。 这位前 OpenAI 研究员、ChatGPT 的共同发明者 Diogo Almeida，在潜行两年后带着他的新公司 TypeSafe AI 和 4000 万",
-      "src": "极客公园",
-      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
-      "excerpt": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
+      "url": "http://www.geekpark.net/news/370667",
+      "excerpt": "天文观测，或许大概是最容易让普通人产生浪漫想象的一类科学。 巨大的穹顶缓缓打开，镜筒转向几亿光年之外，一束用从宇宙深处赶来的微光落到探测器上。然后告诉人类，这里几百万年曾经出现过超新星、伽马暴、中子星合并&hellip;&hellip;研究的问题也从微观的重元",
+      "src": "极客公园",
+      "tag": "阿里",
       "cat": "app"
     },
     {
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "excerpt": "用通用AI去啃最硬的骨头，这条路走得通",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "机器人如何自进化，乐享科技走了一条新路",
+      "url": "http://www.geekpark.net/news/370665",
+      "excerpt": "作者｜Li Yuan 编辑｜郑玄 最近，乐享科技因为一个颇大胆的 claim，引发了不少关注：它提出，其具身智能模型以太大模型能够在部署和执行过程中持续更新，并将这种能力概括为「自进化」，是全球首个能自进化的具身智能模型。 自进化是一个容易引起争议的说法。「进",
+      "src": "极客公园",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
-      "url": "http://www.geekpark.net/news/370539",
-      "excerpt": "传 Manus 即将完成 5 亿美元融资，估值 40 亿美元 据彭博社 9 月 17 日报道，AI 智能体公司 Manus 即将完成 5 亿美元融资。这是该公司撤销 Meta 收购交易后的首轮融资。 报道表示：在新一轮融资中，Manus 的估值将提高一倍，至 ",
+      "title": "Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与",
+      "url": "http://www.geekpark.net/news/370615",
+      "excerpt": "传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心 据路透社援引多名知情人士消息透露，全球顶尖人工智能初创企业 Anthropic 正考虑在公开首次募股（IPO）之前，正式发布其最新的旗舰级人工智能模型。这一战略举措旨在进一步巩",
       "src": "极客公园",
-      "tag": "英伟达",
-      "cat": "tech"
+      "tag": "Meta",
+      "cat": "app"
     },
     {
-      "title": "京东押注物理 AI，冲在前面的是一群 95 后",
-      "url": "http://www.geekpark.net/news/370519",
-      "excerpt": "去年，AI 行业最热闹的是模型榜单、推理能力和多模态生成。所有人都在问：这个模型有多强？ 但到了 2026 年，问题变了。人们开始追问：它到底能干什么？ 这个问题，京东在今年的 JDD 大会上，给出了自己的答案。 京东把这届大会的主题定为「JoyAI · 跃迁",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "excerpt": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "src": "量子位",
+      "tag": "AI安全",
+      "cat": "app"
+    },
+    {
+      "title": "“全球首个个人机器人”启元 Q1 发售：稚晖君打造，19999 元起",
+      "url": "https://www.ithome.com/1/004/876.htm",
+      "excerpt": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1 人形机器人的正式售价：启元 Q1 售价 19,999 元启元 Q1 探索版售价 26,999 元启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入",
+      "src": "IT之家",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "特斯拉 FSD（监督版）澳新上线一周年：碰撞事故率相比人工驾驶低 40%",
+      "url": "https://www.ithome.com/1/004/872.htm",
+      "excerpt": "IT之家 9 月 20 日消息，特斯拉的 FSD（监督版）在澳新地区正式上线已满一周年，为纪念这一里程碑，特斯拉该地区官方 X 账号公布了过去 12 个月这套系统在大洋洲道路行驶取得的详细安全结果：开启该软件行驶的车辆，平均碰撞事故相比人工驾驶降低 40%。特",
+      "src": "IT之家",
+      "tag": "马斯克",
+      "cat": "app"
     }
   ],
   "enterprise": [
@@ -110,54 +126,53 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
-      "excerpt": "协同布局AI基础设施",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "excerpt": "老马想买倒闭公司数据为哪般",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "马斯克",
       "cat": "enterprise"
     },
     {
-      "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
-      "url": "https://www.ithome.com/1/004/467.htm",
-      "excerpt": "IT之家 9 月 19 日消息，据路透社报道，当地时间 18 日，OpenAI 发言人确认，CEO 萨姆 · 奥尔特曼将于下周在纽约举行的联合国大会期间，向联合国安全理事会介绍人工智能议题并作简报。由 15 个成员组成的安理会计划在当地时间 23 日召开人工智",
-      "src": "IT之家",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
-    {
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "url": "https://www.qbitai.com/2026/09/492467.html",
-      "excerpt": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
+      "excerpt": "设计、前端一口气全干了，结果后端没来上班",
       "src": "量子位",
       "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
+      "excerpt": "AI能否提出相对论？",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "ZCode",
-      "那些没回答的事",
-      "中东土豪",
-      "Nature",
-      "姚星丞之后"
+      "具身智能",
+      "留不住“一把手”",
+      "SaaS",
+      "Skill",
+      "今天的"
     ],
     "app": [
       "AI",
-      "AGI",
-      "Science",
-      "竟在医院",
-      "Tim",
-      "iPhone"
+      "三体还没降临",
+      "机器人如何自进化",
+      "Meta",
+      "App",
+      "Store"
     ],
     "enterprise": [
-      "AI",
       "是「思想履约」",
-      "OpenAI",
-      "CEO",
-      "向安理会作",
-      "议题简报"
+      "ing",
+      "Qwen",
+      "Nature",
+      "AI"
     ]
   },
   "hotwords": [
@@ -167,80 +182,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "iPhone",
-      "wt": 0.45
+      "wt": 0.51
     },
     {
-      "w": "AGI",
-      "wt": 0.45
+      "w": "苹果",
+      "wt": 0.46
+    },
+    {
+      "w": "Pro",
+      "wt": 0.46
+    },
+    {
+      "w": "具身智能",
+      "wt": 0.4
+    },
+    {
+      "w": "留不住“一把手”",
+      "wt": 0.4
+    },
+    {
+      "w": "SaaS",
+      "wt": 0.4
+    },
+    {
+      "w": "Skill",
+      "wt": 0.4
+    },
+    {
+      "w": "今天的",
+      "wt": 0.4
+    },
+    {
+      "w": "明天可能只是",
+      "wt": 0.4
+    },
+    {
+      "w": "的一个",
+      "wt": 0.4
+    },
+    {
+      "w": "HavenlonLabs",
+      "wt": 0.4
+    },
+    {
+      "w": "Grok",
+      "wt": 0.4
+    },
+    {
+      "w": "Build",
+      "wt": 0.4
+    },
+    {
+      "w": "Cursor",
+      "wt": 0.4
     },
     {
       "w": "ZCode",
       "wt": 0.4
     },
     {
-      "w": "那些没回答的事",
+      "w": "都狠",
       "wt": 0.4
     },
     {
-      "w": "中东土豪",
+      "w": "企业发函追责",
       "wt": 0.4
     },
     {
-      "w": "Nature",
+      "w": "三体还没降临",
       "wt": 0.4
     },
     {
-      "w": "姚星丞之后",
-      "wt": 0.4
-    },
-    {
-      "w": "是「思想履约」",
-      "wt": 0.4
-    },
-    {
-      "w": "Chatterfly",
-      "wt": 0.4
-    },
-    {
-      "w": "传折叠屏",
-      "wt": 0.4
-    },
-    {
-      "w": "维修费",
-      "wt": 0.4
-    },
-    {
-      "w": "苹果",
-      "wt": 0.4
-    },
-    {
-      "w": "价格未公布",
-      "wt": 0.4
-    },
-    {
-      "w": "腾讯",
-      "wt": 0.4
-    },
-    {
-      "w": "输入法开启内测",
-      "wt": 0.4
-    },
-    {
-      "w": "软高管",
-      "wt": 0.4
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.4
-    },
-    {
-      "w": "硬件创业者",
-      "wt": 0.4
-    },
-    {
-      "w": "ChatGPT",
+      "w": "机器人如何自进化",
       "wt": 0.4
     }
   ],
-  "total": 16
+  "total": 18
 };
