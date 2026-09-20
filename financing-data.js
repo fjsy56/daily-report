@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-19 16:18",
- "total": 703,
+ "updated": "2026-09-20 18:03",
+ "total": 713,
  "industries": [
   "产业升级",
   "企业服务",
@@ -97,6 +97,132 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "3076784668209031",
+   "date": "2026-09-18",
+   "name": "千觉机器人",
+   "desc": "多模态触觉感知赋能机器人灵巧操作",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "战略融资",
+   "amount": "数亿人民币",
+   "investors": "蓝驰创投、中金资本、靖亚资本",
+   "url": "https://pitchhub.36kr.com/project/3076784668209031",
+   "province": "上海市"
+  },
+  {
+   "id": "3991872134975366",
+   "date": "2026-09-17",
+   "name": "天津通洁",
+   "desc": "高压泵清洗设备的研发与制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "黄海汇创",
+   "url": "https://pitchhub.36kr.com/project/3991872134975366",
+   "province": "天津市"
+  },
+  {
+   "id": "2001605306163333",
+   "date": "2026-09-17",
+   "name": "寰晟电力",
+   "desc": "新能源技术开发商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "浙股坤鑫投资",
+   "url": "https://pitchhub.36kr.com/project/2001605306163333",
+   "province": "上海市"
+  },
+  {
+   "id": "3991872086314882",
+   "date": "2026-09-17",
+   "name": "冷辰科技",
+   "desc": "水导激光设备研发制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "南京市创投集团、江阴人才基金",
+   "url": "https://pitchhub.36kr.com/project/3991872086314882",
+   "province": "上海市"
+  },
+  {
+   "id": "1818814386851971",
+   "date": "2026-09-17",
+   "name": "道达天际",
+   "desc": "军用可视化技术服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "6900万人民币",
+   "investors": "雷科防务、远大创投",
+   "url": "https://pitchhub.36kr.com/project/1818814386851971",
+   "province": "北京市"
+  },
+  {
+   "id": "1818797897011334",
+   "date": "2026-09-17",
+   "name": "世纪数码",
+   "desc": "世纪数码是一家打印机生产商，主要从事宽幅打印机及相关耗材研发、制造、销售，旗下拥有天彩、世纪风、幻影等系列，产品包括宽幅打印机、数码纺织印花机、UV打印机、万能板材打印机等。",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "IPO",
+   "amount": "1.72亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1818797897011334",
+   "province": "河南省"
+  },
+  {
+   "id": "2174213692030468",
+   "date": "2026-09-17",
+   "name": "中科国晟",
+   "desc": "先进燃气轮研机制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "6亿人民币",
+   "investors": "HongShan红杉中国、建投投资、华登科技、招商资本、广州产投集团、成都科创投集团、国科投资、山东省新动能基金",
+   "url": "https://pitchhub.36kr.com/project/2174213692030468",
+   "province": "山东省"
+  },
+  {
+   "id": "1678423728092169",
+   "date": "2026-09-17",
+   "name": "弧光量子",
+   "desc": "量子软件产品及服务提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "超亿人民币",
+   "investors": "中国移动",
+   "url": "https://pitchhub.36kr.com/project/1678423728092169",
+   "province": "北京市"
+  },
+  {
+   "id": "2011453554001155",
+   "date": "2026-09-16",
+   "name": "威脉医疗",
+   "desc": "微创及无创能量医学整体解决方案提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "圣贝拉",
+   "url": "https://pitchhub.36kr.com/project/2011453554001155",
+   "province": "江苏省"
+  },
+  {
    "id": "2917158493562120",
    "date": "2026-09-16",
    "name": "氢成绿动",
@@ -166,6 +292,20 @@ window.__FINANCING_DATA__ = {
    "investors": "远大产融投资",
    "url": "https://pitchhub.36kr.com/project/2431094378372487",
    "province": "北京市"
+  },
+  {
+   "id": "3333632202650883",
+   "date": "2026-09-15",
+   "name": "矽行半导体",
+   "desc": "半导体检测设备核心零部研发",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "天准科技、元禾璞华、融享创投、青屹创投",
+   "url": "https://pitchhub.36kr.com/project/3333632202650883",
+   "province": "江苏省"
   },
   {
    "id": "1713104606472705",
