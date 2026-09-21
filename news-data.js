@@ -1,41 +1,41 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "tech": [
     {
-      "title": "具身智能，留不住“一把手”",
-      "url": "https://www.huxiu.com/article/4892619.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "今天的 SaaS，明天可能只是 AI 的一个 Skill",
-      "url": "https://www.huxiu.com/article/4892602.html",
+      "title": "为啥AI没有带来繁荣？因为它无法创造需求",
+      "url": "https://www.huxiu.com/article/4892903.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "HavenlonLabs",
-      "url": "https://www.huxiu.com/article/4892602.html",
+      "title": "AI正在制造App过剩时代",
+      "url": "https://www.huxiu.com/article/4892882.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "25名顶尖数学家炮轰AI巨头“抢成果”，AI会让数学家失去工作吗？",
-      "url": "https://www.huxiu.com/article/4892599.html",
+      "title": "从滑雪到网球，这群大厂创业者正在用AI硬件重做运动训练",
+      "url": "https://www.huxiu.com/article/4892881.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "比Grok Build、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
-      "url": "https://www.huxiu.com/article/4892596.html",
+      "title": "智谱Zcode数据上传引争议，AI治理须跟上AI能力",
+      "url": "https://www.huxiu.com/article/4892877.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "30家中国科技公司高管薪酬表：谁在拿最高的薪水",
+      "url": "https://www.huxiu.com/article/4892868.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -50,23 +50,47 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道",
-      "url": "http://www.geekpark.net/news/370608",
-      "excerpt": "谷歌最新旗舰模型 Gemini 4 Pro 疑似「偷跑」，多项指标领先 Astra 和 Fable 5.1 9 月 18 日，Google 下一代旗舰模型 Gemini 4 Pro 疑似正以「gemini-3.8-flash」名称「偷跑」上线。据反馈，谷歌在 ",
-      "src": "极客公园",
-      "tag": "苹果",
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "url": "https://www.qbitai.com/2026/09/493218.html",
+      "excerpt": "在物理世界真正干活的具身智能体",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "“留给人类阻止AI的时间不多了”",
-      "url": "https://www.qbitai.com/2026/09/492755.html",
-      "excerpt": "AI有可能终结我们所有人",
+      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+      "url": "https://www.qbitai.com/2026/09/493179.html",
+      "excerpt": "激活参数仅27B",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
+      "url": "http://www.geekpark.net/news/370717",
+      "excerpt": "具身智能现在太吵了。行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。这些东西不会上热搜，但它们决定这个行业的下一步。我们一直探寻",
+      "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
+      "url": "http://www.geekpark.net/news/370607",
+      "excerpt": "作者｜Li Yuan 390 亿美元的 Figure AI 已经把机器人送进 30 个陌生家庭，同行却说失败一半还谈不上会干活 「这是 Figure AI 成立以来最重要的项目。」 在 Helix 2.5 的发布视频里，Figure AI 创始人 Brett ",
+      "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道",
+      "url": "http://www.geekpark.net/news/370681",
+      "excerpt": "B 站上线 AI 无限竞技场测评榜：GPT-6 Astra 现居榜首 9 月 20 日，B 站宣布上线「AI 无限竞技场」大模型测评榜，并同步公布了首轮模型排行榜。据 B 站介绍，「AI 无限竞技场」是一个汇集了 B 站 UP 主 AI 大模型测评的竞技广场，",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "app"
+    },
     {
       "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
       "url": "http://www.geekpark.net/news/370667",
@@ -84,67 +108,43 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与",
-      "url": "http://www.geekpark.net/news/370615",
-      "excerpt": "传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心 据路透社援引多名知情人士消息透露，全球顶尖人工智能初创企业 Anthropic 正考虑在公开首次募股（IPO）之前，正式发布其最新的旗舰级人工智能模型。这一战略举措旨在进一步巩",
-      "src": "极客公园",
-      "tag": "Meta",
-      "cat": "app"
-    },
-    {
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "url": "https://www.qbitai.com/2026/09/492849.html",
-      "excerpt": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "url": "https://www.qbitai.com/2026/09/493235.html",
+      "excerpt": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
       "src": "量子位",
       "tag": "AI安全",
-      "cat": "app"
-    },
-    {
-      "title": "“全球首个个人机器人”启元 Q1 发售：稚晖君打造，19999 元起",
-      "url": "https://www.ithome.com/1/004/876.htm",
-      "excerpt": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1 人形机器人的正式售价：启元 Q1 售价 19,999 元启元 Q1 探索版售价 26,999 元启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入",
-      "src": "IT之家",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "特斯拉 FSD（监督版）澳新上线一周年：碰撞事故率相比人工驾驶低 40%",
-      "url": "https://www.ithome.com/1/004/872.htm",
-      "excerpt": "IT之家 9 月 20 日消息，特斯拉的 FSD（监督版）在澳新地区正式上线已满一周年，为纪念这一里程碑，特斯拉该地区官方 X 账号公布了过去 12 个月这套系统在大洋洲道路行驶取得的详细安全结果：开启该软件行驶的车辆，平均碰撞事故相比人工驾驶降低 40%。特",
-      "src": "IT之家",
-      "tag": "马斯克",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
-      "url": "http://www.geekpark.net/news/370611",
-      "excerpt": "最近有个创业者找我交流的时候，聊到团队接下来还要做进一步的融资，很认真地问了我一个问题：这次做对外传播也是希望能对融资有帮助，你有什么建议？ 我当时听完，先跟他说了两个目睹了好几代创业者后的观察： 首先，咱要个心理预期：绝大部分情况下，第一笔投资是你最好拿的那",
-      "src": "极客公园",
-      "tag": "融资",
-      "cat": "enterprise"
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "url": "https://www.qbitai.com/2026/09/493231.html",
+      "excerpt": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
     },
     {
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "url": "https://www.qbitai.com/2026/09/492661.html",
-      "excerpt": "老马想买倒闭公司数据为哪般",
+      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+      "url": "https://www.qbitai.com/2026/09/493175.html",
+      "excerpt": "沙利文报告",
       "src": "量子位",
-      "tag": "马斯克",
-      "cat": "enterprise"
-    },
-    {
-      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-      "url": "https://www.qbitai.com/2026/09/492573.html",
-      "excerpt": "设计、前端一口气全干了，结果后端没来上班",
-      "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-      "url": "https://www.qbitai.com/2026/09/492550.html",
-      "excerpt": "AI能否提出相对论？",
+      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+      "url": "https://www.qbitai.com/2026/09/493114.html",
+      "excerpt": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+      "url": "https://www.qbitai.com/2026/09/493109.html",
+      "excerpt": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -153,26 +153,27 @@ window.__NEWS_DATA__ = {
   "overview": {
     "tech": [
       "AI",
-      "具身智能",
-      "留不住“一把手”",
-      "SaaS",
-      "Skill",
-      "今天的"
+      "App",
+      "从滑雪到网球",
+      "Zcode",
+      "谁在拿最高的薪水",
+      "不可逆的人类衰老"
     ],
     "app": [
       "AI",
-      "三体还没降临",
-      "机器人如何自进化",
-      "Meta",
-      "App",
-      "Store"
+      "对话桥介数物",
+      "Figure",
+      "scaling",
+      "law",
+      "Pro"
     ],
     "enterprise": [
-      "是「思想履约」",
-      "ing",
-      "Qwen",
-      "Nature",
-      "AI"
+      "AI",
+      "OceanBase",
+      "Data",
+      "Agent",
+      "Neocloud",
+      "AIVC"
     ]
   },
   "hotwords": [
@@ -181,71 +182,63 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "iPhone",
-      "wt": 0.51
+      "w": "App",
+      "wt": 0.4
     },
     {
-      "w": "苹果",
-      "wt": 0.46
+      "w": "从滑雪到网球",
+      "wt": 0.4
+    },
+    {
+      "w": "Zcode",
+      "wt": 0.4
+    },
+    {
+      "w": "谁在拿最高的薪水",
+      "wt": 0.4
+    },
+    {
+      "w": "对话桥介数物",
+      "wt": 0.4
+    },
+    {
+      "w": "Figure",
+      "wt": 0.4
+    },
+    {
+      "w": "scaling",
+      "wt": 0.4
+    },
+    {
+      "w": "law",
+      "wt": 0.4
     },
     {
       "w": "Pro",
-      "wt": 0.46
-    },
-    {
-      "w": "具身智能",
       "wt": 0.4
     },
     {
-      "w": "留不住“一把手”",
+      "w": "Hub",
       "wt": 0.4
     },
     {
-      "w": "SaaS",
+      "w": "大家会觉得合理",
       "wt": 0.4
     },
     {
-      "w": "Skill",
+      "w": "剪映发布",
       "wt": 0.4
     },
     {
-      "w": "今天的",
+      "w": "助手「小映」",
       "wt": 0.4
     },
     {
-      "w": "明天可能只是",
+      "w": "苹果或",
       "wt": 0.4
     },
     {
-      "w": "的一个",
-      "wt": 0.4
-    },
-    {
-      "w": "HavenlonLabs",
-      "wt": 0.4
-    },
-    {
-      "w": "Grok",
-      "wt": 0.4
-    },
-    {
-      "w": "Build",
-      "wt": 0.4
-    },
-    {
-      "w": "Cursor",
-      "wt": 0.4
-    },
-    {
-      "w": "ZCode",
-      "wt": 0.4
-    },
-    {
-      "w": "都狠",
-      "wt": 0.4
-    },
-    {
-      "w": "企业发函追责",
+      "w": "极客早知道",
       "wt": 0.4
     },
     {
@@ -254,6 +247,14 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "机器人如何自进化",
+      "wt": 0.4
+    },
+    {
+      "w": "不可逆的人类衰老",
+      "wt": 0.4
+    },
+    {
+      "w": "快被",
       "wt": 0.4
     }
   ],
