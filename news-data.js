@@ -1,72 +1,88 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "tech": [
     {
-      "title": "为啥AI没有带来繁荣？因为它无法创造需求",
-      "url": "https://www.huxiu.com/article/4892903.html",
+      "title": "马斯克交卷Grok 4.7，但这次吹牛吹大了",
+      "url": "https://www.huxiu.com/article/4893166.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "马斯克",
+      "cat": "tech"
+    },
+    {
+      "title": "AI喧嚣背后，旅游业真正稀缺的是什么？",
+      "url": "https://www.huxiu.com/article/4893191.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI正在制造App过剩时代",
-      "url": "https://www.huxiu.com/article/4892882.html",
+      "title": "Muse，一夜爆红",
+      "url": "https://www.huxiu.com/article/4893164.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从滑雪到网球，这群大厂创业者正在用AI硬件重做运动训练",
-      "url": "https://www.huxiu.com/article/4892881.html",
+      "title": "硅谷独角兽反水OpenAI，中国开源模型成救星",
+      "url": "https://www.huxiu.com/article/4893162.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "行业动态",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "智谱Zcode数据上传引争议，AI治理须跟上AI能力",
-      "url": "https://www.huxiu.com/article/4892877.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道",
+      "url": "http://www.geekpark.net/news/370768",
+      "excerpt": "消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布 9 月 21 日消息，昨日早些时候，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布，智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日 14:30 举行。 根据",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "30家中国科技公司高管薪酬表：谁在拿最高的薪水",
-      "url": "https://www.huxiu.com/article/4892868.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "零跑的新目标：从「小米」成为「苹果」",
+      "url": "http://www.geekpark.net/news/370765",
+      "excerpt": "这一次，零跑主动放弃了「第一」的位置，并表示将全力「争当第三」。 在零跑 2026 技术日上，零跑汽车创始人朱江明只用了一次「新势力」这个词，说的是「零跑的销量长期处于新势力的前列」。而真正报出排名时，他换了一套坐标：「国内新能源汽车品牌销量的前三名，全球新能",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
-      "title": "不可逆的人类衰老，快被 AI 破解了",
-      "url": "http://www.geekpark.net/news/370664",
-      "excerpt": "作者｜Li Yuan 编辑｜郑玄 2026 年 9 月，42 个平均 67 岁的人，在六只不同的时钟上同时变年轻了。 这些时钟不在墙上，而在他们的血液里。 服用一种名叫 rentosertib 的药物四周后，患者体内近 3000 种蛋白被检测，其中 326 种",
+      "title": "Jev，让全球程序员玩疯了",
+      "url": "http://www.geekpark.net/news/370758",
+      "excerpt": "作者｜宇航猿 编辑｜靖宇 智能家居社区 Home Assistant 最近出现了一个名为 HA-Jev 的插件。 它的逻辑极其简单，传感器读取洗衣机的功率变化与洗衣房门的状态，然后抛出一个问题给模型，「洗衣机洗完了，衣服是不是被忘在里面了？」模型不输出任何文字",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "url": "https://www.qbitai.com/2026/09/493218.html",
-      "excerpt": "在物理世界真正干活的具身智能体",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "url": "https://www.qbitai.com/2026/09/493179.html",
-      "excerpt": "激活参数仅27B",
-      "src": "量子位",
-      "tag": "大模型",
+      "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
+      "url": "http://www.geekpark.net/news/370759",
+      "excerpt": "作者｜Cynthia 编辑｜ 郑玄 AI 时代，开发者要如何跟上技术的变化？亚马逊 CTO Werner Vogels，用了二十多年的时间来解答这个问题：基于他主导的 S3、EC2、Lambda&hellip;&hellip;无数企业与开发者实现了加速奔跑。他",
+      "src": "极客公园",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "大数据驱动的动力电池全寿命周期智能安全管理",
+      "url": "https://www.huxiu.com/article/4893199.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "AI安全",
+      "cat": "app"
+    },
+    {
+      "title": "Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了",
+      "url": "http://www.geekpark.net/news/370797",
+      "excerpt": "9 月 21 日，一条弹窗开始出现在试图用 Meta Muse 在 Amazon 上购物的用户屏幕上：「未经授权的 AI Agent 继续访问，将违反 Amazon 使用条款。」 这距离 Muse 正式上线，仅仅过了 13 天。 Meta 推出的个人 AI 助",
+      "src": "极客公园",
+      "tag": "Meta",
+      "cat": "app"
+    },
     {
       "title": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
       "url": "http://www.geekpark.net/news/370717",
@@ -76,104 +92,72 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
-      "url": "http://www.geekpark.net/news/370607",
-      "excerpt": "作者｜Li Yuan 390 亿美元的 Figure AI 已经把机器人送进 30 个陌生家庭，同行却说失败一半还谈不上会干活 「这是 Figure AI 成立以来最重要的项目。」 在 Helix 2.5 的发布视频里，Figure AI 创始人 Brett ",
-      "src": "极客公园",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道",
-      "url": "http://www.geekpark.net/news/370681",
-      "excerpt": "B 站上线 AI 无限竞技场测评榜：GPT-6 Astra 现居榜首 9 月 20 日，B 站宣布上线「AI 无限竞技场」大模型测评榜，并同步公布了首轮模型排行榜。据 B 站介绍，「AI 无限竞技场」是一个汇集了 B 站 UP 主 AI 大模型测评的竞技广场，",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
-      "url": "http://www.geekpark.net/news/370667",
-      "excerpt": "天文观测，或许大概是最容易让普通人产生浪漫想象的一类科学。 巨大的穹顶缓缓打开，镜筒转向几亿光年之外，一束用从宇宙深处赶来的微光落到探测器上。然后告诉人类，这里几百万年曾经出现过超新星、伽马暴、中子星合并&hellip;&hellip;研究的问题也从微观的重元",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "app"
-    },
-    {
-      "title": "机器人如何自进化，乐享科技走了一条新路",
-      "url": "http://www.geekpark.net/news/370665",
-      "excerpt": "作者｜Li Yuan 编辑｜郑玄 最近，乐享科技因为一个颇大胆的 claim，引发了不少关注：它提出，其具身智能模型以太大模型能够在部署和执行过程中持续更新，并将这种能力概括为「自进化」，是全球首个能自进化的具身智能模型。 自进化是一个容易引起争议的说法。「进",
-      "src": "极客公园",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "url": "https://www.qbitai.com/2026/09/493235.html",
-      "excerpt": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "url": "https://www.qbitai.com/2026/09/493241.html",
+      "excerpt": "97%尝试危险行为",
       "src": "量子位",
-      "tag": "AI安全",
+      "tag": "马斯克",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "url": "https://www.qbitai.com/2026/09/493231.html",
-      "excerpt": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "excerpt": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
       "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
+      "tag": "阿里",
+      "cat": "tech"
     },
     {
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "url": "https://www.qbitai.com/2026/09/493175.html",
-      "excerpt": "沙利文报告",
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "excerpt": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "src": "量子位",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "excerpt": "“潮起之时，靠岸相见”",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "url": "https://www.qbitai.com/2026/09/493114.html",
-      "excerpt": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "excerpt": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "url": "https://www.qbitai.com/2026/09/493109.html",
-      "excerpt": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "src": "量子位",
-      "tag": "行业动态",
+      "tag": "阿里",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "App",
-      "从滑雪到网球",
-      "Zcode",
-      "谁在拿最高的薪水",
-      "不可逆的人类衰老"
+      "OpenAI",
+      "Grok",
+      "但这次吹牛吹大了",
+      "Muse",
+      "一夜爆红"
     ],
     "app": [
+      "Meta",
       "AI",
-      "对话桥介数物",
-      "Figure",
-      "scaling",
-      "law",
-      "Pro"
+      "Amazon",
+      "个人",
+      "助手刚火",
+      "就拉闸了"
     ],
     "enterprise": [
       "AI",
-      "OceanBase",
-      "Data",
-      "Agent",
-      "Neocloud",
-      "AIVC"
+      "Qwen4.5",
+      "Qwen4",
+      "East",
+      "Forward",
+      "全球化到达下一站"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "App",
-      "wt": 0.4
+      "w": "OpenAI",
+      "wt": 0.57
     },
     {
-      "w": "从滑雪到网球",
-      "wt": 0.4
+      "w": "Grok",
+      "wt": 0.42
     },
     {
-      "w": "Zcode",
-      "wt": 0.4
+      "w": "但这次吹牛吹大了",
+      "wt": 0.42
     },
     {
-      "w": "谁在拿最高的薪水",
-      "wt": 0.4
+      "w": "Muse",
+      "wt": 0.42
     },
     {
-      "w": "对话桥介数物",
-      "wt": 0.4
+      "w": "一夜爆红",
+      "wt": 0.42
     },
     {
-      "w": "Figure",
-      "wt": 0.4
+      "w": "Meta",
+      "wt": 0.42
     },
     {
-      "w": "scaling",
-      "wt": 0.4
+      "w": "Amazon",
+      "wt": 0.42
     },
     {
-      "w": "law",
-      "wt": 0.4
+      "w": "个人",
+      "wt": 0.42
     },
     {
-      "w": "Pro",
-      "wt": 0.4
+      "w": "助手刚火",
+      "wt": 0.42
     },
     {
-      "w": "Hub",
-      "wt": 0.4
+      "w": "就拉闸了",
+      "wt": 0.42
     },
     {
-      "w": "大家会觉得合理",
-      "wt": 0.4
+      "w": "Dex5-S",
+      "wt": 0.42
     },
     {
-      "w": "剪映发布",
-      "wt": 0.4
+      "w": "黄仁勋",
+      "wt": 0.42
     },
     {
-      "w": "助手「小映」",
-      "wt": 0.4
+      "w": "时代",
+      "wt": 0.42
     },
     {
-      "w": "苹果或",
-      "wt": 0.4
+      "w": "宇树科技发布",
+      "wt": 0.42
+    },
+    {
+      "w": "灵巧手",
+      "wt": 0.42
+    },
+    {
+      "w": "新模型",
+      "wt": 0.42
+    },
+    {
+      "w": "天解决",
+      "wt": 0.42
+    },
+    {
+      "w": "世界级数学难题",
+      "wt": 0.42
     },
     {
       "w": "极客早知道",
-      "wt": 0.4
-    },
-    {
-      "w": "三体还没降临",
-      "wt": 0.4
-    },
-    {
-      "w": "机器人如何自进化",
-      "wt": 0.4
-    },
-    {
-      "w": "不可逆的人类衰老",
-      "wt": 0.4
-    },
-    {
-      "w": "快被",
-      "wt": 0.4
+      "wt": 0.42
     }
   ],
-  "total": 18
+  "total": 16
 };
