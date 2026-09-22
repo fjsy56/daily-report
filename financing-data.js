@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-20 18:03",
- "total": 713,
+ "updated": "2026-09-22 17:59",
+ "total": 728,
  "industries": [
   "产业升级",
   "企业服务",
@@ -97,6 +97,76 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2066612269809670",
+   "date": "2026-09-21",
+   "name": "中塑新材料",
+   "desc": "高分子材料应用研发及生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "6.82亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2066612269809670",
+   "province": "广东省"
+  },
+  {
+   "id": "2011444558152969",
+   "date": "2026-09-20",
+   "name": "星环科技",
+   "desc": "大数据基础软件平台供应商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "IPO",
+   "amount": "6.87亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2011444558152969",
+   "province": "上海市"
+  },
+  {
+   "id": "2181023494819200",
+   "date": "2026-09-20",
+   "name": "三英精控",
+   "desc": "超精密运动控制技术和产品开发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "鹏鼎控股、西部资本、保腾创投",
+   "url": "https://pitchhub.36kr.com/project/2181023494819200",
+   "province": "广东省"
+  },
+  {
+   "id": "2066656066453508",
+   "date": "2026-09-20",
+   "name": "凯达集团",
+   "desc": "重型机械研发生产销售",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "IPO",
+   "amount": "2.56亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2066656066453508",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678424330728454",
+   "date": "2026-09-20",
+   "name": "彤程新材",
+   "desc": "轮胎橡胶用化工材料供应商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "基石投资轮",
+   "amount": "1.264亿美元",
+   "investors": "信银投资、满帮集团、Golden Valley Master、Goldshore、Happy Wisdom、浦林成山、杨全海先生、周波女士",
+   "url": "https://pitchhub.36kr.com/project/1678424330728454",
+   "province": "上海市"
+  },
+  {
    "id": "3076784668209031",
    "date": "2026-09-18",
    "name": "千觉机器人",
@@ -109,6 +179,149 @@ window.__FINANCING_DATA__ = {
    "investors": "蓝驰创投、中金资本、靖亚资本",
    "url": "https://pitchhub.36kr.com/project/3076784668209031",
    "province": "上海市"
+  },
+  {
+   "id": "2144857310905605",
+   "date": "2026-09-17",
+   "name": "石墨烯研究院",
+   "desc": "石墨烯产业核心技术研发公司",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "首都科技发展集团、科华创投",
+   "url": "https://pitchhub.36kr.com/project/2144857310905605",
+   "province": "北京市"
+  },
+  {
+   "id": "2316519990757891",
+   "date": "2026-09-17",
+   "name": "鸿泰鼎新",
+   "desc": "纤维材料研发商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "前海母基金、融凯盛科技、鲲翎资本",
+   "url": "https://pitchhub.36kr.com/project/2316519990757891",
+   "province": "山东省"
+  },
+  {
+   "id": "2032485785373059",
+   "date": "2026-09-17",
+   "name": "晟芯网络",
+   "desc": "网络通信设备ASIC芯片研发商",
+   "industry": [
+    "先进制造",
+    "通信/半导体"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "建信北京投资",
+   "url": "https://pitchhub.36kr.com/project/2032485785373059",
+   "province": "北京市"
+  },
+  {
+   "id": "1817514839082882",
+   "date": "2026-09-17",
+   "name": "天通瑞宏科技",
+   "desc": "电子元器件研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "嘉睿投资、毓道资产、海宁凯成基金",
+   "url": "https://pitchhub.36kr.com/project/1817514839082882",
+   "province": "浙江省"
+  },
+  {
+   "id": "2349410080604803",
+   "date": "2026-09-17",
+   "name": "水木分子",
+   "desc": "对话式生物医药研发商",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "赛富投资基金",
+   "url": "https://pitchhub.36kr.com/project/2349410080604803",
+   "province": "北京市"
+  },
+  {
+   "id": "2144840990295302",
+   "date": "2026-09-17",
+   "name": "克锐斯",
+   "desc": "自动化设备研发服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "2.14亿人民币",
+   "investors": "菲林格尔",
+   "url": "https://pitchhub.36kr.com/project/2144840990295302",
+   "province": "江苏省"
+  },
+  {
+   "id": "2152611571126787",
+   "date": "2026-09-17",
+   "name": "甬强科技",
+   "desc": "高频高速电子信息材料技术研发商",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "并购/合并",
+   "amount": "7.93亿人民币",
+   "investors": "安德利果汁",
+   "url": "https://pitchhub.36kr.com/project/2152611571126787",
+   "province": "浙江省"
+  },
+  {
+   "id": "3562956594721920",
+   "date": "2026-09-17",
+   "name": "华泽电子",
+   "desc": "汽车车联网服务商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "并购/合并",
+   "amount": "3.3亿人民币",
+   "investors": "佳禾智能",
+   "url": "https://pitchhub.36kr.com/project/3562956594721920",
+   "province": "广东省"
+  },
+  {
+   "id": "3421397276456192",
+   "date": "2026-09-17",
+   "name": "御水飞行",
+   "desc": "消费级、行业级高性能智能水翼艇研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "天使+",
+   "amount": "未透露",
+   "investors": "松禾资本",
+   "url": "https://pitchhub.36kr.com/project/3421397276456192",
+   "province": "广东省"
+  },
+  {
+   "id": "2182864094844804",
+   "date": "2026-09-17",
+   "name": "莱威新材料",
+   "desc": "聚乙烯纤维生产商",
+   "industry": [
+    "其他"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "浦昌基金",
+   "url": "https://pitchhub.36kr.com/project/2182864094844804",
+   "province": "山东省"
   },
   {
    "id": "3991872134975366",
