@@ -1,66 +1,66 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "tech": [
     {
-      "title": "马斯克交卷Grok 4.7，但这次吹牛吹大了",
-      "url": "https://www.huxiu.com/article/4893166.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "AI喧嚣背后，旅游业真正稀缺的是什么？",
-      "url": "https://www.huxiu.com/article/4893191.html",
+      "title": "拆解Muse叙事：“新入口”逻辑并不成立",
+      "url": "https://www.huxiu.com/article/4893477.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Muse，一夜爆红",
-      "url": "https://www.huxiu.com/article/4893164.html",
+      "title": "最先跑通具身智能RSI的，未必是模型最强的公司",
+      "url": "https://www.huxiu.com/article/4893465.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "中国社会科学院大学李晓华：一人公司最核心的能力是什么？",
+      "url": "https://www.huxiu.com/article/4893468.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "硅谷独角兽反水OpenAI，中国开源模型成救星",
-      "url": "https://www.huxiu.com/article/4893162.html",
+      "title": "爆火的Muse，居然让真人代AI打电话？",
+      "url": "https://www.huxiu.com/article/4893464.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "OpenAI",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道",
-      "url": "http://www.geekpark.net/news/370768",
-      "excerpt": "消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布 9 月 21 日消息，昨日早些时候，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布，智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日 14:30 举行。 根据",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "世界模型，机器人的AGI元年",
+      "url": "https://www.huxiu.com/article/4893452.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "零跑的新目标：从「小米」成为「苹果」",
-      "url": "http://www.geekpark.net/news/370765",
-      "excerpt": "这一次，零跑主动放弃了「第一」的位置，并表示将全力「争当第三」。 在零跑 2026 技术日上，零跑汽车创始人朱江明只用了一次「新势力」这个词，说的是「零跑的销量长期处于新势力的前列」。而真正报出排名时，他换了一套坐标：「国内新能源汽车品牌销量的前三名，全球新能",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "Jev，让全球程序员玩疯了",
-      "url": "http://www.geekpark.net/news/370758",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 智能家居社区 Home Assistant 最近出现了一个名为 HA-Jev 的插件。 它的逻辑极其简单，传感器读取洗衣机的功率变化与洗衣房门的状态，然后抛出一个问题给模型，「洗衣机洗完了，衣服是不是被忘在里面了？」模型不输出任何文字",
+      "title": "剪映，杀入 AI 互动影游",
+      "url": "http://www.geekpark.net/news/370883",
+      "excerpt": "头图来源：剪映 9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。 专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
-      "url": "http://www.geekpark.net/news/370759",
-      "excerpt": "作者｜Cynthia 编辑｜ 郑玄 AI 时代，开发者要如何跟上技术的变化？亚马逊 CTO Werner Vogels，用了二十多年的时间来解答这个问题：基于他主导的 S3、EC2、Lambda&hellip;&hellip;无数企业与开发者实现了加速奔跑。他",
+      "title": "拆解下阿里的 AI 经济学，与它的下注",
+      "url": "http://www.geekpark.net/news/370865",
+      "excerpt": "作者｜张鹏 编辑｜ 苏子华 9 月 22 日，杭州云栖大会。阿里巴巴集团 CEO 吴泳铭和往年一样，做了开场的主旨演讲。 过去几年云栖大会的主旨演讲，可以当作「技术风向标」来听，会抛出很多重磅的技术判断，比如，「大模型是下一代操作系统」、「超级 AI 云是下一",
+      "src": "极客公园",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局",
+      "url": "http://www.geekpark.net/news/370864",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。 当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
@@ -68,11 +68,11 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "大数据驱动的动力电池全寿命周期智能安全管理",
-      "url": "https://www.huxiu.com/article/4893199.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "AI安全",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道",
+      "url": "http://www.geekpark.net/news/370829",
+      "excerpt": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50% 9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。 OpenAI 官方表示，两款模型采用与 GPT-",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "app"
     },
     {
@@ -84,80 +84,80 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
-      "url": "http://www.geekpark.net/news/370717",
-      "excerpt": "具身智能现在太吵了。行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。这些东西不会上热搜，但它们决定这个行业的下一步。我们一直探寻",
-      "src": "极客公园",
+      "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
+      "url": "https://www.qbitai.com/2026/09/496304.html",
+      "excerpt": "两万元，买到的是怎样一个机器人",
+      "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "url": "https://www.qbitai.com/2026/09/493241.html",
-      "excerpt": "97%尝试危险行为",
+      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+      "url": "https://www.qbitai.com/2026/09/496301.html",
+      "excerpt": "覆盖MaaS、Agent服务、行业AI解决方案",
       "src": "量子位",
-      "tag": "马斯克",
+      "tag": "阿里",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-      "url": "https://www.qbitai.com/2026/09/493629.html",
-      "excerpt": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-      "src": "量子位",
-      "tag": "阿里",
+      "title": "黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道",
+      "url": "http://www.geekpark.net/news/370768",
+      "excerpt": "消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布 9 月 21 日消息，昨日早些时候，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布，智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日 14:30 举行。 根据",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "url": "https://www.qbitai.com/2026/09/493625.html",
-      "excerpt": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "url": "https://www.qbitai.com/2026/09/496393.html",
+      "excerpt": "每秒能产生5000+个沙盒",
       "src": "量子位",
-      "tag": "阿里",
+      "tag": "DeepSeek",
       "cat": "tech"
     },
     {
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-      "url": "https://www.qbitai.com/2026/09/493510.html",
-      "excerpt": "“潮起之时，靠岸相见”",
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "url": "https://www.qbitai.com/2026/09/496384.html",
+      "excerpt": "与稚晖君同届天才少年",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "url": "https://www.qbitai.com/2026/09/493502.html",
-      "excerpt": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "url": "https://www.qbitai.com/2026/09/496352.html",
+      "excerpt": "对复杂现实进行推演与决策",
       "src": "量子位",
-      "tag": "阿里",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "OpenAI",
-      "Grok",
-      "但这次吹牛吹大了",
       "Muse",
-      "一夜爆红"
+      "RSI",
+      "AGI",
+      "世界模型",
+      "剪映"
     ],
     "app": [
-      "Meta",
       "AI",
-      "Amazon",
-      "个人",
-      "助手刚火",
-      "就拉闸了"
+      "OpenAI",
+      "GPT-6",
+      "Sol",
+      "Luna",
+      "千问发布"
     ],
     "enterprise": [
       "AI",
-      "Qwen4.5",
-      "Qwen4",
-      "East",
-      "Forward",
-      "全球化到达下一站"
+      "Dex5-S",
+      "OpenAI",
+      "黄仁勋",
+      "时代",
+      "宇树科技发布"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.57
-    },
-    {
-      "w": "Grok",
-      "wt": 0.42
-    },
-    {
-      "w": "但这次吹牛吹大了",
-      "wt": 0.42
-    },
-    {
       "w": "Muse",
-      "wt": 0.42
+      "wt": 0.44
     },
     {
-      "w": "一夜爆红",
-      "wt": 0.42
+      "w": "OpenAI",
+      "wt": 0.44
     },
     {
-      "w": "Meta",
-      "wt": 0.42
-    },
-    {
-      "w": "Amazon",
-      "wt": 0.42
-    },
-    {
-      "w": "个人",
-      "wt": 0.42
-    },
-    {
-      "w": "助手刚火",
-      "wt": 0.42
-    },
-    {
-      "w": "就拉闸了",
-      "wt": 0.42
-    },
-    {
-      "w": "Dex5-S",
-      "wt": 0.42
-    },
-    {
-      "w": "黄仁勋",
-      "wt": 0.42
-    },
-    {
-      "w": "时代",
-      "wt": 0.42
-    },
-    {
-      "w": "宇树科技发布",
-      "wt": 0.42
-    },
-    {
-      "w": "灵巧手",
-      "wt": 0.42
-    },
-    {
-      "w": "新模型",
-      "wt": 0.42
-    },
-    {
-      "w": "天解决",
-      "wt": 0.42
-    },
-    {
-      "w": "世界级数学难题",
-      "wt": 0.42
+      "w": "GPT-6",
+      "wt": 0.44
     },
     {
       "w": "极客早知道",
-      "wt": 0.42
+      "wt": 0.44
+    },
+    {
+      "w": "Agent",
+      "wt": 0.44
+    },
+    {
+      "w": "RSI",
+      "wt": 0.4
+    },
+    {
+      "w": "AGI",
+      "wt": 0.4
+    },
+    {
+      "w": "世界模型",
+      "wt": 0.4
+    },
+    {
+      "w": "剪映",
+      "wt": 0.4
+    },
+    {
+      "w": "杀入",
+      "wt": 0.4
+    },
+    {
+      "w": "互动影游",
+      "wt": 0.4
+    },
+    {
+      "w": "拆解下阿里的",
+      "wt": 0.4
+    },
+    {
+      "w": "经济学",
+      "wt": 0.4
+    },
+    {
+      "w": "与它的下注",
+      "wt": 0.4
+    },
+    {
+      "w": "V900",
+      "wt": 0.4
+    },
+    {
+      "w": "从单卡到千卡互联",
+      "wt": 0.4
+    },
+    {
+      "w": "平头哥真武",
+      "wt": 0.4
+    },
+    {
+      "w": "背后的",
+      "wt": 0.4
+    },
+    {
+      "w": "算力变局",
+      "wt": 0.4
     }
   ],
   "total": 16
