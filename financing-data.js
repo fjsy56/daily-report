@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-22 17:59",
- "total": 728,
+ "updated": "2026-09-24 18:17",
+ "total": 751,
  "industries": [
   "产业升级",
   "企业服务",
@@ -32,6 +32,7 @@ window.__FINANCING_DATA__ = {
   "A++轮",
   "A+轮",
   "A轮",
+  "B++++++轮",
   "B+++轮",
   "B++轮",
   "B+轮",
@@ -97,6 +98,217 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "3369760106169990",
+   "date": "2026-09-22",
+   "name": "青枫数科MapleAI",
+   "desc": "智算未来 让 AI 成为企业的第二生产力。",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "徐汇科创投",
+   "url": "https://pitchhub.36kr.com/project/3369760106169990",
+   "province": "上海市"
+  },
+  {
+   "id": "1679811982971652",
+   "date": "2026-09-22",
+   "name": "雾联医疗",
+   "desc": "呼吸系统医疗保健器械研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "数千万人民币",
+   "investors": "玉见未来、昆高新集团、中金资本、深创投",
+   "url": "https://pitchhub.36kr.com/project/1679811982971652",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679754177811206",
+   "date": "2026-09-22",
+   "name": "谷斗科技",
+   "desc": "工业智能协同优化云平台及服务提供商",
+   "industry": [
+    "先进制造",
+    "工具软件"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "云锦资本",
+   "url": "https://pitchhub.36kr.com/project/1679754177811206",
+   "province": "上海市"
+  },
+  {
+   "id": "1713112348731907",
+   "date": "2026-09-22",
+   "name": "欧卡智舶",
+   "desc": "水面无人驾驶技术及水面服务机器人研发商",
+   "industry": [
+    "产业升级"
+   ],
+   "round": "C轮",
+   "amount": "数亿人民币",
+   "investors": "西高投、元禾璞华、三元资本",
+   "url": "https://pitchhub.36kr.com/project/1713112348731907",
+   "province": "陕西省"
+  },
+  {
+   "id": "2011631785608965",
+   "date": "2026-09-22",
+   "name": "达卯科技",
+   "desc": "数据中心运营公司",
+   "industry": [
+    "物联网/硬件"
+   ],
+   "round": "B轮",
+   "amount": "2亿人民币",
+   "investors": "未披露",
+   "url": "https://pitchhub.36kr.com/project/2011631785608965",
+   "province": "上海市"
+  },
+  {
+   "id": "1679823809909513",
+   "date": "2026-09-22",
+   "name": "驰芯半导体",
+   "desc": "UWB超宽带芯片供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "超2亿人民币",
+   "investors": "沿浦金属、湘江盛世股权、移远通信、麓山控股集团",
+   "url": "https://pitchhub.36kr.com/project/1679823809909513",
+   "province": "湖南省"
+  },
+  {
+   "id": "1679772215694080",
+   "date": "2026-09-21",
+   "name": "轻盈科研",
+   "desc": "移动互联网医学服务平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "华康中健（厦门）科技有限公司",
+   "url": "https://pitchhub.36kr.com/project/1679772215694080",
+   "province": "江苏省"
+  },
+  {
+   "id": "2011449785271555",
+   "date": "2026-09-21",
+   "name": "龙讯旷腾",
+   "desc": "材料计算模拟工具软件研发商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "亿级人民币",
+   "investors": "同创伟业、国泰海通、中新资本",
+   "url": "https://pitchhub.36kr.com/project/2011449785271555",
+   "province": "广东省"
+  },
+  {
+   "id": "2011471230338309",
+   "date": "2026-09-21",
+   "name": "环球软件",
+   "desc": "人口健康管理服务平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "定向增发",
+   "amount": "2000万人民币",
+   "investors": "山东财金集团",
+   "url": "https://pitchhub.36kr.com/project/2011471230338309",
+   "province": "山东省"
+  },
+  {
+   "id": "1678228240086016",
+   "date": "2026-09-21",
+   "name": "一品制药",
+   "desc": "麻醉药研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "数千万人民币",
+   "investors": "石丰昕汇、河北产业投资引导基金",
+   "url": "https://pitchhub.36kr.com/project/1678228240086016",
+   "province": "河北省"
+  },
+  {
+   "id": "2012743887422985",
+   "date": "2026-09-21",
+   "name": "铭科思微",
+   "desc": "半导体集成电路研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "6050万人民币",
+   "investors": "中财融商",
+   "url": "https://pitchhub.36kr.com/project/2012743887422985",
+   "province": "四川省"
+  },
+  {
+   "id": "1678285355922435",
+   "date": "2026-09-21",
+   "name": "伟禾生物",
+   "desc": "分子免疫诊断试剂研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "康裕资本",
+   "url": "https://pitchhub.36kr.com/project/1678285355922435",
+   "province": "江苏省"
+  },
+  {
+   "id": "1818805983006852",
+   "date": "2026-09-21",
+   "name": "芯圣电子",
+   "desc": "一家国家级高新技术集成电路设计企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "航新科技",
+   "url": "https://pitchhub.36kr.com/project/1818805983006852",
+   "province": "上海市"
+  },
+  {
+   "id": "3422811713566215",
+   "date": "2026-09-21",
+   "name": "智冉医疗",
+   "desc": "医疗科技服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "6亿人民币",
+   "investors": "顺禧基金、济峰资本、君联资本、HongShan红杉中国、国寿投资、元生创投、顺为资本、美团龙珠、中关村科学城、杏泽资本、佳银资本、中科创星、华盖资本、丹麓资本",
+   "url": "https://pitchhub.36kr.com/project/3422811713566215",
+   "province": "北京市"
+  },
+  {
+   "id": "1678549131457538",
+   "date": "2026-09-21",
+   "name": "深蓝航天",
+   "desc": "全球卫星商业发射服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B++++++轮",
+   "amount": "近20亿人民币",
+   "investors": "无锡高新区投控集团、毅达资本、宝通科技、宏润建设、上海自贸区基金、睿石成长、海松资本、华福成长投资、卓源亚洲、显鋆投资、无锡战新私募基金、精准信息、锡创投、万石资本、尤洛卡、苏州施必牢",
+   "url": "https://pitchhub.36kr.com/project/1678549131457538",
+   "province": "北京市"
+  },
+  {
    "id": "2066612269809670",
    "date": "2026-09-21",
    "name": "中塑新材料",
@@ -109,6 +321,48 @@ window.__FINANCING_DATA__ = {
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/2066612269809670",
    "province": "广东省"
+  },
+  {
+   "id": "1998361293381764",
+   "date": "2026-09-20",
+   "name": "中运科技",
+   "desc": "长途客运媒体广告服务商",
+   "industry": [
+    "广告营销"
+   ],
+   "round": "定向增发",
+   "amount": "2500万人民币",
+   "investors": "天诚重科创投",
+   "url": "https://pitchhub.36kr.com/project/1998361293381764",
+   "province": "广东省"
+  },
+  {
+   "id": "2144825197102344",
+   "date": "2026-09-20",
+   "name": "微链道爱",
+   "desc": "机器人视觉技术研发商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "启金资本、渝富资本",
+   "url": "https://pitchhub.36kr.com/project/2144825197102344",
+   "province": "北京市"
+  },
+  {
+   "id": "1817522394679172",
+   "date": "2026-09-20",
+   "name": "优谱德",
+   "desc": "检测仪器产品生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "国联投资",
+   "url": "https://pitchhub.36kr.com/project/1817522394679172",
+   "province": "江苏省"
   },
   {
    "id": "2011444558152969",
@@ -420,6 +674,77 @@ window.__FINANCING_DATA__ = {
    "investors": "中国移动",
    "url": "https://pitchhub.36kr.com/project/1678423728092169",
    "province": "北京市"
+  },
+  {
+   "id": "1678508950090758",
+   "date": "2026-09-16",
+   "name": "极致汇仪",
+   "desc": "无线网络测试仪器及测试应用软件解决方案提",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "经韬资本、深创投、芯禾资本",
+   "url": "https://pitchhub.36kr.com/project/1678508950090758",
+   "province": "广东省"
+  },
+  {
+   "id": "2144918467593480",
+   "date": "2026-09-16",
+   "name": "上海亚虹",
+   "desc": "精密注塑模具制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "9亿人民币",
+   "investors": "上海飞科投资有限公司",
+   "url": "https://pitchhub.36kr.com/project/2144918467593480",
+   "province": "上海市"
+  },
+  {
+   "id": "2078841985718275",
+   "date": "2026-09-16",
+   "name": "环海装备",
+   "desc": "环保装备制造商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "并购/合并",
+   "amount": "2.57亿人民币",
+   "investors": "福龙马",
+   "url": "https://pitchhub.36kr.com/project/2078841985718275",
+   "province": "福建省"
+  },
+  {
+   "id": "3996116745441159",
+   "date": "2026-09-16",
+   "name": "奋羽电子",
+   "desc": "微波能量应用方案设计商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "成都科创投集团",
+   "url": "https://pitchhub.36kr.com/project/3996116745441159",
+   "province": "四川省"
+  },
+  {
+   "id": "1678525994185737",
+   "date": "2026-09-16",
+   "name": "水母智能",
+   "desc": "以AI设计为核心竞争力的创新型技术公司",
+   "industry": [
+    "企业服务",
+    "工具软件"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "源码资本、红杉中国种子基金、百度、高瓴创投、华策影视、微光创投",
+   "url": "https://pitchhub.36kr.com/project/1678525994185737",
+   "province": "浙江省"
   },
   {
    "id": "2011453554001155",
