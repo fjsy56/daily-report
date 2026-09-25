@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-24 18:17",
- "total": 751,
+ "updated": "2026-09-25 16:47",
+ "total": 757,
  "industries": [
   "产业升级",
   "企业服务",
@@ -421,6 +421,49 @@ window.__FINANCING_DATA__ = {
    "province": "上海市"
   },
   {
+   "id": "1713101632760068",
+   "date": "2026-09-19",
+   "name": "AI-LINK",
+   "desc": "专注5G边缘智能服务",
+   "industry": [
+    "企业服务",
+    "前沿技术"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "投控东海、零以创投、浙商创投",
+   "url": "https://pitchhub.36kr.com/project/1713101632760068",
+   "province": "广东省"
+  },
+  {
+   "id": "1679719745164035",
+   "date": "2026-09-19",
+   "name": "艾灵网络",
+   "desc": "5G边缘云服务提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "投控东海、零以创投、浙商创投",
+   "url": "https://pitchhub.36kr.com/project/1679719745164035",
+   "province": "北京市"
+  },
+  {
+   "id": "1679830204453641",
+   "date": "2026-09-19",
+   "name": "鸿石智能",
+   "desc": "一家MicroLED微显示芯片制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "温州国投资本、厚雪资本、恒择资本",
+   "url": "https://pitchhub.36kr.com/project/1679830204453641",
+   "province": "江苏省"
+  },
+  {
    "id": "3076784668209031",
    "date": "2026-09-18",
    "name": "千觉机器人",
@@ -433,6 +476,48 @@ window.__FINANCING_DATA__ = {
    "investors": "蓝驰创投、中金资本、靖亚资本",
    "url": "https://pitchhub.36kr.com/project/3076784668209031",
    "province": "上海市"
+  },
+  {
+   "id": "1678356498494470",
+   "date": "2026-09-17",
+   "name": "国人无线",
+   "desc": "全球智慧用电精细化管理引领者。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "宏鹰投资",
+   "url": "https://pitchhub.36kr.com/project/1678356498494470",
+   "province": "广东省"
+  },
+  {
+   "id": "1817519987623817",
+   "date": "2026-09-17",
+   "name": "医贝",
+   "desc": "医用耗材管理智能决策服务提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "海邦投资",
+   "url": "https://pitchhub.36kr.com/project/1817519987623817",
+   "province": "浙江省"
+  },
+  {
+   "id": "2080338593797889",
+   "date": "2026-09-17",
+   "name": "新菲光",
+   "desc": "高速光模块产品研发商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "立湾创投",
+   "url": "https://pitchhub.36kr.com/project/2080338593797889",
+   "province": "广东省"
   },
   {
    "id": "2144857310905605",
