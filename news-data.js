@@ -1,6 +1,62 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "tech": [
+    {
+      "title": "扎克伯格谈Muse",
+      "url": "https://www.huxiu.com/article/4893943.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Meta",
+      "cat": "tech"
+    },
+    {
+      "title": "Z Finance©",
+      "url": "https://www.huxiu.com/article/4893943.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "AI硬件的下一场仗：少说话，多办事",
+      "url": "https://www.huxiu.com/article/4893932.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开",
+      "url": "http://www.geekpark.net/news/371035",
+      "excerpt": "小布、ColorOS 17 与「AI 硬件」 作者｜张勇毅 编辑｜郑玄 「以意图驱动的手机就是 AI 手机。用户说一句话，手机就能把事情办了，不需要再打开 APP、反复点击。」 这是 OPPO ColorOS 智慧产品研发总监姜昱辰，给 AI 手机下的最新定义",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "三折叠终于不像奇观了，但它还是 19999 元",
+      "url": "http://www.geekpark.net/news/371034",
+      "excerpt": "三折叠，走向日常。 作者｜张勇毅 编辑｜靖宇 华为 Mate XT2 非凡大师，作为一款放在当下仍然算是顶级旗舰的三折叠，我用了几天之后，我最强的感受是：没什么特别强的感受。 但这其实并不是在说 HUAWEI Mate XT 2 非凡大师「平庸」。恰恰相反：两",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+      "url": "http://www.geekpark.net/news/371033",
+      "excerpt": "送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜",
+      "src": "极客公园",
+      "tag": "Meta",
+      "cat": "tech"
+    },
+    {
+      "title": "李彦宏的长期主义，进入回报周期",
+      "url": "http://www.geekpark.net/news/371030",
+      "excerpt": "作者｜cola 编辑｜郑玄 9 月 21 日，百度创始人李彦宏在内部活动上为技术团队颁发「百度最高奖」。两支入围团队均获奖，各获 100 万美元奖励。 其中，天池团队面向万亿级 MoE 大模型，自主研发百度天池超节点架构；dodo 团队是通过打造企业 AI 员",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
       "url": "http://www.geekpark.net/news/371011",
@@ -8,156 +64,116 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "Agent",
       "cat": "tech"
-    },
-    {
-      "title": "剪映，杀入 AI 互动影游",
-      "url": "http://www.geekpark.net/news/370883",
-      "excerpt": "头图来源：剪映 9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。 专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "拆解下阿里的 AI 经济学，与它的下注",
-      "url": "http://www.geekpark.net/news/370865",
-      "excerpt": "作者｜张鹏 编辑｜ 苏子华 9 月 22 日，杭州云栖大会。阿里巴巴集团 CEO 吴泳铭和往年一样，做了开场的主旨演讲。 过去几年云栖大会的主旨演讲，可以当作「技术风向标」来听，会抛出很多重磅的技术判断，比如，「大模型是下一代操作系统」、「超级 AI 云是下一",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局",
-      "url": "http://www.geekpark.net/news/370864",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。 当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-      "url": "https://www.qbitai.com/2026/09/496779.html",
-      "excerpt": "Stripe Managed Payments (SMP) 现已全面上线",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-      "url": "https://www.qbitai.com/2026/09/496767.html",
-      "excerpt": "开源一座具身智能的新“塔台”",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "成立九年，中科类脑把积累装进Token工厂",
-      "url": "https://www.qbitai.com/2026/09/496615.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-      "url": "https://www.qbitai.com/2026/09/496578.html",
-      "excerpt": "商汤大装置异构混推创新实践与技术演进",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道",
-      "url": "http://www.geekpark.net/news/370829",
-      "excerpt": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50% 9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。 OpenAI 官方表示，两款模型采用与 GPT-",
+      "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
+      "url": "http://www.geekpark.net/news/371031",
+      "excerpt": "9 月 3 日，GPT-6 Astra 的发布，把 3D 内容创作带到了舞台中央。 在 GPT-6 Astra 官方发布页的一个不到 3 分钟的视频里与后续解读中，Astra 已经能直接进入 Blender，从一句住宅设计需求开始搭场景，先生成极简住宅，后来又",
       "src": "极客公园",
-      "tag": "OpenAI",
+      "tag": "大模型",
       "cat": "app"
     },
     {
-      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-      "url": "https://www.qbitai.com/2026/09/496778.html",
-      "excerpt": "专治人机动作对不齐",
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "url": "https://www.qbitai.com/2026/09/497075.html",
+      "excerpt": "Agent的手越伸越长",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "url": "https://www.qbitai.com/2026/09/497012.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "url": "https://www.qbitai.com/2026/09/496658.html",
-      "excerpt": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496961.html",
+      "excerpt": "懂出海，能记忆，自进化",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "腾讯",
       "cat": "app"
     },
     {
-      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-      "url": "https://www.qbitai.com/2026/09/496609.html",
-      "excerpt": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "url": "https://www.qbitai.com/2026/09/496816.html",
+      "excerpt": "人类演示一次，机器人即可实现跨场景任务复用",
       "src": "量子位",
-      "tag": "阿里",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "小米互联上架苹果 Apple Watch 应用商店，实现通知流转、健康数据同步等",
+      "url": "https://www.ithome.com/1/007/164.htm",
+      "excerpt": "IT之家 9 月 25 日消息，小米互联现已正式上架苹果 Apple Watch 应用商店，让 Apple Watch 与小米手机配对，实现通知流转、健康数据同步及响铃查找等跨端协同。通过小米互联，用户可以将小米手机的来电、短信、应用消息以及超级岛实时活动同步",
+      "src": "IT之家",
+      "tag": "苹果",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运",
-      "url": "http://www.geekpark.net/news/370917",
-      "excerpt": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵 9 月 23 日，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）表示，OpenAI 开发的一款 AI 智能体在 6 月未经授权侵入了澳大利亚政府网站，访问了公共和非",
-      "src": "极客公园",
+      "title": "95后和00后组队，拿下3200亿估值",
+      "url": "https://www.huxiu.com/article/4893936.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "1.4万亿美元的预付款谁来收货？",
+      "url": "https://www.huxiu.com/article/4893917.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "又一家 AI 明星公司诞生：曝“医生版 ChatGPT”OpenEvidence 估值冲上 150 亿美元",
+      "url": "https://www.ithome.com/1/007/161.htm",
+      "excerpt": "IT之家 9 月 25 日消息，据《商业内幕》今天（25 日）报道，面向医生提供 AI 搜索服务的 OpenEvidence，成为又一家在短期内连续完成两轮融资的 AI 明星公司。知情人士称，OpenEvidence 近期获得多家医院系统和安德森 · 霍洛维茨",
+      "src": "IT之家",
       "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "url": "https://www.qbitai.com/2026/09/496647.html",
-      "excerpt": "美国也开启了全民养虾狂潮",
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "excerpt": "一场物理世界的基模实验",
       "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
-    {
-      "title": "荣耀 CEO 李健公布 Magic9 手机价格：16+512GB 国补到手 5499 元",
-      "url": "https://www.ithome.com/1/006/846.htm",
-      "excerpt": "IT之家 9 月 24 日消息，今天（24 日）下午，荣耀终端股份有限公司 CEO@荣耀李健 宣布，今年是荣耀 Magic 系列诞生的第十年。“荣耀 Magic9 不仅是我们对科技创新的‘敢想敢不同’，更是献给每一位新老用户的十年诚意之作。”同时，李健公布了这",
-      "src": "IT之家",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "全球首发“会感知、能判断”的中国智能地铁列车亮相柏林",
-      "url": "https://www.ithome.com/1/006/845.htm",
-      "excerpt": "IT之家 9 月 24 日消息，当地时间 9 月 22 日至 25 日，第十五届德国柏林国际轨道交通技术展览会在柏林举行。作为全球轨道交通领域的重要专业展会，本届展会吸引来自 59 个国家和地区的 3,000 多家企业参展，共有 180 项全球首发成果亮相，其",
-      "src": "IT之家",
-      "tag": "行业动态",
+      "tag": "华为",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
+      "Muse",
       "AI",
-      "Token",
-      "剪映",
-      "杀入",
-      "互动影游",
-      "拆解下阿里的"
+      "Finance",
+      "少说话",
+      "多办事",
+      "OPPO"
     ],
     "app": [
-      "AI",
-      "OpenAI",
-      "GPT-6",
-      "Sol",
-      "Luna",
-      "千问发布"
+      "Agent",
+      "时代来了",
+      "Code",
+      "Kimi",
+      "Skill",
+      "Index"
     ],
     "enterprise": [
-      "CEO",
-      "OpenAI",
       "AI",
-      "Anthropic",
-      "QClaw",
-      "腾讯"
+      "ChatGPT",
+      "OpenEvidence",
+      "又一家",
+      "明星公司诞生",
+      "曝“医生版"
     ]
   },
   "hotwords": [
@@ -166,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.52
+      "w": "Muse",
+      "wt": 0.55
     },
     {
-      "w": "CEO",
-      "wt": 0.52
+      "w": "Meta",
+      "wt": 0.55
     },
     {
-      "w": "Token",
-      "wt": 0.52
+      "w": "Agent",
+      "wt": 0.55
     },
     {
-      "w": "Anthropic",
-      "wt": 0.44
+      "w": "Finance",
+      "wt": 0.45
     },
     {
-      "w": "QClaw",
-      "wt": 0.44
+      "w": "少说话",
+      "wt": 0.45
     },
     {
-      "w": "腾讯",
-      "wt": 0.44
+      "w": "多办事",
+      "wt": 0.45
     },
     {
-      "w": "宣布将停运",
-      "wt": 0.44
+      "w": "OPPO",
+      "wt": 0.45
     },
     {
-      "w": "剪映",
-      "wt": 0.44
+      "w": "姜昱辰",
+      "wt": 0.45
     },
     {
-      "w": "杀入",
-      "wt": 0.44
+      "w": "但它还是",
+      "wt": 0.45
     },
     {
-      "w": "互动影游",
-      "wt": 0.44
+      "w": "Fold",
+      "wt": 0.45
     },
     {
-      "w": "拆解下阿里的",
-      "wt": 0.44
+      "w": "Charm",
+      "wt": 0.45
     },
     {
-      "w": "经济学",
-      "wt": 0.44
+      "w": "罗永浩再评小米",
+      "wt": 0.45
     },
     {
-      "w": "与它的下注",
-      "wt": 0.44
+      "w": "推出手持设备",
+      "wt": 0.45
     },
     {
-      "w": "V900",
-      "wt": 0.44
+      "w": "极客早知道",
+      "wt": 0.45
     },
     {
-      "w": "从单卡到千卡互联",
-      "wt": 0.44
+      "w": "时代来了",
+      "wt": 0.45
     },
     {
-      "w": "平头哥真武",
-      "wt": 0.44
+      "w": "李彦宏的长期主义",
+      "wt": 0.45
     },
     {
-      "w": "背后的",
-      "wt": 0.44
+      "w": "进入回报周期",
+      "wt": 0.45
     },
     {
-      "w": "算力变局",
-      "wt": 0.44
+      "w": "Code",
+      "wt": 0.45
     },
     {
-      "w": "GPT-6",
-      "wt": 0.44
+      "w": "Kimi",
+      "wt": 0.45
     }
   ],
-  "total": 16
+  "total": 18
 };
