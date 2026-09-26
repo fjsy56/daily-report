@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-25 16:47",
- "total": 757,
+ "updated": "2026-09-26 21:55",
+ "total": 768,
  "industries": [
   "产业升级",
   "企业服务",
@@ -94,9 +94,80 @@ window.__FINANCING_DATA__ = {
   "辽宁省",
   "重庆市",
   "陕西省",
-  "青海省"
+  "青海省",
+  "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1958623510123524",
+   "date": "2026-09-24",
+   "name": "糖智药业",
+   "desc": "医药制造平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "战略融资",
+   "amount": "近亿元人民币",
+   "investors": "丰年资本",
+   "url": "https://pitchhub.36kr.com/project/1958623510123524",
+   "province": "湖北省"
+  },
+  {
+   "id": "1678548253914118",
+   "date": "2026-09-23",
+   "name": "深圳旗扬",
+   "desc": "智慧城市及智慧交通整体解决方案提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "数千万人民币",
+   "investors": "睿宏资本",
+   "url": "https://pitchhub.36kr.com/project/1678548253914118",
+   "province": "广东省"
+  },
+  {
+   "id": "1774345974599556",
+   "date": "2026-09-23",
+   "name": "清醒异构",
+   "desc": "并行程序工厂提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A+轮",
+   "amount": "近亿人民币",
+   "investors": "晶凯资本、安徽高新投、道得投资、励石投资、中咨私募基金、徐汇资本、森蓝集团、泾东集团创始人",
+   "url": "https://pitchhub.36kr.com/project/1774345974599556",
+   "province": "北京市"
+  },
+  {
+   "id": "1678331135063044",
+   "date": "2026-09-23",
+   "name": "博视医疗",
+   "desc": "眼科医疗器械研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "D轮",
+   "amount": "未透露",
+   "investors": "投中基金",
+   "url": "https://pitchhub.36kr.com/project/1678331135063044",
+   "province": "江苏省"
+  },
+  {
+   "id": "2066637729447941",
+   "date": "2026-09-23",
+   "name": "华德海泰",
+   "desc": "输配电及控制设备制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "B+轮",
+   "amount": "数千万人民币",
+   "investors": "梧桐树资本",
+   "url": "https://pitchhub.36kr.com/project/2066637729447941",
+   "province": "辽宁省"
+  },
   {
    "id": "3369760106169990",
    "date": "2026-09-22",
@@ -181,6 +252,90 @@ window.__FINANCING_DATA__ = {
    "investors": "沿浦金属、湘江盛世股权、移远通信、麓山控股集团",
    "url": "https://pitchhub.36kr.com/project/1679823809909513",
    "province": "湖南省"
+  },
+  {
+   "id": "2144500052182276",
+   "date": "2026-09-21",
+   "name": "netvue空气质量检测仪",
+   "desc": "家庭空气质量检测仪",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "华山资本Westsummit Capital、创世伙伴CCV",
+   "url": "https://pitchhub.36kr.com/project/2144500052182276",
+   "province": "广东省"
+  },
+  {
+   "id": "2351984236282242",
+   "date": "2026-09-21",
+   "name": "声诺医疗",
+   "desc": "动脉斑块声动力智能诊疗系统研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "科力投资",
+   "url": "https://pitchhub.36kr.com/project/2351984236282242",
+   "province": "黑龙江省"
+  },
+  {
+   "id": "1958609864102915",
+   "date": "2026-09-21",
+   "name": "茵冠生物",
+   "desc": "生命科学与细胞生物技术研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "华金资本、横琴创投、金航集团",
+   "url": "https://pitchhub.36kr.com/project/1958609864102915",
+   "province": "广东省"
+  },
+  {
+   "id": "1817525937702792",
+   "date": "2026-09-21",
+   "name": "瑞神安医疗",
+   "desc": "植入式医疗器械研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "元明资本",
+   "url": "https://pitchhub.36kr.com/project/1817525937702792",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679702446150402",
+   "date": "2026-09-21",
+   "name": "翔鹭钨业",
+   "desc": "钨及钨制品研发生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "定向增发",
+   "amount": "4.9亿人民币",
+   "investors": "华泰资产、财通基金、华安资管、瑞银集团、诺德基金、鹿秀投资、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1679702446150402",
+   "province": "广东省"
+  },
+  {
+   "id": "2012740461676037",
+   "date": "2026-09-21",
+   "name": "智行众维",
+   "desc": "未来出行仿真测试开发服务商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "脩正创投",
+   "url": "https://pitchhub.36kr.com/project/2012740461676037",
+   "province": "江苏省"
   },
   {
    "id": "1679772215694080",
