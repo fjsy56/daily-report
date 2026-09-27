@@ -1,36 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "tech": [
     {
-      "title": "比尔·盖茨最新警告：人工智能足以导致“十亿人死亡”",
-      "url": "https://www.huxiu.com/article/4894021.html",
+      "title": "OpenAI，经历了最漫长的一天",
+      "url": "https://www.huxiu.com/article/4894095.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "如何与亲人告别，是AI 也学不会的人生课题",
+      "url": "https://www.huxiu.com/article/4894091.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI改写小厂招聘表：8人团队管30家店、一天做800张图，义乌老板“手搓”数字员工",
-      "url": "https://www.huxiu.com/article/4894014.html",
+      "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
+      "url": "https://www.huxiu.com/article/4894089.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "400人维权，智谱吞下苦果",
-      "url": "https://www.huxiu.com/article/4894012.html",
+      "title": "investguru王川©",
+      "url": "https://www.huxiu.com/article/4894089.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "离谱，OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
-      "url": "https://www.huxiu.com/article/4894009.html",
+      "title": "AI 圈又在造神？这次我想给Jev 泼点冷水",
+      "url": "https://www.huxiu.com/article/4894086.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "DeepSeek",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
+      "url": "http://www.geekpark.net/news/371039",
+      "excerpt": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练 9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。 这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
@@ -48,39 +64,23 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
-      "url": "http://www.geekpark.net/news/371033",
-      "excerpt": "送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜",
-      "src": "极客公园",
-      "tag": "Meta",
-      "cat": "tech"
-    },
-    {
-      "title": "李彦宏的长期主义，进入回报周期",
-      "url": "http://www.geekpark.net/news/371030",
-      "excerpt": "作者｜cola 编辑｜郑玄 9 月 21 日，百度创始人李彦宏在内部活动上为技术团队颁发「百度最高奖」。两支入围团队均获奖，各获 100 万美元奖励。 其中，天池团队面向万亿级 MoE 大模型，自主研发百度天池超节点架构；dodo 团队是通过打造企业 AI 员",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
+      "url": "http://www.geekpark.net/news/371040",
+      "excerpt": "办公正在成为全球 AI 行业竞争最集中的战场之一。 相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千",
+      "src": "极客公园",
+      "tag": "阿里",
+      "cat": "app"
+    },
     {
       "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
       "url": "http://www.geekpark.net/news/371038",
       "excerpt": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价",
       "src": "极客公园",
       "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
-      "url": "http://www.geekpark.net/news/371031",
-      "excerpt": "9 月 3 日，GPT-6 Astra 的发布，把 3D 内容创作带到了舞台中央。 在 GPT-6 Astra 官方发布页的一个不到 3 分钟的视频里与后续解读中，Astra 已经能直接进入 Blender，从一句住宅设计需求开始搭场景，先生成极简住宅，后来又",
-      "src": "极客公园",
-      "tag": "大模型",
       "cat": "app"
     },
     {
@@ -100,80 +100,72 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-      "url": "https://www.qbitai.com/2026/09/497075.html",
-      "excerpt": "Agent的手越伸越长",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "网易云音乐鸿蒙版 App 上线华为 HiCar，适配任务流转、歌词分栏显示等功能",
-      "url": "https://www.ithome.com/1/007/383.htm",
-      "excerpt": "IT之家 9 月 26 日消息，网易云音乐鸿蒙版 App 已于 9 月 23 日全面上线，完成了手机、折叠屏、平板多终端适配。IT之家实测发现，网易云音乐鸿蒙版 App 上线华为 HiCar 车机端，目前处于“尝鲜”状态（应用图标也印有尝鲜字样）。目前网易云音",
+      "title": "小米 18 标准版手机入网，有望 12 月单独发布",
+      "url": "https://www.ithome.com/1/007/556.htm",
+      "excerpt": "IT之家 9 月 27 日消息，一款型号为 M261DB 的小米新机于 9 月 23 日通过工信部无线电核准，预计为小米 18 标准版。IT之家注意到，在 9 月 23 日的小米 18 Pro 系列手机新品发布会前夕，有网友在微博询问小米集团合伙人、总裁 @卢",
       "src": "IT之家",
-      "tag": "华为",
+      "tag": "小米",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "市值曾超百亿美元的Bumble要出售了？官宣放弃“左滑右滑”，转向AI红娘",
-      "url": "https://www.huxiu.com/article/4894042.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "url": "https://www.qbitai.com/2026/09/497613.html",
-      "excerpt": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+      "url": "http://www.geekpark.net/news/371033",
+      "excerpt": "送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜",
+      "src": "极客公园",
+      "tag": "Meta",
       "cat": "tech"
     },
     {
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "excerpt": "vLLM人马创业公司团队出品",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
+      "excerpt": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
       "src": "量子位",
-      "tag": "DeepSeek",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
-      "excerpt": "",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "url": "https://www.qbitai.com/2026/09/498271.html",
+      "excerpt": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "url": "https://www.qbitai.com/2026/09/497624.html",
+      "excerpt": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "src": "量子位",
+      "tag": "英伟达",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "智谱吞下苦果",
       "OpenAI",
-      "Hugging",
-      "Face",
-      "DeepSeek"
+      "如何与亲人告别",
+      "来得更猛烈些吧",
+      "investguru",
+      "Jev"
     ],
     "app": [
       "OpenAI",
-      "Agent",
-      "Kimi",
+      "AI",
+      "阿里整合",
+      "办公力量后",
       "Deepseek",
-      "Muse",
-      "ProMax"
+      "Muse"
     ],
     "enterprise": [
       "AI",
-      "Bumble",
-      "在云栖大会",
-      "TPU",
-      "Kimi",
-      "GPU"
+      "Fold",
+      "Meta",
+      "Muse",
+      "Charm",
+      "罗永浩再评小米"
     ]
   },
   "hotwords": [
@@ -183,80 +175,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.83
-    },
-    {
-      "w": "Kimi",
-      "wt": 0.83
-    },
-    {
-      "w": "DeepSeek",
-      "wt": 0.71
+      "wt": 0.68
     },
     {
       "w": "Muse",
-      "wt": 0.59
+      "wt": 0.48
     },
     {
-      "w": "Agent",
-      "wt": 0.59
+      "w": "GPU",
+      "wt": 0.48
     },
     {
-      "w": "Bumble",
-      "wt": 0.47
+      "w": "Kimi",
+      "wt": 0.48
     },
     {
-      "w": "智谱吞下苦果",
-      "wt": 0.47
+      "w": "DeepSeek",
+      "wt": 0.48
     },
     {
-      "w": "Hugging",
-      "wt": 0.47
+      "w": "如何与亲人告别",
+      "wt": 0.42
     },
     {
-      "w": "Face",
-      "wt": 0.47
+      "w": "来得更猛烈些吧",
+      "wt": 0.42
     },
     {
-      "w": "Qwen",
-      "wt": 0.47
+      "w": "investguru",
+      "wt": 0.42
     },
     {
-      "w": "离谱",
-      "wt": 0.47
+      "w": "Jev",
+      "wt": 0.42
     },
     {
-      "w": "Deepseek",
-      "wt": 0.47
+      "w": "圈又在造神",
+      "wt": 0.42
     },
     {
-      "w": "ProMax",
-      "wt": 0.47
+      "w": "泼点冷水",
+      "wt": 0.42
     },
     {
-      "w": "桌面版悄悄上线",
-      "wt": 0.47
+      "w": "阿里整合",
+      "wt": 0.42
     },
     {
-      "w": "大火",
-      "wt": 0.47
+      "w": "办公力量后",
+      "wt": 0.42
     },
     {
-      "w": "被曝筹备推出",
-      "wt": 0.47
+      "w": "QQ",
+      "wt": 0.42
     },
     {
-      "w": "订阅层级",
-      "wt": 0.47
+      "w": "接连发生",
+      "wt": 0.42
     },
     {
-      "w": "月费或达",
-      "wt": 0.47
+      "w": "失控",
+      "wt": 0.42
     },
     {
-      "w": "美元",
-      "wt": 0.47
+      "w": "暂停最强模型训练",
+      "wt": 0.42
+    },
+    {
+      "w": "已接入微信",
+      "wt": 0.42
+    },
+    {
+      "w": "王兴兴回应造",
+      "wt": 0.42
     }
   ],
-  "total": 18
+  "total": 17
 };
