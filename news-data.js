@@ -1,44 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "tech": [
     {
-      "title": "OpenAI，经历了最漫长的一天",
-      "url": "https://www.huxiu.com/article/4894095.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "如何与亲人告别，是AI 也学不会的人生课题",
-      "url": "https://www.huxiu.com/article/4894091.html",
+      "title": "算法没有善恶，但人应该有，平台更应该要有",
+      "url": "https://www.huxiu.com/article/4894332.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
-      "url": "https://www.huxiu.com/article/4894089.html",
+      "title": "帮你月省300块的“神仙AI”，让扎克伯格翻身了",
+      "url": "https://www.huxiu.com/article/4894321.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Meta",
+      "cat": "tech"
+    },
+    {
+      "title": "安徽，等来了一个懂工业的解题人",
+      "url": "https://www.huxiu.com/article/4894303.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "investguru王川©",
-      "url": "https://www.huxiu.com/article/4894089.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "AI 硬件创业第一步，先做 AI 还是先做硬件？",
+      "url": "http://www.geekpark.net/news/371125",
+      "excerpt": "AI 硬件，和过往的硬件，有什么区别？到底谁是主体，软件层的 AI，还是硬件？什么样的 AI 体验必须通过硬件实现？团队该先做软件、先做硬件，还是同时推进？8 月初，在新加坡的 AGI Playground 2026 圆桌，四位不同位置的从业者聊了聊，AI 硬",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 圈又在造神？这次我想给Jev 泼点冷水",
-      "url": "https://www.huxiu.com/article/4894086.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+      "url": "http://www.geekpark.net/news/371113",
+      "excerpt": "「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。 炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不",
+      "src": "极客公园",
+      "tag": "Agent",
       "cat": "tech"
     },
     {
@@ -50,23 +50,39 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开",
-      "url": "http://www.geekpark.net/news/371035",
-      "excerpt": "小布、ColorOS 17 与「AI 硬件」 作者｜张勇毅 编辑｜郑玄 「以意图驱动的手机就是 AI 手机。用户说一句话，手机就能把事情办了，不需要再打开 APP、反复点击。」 这是 OPPO ColorOS 智慧产品研发总监姜昱辰，给 AI 手机下的最新定义",
-      "src": "极客公园",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "excerpt": "",
+      "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "三折叠终于不像奇观了，但它还是 19999 元",
-      "url": "http://www.geekpark.net/news/371034",
-      "excerpt": "三折叠，走向日常。 作者｜张勇毅 编辑｜靖宇 华为 Mate XT2 非凡大师，作为一款放在当下仍然算是顶级旗舰的三折叠，我用了几天之后，我最强的感受是：没什么特别强的感受。 但这其实并不是在说 HUAWEI Mate XT 2 非凡大师「平庸」。恰恰相反：两",
-      "src": "极客公园",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "excerpt": "想让开发者“说句话就能跑量子计算”",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "本体刚及格，考试就换了科目：这个9月，机器人公司集体卷“大脑”",
+      "url": "https://www.huxiu.com/article/4894306.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+      "url": "http://www.geekpark.net/news/371044",
+      "excerpt": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI D",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
     {
       "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
       "url": "http://www.geekpark.net/news/371040",
@@ -84,37 +100,29 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "url": "https://www.qbitai.com/2026/09/497382.html",
-      "excerpt": "还把「密钥」叫战利品",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "excerpt": "中秋假期文具OpenRouter调用日榜榜首",
       "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "url": "https://www.qbitai.com/2026/09/497278.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "小米 18 标准版手机入网，有望 12 月单独发布",
-      "url": "https://www.ithome.com/1/007/556.htm",
-      "excerpt": "IT之家 9 月 27 日消息，一款型号为 M261DB 的小米新机于 9 月 23 日通过工信部无线电核准，预计为小米 18 标准版。IT之家注意到，在 9 月 23 日的小米 18 Pro 系列手机新品发布会前夕，有网友在微博询问小米集团合伙人、总裁 @卢",
-      "src": "IT之家",
-      "tag": "小米",
+      "tag": "大模型",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
-      "url": "http://www.geekpark.net/news/371033",
-      "excerpt": "送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜",
-      "src": "极客公园",
-      "tag": "Meta",
+      "title": "美国投资人走进中国AI：算力困局下的生存突围",
+      "url": "https://www.huxiu.com/article/4894320.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "url": "https://www.qbitai.com/2026/09/498546.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
@@ -132,40 +140,32 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "excerpt": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "src": "量子位",
-      "tag": "英伟达",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "OpenAI",
-      "如何与亲人告别",
-      "来得更猛烈些吧",
-      "investguru",
-      "Jev"
+      "算法没有善恶",
+      "但人应该有",
+      "平台更应该要有",
+      "让扎克伯格翻身了",
+      "安徽"
     ],
     "app": [
-      "OpenAI",
       "AI",
-      "阿里整合",
-      "办公力量后",
-      "Deepseek",
-      "Muse"
+      "OpenAI",
+      "本体刚及格",
+      "考试就换了科目",
+      "日推个人",
+      "助手"
     ],
     "enterprise": [
       "AI",
-      "Fold",
-      "Meta",
-      "Muse",
-      "Charm",
-      "罗永浩再评小米"
+      "OpenAI",
+      "Physical",
+      "FSD",
+      "Simate-beta",
+      "RoboDojo"
     ]
   },
   "hotwords": [
@@ -175,79 +175,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.68
+      "wt": 0.51
     },
     {
-      "w": "Muse",
-      "wt": 0.48
+      "w": "mm",
+      "wt": 0.43
     },
     {
-      "w": "GPU",
-      "wt": 0.48
+      "w": "算法没有善恶",
+      "wt": 0.39
     },
     {
-      "w": "Kimi",
-      "wt": 0.48
+      "w": "但人应该有",
+      "wt": 0.39
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.48
+      "w": "平台更应该要有",
+      "wt": 0.39
     },
     {
-      "w": "如何与亲人告别",
-      "wt": 0.42
+      "w": "让扎克伯格翻身了",
+      "wt": 0.39
     },
     {
-      "w": "来得更猛烈些吧",
-      "wt": 0.42
+      "w": "本体刚及格",
+      "wt": 0.39
     },
     {
-      "w": "investguru",
-      "wt": 0.42
+      "w": "考试就换了科目",
+      "wt": 0.39
     },
     {
-      "w": "Jev",
-      "wt": 0.42
+      "w": "安徽",
+      "wt": 0.39
     },
     {
-      "w": "圈又在造神",
-      "wt": 0.42
+      "w": "硬件创业第一步",
+      "wt": 0.39
     },
     {
-      "w": "泼点冷水",
-      "wt": 0.42
+      "w": "先做",
+      "wt": 0.39
     },
     {
-      "w": "阿里整合",
-      "wt": 0.42
+      "w": "还是先做硬件",
+      "wt": 0.39
     },
     {
-      "w": "办公力量后",
-      "wt": 0.42
+      "w": "手机只是起点",
+      "wt": 0.39
     },
     {
-      "w": "QQ",
-      "wt": 0.42
+      "w": "日推个人",
+      "wt": 0.39
     },
     {
-      "w": "接连发生",
-      "wt": 0.42
+      "w": "助手",
+      "wt": 0.39
     },
     {
-      "w": "失控",
-      "wt": 0.42
+      "w": "专家偏远地区买地",
+      "wt": 0.39
     },
     {
-      "w": "暂停最强模型训练",
-      "wt": 0.42
+      "w": "失控」",
+      "wt": 0.39
     },
     {
-      "w": "已接入微信",
-      "wt": 0.42
+      "w": "网友",
+      "wt": 0.39
     },
     {
-      "w": "王兴兴回应造",
-      "wt": 0.42
+      "w": "蓝翔还能开几年",
+      "wt": 0.39
     }
   ],
   "total": 17
