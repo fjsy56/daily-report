@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-26 21:55",
- "total": 768,
+ "updated": "2026-09-29 19:10",
+ "total": 772,
  "industries": [
   "产业升级",
   "企业服务",
@@ -167,6 +167,62 @@ window.__FINANCING_DATA__ = {
    "investors": "梧桐树资本",
    "url": "https://pitchhub.36kr.com/project/2066637729447941",
    "province": "辽宁省"
+  },
+  {
+   "id": "2072084311703556",
+   "date": "2026-09-22",
+   "name": "清景铜箔",
+   "desc": "高档电解铜箔研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "凯博资本",
+   "url": "https://pitchhub.36kr.com/project/2072084311703556",
+   "province": "福建省"
+  },
+  {
+   "id": "1678331892577283",
+   "date": "2026-09-22",
+   "name": "卡伦特",
+   "desc": "云端协同CAD设计平台",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "厦门火炬集团",
+   "url": "https://pitchhub.36kr.com/project/1678331892577283",
+   "province": "福建省"
+  },
+  {
+   "id": "1713113928018182",
+   "date": "2026-09-22",
+   "name": "勃林格殷格翰",
+   "desc": "药物研发与生产商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "上海莱士",
+   "url": "https://pitchhub.36kr.com/project/1713113928018182",
+   "province": "上海市"
+  },
+  {
+   "id": "2221855679054345",
+   "date": "2026-09-22",
+   "name": "嘉资新材料",
+   "desc": "碳纤维复合材料提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "D轮",
+   "amount": "未透露",
+   "investors": "航信资本",
+   "url": "https://pitchhub.36kr.com/project/2221855679054345",
+   "province": "上海市"
   },
   {
    "id": "3369760106169990",
