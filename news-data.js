@@ -1,171 +1,161 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "tech": [
     {
-      "title": "算法没有善恶，但人应该有，平台更应该要有",
-      "url": "https://www.huxiu.com/article/4894332.html",
+      "title": "抱上阿里大腿，荣耀能做好AI手机吗？",
+      "url": "https://www.huxiu.com/article/4894587.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "识礁Farsight",
+      "url": "https://www.huxiu.com/article/4894587.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "帮你月省300块的“神仙AI”，让扎克伯格翻身了",
-      "url": "https://www.huxiu.com/article/4894321.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Meta",
-      "cat": "tech"
-    },
-    {
-      "title": "安徽，等来了一个懂工业的解题人",
-      "url": "https://www.huxiu.com/article/4894303.html",
+      "title": "当“AI饲料”，我都被AI嫌弃了？",
+      "url": "https://www.huxiu.com/article/4894565.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 硬件创业第一步，先做 AI 还是先做硬件？",
-      "url": "http://www.geekpark.net/news/371125",
-      "excerpt": "AI 硬件，和过往的硬件，有什么区别？到底谁是主体，软件层的 AI，还是硬件？什么样的 AI 体验必须通过硬件实现？团队该先做软件、先做硬件，还是同时推进？8 月初，在新加坡的 AGI Playground 2026 圆桌，四位不同位置的从业者聊了聊，AI 硬",
+      "title": "赛力斯摘不掉华为“紧箍”",
+      "url": "https://www.huxiu.com/article/4894575.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "华为",
+      "cat": "tech"
+    },
+    {
+      "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
+      "url": "http://www.geekpark.net/news/371994",
+      "excerpt": "作者｜Techno 之王 编辑｜靖宇 当地时间 9 月 28 日，外媒披露了一份 Anthropic 的 IPO 招股书。 先要说清楚这份文件的性质。它并不是 Anthropic 主动公开的版本。今年 6 月，Anthropic 以公益公司身份向美国证交会秘密",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
-      "url": "http://www.geekpark.net/news/371113",
-      "excerpt": "「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。 炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不",
+      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+      "url": "http://www.geekpark.net/news/371850",
+      "excerpt": "互联网大厂很久没有如此密集地在线下招人了。 今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。 速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。 ",
       "src": "极客公园",
-      "tag": "Agent",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
-      "url": "http://www.geekpark.net/news/371039",
-      "excerpt": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练 9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。 这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联",
+      "title": "中国智能汽车的后台，越来越像阿里云的主场",
+      "url": "http://www.geekpark.net/news/371357",
+      "excerpt": "中国智能汽车产业，正在经历一场没有硝烟、却极为深刻的范式迭代。 在 2026 云栖大会汽车行业峰会上，我们看到了智能汽车竞争的主线：智能座舱正全面进入 Agent 时代，车不再是执行指令的机器，而是能理解你的意图、主动帮你把事情办成的智能体；智能驾驶的竞争，也",
       "src": "极客公园",
-      "tag": "OpenAI",
+      "tag": "阿里",
       "cat": "tech"
     },
     {
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "excerpt": "想让开发者“说句话就能跑量子计算”",
-      "src": "量子位",
+      "title": "蔚来换电，终于等来了「别人家的车」",
+      "url": "http://www.geekpark.net/news/371233",
+      "excerpt": "过去一年，蔚来似乎有意在新车发布时不再过分强调「换电」的重要性。以笔者自己的体感而言，无论是新车发布会，还是线下门店里用户的讨论度，换电都不再是「最重要的那一个话题点」。 但换电退到了幕后，却没有影响蔚来的新车销量：第三代 ES8 上市 12 个月销量突破 1",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "本体刚及格，考试就换了科目：这个9月，机器人公司集体卷“大脑”",
-      "url": "https://www.huxiu.com/article/4894306.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "具身智能",
+      "title": "Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶",
+      "url": "http://www.geekpark.net/news/371493",
+      "excerpt": "头图来源：Manus 突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。 这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。 此次升级中，团队打造的底层 Casc",
+      "src": "极客公园",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
-      "url": "http://www.geekpark.net/news/371044",
-      "excerpt": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI D",
+      "title": "AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道",
+      "url": "http://www.geekpark.net/news/371359",
+      "excerpt": "Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue 9 月 28 日，Manus 发布 2.0 版本，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 To",
       "src": "极客公园",
+      "tag": "AMD",
+      "cat": "app"
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "excerpt": "AGI计划暂停。",
+      "src": "量子位",
       "tag": "OpenAI",
       "cat": "app"
     },
     {
-      "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
-      "url": "http://www.geekpark.net/news/371040",
-      "excerpt": "办公正在成为全球 AI 行业竞争最集中的战场之一。 相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "app"
-    },
-    {
-      "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
-      "url": "http://www.geekpark.net/news/371038",
-      "excerpt": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "url": "https://www.qbitai.com/2026/09/498584.html",
-      "excerpt": "中秋假期文具OpenRouter调用日榜榜首",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "url": "https://www.qbitai.com/2026/09/499188.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "大模型",
-      "cat": "app"
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "美国投资人走进中国AI：算力困局下的生存突围",
-      "url": "https://www.huxiu.com/article/4894320.html",
+      "title": "82亿美元，硅谷上演顶级版“Girls help girls”",
+      "url": "https://www.huxiu.com/article/4894569.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "url": "https://www.qbitai.com/2026/09/499135.html",
+      "excerpt": "诺因从Demo走向家庭",
+      "src": "量子位",
       "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "url": "https://www.qbitai.com/2026/09/498546.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "excerpt": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "excerpt": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "excerpt": "李飞飞将入职AMD首席科学家",
       "src": "量子位",
       "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "excerpt": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "算法没有善恶",
-      "但人应该有",
-      "平台更应该要有",
-      "让扎克伯格翻身了",
-      "安徽"
+      "抱上阿里大腿",
+      "Farsight",
+      "Anthropic",
+      "招股书里",
+      "最耐人寻味的"
     ],
     "app": [
       "AI",
-      "OpenAI",
-      "本体刚及格",
-      "考试就换了科目",
-      "日推个人",
-      "助手"
+      "Manus",
+      "助手",
+      "正式发布",
+      "个人",
+      "云电脑"
     ],
     "enterprise": [
-      "AI",
-      "OpenAI",
-      "Physical",
-      "FSD",
-      "Simate-beta",
-      "RoboDojo"
+      "Girls",
+      "help",
+      "girls",
+      "Xcelerator"
     ]
   },
   "hotwords": [
@@ -174,81 +164,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.51
-    },
-    {
-      "w": "mm",
-      "wt": 0.43
-    },
-    {
-      "w": "算法没有善恶",
-      "wt": 0.39
-    },
-    {
-      "w": "但人应该有",
-      "wt": 0.39
-    },
-    {
-      "w": "平台更应该要有",
-      "wt": 0.39
-    },
-    {
-      "w": "让扎克伯格翻身了",
-      "wt": 0.39
-    },
-    {
-      "w": "本体刚及格",
-      "wt": 0.39
-    },
-    {
-      "w": "考试就换了科目",
-      "wt": 0.39
-    },
-    {
-      "w": "安徽",
-      "wt": 0.39
-    },
-    {
-      "w": "硬件创业第一步",
-      "wt": 0.39
-    },
-    {
-      "w": "先做",
-      "wt": 0.39
-    },
-    {
-      "w": "还是先做硬件",
-      "wt": 0.39
-    },
-    {
-      "w": "手机只是起点",
-      "wt": 0.39
-    },
-    {
-      "w": "日推个人",
-      "wt": 0.39
+      "w": "Manus",
+      "wt": 0.57
     },
     {
       "w": "助手",
-      "wt": 0.39
+      "wt": 0.5
     },
     {
-      "w": "专家偏远地区买地",
-      "wt": 0.39
+      "w": "AMD",
+      "wt": 0.5
     },
     {
-      "w": "失控」",
-      "wt": 0.39
+      "w": "抱上阿里大腿",
+      "wt": 0.42
     },
     {
-      "w": "网友",
-      "wt": 0.39
+      "w": "Farsight",
+      "wt": 0.42
     },
     {
-      "w": "蓝翔还能开几年",
-      "wt": 0.39
+      "w": "Girls",
+      "wt": 0.42
+    },
+    {
+      "w": "help",
+      "wt": 0.42
+    },
+    {
+      "w": "girls",
+      "wt": 0.42
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.42
+    },
+    {
+      "w": "招股书里",
+      "wt": 0.42
+    },
+    {
+      "w": "最耐人寻味的",
+      "wt": 0.42
+    },
+    {
+      "w": "个细节",
+      "wt": 0.42
+    },
+    {
+      "w": "三个月",
+      "wt": 0.42
+    },
+    {
+      "w": "正式发布",
+      "wt": 0.42
+    },
+    {
+      "w": "个人",
+      "wt": 0.42
+    },
+    {
+      "w": "云电脑",
+      "wt": 0.42
+    },
+    {
+      "w": "远程控制",
+      "wt": 0.42
+    },
+    {
+      "w": "想做",
+      "wt": 0.42
+    },
+    {
+      "w": "时代全家桶",
+      "wt": 0.42
     }
   ],
-  "total": 17
+  "total": 16
 };
