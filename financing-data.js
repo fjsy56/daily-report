@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-29 19:10",
- "total": 772,
+ "updated": "2026-09-30 16:43",
+ "total": 785,
  "industries": [
   "产业升级",
   "企业服务",
@@ -98,6 +98,160 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2024764584539392",
+   "date": "2026-09-29",
+   "name": "力勤资源",
+   "desc": "镍全产业链服务商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "IPO",
+   "amount": "36.7亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2024764584539392",
+   "province": "浙江省"
+  },
+  {
+   "id": "2011637843232516",
+   "date": "2026-09-29",
+   "name": "八方地动",
+   "desc": "胶粘剂和密封剂供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "Pre-A+轮",
+   "amount": "未透露",
+   "investors": "南山战新投",
+   "url": "https://pitchhub.36kr.com/project/2011637843232516",
+   "province": "广东省"
+  },
+  {
+   "id": "2144865153008897",
+   "date": "2026-09-28",
+   "name": "中科离子",
+   "desc": "高端医疗装备创新科技基地",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-A轮",
+   "amount": "近6亿人民币",
+   "investors": "皖能电力、招银国际资本、前海母基金、中信建投资本、中芯聚源、华安嘉业",
+   "url": "https://pitchhub.36kr.com/project/2144865153008897",
+   "province": "安徽省"
+  },
+  {
+   "id": "2060980110751623",
+   "date": "2026-09-28",
+   "name": "迅杰光远",
+   "desc": "近红外光谱分析仪器研发服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "超亿人民币",
+   "investors": "深创投、云晖资本、翠微基金",
+   "url": "https://pitchhub.36kr.com/project/2060980110751623",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678392642810886",
+   "date": "2026-09-28",
+   "name": "宏芯气体",
+   "desc": "工业气体处理商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "Pre-B轮",
+   "amount": "数亿人民币",
+   "investors": "建投投资、光谷金控、兖矿资本、同歌创投、众物投资",
+   "url": "https://pitchhub.36kr.com/project/1678392642810886",
+   "province": "上海市"
+  },
+  {
+   "id": "1679749456548613",
+   "date": "2026-09-28",
+   "name": "触点互动",
+   "desc": "应用仿真测试工具提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "A++轮",
+   "amount": "数千万人民币",
+   "investors": "株洲国投、上海天使会",
+   "url": "https://pitchhub.36kr.com/project/1679749456548613",
+   "province": "北京市"
+  },
+  {
+   "id": "2174117486067204",
+   "date": "2026-09-28",
+   "name": "奕斯伟计算",
+   "desc": "芯片设计和解决方案提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "基石投资轮",
+   "amount": "11.61亿港元",
+   "investors": "亦庄国投、合肥建投资本、海耀实业、颀中国际、GBAHIL、中信证券资管、德霖资源、Orix.、Grit No.1 Equity Fund",
+   "url": "https://pitchhub.36kr.com/project/2174117486067204",
+   "province": "北京市"
+  },
+  {
+   "id": "2083095221021446",
+   "date": "2026-09-28",
+   "name": "苏州赛尔科技",
+   "desc": "半导体及光学玻璃行业加工工具制造商",
+   "industry": [
+    "其他"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "扬杰科技",
+   "url": "https://pitchhub.36kr.com/project/2083095221021446",
+   "province": "江苏省"
+  },
+  {
+   "id": "2066630901923843",
+   "date": "2026-09-28",
+   "name": "巡鹰新能源",
+   "desc": "新能源技术研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "千万级人民币",
+   "investors": "合肥国鑫资本",
+   "url": "https://pitchhub.36kr.com/project/2066630901923843",
+   "province": "安徽省"
+  },
+  {
+   "id": "1679695156810500",
+   "date": "2026-09-28",
+   "name": "罗博特科",
+   "desc": "专业的智能制造系统提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "51.78亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1679695156810500",
+   "province": "江苏省"
+  },
+  {
+   "id": "4006025846530953",
+   "date": "2026-09-28",
+   "name": "动量材料",
+   "desc": "纳米材料研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "江苏中创源控股有限公司、南京动量众合股权投资合伙企业（有限合伙）",
+   "url": "https://pitchhub.36kr.com/project/4006025846530953",
+   "province": "江苏省"
+  },
   {
    "id": "1958623510123524",
    "date": "2026-09-24",
@@ -308,6 +462,34 @@ window.__FINANCING_DATA__ = {
    "investors": "沿浦金属、湘江盛世股权、移远通信、麓山控股集团",
    "url": "https://pitchhub.36kr.com/project/1679823809909513",
    "province": "湖南省"
+  },
+  {
+   "id": "2012749529663238",
+   "date": "2026-09-21",
+   "name": "至臻云",
+   "desc": "计算机系统服务提供商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "鲁信创投",
+   "url": "https://pitchhub.36kr.com/project/2012749529663238",
+   "province": "北京市"
+  },
+  {
+   "id": "2330745786310406",
+   "date": "2026-09-21",
+   "name": "六方科技",
+   "desc": "半导体新材料研发商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "仓廪投资",
+   "url": "https://pitchhub.36kr.com/project/2330745786310406",
+   "province": "浙江省"
   },
   {
    "id": "2144500052182276",
