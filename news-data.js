@@ -1,36 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "tech": [
     {
-      "title": "抱上阿里大腿，荣耀能做好AI手机吗？",
-      "url": "https://www.huxiu.com/article/4894587.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "识礁Farsight",
-      "url": "https://www.huxiu.com/article/4894587.html",
+      "title": "智谱发上亿Token，能挽回开发者的信任吗？",
+      "url": "https://www.huxiu.com/article/4894883.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "当“AI饲料”，我都被AI嫌弃了？",
-      "url": "https://www.huxiu.com/article/4894565.html",
+      "title": "元宝将杀入个人智能体大战",
+      "url": "https://www.huxiu.com/article/4894871.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "江晓原、穆蕴秋：技术还是科学：NSF与美国国防部《回顾》项目恩仇录",
+      "url": "https://www.huxiu.com/article/4894863.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "赛力斯摘不掉华为“紧箍”",
-      "url": "https://www.huxiu.com/article/4894575.html",
+      "title": "连新旗舰模型都不敢发，OpenAI到底在怕什么？",
+      "url": "https://www.huxiu.com/article/4894842.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "华为",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+      "url": "http://www.geekpark.net/news/372003",
+      "excerpt": "模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 现场最安静的一刻，出",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "AMD 82 亿美元收购 World Labs，买的不只是世界模型",
+      "url": "http://www.geekpark.net/news/372000",
+      "excerpt": "9 月 3 日，英伟达宣布以约 130 亿美元收购 Hugging Face。25 天后，AMD 宣布以约 82 亿美元收购李飞飞创办的 World Labs。 两笔交易放在一起看，更觉得有意思。CNBC 最新的报道提到，Hugging Face 在被英伟达拿",
+      "src": "极客公园",
+      "tag": "AMD",
       "cat": "tech"
     },
     {
@@ -48,25 +64,25 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "中国智能汽车的后台，越来越像阿里云的主场",
-      "url": "http://www.geekpark.net/news/371357",
-      "excerpt": "中国智能汽车产业，正在经历一场没有硝烟、却极为深刻的范式迭代。 在 2026 云栖大会汽车行业峰会上，我们看到了智能汽车竞争的主线：智能座舱正全面进入 Agent 时代，车不再是执行指令的机器，而是能理解你的意图、主动帮你把事情办成的智能体；智能驾驶的竞争，也",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "蔚来换电，终于等来了「别人家的车」",
-      "url": "http://www.geekpark.net/news/371233",
-      "excerpt": "过去一年，蔚来似乎有意在新车发布时不再过分强调「换电」的重要性。以笔者自己的体感而言，无论是新车发布会，还是线下门店里用户的讨论度，换电都不再是「最重要的那一个话题点」。 但换电退到了幕后，却没有影响蔚来的新车销量：第三代 ES8 上市 12 个月销量突破 1",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "Muse火了，但个人AI助手真正要过的不是技术关",
+      "url": "https://www.huxiu.com/article/4894868.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+      "url": "http://www.geekpark.net/news/372005",
+      "excerpt": "OpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口 北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sa",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
     {
       "title": "Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶",
       "url": "http://www.geekpark.net/news/371493",
@@ -76,86 +92,80 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道",
-      "url": "http://www.geekpark.net/news/371359",
-      "excerpt": "Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue 9 月 28 日，Manus 发布 2.0 版本，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 To",
-      "src": "极客公园",
-      "tag": "AMD",
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "excerpt": "机器人上市，风向有变",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "OpenAI因新模型太强叫停发布",
-      "url": "https://www.qbitai.com/2026/09/499140.html",
-      "excerpt": "AGI计划暂停。",
-      "src": "量子位",
-      "tag": "OpenAI",
+      "title": "埃安 RT 汽车 OTA 更新：广汽 × 华为星云空间上车，支持自行上传安装应用",
+      "url": "https://www.ithome.com/1/008/804.htm",
+      "excerpt": "IT之家 9 月 30 日消息，广汽埃安今天宣布埃安 RT 汽车将获 OTA 更新，新增广汽 x 华为云联合开发的星云空间功能，为车机带来更多云应用。据介绍，星云空间由广汽和华为云深度定制开发，采用串流方式运行，因此没有算力、存储方面限制。支持用户自行上传（I",
+      "src": "IT之家",
+      "tag": "华为",
       "cat": "app"
-    },
-    {
-      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-      "url": "https://www.qbitai.com/2026/09/499188.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "82亿美元，硅谷上演顶级版“Girls help girls”",
-      "url": "https://www.huxiu.com/article/4894569.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "url": "https://www.qbitai.com/2026/09/499239.html",
+      "excerpt": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-      "url": "https://www.qbitai.com/2026/09/499135.html",
-      "excerpt": "诺因从Demo走向家庭",
-      "src": "量子位",
-      "tag": "融资",
+      "title": "Meta 被曝将 AI 数据中心包装成实验性质以获取税收优惠，去年节省近 40 亿美元",
+      "url": "https://www.ithome.com/1/008/806.htm",
+      "excerpt": "IT之家 9 月 30 日消息，据纽约时报报道，马克 · 扎克伯格（Mark Zuckerberg）宣称，Meta 在人工智能领域的布局大获全胜。“我们在 AI 领域的投入，正在全面提速所有核心业务板块，”他向投资人表示，“无论是自身业务的发展势头，还是全行业",
+      "src": "IT之家",
+      "tag": "Meta",
       "cat": "enterprise"
     },
     {
-      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-      "url": "https://www.qbitai.com/2026/09/499098.html",
-      "excerpt": "李飞飞将入职AMD首席科学家",
+      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+      "url": "https://www.qbitai.com/2026/09/499592.html",
+      "excerpt": "给Agent配上手机号，再拉个群",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-      "url": "https://www.qbitai.com/2026/09/498877.html",
-      "excerpt": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "url": "https://www.qbitai.com/2026/09/499493.html",
+      "excerpt": "让GPT把机器人技能当工具调用",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "宇树",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "AI",
-      "抱上阿里大腿",
-      "Farsight",
-      "Anthropic",
-      "招股书里",
-      "最耐人寻味的"
+      "OpenAI",
+      "Token",
+      "NSF",
+      "江晓原",
+      "穆蕴秋",
+      "技术还是科学"
     ],
     "app": [
       "AI",
       "Manus",
-      "助手",
-      "正式发布",
-      "个人",
-      "云电脑"
+      "Muse",
+      "OpenAI",
+      "dots",
+      "Spell"
     ],
     "enterprise": [
-      "Girls",
-      "help",
-      "girls",
-      "Xcelerator"
+      "AI",
+      "出任总裁",
+      "负责全球业务拓展",
+      "Meta",
+      "被曝将",
+      "去年节省近"
     ]
   },
   "hotwords": [
@@ -164,81 +174,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "OpenAI",
+      "wt": 0.65
+    },
+    {
       "w": "Manus",
       "wt": 0.57
     },
     {
-      "w": "助手",
+      "w": "DeepSeek",
       "wt": 0.5
+    },
+    {
+      "w": "Token",
+      "wt": 0.42
+    },
+    {
+      "w": "Muse",
+      "wt": 0.42
+    },
+    {
+      "w": "NSF",
+      "wt": 0.42
+    },
+    {
+      "w": "江晓原",
+      "wt": 0.42
+    },
+    {
+      "w": "穆蕴秋",
+      "wt": 0.42
+    },
+    {
+      "w": "技术还是科学",
+      "wt": 0.42
+    },
+    {
+      "w": "dots",
+      "wt": 0.42
+    },
+    {
+      "w": "Spell",
+      "wt": 0.42
+    },
+    {
+      "w": "SpaceX",
+      "wt": 0.42
+    },
+    {
+      "w": "推出个人",
+      "wt": 0.42
+    },
+    {
+      "w": "智能体",
+      "wt": 0.42
+    },
+    {
+      "w": "传豆包将推个人",
+      "wt": 0.42
+    },
+    {
+      "w": "发射星舰成功入轨",
+      "wt": 0.42
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.42
     },
     {
       "w": "AMD",
-      "wt": 0.5
-    },
-    {
-      "w": "抱上阿里大腿",
       "wt": 0.42
     },
     {
-      "w": "Farsight",
-      "wt": 0.42
-    },
-    {
-      "w": "Girls",
-      "wt": 0.42
-    },
-    {
-      "w": "help",
-      "wt": 0.42
-    },
-    {
-      "w": "girls",
-      "wt": 0.42
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.42
-    },
-    {
-      "w": "招股书里",
-      "wt": 0.42
-    },
-    {
-      "w": "最耐人寻味的",
-      "wt": 0.42
-    },
-    {
-      "w": "个细节",
-      "wt": 0.42
-    },
-    {
-      "w": "三个月",
-      "wt": 0.42
-    },
-    {
-      "w": "正式发布",
-      "wt": 0.42
-    },
-    {
-      "w": "个人",
-      "wt": 0.42
-    },
-    {
-      "w": "云电脑",
-      "wt": 0.42
-    },
-    {
-      "w": "远程控制",
-      "wt": 0.42
-    },
-    {
-      "w": "想做",
-      "wt": 0.42
-    },
-    {
-      "w": "时代全家桶",
+      "w": "World",
       "wt": 0.42
     }
   ],
-  "total": 16
+  "total": 17
 };
