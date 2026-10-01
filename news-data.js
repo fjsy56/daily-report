@@ -1,36 +1,28 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "tech": [
     {
-      "title": "智谱发上亿Token，能挽回开发者的信任吗？",
-      "url": "https://www.huxiu.com/article/4894883.html",
+      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
+      "url": "https://www.huxiu.com/article/4894986.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "谷歌",
+      "cat": "tech"
+    },
+    {
+      "title": "AIGC从0到1",
+      "url": "https://www.huxiu.com/article/4895016.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "元宝将杀入个人智能体大战",
-      "url": "https://www.huxiu.com/article/4894871.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "江晓原、穆蕴秋：技术还是科学：NSF与美国国防部《回顾》项目恩仇录",
-      "url": "https://www.huxiu.com/article/4894863.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "连新旗舰模型都不敢发，OpenAI到底在怕什么？",
-      "url": "https://www.huxiu.com/article/4894842.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
+      "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+      "url": "http://www.geekpark.net/news/372064",
+      "excerpt": "苹果即将发布「智能家居中枢」新品 据彭博社报道，苹果公司计划于 10 月 13 日推进其拖延已久的智能家居市场布局，这是该公司在新任 CEO 约翰·特努斯领导下的一次关键产品扩张。 据知情人士透露，该战略的核心是一款代号为 J490 的智能家居中枢设备。该设备",
+      "src": "极客公园",
+      "tag": "谷歌",
       "cat": "tech"
     },
     {
@@ -58,21 +50,37 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
-      "url": "http://www.geekpark.net/news/371850",
-      "excerpt": "互联网大厂很久没有如此密集地在线下招人了。 今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。 速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。 ",
-      "src": "极客公园",
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "excerpt": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "url": "https://www.qbitai.com/2026/09/499605.html",
+      "excerpt": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "Muse火了，但个人AI助手真正要过的不是技术关",
-      "url": "https://www.huxiu.com/article/4894868.html",
+      "title": "Agent 开始不下班了，但这不是最重要的",
+      "url": "https://www.huxiu.com/article/4895016.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "行业动态",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
+      "url": "http://www.geekpark.net/news/372065",
+      "excerpt": "一个工程师写完数据处理代码，点下提交，然后去喝了杯咖啡。十几分钟甚至几十分钟之后，他才回到屏幕前看结果、改代码、再提交。这条「等待— 反馈」的空隙，过去一直是数据平台默认的节奏。 Agent 没有这个空隙。它拿到一次结果，立刻验证，紧接着并发地去试第二种、第三",
+      "src": "极客公园",
+      "tag": "Agent",
       "cat": "app"
     },
     {
@@ -84,14 +92,6 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶",
-      "url": "http://www.geekpark.net/news/371493",
-      "excerpt": "头图来源：Manus 突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。 这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。 此次升级中，团队打造的底层 Casc",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
       "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
       "url": "https://www.qbitai.com/2026/09/499280.html",
       "excerpt": "机器人上市，风向有变",
@@ -100,72 +100,72 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "埃安 RT 汽车 OTA 更新：广汽 × 华为星云空间上车，支持自行上传安装应用",
-      "url": "https://www.ithome.com/1/008/804.htm",
-      "excerpt": "IT之家 9 月 30 日消息，广汽埃安今天宣布埃安 RT 汽车将获 OTA 更新，新增广汽 x 华为云联合开发的星云空间功能，为车机带来更多云应用。据介绍，星云空间由广汽和华为云深度定制开发，采用串流方式运行，因此没有算力、存储方面限制。支持用户自行上传（I",
+      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
+      "url": "https://www.ithome.com/1/009/113.htm",
+      "excerpt": "IT之家 10 月 1 日消息，昨日推送 26H2 更新后，微软在官网公布了 Windows 11 26H2 的 ISO 镜像文件（正式版版本号为 26300.9457，已升级的预览版版本号会更高），用于全新安装、升级、修复或测试。IT之家注：ISO 是光盘镜",
       "src": "IT之家",
-      "tag": "华为",
+      "tag": "微软",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-      "url": "https://www.qbitai.com/2026/09/499239.html",
-      "excerpt": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-      "src": "量子位",
+      "title": "摘下中美AI合作“低垂的果实”",
+      "url": "https://www.huxiu.com/article/4895045.html",
+      "excerpt": "",
+      "src": "虎嗅",
       "tag": "行业动态",
       "cat": "enterprise"
     },
     {
-      "title": "Meta 被曝将 AI 数据中心包装成实验性质以获取税收优惠，去年节省近 40 亿美元",
-      "url": "https://www.ithome.com/1/008/806.htm",
-      "excerpt": "IT之家 9 月 30 日消息，据纽约时报报道，马克 · 扎克伯格（Mark Zuckerberg）宣称，Meta 在人工智能领域的布局大获全胜。“我们在 AI 领域的投入，正在全面提速所有核心业务板块，”他向投资人表示，“无论是自身业务的发展势头，还是全行业",
+      "title": "兄弟，找个班上吧，不要迷信AI创业，我是后悔离职的",
+      "url": "https://www.huxiu.com/article/4895017.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "华为、赛力斯达成新五年合作，共同升级问界业务推动品牌向上",
+      "url": "https://www.ithome.com/1/009/131.htm",
+      "excerpt": "IT之家 10 月 1 日消息，鸿蒙智行官方刚刚宣布华为与赛力斯达成新的五年合作。9 月 30 日，鸿蒙智行问界业务升级战略合作签约仪式在深圳举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东，赛力斯集团董事长张兴海等出席。双方宣布达成新五年",
       "src": "IT之家",
-      "tag": "Meta",
+      "tag": "华为",
       "cat": "enterprise"
     },
     {
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "url": "https://www.qbitai.com/2026/09/499592.html",
-      "excerpt": "给Agent配上手机号，再拉个群",
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "url": "https://www.qbitai.com/2026/09/499597.html",
+      "excerpt": "实测说GLM-5.3很强",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "excerpt": "让GPT把机器人技能当工具调用",
-      "src": "量子位",
-      "tag": "宇树",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
+      "Gemini",
+      "Argon",
+      "AI",
       "OpenAI",
-      "Token",
-      "NSF",
-      "江晓原",
-      "穆蕴秋",
-      "技术还是科学"
+      "但干活差点意思",
+      "AIGC"
     ],
     "app": [
       "AI",
-      "Manus",
-      "Muse",
-      "OpenAI",
-      "dots",
-      "Spell"
+      "Agent",
+      "开始不下班了",
+      "但这不是最重要的",
+      "从数据到智能",
+      "再到进化"
     ],
     "enterprise": [
       "AI",
-      "出任总裁",
-      "负责全球业务拓展",
-      "Meta",
-      "被曝将",
-      "去年节省近"
+      "兄弟",
+      "找个班上吧",
+      "我是后悔离职的",
+      "华为",
+      "Anthropic"
     ]
   },
   "hotwords": [
@@ -174,80 +174,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.65
+      "w": "Agent",
+      "wt": 0.53
     },
     {
-      "w": "Manus",
-      "wt": 0.57
+      "w": "OpenAI",
+      "wt": 0.53
+    },
+    {
+      "w": "Gemini",
+      "wt": 0.47
+    },
+    {
+      "w": "Argon",
+      "wt": 0.47
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.47
     },
     {
       "w": "DeepSeek",
-      "wt": 0.5
+      "wt": 0.47
     },
     {
-      "w": "Token",
-      "wt": 0.42
+      "w": "华为",
+      "wt": 0.47
     },
     {
-      "w": "Muse",
-      "wt": 0.42
+      "w": "Mate",
+      "wt": 0.47
     },
     {
-      "w": "NSF",
-      "wt": 0.42
+      "w": "但干活差点意思",
+      "wt": 0.41
     },
     {
-      "w": "江晓原",
-      "wt": 0.42
+      "w": "兄弟",
+      "wt": 0.41
     },
     {
-      "w": "穆蕴秋",
-      "wt": 0.42
+      "w": "找个班上吧",
+      "wt": 0.41
     },
     {
-      "w": "技术还是科学",
-      "wt": 0.42
+      "w": "我是后悔离职的",
+      "wt": 0.41
     },
     {
-      "w": "dots",
-      "wt": 0.42
+      "w": "开始不下班了",
+      "wt": 0.41
     },
     {
-      "w": "Spell",
-      "wt": 0.42
+      "w": "但这不是最重要的",
+      "wt": 0.41
     },
     {
-      "w": "SpaceX",
-      "wt": 0.42
+      "w": "AIGC",
+      "wt": 0.41
     },
     {
-      "w": "推出个人",
-      "wt": 0.42
+      "w": "从数据到智能",
+      "wt": 0.41
     },
     {
-      "w": "智能体",
-      "wt": 0.42
+      "w": "再到进化",
+      "wt": 0.41
     },
     {
-      "w": "传豆包将推个人",
-      "wt": 0.42
+      "w": "谷歌",
+      "wt": 0.41
     },
     {
-      "w": "发射星舰成功入轨",
-      "wt": 0.42
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.42
-    },
-    {
-      "w": "AMD",
-      "wt": 0.42
-    },
-    {
-      "w": "World",
-      "wt": 0.42
+      "w": "中国生成",
+      "wt": 0.41
     }
   ],
   "total": 17
