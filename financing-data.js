@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-01 16:07",
- "total": 791,
+ "updated": "2026-10-01 21:02",
+ "total": 798,
  "industries": [
   "产业升级",
   "企业服务",
@@ -127,6 +127,49 @@ window.__FINANCING_DATA__ = {
    "province": "广东省"
   },
   {
+   "id": "2066624368099337",
+   "date": "2026-09-28",
+   "name": "鸿富诚",
+   "desc": "EMC及热界面材料制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "14.4亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2066624368099337",
+   "province": "广东省"
+  },
+  {
+   "id": "1678490357085188",
+   "date": "2026-09-28",
+   "name": "景旺电子",
+   "desc": "印刷电路板及电子材料研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "50.97亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678490357085188",
+   "province": "广东省"
+  },
+  {
+   "id": "1920485414582280",
+   "date": "2026-09-28",
+   "name": "海思盖德",
+   "desc": "国内微创青光眼领域的创新医疗器械企业。",
+   "industry": [
+    "医疗健康",
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "华兴康平",
+   "url": "https://pitchhub.36kr.com/project/1920485414582280",
+   "province": "江苏省"
+  },
+  {
    "id": "2144865153008897",
    "date": "2026-09-28",
    "name": "中科离子",
@@ -251,6 +294,62 @@ window.__FINANCING_DATA__ = {
    "investors": "江苏中创源控股有限公司、南京动量众合股权投资合伙企业（有限合伙）",
    "url": "https://pitchhub.36kr.com/project/4006025846530953",
    "province": "江苏省"
+  },
+  {
+   "id": "2144846665991429",
+   "date": "2026-09-27",
+   "name": "宝可拉科技",
+   "desc": "广告设计服务商",
+   "industry": [
+    "广告营销"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "Savvy Games Group",
+   "url": "https://pitchhub.36kr.com/project/2144846665991429",
+   "province": "上海市"
+  },
+  {
+   "id": "1835179149176712",
+   "date": "2026-09-27",
+   "name": "西鸽酒庄",
+   "desc": "宁夏风土葡萄酒品牌",
+   "industry": [
+    "产业升级"
+   ],
+   "round": "A++轮",
+   "amount": "亿级人民币",
+   "investors": "天颂集团",
+   "url": "https://pitchhub.36kr.com/project/1835179149176712",
+   "province": "宁夏回族自治区"
+  },
+  {
+   "id": "1679789649171209",
+   "date": "2026-09-27",
+   "name": "金富科技",
+   "desc": "瓶装水盖生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "3亿人民币",
+   "investors": "华安资管、诺德基金、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1679789649171209",
+   "province": "广东省"
+  },
+  {
+   "id": "2179920224685186",
+   "date": "2026-09-27",
+   "name": "逸沃科",
+   "desc": "电动摩托车制造商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "A轮",
+   "amount": "2000万元人民币",
+   "investors": "政府",
+   "url": "https://pitchhub.36kr.com/project/2179920224685186",
+   "province": "北京市"
   },
   {
    "id": "2012739759163138",
