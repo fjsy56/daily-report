@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-09-30 16:43",
- "total": 785,
+ "updated": "2026-10-01 16:07",
+ "total": 791,
  "industries": [
   "产业升级",
   "企业服务",
@@ -253,6 +253,34 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "2012739759163138",
+   "date": "2026-09-27",
+   "name": "四象新能源科技",
+   "desc": "新能源储能设备研发商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "国联投资",
+   "url": "https://pitchhub.36kr.com/project/2012739759163138",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679819578708745",
+   "date": "2026-09-27",
+   "name": "飞渡科技",
+   "desc": "数字孪生PaaS平台公司",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "广和通",
+   "url": "https://pitchhub.36kr.com/project/1679819578708745",
+   "province": "北京市"
+  },
+  {
    "id": "1958623510123524",
    "date": "2026-09-24",
    "name": "糖智药业",
@@ -265,6 +293,64 @@ window.__FINANCING_DATA__ = {
    "investors": "丰年资本",
    "url": "https://pitchhub.36kr.com/project/1958623510123524",
    "province": "湖北省"
+  },
+  {
+   "id": "2011454445651200",
+   "date": "2026-09-23",
+   "name": "同泰怡",
+   "desc": "服务器和存储等数据中心产品研发商",
+   "industry": [
+    "物联网/硬件"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "深创投",
+   "url": "https://pitchhub.36kr.com/project/2011454445651200",
+   "province": "广东省"
+  },
+  {
+   "id": "1998077739013768",
+   "date": "2026-09-23",
+   "name": "博匠信息科技",
+   "desc": "专业信号与信息组件提供商",
+   "industry": [
+    "企业服务",
+    "前沿技术"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "青蒿资本",
+   "url": "https://pitchhub.36kr.com/project/1998077739013768",
+   "province": "湖南省"
+  },
+  {
+   "id": "1818743378497667",
+   "date": "2026-09-23",
+   "name": "宇称电子",
+   "desc": "高性能单光子探测集成电路解决方案提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "昊容投资、海高控股",
+   "url": "https://pitchhub.36kr.com/project/1818743378497667",
+   "province": "浙江省"
+  },
+  {
+   "id": "1879742014015495",
+   "date": "2026-09-23",
+   "name": "芯带科技",
+   "desc": "高端通信和智能芯片设计商",
+   "industry": [
+    "产业升级",
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "文华聚信、蔚亭资本、中科创星",
+   "url": "https://pitchhub.36kr.com/project/1879742014015495",
+   "province": "江苏省"
   },
   {
    "id": "1678548253914118",
