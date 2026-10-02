@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-01 21:02",
- "total": 798,
+ "updated": "2026-10-02 19:02",
+ "total": 803,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,34 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678388613821449",
+   "date": "2026-09-29",
+   "name": "宇特光电",
+   "desc": "光纤连接解决方案提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "2.43亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678388613821449",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678244195349508",
+   "date": "2026-09-29",
+   "name": "中吉智药",
+   "desc": "基因治疗创新药物研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "华德资本、博通资本、恩然创投、隆门资本、康源汇盈",
+   "url": "https://pitchhub.36kr.com/project/1678244195349508",
+   "province": "江苏省"
+  },
+  {
    "id": "2024764584539392",
    "date": "2026-09-29",
    "name": "力勤资源",
@@ -124,6 +152,20 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "南山战新投",
    "url": "https://pitchhub.36kr.com/project/2011637843232516",
+   "province": "广东省"
+  },
+  {
+   "id": "1679761280045824",
+   "date": "2026-09-28",
+   "name": "赛纬电子",
+   "desc": "锂离子电池电解液制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "三峡新材",
+   "url": "https://pitchhub.36kr.com/project/1679761280045824",
    "province": "广东省"
   },
   {
@@ -506,6 +548,34 @@ window.__FINANCING_DATA__ = {
    "investors": "梧桐树资本",
    "url": "https://pitchhub.36kr.com/project/2066637729447941",
    "province": "辽宁省"
+  },
+  {
+   "id": "1958586737742856",
+   "date": "2026-09-22",
+   "name": "中科皓烨",
+   "desc": "高折射透明陶瓷技术制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "中芯聚源",
+   "url": "https://pitchhub.36kr.com/project/1958586737742856",
+   "province": "广东省"
+  },
+  {
+   "id": "1974016207823369",
+   "date": "2026-09-22",
+   "name": "扑浪量子",
+   "desc": "半导体纳米新材料技术服务商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "中信建投资本",
+   "url": "https://pitchhub.36kr.com/project/1974016207823369",
+   "province": "广东省"
   },
   {
    "id": "2072084311703556",
