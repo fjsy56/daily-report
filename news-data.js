@@ -1,17 +1,41 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "tech": [
     {
-      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
-      "url": "https://www.huxiu.com/article/4894986.html",
+      "title": "Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了",
+      "url": "https://www.huxiu.com/article/4895168.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "谷歌",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AIGC从0到1",
-      "url": "https://www.huxiu.com/article/4895016.html",
+      "title": "华为芯片接连突破，国产模型四处找货",
+      "url": "https://www.huxiu.com/article/4895142.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "华为",
+      "cat": "tech"
+    },
+    {
+      "title": "动察Beating©",
+      "url": "https://www.huxiu.com/article/4895125.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "AI开始替咨询师干活，咨询业为什么还在增长？",
+      "url": "https://www.huxiu.com/article/4895129.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6倍压垮人工审核",
+      "url": "https://www.huxiu.com/article/4895127.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -40,39 +64,15 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "AMD",
       "cat": "tech"
-    },
-    {
-      "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
-      "url": "http://www.geekpark.net/news/371994",
-      "excerpt": "作者｜Techno 之王 编辑｜靖宇 当地时间 9 月 28 日，外媒披露了一份 Anthropic 的 IPO 招股书。 先要说清楚这份文件的性质。它并不是 Anthropic 主动公开的版本。今年 6 月，Anthropic 以公益公司身份向美国证交会秘密",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "excerpt": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "直播回顾：工业AI的下一个机会在哪？",
-      "url": "https://www.qbitai.com/2026/09/499605.html",
-      "excerpt": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "Agent 开始不下班了，但这不是最重要的",
-      "url": "https://www.huxiu.com/article/4895016.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Agent",
+      "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
+      "url": "http://www.geekpark.net/news/372069",
+      "excerpt": "华为 Mate90 系列发布，售价 5999 元起 10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "app"
     },
     {
@@ -92,80 +92,80 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "excerpt": "机器人上市，风向有变",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "excerpt": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "华为",
       "cat": "app"
     },
     {
-      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
-      "url": "https://www.ithome.com/1/009/113.htm",
-      "excerpt": "IT之家 10 月 1 日消息，昨日推送 26H2 更新后，微软在官网公布了 Windows 11 26H2 的 ISO 镜像文件（正式版版本号为 26300.9457，已升级的预览版版本号会更高），用于全新安装、升级、修复或测试。IT之家注：ISO 是光盘镜",
-      "src": "IT之家",
-      "tag": "微软",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "excerpt": "价格只有Astra一半",
+      "src": "量子位",
+      "tag": "谷歌",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "摘下中美AI合作“低垂的果实”",
-      "url": "https://www.huxiu.com/article/4895045.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "兄弟，找个班上吧，不要迷信AI创业，我是后悔离职的",
-      "url": "https://www.huxiu.com/article/4895017.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "华为、赛力斯达成新五年合作，共同升级问界业务推动品牌向上",
-      "url": "https://www.ithome.com/1/009/131.htm",
-      "excerpt": "IT之家 10 月 1 日消息，鸿蒙智行官方刚刚宣布华为与赛力斯达成新的五年合作。9 月 30 日，鸿蒙智行问界业务升级战略合作签约仪式在深圳举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东，赛力斯集团董事长张兴海等出席。双方宣布达成新五年",
-      "src": "IT之家",
-      "tag": "华为",
-      "cat": "enterprise"
-    },
-    {
-      "title": "Anthropic，你是来给智谱打广告的吧！",
-      "url": "https://www.qbitai.com/2026/09/499597.html",
-      "excerpt": "实测说GLM-5.3很强",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "excerpt": "44年前被亲自列入问题清单",
       "src": "量子位",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "excerpt": "换区也没用",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "excerpt": "用ImageNet训练encoder",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "excerpt": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "Gemini",
-      "Argon",
       "AI",
-      "OpenAI",
-      "但干活差点意思",
-      "AIGC"
+      "Anthropic",
+      "Claude",
+      "华为芯片接连突破",
+      "国产模型四处找货",
+      "Beating"
     ],
     "app": [
       "AI",
       "Agent",
-      "开始不下班了",
-      "但这不是最重要的",
-      "从数据到智能",
-      "再到进化"
+      "Macbook",
+      "苹果首款触屏",
+      "月发布",
+      "致敬《终结者"
     ],
     "enterprise": [
-      "AI",
-      "兄弟",
-      "找个班上吧",
-      "我是后悔离职的",
-      "华为",
-      "Anthropic"
+      "GPT",
+      "Claude",
+      "arXiv",
+      "拒稿不退额度",
+      "ARC",
+      "何恺明团队新作"
     ]
   },
   "hotwords": [
@@ -174,80 +174,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Agent",
-      "wt": 0.53
-    },
-    {
       "w": "OpenAI",
-      "wt": 0.53
-    },
-    {
-      "w": "Gemini",
-      "wt": 0.47
-    },
-    {
-      "w": "Argon",
-      "wt": 0.47
+      "wt": 0.57
     },
     {
       "w": "Anthropic",
-      "wt": 0.47
+      "wt": 0.5
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.47
+      "w": "Claude",
+      "wt": 0.5
     },
     {
-      "w": "华为",
-      "wt": 0.47
+      "w": "arXiv",
+      "wt": 0.5
     },
     {
-      "w": "Mate",
-      "wt": 0.47
+      "w": "Agent",
+      "wt": 0.5
     },
     {
-      "w": "但干活差点意思",
-      "wt": 0.41
+      "w": "Gemini",
+      "wt": 0.5
     },
     {
-      "w": "兄弟",
-      "wt": 0.41
+      "w": "GPT",
+      "wt": 0.5
     },
     {
-      "w": "找个班上吧",
-      "wt": 0.41
+      "w": "华为芯片接连突破",
+      "wt": 0.42
     },
     {
-      "w": "我是后悔离职的",
-      "wt": 0.41
+      "w": "国产模型四处找货",
+      "wt": 0.42
     },
     {
-      "w": "开始不下班了",
-      "wt": 0.41
+      "w": "Beating",
+      "wt": 0.42
     },
     {
-      "w": "但这不是最重要的",
-      "wt": 0.41
+      "w": "Macbook",
+      "wt": 0.42
     },
     {
-      "w": "AIGC",
-      "wt": 0.41
+      "w": "苹果首款触屏",
+      "wt": 0.42
+    },
+    {
+      "w": "月发布",
+      "wt": 0.42
+    },
+    {
+      "w": "致敬《终结者",
+      "wt": 0.42
     },
     {
       "w": "从数据到智能",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "再到进化",
-      "wt": 0.41
+      "wt": 0.42
+    },
+    {
+      "w": "Argon",
+      "wt": 0.42
     },
     {
       "w": "谷歌",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "中国生成",
-      "wt": 0.41
+      "wt": 0.42
     }
   ],
   "total": 17
