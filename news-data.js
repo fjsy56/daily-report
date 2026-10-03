@@ -1,44 +1,12 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "tech": [
     {
-      "title": "Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了",
-      "url": "https://www.huxiu.com/article/4895168.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "华为芯片接连突破，国产模型四处找货",
-      "url": "https://www.huxiu.com/article/4895142.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "动察Beating©",
-      "url": "https://www.huxiu.com/article/4895125.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI开始替咨询师干活，咨询业为什么还在增长？",
-      "url": "https://www.huxiu.com/article/4895129.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6倍压垮人工审核",
-      "url": "https://www.huxiu.com/article/4895127.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
+      "url": "http://www.geekpark.net/news/372070",
+      "excerpt": "英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 ",
+      "src": "极客公园",
+      "tag": "英伟达",
       "cat": "tech"
     },
     {
@@ -58,11 +26,43 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "AMD 82 亿美元收购 World Labs，买的不只是世界模型",
-      "url": "http://www.geekpark.net/news/372000",
-      "excerpt": "9 月 3 日，英伟达宣布以约 130 亿美元收购 Hugging Face。25 天后，AMD 宣布以约 82 亿美元收购李飞飞创办的 World Labs。 两笔交易放在一起看，更觉得有意思。CNBC 最新的报道提到，Hugging Face 在被英伟达拿",
-      "src": "极客公园",
-      "tag": "AMD",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "excerpt": "岗位JD甩了篇技术报告",
+      "src": "量子位",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "excerpt": "44年前被亲自列入问题清单",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "excerpt": "换区也没用",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "excerpt": "用ImageNet训练encoder",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
+      "url": "https://www.ithome.com/1/009/517.htm",
+      "excerpt": "IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。据",
+      "src": "IT之家",
+      "tag": "小米",
       "cat": "tech"
     }
   ],
@@ -92,6 +92,14 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://www.qbitai.com/2026/10/501368.html",
+      "excerpt": "又咋啦。。。",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
+    {
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "url": "https://www.qbitai.com/2026/10/500098.html",
       "excerpt": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
@@ -110,62 +118,54 @@ window.__NEWS_DATA__ = {
   ],
   "enterprise": [
     {
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "excerpt": "44年前被亲自列入问题清单",
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "url": "https://www.qbitai.com/2026/10/500148.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
+      "url": "https://www.ithome.com/1/009/516.htm",
+      "excerpt": "IT之家 10 月 3 日消息，小艺帮帮忙智能体是 HarmonyOS 6.0 上推出的探索性智能体。华为官网显示，因业务调整，小艺帮帮忙智能体将不再支持后续新增的设备。据悉，小艺帮帮忙智能体是一个专注于应用操控的智能体，支持操控更多的场景，可在智能体对话列表",
+      "src": "IT之家",
+      "tag": "华为",
       "cat": "tech"
     },
     {
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "excerpt": "换区也没用",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "excerpt": "用ImageNet训练encoder",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "excerpt": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "src": "量子位",
-      "tag": "OpenAI",
+      "title": "小米米家无线直发梳 2 开售：速热恒温、千万级等离子，首发价 299.2 元",
+      "url": "https://www.ithome.com/1/009/510.htm",
+      "excerpt": "IT之家 10 月 3 日消息，小米米家无线直发梳 2 现已开售，新品首发价 299.2 元。米家无线直发梳 2 采用无线设计，电池容量提升 56%，可实现 70 分钟续航，采用 Type-C 充电。这款产品升级 PI 发热技术，采用 PI 发热薄膜，支持 1",
+      "src": "IT之家",
+      "tag": "小米",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Anthropic",
-      "Claude",
-      "华为芯片接连突破",
-      "国产模型四处找货",
-      "Beating"
+      "arXiv",
+      "Vision",
+      "GT",
+      "MacOS",
+      "英伟达股价创新高"
     ],
     "app": [
       "AI",
       "Agent",
+      "OpenAI",
       "Macbook",
       "苹果首款触屏",
-      "月发布",
-      "致敬《终结者"
+      "月发布"
     ],
     "enterprise": [
-      "GPT",
-      "Claude",
-      "arXiv",
-      "拒稿不退额度",
-      "ARC",
-      "何恺明团队新作"
+      "Jev",
+      "Diogo",
+      "Almeida",
+      "HarmonyOS",
+      "华为",
+      "开售"
     ]
   },
   "hotwords": [
@@ -175,79 +175,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.57
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.5
-    },
-    {
-      "w": "Claude",
-      "wt": 0.5
+      "wt": 0.65
     },
     {
       "w": "arXiv",
-      "wt": 0.5
+      "wt": 0.55
     },
     {
       "w": "Agent",
-      "wt": 0.5
+      "wt": 0.55
     },
     {
       "w": "Gemini",
-      "wt": 0.5
+      "wt": 0.55
     },
     {
       "w": "GPT",
-      "wt": 0.5
+      "wt": 0.55
     },
     {
-      "w": "华为芯片接连突破",
-      "wt": 0.42
+      "w": "Vision",
+      "wt": 0.55
     },
     {
-      "w": "国产模型四处找货",
-      "wt": 0.42
+      "w": "GT",
+      "wt": 0.55
     },
     {
-      "w": "Beating",
-      "wt": 0.42
+      "w": "MacOS",
+      "wt": 0.45
+    },
+    {
+      "w": "英伟达股价创新高",
+      "wt": 0.45
+    },
+    {
+      "w": "逼近",
+      "wt": 0.45
+    },
+    {
+      "w": "万亿美元",
+      "wt": 0.45
+    },
+    {
+      "w": "限制",
+      "wt": 0.45
+    },
+    {
+      "w": "助手",
+      "wt": 0.45
+    },
+    {
+      "w": "苹果收紧",
+      "wt": 0.45
+    },
+    {
+      "w": "磁盘访问权限",
+      "wt": 0.45
+    },
+    {
+      "w": "篇论文",
+      "wt": 0.45
     },
     {
       "w": "Macbook",
-      "wt": 0.42
+      "wt": 0.45
     },
     {
       "w": "苹果首款触屏",
-      "wt": 0.42
+      "wt": 0.45
     },
     {
       "w": "月发布",
-      "wt": 0.42
-    },
-    {
-      "w": "致敬《终结者",
-      "wt": 0.42
-    },
-    {
-      "w": "从数据到智能",
-      "wt": 0.42
-    },
-    {
-      "w": "再到进化",
-      "wt": 0.42
-    },
-    {
-      "w": "Argon",
-      "wt": 0.42
-    },
-    {
-      "w": "谷歌",
-      "wt": 0.42
-    },
-    {
-      "w": "中国生成",
-      "wt": 0.42
+      "wt": 0.45
     }
   ],
   "total": 17
