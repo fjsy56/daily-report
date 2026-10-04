@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "tech": [
+    {
+      "title": "当AI开始制造AI",
+      "url": "https://www.huxiu.com/article/4895354.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "美国成立自主作战司令部：AI成为作战单位，刹车已经被拆掉了",
+      "url": "https://www.huxiu.com/article/4895343.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "“规矩不能坏” 刷屏背后：AI 正在拆掉内容产业的 “代议制”",
+      "url": "https://www.huxiu.com/article/4895340.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+      "url": "http://www.geekpark.net/news/372075",
+      "excerpt": "作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
+      "url": "http://www.geekpark.net/news/372074",
+      "excerpt": "作者｜Wildcard 编辑｜靖宇 终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。 但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。 有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
       "url": "http://www.geekpark.net/news/372070",
@@ -10,19 +50,11 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
-      "url": "http://www.geekpark.net/news/372064",
-      "excerpt": "苹果即将发布「智能家居中枢」新品 据彭博社报道，苹果公司计划于 10 月 13 日推进其拖延已久的智能家居市场布局，这是该公司在新任 CEO 约翰·特努斯领导下的一次关键产品扩张。 据知情人士透露，该战略的核心是一款代号为 J490 的智能家居中枢设备。该设备",
-      "src": "极客公园",
-      "tag": "谷歌",
-      "cat": "tech"
-    },
-    {
-      "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
-      "url": "http://www.geekpark.net/news/372003",
-      "excerpt": "模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 现场最安静的一刻，出",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "excerpt": "什么是FDE？它会一直存在吗？",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -32,41 +64,17 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "DeepSeek",
       "cat": "tech"
-    },
-    {
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "excerpt": "44年前被亲自列入问题清单",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "excerpt": "换区也没用",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "excerpt": "用ImageNet训练encoder",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
-      "url": "https://www.ithome.com/1/009/517.htm",
-      "excerpt": "IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。据",
-      "src": "IT之家",
-      "tag": "小米",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "AI办公刚刚来到1972年",
+      "url": "https://www.huxiu.com/article/4895348.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "app"
+    },
     {
       "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
       "url": "http://www.geekpark.net/news/372069",
@@ -81,14 +89,6 @@ window.__NEWS_DATA__ = {
       "excerpt": "一个工程师写完数据处理代码，点下提交，然后去喝了杯咖啡。十几分钟甚至几十分钟之后，他才回到屏幕前看结果、改代码、再提交。这条「等待— 反馈」的空隙，过去一直是数据平台默认的节奏。 Agent 没有这个空隙。它拿到一次结果，立刻验证，紧接着并发地去试第二种、第三",
       "src": "极客公园",
       "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
-      "url": "http://www.geekpark.net/news/372005",
-      "excerpt": "OpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口 北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sa",
-      "src": "极客公园",
-      "tag": "OpenAI",
       "cat": "app"
     },
     {
@@ -108,15 +108,47 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "excerpt": "价格只有Astra一半",
-      "src": "量子位",
-      "tag": "谷歌",
+      "title": "HMD Slate Tab 5G 平板曝光：设计灵感来自微软 Surface / 诺基亚 Lumia 2520、有望随 Skyline 2 手机一同发布",
+      "url": "https://www.ithome.com/1/009/693.htm",
+      "excerpt": "IT之家 10 月 4 日消息，消息源 smashx_60 现已曝光了 HMD Slate Tab 5G 二合一平板电脑，该机搭载安卓系统，据称已开发了两年，有望随同 Skyline 2 手机一同发布。参考消息源曝光的产品外观渲染图，可以看到该机可选蓝 / 橙",
+      "src": "IT之家",
+      "tag": "微软",
       "cat": "app"
     }
   ],
   "enterprise": [
+    {
+      "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+      "url": "https://www.huxiu.com/article/4895351.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
+      "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+      "url": "http://www.geekpark.net/news/372073",
+      "excerpt": "苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "excerpt": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "src": "量子位",
+      "tag": "马斯克",
+      "cat": "enterprise"
+    },
+    {
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "excerpt": "专业3D模型反而更稀缺了",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
     {
       "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
       "url": "https://www.qbitai.com/2026/10/500148.html",
@@ -124,48 +156,32 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "融资",
       "cat": "enterprise"
-    },
-    {
-      "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
-      "url": "https://www.ithome.com/1/009/516.htm",
-      "excerpt": "IT之家 10 月 3 日消息，小艺帮帮忙智能体是 HarmonyOS 6.0 上推出的探索性智能体。华为官网显示，因业务调整，小艺帮帮忙智能体将不再支持后续新增的设备。据悉，小艺帮帮忙智能体是一个专注于应用操控的智能体，支持操控更多的场景，可在智能体对话列表",
-      "src": "IT之家",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "小米米家无线直发梳 2 开售：速热恒温、千万级等离子，首发价 299.2 元",
-      "url": "https://www.ithome.com/1/009/510.htm",
-      "excerpt": "IT之家 10 月 3 日消息，小米米家无线直发梳 2 现已开售，新品首发价 299.2 元。米家无线直发梳 2 采用无线设计，电池容量提升 56%，可实现 70 分钟续航，采用 Type-C 充电。这款产品升级 PI 发热技术，采用 PI 发热薄膜，支持 1",
-      "src": "IT之家",
-      "tag": "小米",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "arXiv",
-      "Vision",
-      "GT",
-      "MacOS",
-      "英伟达股价创新高"
+      "刹车已经被拆掉了",
+      "“规矩不能坏”",
+      "刷屏背后",
+      "“代议制”",
+      "点头"
     ],
     "app": [
       "AI",
       "Agent",
-      "OpenAI",
       "Macbook",
       "苹果首款触屏",
-      "月发布"
+      "月发布",
+      "致敬《终结者"
     ],
     "enterprise": [
-      "Jev",
-      "Diogo",
-      "Almeida",
-      "HarmonyOS",
-      "华为",
-      "开售"
+      "AI",
+      "OpenAI",
+      "iPhone",
+      "Pro",
+      "Max",
+      "苹果确认美版"
     ]
   },
   "hotwords": [
@@ -175,80 +191,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.65
+      "wt": 0.49
     },
     {
-      "w": "arXiv",
-      "wt": 0.55
+      "w": "Claude",
+      "wt": 0.44
     },
     {
       "w": "Agent",
-      "wt": 0.55
+      "wt": 0.44
     },
     {
-      "w": "Gemini",
-      "wt": 0.55
+      "w": "刹车已经被拆掉了",
+      "wt": 0.4
     },
     {
-      "w": "GPT",
-      "wt": 0.55
+      "w": "“规矩不能坏”",
+      "wt": 0.4
     },
     {
-      "w": "Vision",
-      "wt": 0.55
+      "w": "刷屏背后",
+      "wt": 0.4
     },
     {
-      "w": "GT",
-      "wt": 0.55
+      "w": "“代议制”",
+      "wt": 0.4
     },
     {
-      "w": "MacOS",
-      "wt": 0.45
+      "w": "点头",
+      "wt": 0.4
     },
     {
-      "w": "英伟达股价创新高",
-      "wt": 0.45
+      "w": "抢话",
+      "wt": 0.4
     },
     {
-      "w": "逼近",
-      "wt": 0.45
+      "w": "会脸红",
+      "wt": 0.4
     },
     {
-      "w": "万亿美元",
-      "wt": 0.45
+      "w": "小姐姐」",
+      "wt": 0.4
     },
     {
-      "w": "限制",
-      "wt": 0.45
+      "w": "Code",
+      "wt": 0.4
     },
     {
-      "w": "助手",
-      "wt": 0.45
+      "w": "的「乐高」模式",
+      "wt": 0.4
     },
     {
-      "w": "苹果收紧",
-      "wt": 0.45
+      "w": "iPhone",
+      "wt": 0.4
     },
     {
-      "w": "磁盘访问权限",
-      "wt": 0.45
+      "w": "Pro",
+      "wt": 0.4
     },
     {
-      "w": "篇论文",
-      "wt": 0.45
+      "w": "Max",
+      "wt": 0.4
     },
     {
-      "w": "Macbook",
-      "wt": 0.45
+      "w": "苹果确认美版",
+      "wt": 0.4
     },
     {
-      "w": "苹果首款触屏",
-      "wt": 0.45
+      "w": "有问题",
+      "wt": 0.4
     },
     {
-      "w": "月发布",
-      "wt": 0.45
+      "w": "每天烧超",
+      "wt": 0.4
     }
   ],
-  "total": 17
+  "total": 19
 };
