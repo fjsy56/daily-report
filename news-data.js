@@ -1,52 +1,60 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "tech": [
     {
-      "title": "当AI开始制造AI",
-      "url": "https://www.huxiu.com/article/4895354.html",
+      "title": "2026年诺贝尔生理学或医学奖授予光遗传学",
+      "url": "https://www.huxiu.com/article/4895449.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "美国成立自主作战司令部：AI成为作战单位，刹车已经被拆掉了",
-      "url": "https://www.huxiu.com/article/4895343.html",
+      "title": "NASA爱好者©",
+      "url": "https://www.huxiu.com/article/4895449.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "“规矩不能坏” 刷屏背后：AI 正在拆掉内容产业的 “代议制”",
-      "url": "https://www.huxiu.com/article/4895340.html",
+      "title": "2026诺奖得主独家撰文：如何用光遥控大脑？",
+      "url": "https://www.huxiu.com/article/4895445.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
-      "url": "http://www.geekpark.net/news/372075",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那",
-      "src": "极客公园",
+      "title": "雾里登山：当美国不再领跑",
+      "url": "https://www.huxiu.com/article/4895444.html",
+      "excerpt": "",
+      "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
-      "url": "http://www.geekpark.net/news/372074",
-      "excerpt": "作者｜Wildcard 编辑｜靖宇 终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。 但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。 有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一",
-      "src": "极客公园",
+      "title": "光遗传学摘得2026诺贝尔生医奖，这项技术到底强在哪里？",
+      "url": "https://www.huxiu.com/article/4895440.html",
+      "excerpt": "",
+      "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
-      "url": "http://www.geekpark.net/news/372070",
-      "excerpt": "英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 ",
-      "src": "极客公园",
-      "tag": "英伟达",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "excerpt": "AI已经开始真正进入「造下一代AI」的流水线",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "excerpt": "有改进就体验，没改进就重置，横竖不亏。",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
@@ -56,41 +64,9 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
-      "excerpt": "岗位JD甩了篇技术报告",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "tech"
     }
   ],
   "app": [
-    {
-      "title": "AI办公刚刚来到1972年",
-      "url": "https://www.huxiu.com/article/4895348.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
-      "url": "http://www.geekpark.net/news/372069",
-      "excerpt": "华为 Mate90 系列发布，售价 5999 元起 10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
-      "url": "http://www.geekpark.net/news/372065",
-      "excerpt": "一个工程师写完数据处理代码，点下提交，然后去喝了杯咖啡。十几分钟甚至几十分钟之后，他才回到屏幕前看结果、改代码、再提交。这条「等待— 反馈」的空隙，过去一直是数据平台默认的节奏。 Agent 没有这个空隙。它拿到一次结果，立刻验证，紧接着并发地去试第二种、第三",
-      "src": "极客公园",
-      "tag": "Agent",
-      "cat": "app"
-    },
     {
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "url": "https://www.qbitai.com/2026/10/501368.html",
@@ -100,39 +76,31 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "excerpt": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "excerpt": "岗位JD甩了篇技术报告",
       "src": "量子位",
-      "tag": "华为",
-      "cat": "app"
+      "tag": "DeepSeek",
+      "cat": "tech"
     },
     {
-      "title": "HMD Slate Tab 5G 平板曝光：设计灵感来自微软 Surface / 诺基亚 Lumia 2520、有望随 Skyline 2 手机一同发布",
-      "url": "https://www.ithome.com/1/009/693.htm",
-      "excerpt": "IT之家 10 月 4 日消息，消息源 smashx_60 现已曝光了 HMD Slate Tab 5G 二合一平板电脑，该机搭载安卓系统，据称已开发了两年，有望随同 Skyline 2 手机一同发布。参考消息源曝光的产品外观渲染图，可以看到该机可选蓝 / 橙",
+      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
+      "url": "https://www.ithome.com/1/009/855.htm",
+      "excerpt": "IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。日本经济新闻社表示，在员工修改该账号",
       "src": "IT之家",
       "tag": "微软",
-      "cat": "app"
+      "cat": "tech"
+    },
+    {
+      "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
+      "url": "https://www.ithome.com/1/009/852.htm",
+      "excerpt": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "tech"
     }
   ],
   "enterprise": [
-    {
-      "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
-      "url": "https://www.huxiu.com/article/4895351.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
-    {
-      "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
-      "url": "http://www.geekpark.net/news/372073",
-      "excerpt": "苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受",
-      "src": "极客公园",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
     {
       "title": "AI算力硬合作，马斯克还是更相信中国制造",
       "url": "https://www.qbitai.com/2026/10/501605.html",
@@ -160,111 +128,111 @@ window.__NEWS_DATA__ = {
   ],
   "overview": {
     "tech": [
-      "AI",
-      "刹车已经被拆掉了",
-      "“规矩不能坏”",
-      "刷屏背后",
-      "“代议制”",
-      "点头"
+      "NASA",
+      "如何用光遥控大脑",
+      "雾里登山",
+      "当美国不再领跑",
+      "Hinton",
+      "RSI"
     ],
     "app": [
-      "AI",
-      "Agent",
-      "Macbook",
-      "苹果首款触屏",
-      "月发布",
-      "致敬《终结者"
+      "OpenAI",
+      "负责人离职",
+      "DeepSeek",
+      "HC",
+      "Microsoft",
+      "账号遭黑客入侵"
     ],
     "enterprise": [
       "AI",
-      "OpenAI",
-      "iPhone",
-      "Pro",
-      "Max",
-      "苹果确认美版"
+      "GPT-6",
+      "ARR",
+      "Jev",
+      "Diogo",
+      "Almeida"
     ]
   },
   "hotwords": [
+    {
+      "w": "OpenAI",
+      "wt": 0.95
+    },
     {
       "w": "AI",
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.49
+      "w": "NASA",
+      "wt": 0.65
     },
     {
-      "w": "Claude",
-      "wt": 0.44
+      "w": "如何用光遥控大脑",
+      "wt": 0.65
     },
     {
-      "w": "Agent",
-      "wt": 0.44
+      "w": "雾里登山",
+      "wt": 0.65
     },
     {
-      "w": "刹车已经被拆掉了",
-      "wt": 0.4
+      "w": "当美国不再领跑",
+      "wt": 0.65
     },
     {
-      "w": "“规矩不能坏”",
-      "wt": 0.4
+      "w": "Hinton",
+      "wt": 0.65
     },
     {
-      "w": "刷屏背后",
-      "wt": 0.4
+      "w": "RSI",
+      "wt": 0.65
     },
     {
-      "w": "“代议制”",
-      "wt": 0.4
+      "w": "刚刚",
+      "wt": 0.65
     },
     {
-      "w": "点头",
-      "wt": 0.4
+      "w": "Opus",
+      "wt": 0.65
     },
     {
-      "w": "抢话",
-      "wt": 0.4
+      "w": "网友",
+      "wt": 0.65
     },
     {
-      "w": "会脸红",
-      "wt": 0.4
+      "w": "FDE",
+      "wt": 0.65
     },
     {
-      "w": "小姐姐」",
-      "wt": 0.4
+      "w": "都干这些…",
+      "wt": 0.65
     },
     {
-      "w": "Code",
-      "wt": 0.4
+      "w": "GPT-6",
+      "wt": 0.65
     },
     {
-      "w": "的「乐高」模式",
-      "wt": 0.4
+      "w": "ARR",
+      "wt": 0.65
     },
     {
-      "w": "iPhone",
-      "wt": 0.4
+      "w": "DeepSeek",
+      "wt": 0.65
     },
     {
-      "w": "Pro",
-      "wt": 0.4
+      "w": "HC",
+      "wt": 0.65
     },
     {
-      "w": "Max",
-      "wt": 0.4
+      "w": "负责人离职",
+      "wt": 0.65
     },
     {
-      "w": "苹果确认美版",
-      "wt": 0.4
+      "w": "Jev",
+      "wt": 0.65
     },
     {
-      "w": "有问题",
-      "wt": 0.4
-    },
-    {
-      "w": "每天烧超",
-      "wt": 0.4
+      "w": "Diogo",
+      "wt": 0.65
     }
   ],
-  "total": 19
+  "total": 15
 };
