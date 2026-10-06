@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-02 19:02",
- "total": 803,
+ "updated": "2026-10-06 18:49",
+ "total": 805,
  "industries": [
   "产业升级",
   "企业服务",
@@ -98,6 +98,35 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1991095098704775",
+   "date": "2026-10-04",
+   "name": "迈联脑控",
+   "desc": "脑机接口主动康复领域服务商",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "1亿人民币",
+   "investors": "创大产控、金沙江联合资本",
+   "url": "https://pitchhub.36kr.com/project/1991095098704775",
+   "province": "浙江省"
+  },
+  {
+   "id": "1817518008633221",
+   "date": "2026-10-04",
+   "name": "士模微电子",
+   "desc": "数模转换芯片研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "精智达、中车新投",
+   "url": "https://pitchhub.36kr.com/project/1817518008633221",
+   "province": "北京市"
+  },
   {
    "id": "1678388613821449",
    "date": "2026-09-29",
