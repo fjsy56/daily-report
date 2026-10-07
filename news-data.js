@@ -1,33 +1,33 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "tech": [
     {
-      "title": "2026物理诺奖时隔34年一人独揽，他把一立方千米的南极冰变成了望远镜",
-      "url": "https://www.huxiu.com/article/4895553.html",
+      "title": "2026年诺贝尔化学奖颁给不对称有机合成",
+      "url": "https://www.huxiu.com/article/4895643.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，一场持续四十年的冰下天文学",
-      "url": "https://www.huxiu.com/article/4895551.html",
+      "title": "Meta的14GW野心和黑石放弃的22个月",
+      "url": "https://www.huxiu.com/article/4895642.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Meta",
+      "cat": "tech"
+    },
+    {
+      "title": "谁在捧杀Utopai X？",
+      "url": "https://www.huxiu.com/article/4895639.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "NASA爱好者©",
-      "url": "https://www.huxiu.com/article/4895551.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI博主圈，正被“中戏北电”挤满",
-      "url": "https://www.huxiu.com/article/4895548.html",
+      "title": "制作成本降了，竞争门槛还在，AI漫剧改变了什么？",
+      "url": "https://www.huxiu.com/article/4895611.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -68,14 +68,6 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "扫地机器人鼻祖iRobot为何惨败？（技术大败局03）",
-      "url": "https://www.huxiu.com/article/4895543.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
       "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
       "url": "http://www.geekpark.net/news/372086",
       "excerpt": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰 10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 · 休斯医学研究所",
@@ -84,16 +76,24 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
-      "url": "http://www.geekpark.net/news/372075",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那",
-      "src": "极客公园",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "excerpt": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "app"
     },
     {
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "title": "岚图汽车卢放：即使车辆有自动智能驾驶辅助功能，也是绝对不允许酒驾",
+      "url": "https://www.ithome.com/1/010/269.htm",
+      "excerpt": "IT之家 10 月 7 日消息，岚图汽车科技股份有限公司董事长卢放昨日发文，称自己假期看到一些司机喝酒后用智能驾驶辅助功能开车的报道，他认为此举非常危险。卢放表示，任何时候都不能在沾了酒的情况下开车，即使车辆有自动智能驾驶辅助功能，也是绝对不允许酒驾的。下一步",
+      "src": "IT之家",
+      "tag": "自动驾驶",
+      "cat": "app"
+    },
+    {
+      "title": "晕…这年头还有说人话的AI不",
+      "url": "https://www.qbitai.com/2026/10/501796.html",
       "excerpt": "",
       "src": "量子位",
       "tag": "行业动态",
@@ -102,33 +102,33 @@ window.__NEWS_DATA__ = {
   ],
   "enterprise": [
     {
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "excerpt": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-      "src": "量子位",
-      "tag": "马斯克",
-      "cat": "enterprise"
-    },
-    {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "excerpt": "专业3D模型反而更稀缺了",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "title": "两万亿估值的Anthropic，谁在买单？",
+      "url": "https://www.huxiu.com/article/4895634.html",
       "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+      "url": "http://www.geekpark.net/news/372089",
+      "excerpt": "2026 诺贝尔物理学奖揭晓：把一立方公里南极冰变成望远镜，打开「中微子天文学」 10 月 6 日，2026 年诺贝尔物理学奖授予比利时裔美国物理学家 Francis Halzen，以表彰其「对 IceCube 中微子天文台的决定性贡献，以及发现来自天体的高能",
+      "src": "极客公园",
+      "tag": "微软",
+      "cat": "enterprise"
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "excerpt": "三位菲尔兹奖得主：不代表认可",
       "src": "量子位",
       "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "刚刚，诺贝尔奖颁给光遗传学！",
-      "url": "https://www.qbitai.com/2026/10/501720.html",
-      "excerpt": "从绿藻里的光开关，到控制神经元",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "excerpt": "南极洲甚至有一座高地以他名字命名",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -137,27 +137,27 @@ window.__NEWS_DATA__ = {
   "overview": {
     "tech": [
       "AI",
-      "NASA",
-      "交付",
-      "小米澎程破万台",
-      "雷军又赢了",
-      "为什么总在画美女"
+      "Meta",
+      "GW",
+      "Utopai",
+      "制作成本降了",
+      "竞争门槛还在"
     ],
     "app": [
       "AI",
-      "iRobot",
       "OpenAI",
       "Codex",
       "Work",
-      "TikTok"
+      "TikTok",
+      "天计划」"
     ],
     "enterprise": [
-      "AI",
-      "GPT-6",
-      "ARR",
-      "OpenAI",
-      "这都发了些啥啊…",
-      "刚刚"
+      "Anthropic",
+      "谁在买单",
+      "PreIPO",
+      "Meta",
+      "Claude",
+      "派拉蒙"
     ]
   },
   "hotwords": [
@@ -167,79 +167,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "OpenAI",
-      "wt": 0.53
+      "wt": 0.62
     },
     {
       "w": "刚刚",
-      "wt": 0.47
+      "wt": 0.55
     },
     {
-      "w": "NASA",
-      "wt": 0.41
+      "w": "Meta",
+      "wt": 0.48
     },
     {
-      "w": "iRobot",
-      "wt": 0.41
+      "w": "微软",
+      "wt": 0.48
+    },
+    {
+      "w": "Mate",
+      "wt": 0.48
+    },
+    {
+      "w": "GW",
+      "wt": 0.42
+    },
+    {
+      "w": "Utopai",
+      "wt": 0.42
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.42
+    },
+    {
+      "w": "谁在买单",
+      "wt": 0.42
+    },
+    {
+      "w": "制作成本降了",
+      "wt": 0.42
+    },
+    {
+      "w": "竞争门槛还在",
+      "wt": 0.42
+    },
+    {
+      "w": "PreIPO",
+      "wt": 0.42
+    },
+    {
+      "w": "Claude",
+      "wt": 0.42
+    },
+    {
+      "w": "派拉蒙",
+      "wt": 0.42
+    },
+    {
+      "w": "月之暗面被曝完成",
+      "wt": 0.42
+    },
+    {
+      "w": "亿美元",
+      "wt": 0.42
+    },
+    {
+      "w": "融资",
+      "wt": 0.42
     },
     {
       "w": "Codex",
-      "wt": 0.41
+      "wt": 0.42
     },
     {
       "w": "Work",
-      "wt": 0.41
-    },
-    {
-      "w": "TikTok",
-      "wt": 0.41
-    },
-    {
-      "w": "天计划」",
-      "wt": 0.41
-    },
-    {
-      "w": "持续改进",
-      "wt": 0.41
-    },
-    {
-      "w": "上线一系列",
-      "wt": 0.41
-    },
-    {
-      "w": "电商功能",
-      "wt": 0.41
-    },
-    {
-      "w": "交付",
-      "wt": 0.41
-    },
-    {
-      "w": "小米澎程破万台",
-      "wt": 0.41
-    },
-    {
-      "w": "雷军又赢了",
-      "wt": 0.41
-    },
-    {
-      "w": "为什么总在画美女",
-      "wt": 0.41
-    },
-    {
-      "w": "SpaceXSI",
-      "wt": 0.41
-    },
-    {
-      "w": "Altman",
-      "wt": 0.41
-    },
-    {
-      "w": "Vision",
-      "wt": 0.41
-    },
-    {
-      "w": "GT",
-      "wt": 0.41
+      "wt": 0.42
     }
   ],
   "total": 16
