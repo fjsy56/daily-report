@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-06 18:49",
- "total": 805,
+ "updated": "2026-10-08 17:46",
+ "total": 809,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,50 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "4017352467129475",
+   "date": "2026-10-07",
+   "name": "佩尔科技",
+   "desc": "镍钛产品生产商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "HongShan红杉中国",
+   "url": "https://pitchhub.36kr.com/project/4017352467129475",
+   "province": "江苏省"
+  },
+  {
+   "id": "3339293402264832",
+   "date": "2026-10-07",
+   "name": "追光生物",
+   "desc": "国内领先自主掌握光电镊核心操控技术研发商",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "Pre-A轮",
+   "amount": "超5000万元人民币",
+   "investors": "深创投、开恒私募股权、南山战新投、零以创投",
+   "url": "https://pitchhub.36kr.com/project/3339293402264832",
+   "province": "广东省"
+  },
+  {
+   "id": "2387847222270853",
+   "date": "2026-10-07",
+   "name": "白犀牛自动驾驶",
+   "desc": "白犀牛是一家L4自动驾驶公司",
+   "industry": [
+    "汽车出行",
+    "物联网/硬件"
+   ],
+   "round": "C+轮",
+   "amount": "1亿美元",
+   "investors": "隐山资本、湘潭国资、深重投、财信金控、韩国友利金融集团、博正资本",
+   "url": "https://pitchhub.36kr.com/project/2387847222270853",
+   "province": "北京市"
+  },
+  {
    "id": "1991095098704775",
    "date": "2026-10-04",
    "name": "迈联脑控",
@@ -125,6 +169,20 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "精智达、中车新投",
    "url": "https://pitchhub.36kr.com/project/1817518008633221",
+   "province": "北京市"
+  },
+  {
+   "id": "3594092999291776",
+   "date": "2026-09-29",
+   "name": "比特智路",
+   "desc": "解决AI网络面临的可扩展性和通信效率",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "毅达资本",
+   "url": "https://pitchhub.36kr.com/project/3594092999291776",
    "province": "北京市"
   },
   {
