@@ -1,36 +1,28 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "tech": [
     {
-      "title": "2026年诺贝尔化学奖颁给不对称有机合成",
-      "url": "https://www.huxiu.com/article/4895643.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙",
+      "url": "http://www.geekpark.net/news/372099",
+      "excerpt": "产品的创新，究竟应该如何定义它的价值？ 上周，华为、小米、苹果在 72 小时内接连发布折叠屏旗舰。华为 Mate XT 2 非凡大师 19999 元起售，小米 18 Fold 10999 元，苹果首款折叠屏 iPhone Duo 市场预计 1.6 万起。与此同",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Meta的14GW野心和黑石放弃的22个月",
-      "url": "https://www.huxiu.com/article/4895642.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Meta",
+      "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
+      "url": "http://www.geekpark.net/news/372090",
+      "excerpt": "2026 年诺贝尔化学奖公布：二人因解开不对称有机合成难题获奖，其中一位 96 岁高龄 10 月 7 日，2026 年诺贝尔化学奖正式公布，瑞典皇家科学院决定将 2026 年诺贝尔化学奖授予亨利 ·B· 卡甘（Henri B. Kagan）和硖合宪三（Kens",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "谁在捧杀Utopai X？",
-      "url": "https://www.huxiu.com/article/4895639.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "制作成本降了，竞争门槛还在，AI漫剧改变了什么？",
-      "url": "https://www.huxiu.com/article/4895611.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "9499 元起售的华为 Mate 90 Pro Max，最值的还是相机",
+      "url": "http://www.geekpark.net/news/372088",
+      "excerpt": "相机好用之外，日常使用也有了新鲜感。 作者｜张勇毅 编辑｜靖宇 10 月 1 日，华为 Mate 90 系列正式发布。 最近几天，Mate 90 Pro Max 用下来，我最直接的感受是，影像能力是这一代毋庸置疑的最重要改变，可能没有之一。 作为华为每年的旗舰",
+      "src": "极客公园",
+      "tag": "华为",
       "cat": "tech"
     },
     {
@@ -42,26 +34,34 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "AI，为什么总在画美女？",
-      "url": "http://www.geekpark.net/news/372084",
-      "excerpt": "作者｜汤一涛 编辑｜靖宇 今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是「普通韩国女性」",
-      "src": "极客公园",
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "url": "https://www.qbitai.com/2026/10/501995.html",
+      "excerpt": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "excerpt": "ChatGPT聊天框长出界面",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
-      "url": "http://www.geekpark.net/news/372082",
-      "excerpt": "马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆·马斯",
-      "src": "极客公园",
-      "tag": "小米",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "excerpt": "小模型新守门员",
+      "src": "量子位",
+      "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
-      "url": "http://www.geekpark.net/news/372081",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 9 月 15 日，前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 发布了 Jev。这款模型不写一个字，只做判断。 两周之后，整个行业都在做同一件事。OpenAI 在开发者日上推出 Decisio",
-      "src": "极客公园",
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "excerpt": "",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
@@ -76,39 +76,31 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "url": "https://www.qbitai.com/2026/10/501791.html",
-      "excerpt": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "title": "浪子回头！Manus重启北京办公室大举招聘",
+      "url": "https://www.qbitai.com/2026/10/502009.html",
+      "excerpt": "开始和国产Agent抢人，还拿到5亿美元新融资",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "岚图汽车卢放：即使车辆有自动智能驾驶辅助功能，也是绝对不允许酒驾",
-      "url": "https://www.ithome.com/1/010/269.htm",
-      "excerpt": "IT之家 10 月 7 日消息，岚图汽车科技股份有限公司董事长卢放昨日发文，称自己假期看到一些司机喝酒后用智能驾驶辅助功能开车的报道，他认为此举非常危险。卢放表示，任何时候都不能在沾了酒的情况下开车，即使车辆有自动智能驾驶辅助功能，也是绝对不允许酒驾的。下一步",
-      "src": "IT之家",
-      "tag": "自动驾驶",
+      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+      "url": "https://www.qbitai.com/2026/10/501956.html",
+      "excerpt": "2027年底实现“县县通”",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "晕…这年头还有说人话的AI不",
-      "url": "https://www.qbitai.com/2026/10/501796.html",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "url": "https://www.qbitai.com/2026/10/501915.html",
       "excerpt": "",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
+      "tag": "大模型",
+      "cat": "app"
     }
   ],
   "enterprise": [
-    {
-      "title": "两万亿估值的Anthropic，谁在买单？",
-      "url": "https://www.huxiu.com/article/4895634.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
     {
       "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
       "url": "http://www.geekpark.net/news/372089",
@@ -118,46 +110,54 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "excerpt": "三位菲尔兹奖得主：不代表认可",
+      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+      "url": "https://www.qbitai.com/2026/10/501930.html",
+      "excerpt": "管理岗砍掉四成，顶级车型涨价20%卖",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "微软公布 XGP 订阅 10 月入库阵容：《战地 6》领衔",
+      "url": "https://www.ithome.com/1/010/661.htm",
+      "excerpt": "IT之家 10 月 8 日消息，微软现已公布 2026 年 10 月 XBOX Game Pass 入库游戏。本月有《战地 6》领衔，还有《不朽遗志》等作品。IT之家整理 XGP 本月新增游戏如下：游戏名入库时间覆盖订阅层级登陆平台《回声织者》10 月 8 日",
+      "src": "IT之家",
+      "tag": "微软",
       "cat": "tech"
     },
     {
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "excerpt": "南极洲甚至有一座高地以他名字命名",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "华为鸿蒙 HarmonyOS 7 系统更多机型 Beta 转公测，覆盖 Mate 60 系列等",
+      "url": "https://www.ithome.com/1/010/660.htm",
+      "excerpt": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏IT之家附华为鸿蒙 Har",
+      "src": "IT之家",
+      "tag": "华为",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Meta",
-      "GW",
-      "Utopai",
-      "制作成本降了",
-      "竞争门槛还在"
+      "ChatGPT",
+      "GPT-6",
+      "造物",
+      "指纹钥匙给",
+      "上锁"
     ],
     "app": [
-      "AI",
       "OpenAI",
       "Codex",
       "Work",
       "TikTok",
+      "AI",
       "天计划」"
     ],
     "enterprise": [
-      "Anthropic",
-      "谁在买单",
       "PreIPO",
       "Meta",
       "Claude",
-      "派拉蒙"
+      "派拉蒙",
+      "月之暗面被曝完成",
+      "亿美元"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.62
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.55
-    },
-    {
-      "w": "Meta",
-      "wt": 0.48
-    },
-    {
-      "w": "微软",
-      "wt": 0.48
-    },
-    {
-      "w": "Mate",
-      "wt": 0.48
-    },
-    {
-      "w": "GW",
-      "wt": 0.42
-    },
-    {
-      "w": "Utopai",
-      "wt": 0.42
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.42
-    },
-    {
-      "w": "谁在买单",
-      "wt": 0.42
-    },
-    {
-      "w": "制作成本降了",
-      "wt": 0.42
-    },
-    {
-      "w": "竞争门槛还在",
-      "wt": 0.42
-    },
-    {
-      "w": "PreIPO",
-      "wt": 0.42
+      "w": "ChatGPT",
+      "wt": 0.65
     },
     {
       "w": "Claude",
-      "wt": 0.42
+      "wt": 0.65
     },
     {
-      "w": "派拉蒙",
-      "wt": 0.42
+      "w": "Mate",
+      "wt": 0.65
     },
     {
-      "w": "月之暗面被曝完成",
-      "wt": 0.42
+      "w": "OpenAI",
+      "wt": 0.65
     },
     {
-      "w": "亿美元",
-      "wt": 0.42
+      "w": "GPT-6",
+      "wt": 0.65
     },
     {
-      "w": "融资",
-      "wt": 0.42
+      "w": "造物",
+      "wt": 0.5
     },
     {
-      "w": "Codex",
-      "wt": 0.42
+      "w": "指纹钥匙给",
+      "wt": 0.5
     },
     {
-      "w": "Work",
-      "wt": 0.42
+      "w": "上锁",
+      "wt": 0.5
+    },
+    {
+      "w": "IUI",
+      "wt": 0.5
+    },
+    {
+      "w": "Playground",
+      "wt": 0.5
+    },
+    {
+      "w": "LG",
+      "wt": 0.5
+    },
+    {
+      "w": "推出全新",
+      "wt": 0.5
+    },
+    {
+      "w": "智能用户界面",
+      "wt": 0.5
+    },
+    {
+      "w": "谷歌推出试验性",
+      "wt": 0.5
+    },
+    {
+      "w": "游戏平台",
+      "wt": 0.5
+    },
+    {
+      "w": "苹果被曝联合",
+      "wt": 0.5
+    },
+    {
+      "w": "开发门锁",
+      "wt": 0.5
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.5
+    },
+    {
+      "w": "PreIPO",
+      "wt": 0.5
     }
   ],
   "total": 16
