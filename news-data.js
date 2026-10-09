@@ -1,5 +1,5 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "tech": [
     {
       "title": "造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙",
@@ -18,49 +18,49 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "9499 元起售的华为 Mate 90 Pro Max，最值的还是相机",
-      "url": "http://www.geekpark.net/news/372088",
-      "excerpt": "相机好用之外，日常使用也有了新鲜感。 作者｜张勇毅 编辑｜靖宇 10 月 1 日，华为 Mate 90 系列正式发布。 最近几天，Mate 90 Pro Max 用下来，我最直接的感受是，影像能力是这一代毋庸置疑的最重要改变，可能没有之一。 作为华为每年的旗舰",
-      "src": "极客公园",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "交付 19 天，小米澎程破万台，雷军又赢了。",
-      "url": "http://www.geekpark.net/news/372087",
-      "excerpt": "图片来源：视觉中国 10 月 1 日，小米汽车公布了 9 月交付成绩单：单月交付量首次突破 4 万台。 这个数字放在新势力阵营里排第三，仅次于零跑（10.56 万台）和小鹏（4.13 万台），领先鸿蒙智行（3.75 万台）。 但真正值得关注的，不只是「小米又卖",
-      "src": "极客公园",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "url": "https://www.qbitai.com/2026/10/501995.html",
-      "excerpt": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "url": "https://www.qbitai.com/2026/10/501834.html",
-      "excerpt": "ChatGPT聊天框长出界面",
+      "title": "TRAE终于把Code和Work合并了",
+      "url": "https://www.qbitai.com/2026/10/502426.html",
+      "excerpt": "大写的方便",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "url": "https://www.qbitai.com/2026/10/501832.html",
-      "excerpt": "小模型新守门员",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "url": "https://www.qbitai.com/2026/10/502422.html",
+      "excerpt": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "Agent",
       "cat": "tech"
     },
     {
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-      "url": "https://www.qbitai.com/2026/10/501825.html",
-      "excerpt": "",
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "url": "https://www.qbitai.com/2026/10/502411.html",
+      "excerpt": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "excerpt": "答不答得对，得看Token站位",
+      "src": "量子位",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+      "url": "https://www.qbitai.com/2026/10/502359.html",
+      "excerpt": "Google 研究成果首次登上《柳叶刀》主刊",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "url": "https://www.qbitai.com/2026/10/502330.html",
+      "excerpt": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -68,39 +68,47 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
-      "url": "http://www.geekpark.net/news/372086",
-      "excerpt": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰 10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 · 休斯医学研究所",
+      "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
+      "url": "http://www.geekpark.net/news/372163",
+      "excerpt": "过去一年，AI 产品越来越想变成一个「人」。 一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。 而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上",
       "src": "极客公园",
-      "tag": "OpenAI",
-      "cat": "app"
-    },
-    {
-      "title": "浪子回头！Manus重启北京办公室大举招聘",
-      "url": "https://www.qbitai.com/2026/10/502009.html",
-      "excerpt": "开始和国产Agent抢人，还拿到5亿美元新融资",
-      "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
-      "url": "https://www.qbitai.com/2026/10/501956.html",
-      "excerpt": "2027年底实现“县县通”",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序",
+      "url": "http://www.geekpark.net/news/372143",
+      "excerpt": "谷歌云发布 Gemini Agent，支持多种 AI 模型 10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini",
+      "src": "极客公园",
+      "tag": "谷歌",
       "cat": "app"
     },
     {
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "url": "https://www.qbitai.com/2026/10/501915.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "大模型",
+      "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
+      "url": "https://www.ithome.com/1/011/090.htm",
+      "excerpt": "【扫地机器人需联网使用，介意慎拍。】京东家居家电 10 月 9 日今晚 20:00 正式开启双十一全面抢，现在可去主会场领加码 9 折券：点此领券。MOVA P70S 于 2026 年 3 月上市，水箱版官方定价 3299 元，这几个月日常国补价 1999 元",
+      "src": "IT之家",
+      "tag": "具身智能",
       "cat": "app"
+    },
+    {
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "url": "https://www.qbitai.com/2026/10/502125.html",
+      "excerpt": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "src": "量子位",
+      "tag": "英伟达",
+      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
+      "url": "http://www.geekpark.net/news/372148",
+      "excerpt": "一家深圳公司，让实时「看清」人类大脑变成了可能。 极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。 在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。 一边是价值数百万的海外顶级旗舰彩",
+      "src": "极客公园",
+      "tag": "英伟达",
+      "cat": "enterprise"
+    },
     {
       "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
       "url": "http://www.geekpark.net/news/372089",
@@ -110,54 +118,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
-      "url": "https://www.qbitai.com/2026/10/501930.html",
-      "excerpt": "管理岗砍掉四成，顶级车型涨价20%卖",
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "url": "https://www.qbitai.com/2026/10/502114.html",
+      "excerpt": "江淮再度跌停",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "微软公布 XGP 订阅 10 月入库阵容：《战地 6》领衔",
-      "url": "https://www.ithome.com/1/010/661.htm",
-      "excerpt": "IT之家 10 月 8 日消息，微软现已公布 2026 年 10 月 XBOX Game Pass 入库游戏。本月有《战地 6》领衔，还有《不朽遗志》等作品。IT之家整理 XGP 本月新增游戏如下：游戏名入库时间覆盖订阅层级登陆平台《回声织者》10 月 8 日",
-      "src": "IT之家",
-      "tag": "微软",
-      "cat": "tech"
-    },
-    {
-      "title": "华为鸿蒙 HarmonyOS 7 系统更多机型 Beta 转公测，覆盖 Mate 60 系列等",
-      "url": "https://www.ithome.com/1/010/660.htm",
-      "excerpt": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏IT之家附华为鸿蒙 Har",
-      "src": "IT之家",
-      "tag": "华为",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "ChatGPT",
-      "GPT-6",
       "造物",
       "指纹钥匙给",
-      "上锁"
+      "上锁",
+      "ChatGPT",
+      "IUI"
     ],
     "app": [
-      "OpenAI",
-      "Codex",
-      "Work",
-      "TikTok",
       "AI",
-      "天计划」"
+      "我使用国产「个人",
+      "助手」的十天",
+      "上新",
+      "Gemini",
+      "Agent"
     ],
     "enterprise": [
+      "攻克超声穿颅读脑",
+      "拿下",
+      "亿元新融资",
       "PreIPO",
       "Meta",
-      "Claude",
-      "派拉蒙",
-      "月之暗面被曝完成",
-      "亿美元"
+      "Claude"
     ]
   },
   "hotwords": [
@@ -166,81 +158,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "ChatGPT",
-      "wt": 0.65
+      "w": "我使用国产「个人",
+      "wt": 0.45
     },
     {
-      "w": "Claude",
-      "wt": 0.65
+      "w": "助手」的十天",
+      "wt": 0.45
     },
     {
-      "w": "Mate",
-      "wt": 0.65
+      "w": "上新",
+      "wt": 0.45
     },
     {
-      "w": "OpenAI",
-      "wt": 0.65
+      "w": "攻克超声穿颅读脑",
+      "wt": 0.45
     },
     {
-      "w": "GPT-6",
-      "wt": 0.65
+      "w": "拿下",
+      "wt": 0.45
+    },
+    {
+      "w": "亿元新融资",
+      "wt": 0.45
+    },
+    {
+      "w": "Gemini",
+      "wt": 0.45
+    },
+    {
+      "w": "Agent",
+      "wt": 0.45
+    },
+    {
+      "w": "Manus",
+      "wt": 0.45
+    },
+    {
+      "w": "Robotaxi",
+      "wt": 0.45
+    },
+    {
+      "w": "谷歌云发布",
+      "wt": 0.45
+    },
+    {
+      "w": "官宣五亿美元融资",
+      "wt": 0.45
+    },
+    {
+      "w": "小鹏上线",
+      "wt": 0.45
+    },
+    {
+      "w": "打车小程序",
+      "wt": 0.45
     },
     {
       "w": "造物",
-      "wt": 0.5
+      "wt": 0.45
     },
     {
       "w": "指纹钥匙给",
-      "wt": 0.5
+      "wt": 0.45
     },
     {
       "w": "上锁",
-      "wt": 0.5
+      "wt": 0.45
+    },
+    {
+      "w": "ChatGPT",
+      "wt": 0.45
     },
     {
       "w": "IUI",
-      "wt": 0.5
-    },
-    {
-      "w": "Playground",
-      "wt": 0.5
-    },
-    {
-      "w": "LG",
-      "wt": 0.5
-    },
-    {
-      "w": "推出全新",
-      "wt": 0.5
-    },
-    {
-      "w": "智能用户界面",
-      "wt": 0.5
-    },
-    {
-      "w": "谷歌推出试验性",
-      "wt": 0.5
-    },
-    {
-      "w": "游戏平台",
-      "wt": 0.5
-    },
-    {
-      "w": "苹果被曝联合",
-      "wt": 0.5
-    },
-    {
-      "w": "开发门锁",
-      "wt": 0.5
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.5
-    },
-    {
-      "w": "PreIPO",
-      "wt": 0.5
+      "wt": 0.45
     }
   ],
-  "total": 16
+  "total": 15
 };
