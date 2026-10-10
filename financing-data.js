@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-10 15:47",
- "total": 820,
+ "updated": "2026-10-10 19:51",
+ "total": 831,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,147 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2011584068978434",
+   "date": "2026-10-09",
+   "name": "百趣生物",
+   "desc": "生命科学前沿研究技术服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "近亿元人民币",
+   "investors": "中信建投资本、启明创投",
+   "url": "https://pitchhub.36kr.com/project/2011584068978434",
+   "province": "上海市"
+  },
+  {
+   "id": "2046160451461509",
+   "date": "2026-10-09",
+   "name": "金瑞泓微电子",
+   "desc": "大尺寸半导体硅片的研发、生产和销售",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "立昂微电子",
+   "url": "https://pitchhub.36kr.com/project/2046160451461509",
+   "province": "浙江省"
+  },
+  {
+   "id": "4020185217475715",
+   "date": "2026-10-09",
+   "name": "一汽丰田",
+   "desc": "一汽丰田汽车资讯app",
+   "industry": [
+    "文化娱乐"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "广汽集团",
+   "url": "https://pitchhub.36kr.com/project/4020185217475715",
+   "province": "天津市"
+  },
+  {
+   "id": "1881984155994118",
+   "date": "2026-10-08",
+   "name": "数澈软件",
+   "desc": "开发者友好的平台工程解决方案",
+   "industry": [
+    "企业服务",
+    "工具软件"
+   ],
+   "round": "Pre-A轮",
+   "amount": "5000万人民币",
+   "investors": "水华未来、富华资本",
+   "url": "https://pitchhub.36kr.com/project/1881984155994118",
+   "province": "广东省"
+  },
+  {
+   "id": "1958621818311689",
+   "date": "2026-10-08",
+   "name": "汉腾生物",
+   "desc": "蛋白制品生产商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "四环医药",
+   "url": "https://pitchhub.36kr.com/project/1958621818311689",
+   "province": "广东省"
+  },
+  {
+   "id": "1678247399764997",
+   "date": "2026-10-08",
+   "name": "中材科技",
+   "desc": "纤维复合材料及产品生产商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "定向增发",
+   "amount": "44.81亿人民币",
+   "investors": "中国建材、中衍期货、国泰海通资管、华泰资产、诺德基金、财通基金、中国人寿、易方达私募、瑞银集团、大家资产、嘉实资本、惠华基金、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1678247399764997",
+   "province": "江苏省"
+  },
+  {
+   "id": "2204954344370560",
+   "date": "2026-10-08",
+   "name": "乐庭智联",
+   "desc": "提供电线电缆产品供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "战略融资",
+   "amount": "3亿人民币",
+   "investors": "沃尔核材、东莞金辉煌、乐融资本",
+   "url": "https://pitchhub.36kr.com/project/2204954344370560",
+   "province": "广东省"
+  },
+  {
+   "id": "1679668765266696",
+   "date": "2026-10-08",
+   "name": "福蓉科技",
+   "desc": "消费电子产品零配件研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "定向增发",
+   "amount": "3亿人民币",
+   "investors": "丽水富处基金、财通基金、诺德基金、福能兴业、鹿秀投资、西藏国资运营公司、宁聚投资、华夏基金、东海基金、至简私募基金、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1679668765266696",
+   "province": "四川省"
+  },
+  {
+   "id": "2012742883985155",
+   "date": "2026-10-08",
+   "name": "芯泰通信",
+   "desc": "国内光通信产品制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "1.62亿人民币",
+   "investors": "纳睿雷达",
+   "url": "https://pitchhub.36kr.com/project/2012742883985155",
+   "province": "广东省"
+  },
+  {
+   "id": "2066613366652930",
+   "date": "2026-10-07",
+   "name": "鲁铭股份",
+   "desc": "耐火材料研发制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "4349万人民币",
+   "investors": "未名医药",
+   "url": "https://pitchhub.36kr.com/project/2066613366652930",
+   "province": "山东省"
+  },
+  {
    "id": "4017352467129475",
    "date": "2026-10-07",
    "name": "佩尔科技",
@@ -171,6 +312,20 @@ window.__FINANCING_DATA__ = {
    "investors": "精智达、中车新投",
    "url": "https://pitchhub.36kr.com/project/1817518008633221",
    "province": "北京市"
+  },
+  {
+   "id": "2340512158497796",
+   "date": "2026-09-29",
+   "name": "芯聚德科技",
+   "desc": "科技型IC载板制造企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "安徽高新投",
+   "url": "https://pitchhub.36kr.com/project/2340512158497796",
+   "province": "安徽省"
   },
   {
    "id": "2193796002555528",
