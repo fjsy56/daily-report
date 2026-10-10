@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-08 17:46",
- "total": 809,
+ "updated": "2026-10-10 15:47",
+ "total": 820,
  "industries": [
   "产业升级",
   "企业服务",
@@ -42,6 +42,7 @@ window.__FINANCING_DATA__ = {
   "C轮",
   "D+轮",
   "D轮",
+  "E+轮",
   "E轮",
   "F轮",
   "G轮",
@@ -172,6 +173,63 @@ window.__FINANCING_DATA__ = {
    "province": "北京市"
   },
   {
+   "id": "2193796002555528",
+   "date": "2026-09-29",
+   "name": "中瑞宏芯",
+   "desc": "技术专家创办的碳化硅半导体商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B++轮",
+   "amount": "未透露",
+   "investors": "东吴创新资本、宁波工投、金浦投资、苏州战新基金、镇海产业基金、南通战新私募基金、新国联集团、江阴高新金投",
+   "url": "https://pitchhub.36kr.com/project/2193796002555528",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678254240035849",
+   "date": "2026-09-29",
+   "name": "丰翼无人机",
+   "desc": "无人机研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "纳珍谷谦",
+   "url": "https://pitchhub.36kr.com/project/1678254240035849",
+   "province": "广东省"
+  },
+  {
+   "id": "1873918765546371",
+   "date": "2026-09-29",
+   "name": "数字光芯",
+   "desc": "数字光场芯片研发商",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "毅达资本、国联金投和合基金",
+   "url": "https://pitchhub.36kr.com/project/1873918765546371",
+   "province": "广东省"
+  },
+  {
+   "id": "3071219632467586",
+   "date": "2026-09-29",
+   "name": "凯德维斯",
+   "desc": "生物技术服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "普朗克创投、招赢医联新医疗基金、清控银杏、渤信资本、中琉资本、长江产业集团、佰诺资本",
+   "url": "https://pitchhub.36kr.com/project/3071219632467586",
+   "province": "湖北省"
+  },
+  {
    "id": "3594092999291776",
    "date": "2026-09-29",
    "name": "比特智路",
@@ -240,6 +298,106 @@ window.__FINANCING_DATA__ = {
    "investors": "南山战新投",
    "url": "https://pitchhub.36kr.com/project/2011637843232516",
    "province": "广东省"
+  },
+  {
+   "id": "1679631783105280",
+   "date": "2026-09-28",
+   "name": "牧星科技",
+   "desc": "无人机研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "E+轮",
+   "amount": "未透露",
+   "investors": "浙大控股、中银资产",
+   "url": "https://pitchhub.36kr.com/project/1679631783105280",
+   "province": "浙江省"
+  },
+  {
+   "id": "2011616394200578",
+   "date": "2026-09-28",
+   "name": "速智通科技",
+   "desc": "新材料研发商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "国发卓越",
+   "url": "https://pitchhub.36kr.com/project/2011616394200578",
+   "province": "浙江省"
+  },
+  {
+   "id": "2317914333530629",
+   "date": "2026-09-28",
+   "name": "百岁村",
+   "desc": "城市餐饮配套综合运营商",
+   "industry": [
+    "本地生活"
+   ],
+   "round": "股权融资",
+   "amount": "95.36万人民币",
+   "investors": "锦江国际",
+   "url": "https://pitchhub.36kr.com/project/2317914333530629",
+   "province": "广东省"
+  },
+  {
+   "id": "4020184807367814",
+   "date": "2026-09-28",
+   "name": "量安科技",
+   "desc": "网络空间安全产品和服务提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "上城资本、建元基金、洪山资本、台州国运集团、本坚基金、三花弘道、财通资本",
+   "url": "https://pitchhub.36kr.com/project/4020184807367814",
+   "province": "浙江省"
+  },
+  {
+   "id": "2074503595720964",
+   "date": "2026-09-28",
+   "name": "中核华辉",
+   "desc": "核电建造领域信息化解决方案提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中国雄安集团、中核集团",
+   "url": "https://pitchhub.36kr.com/project/2074503595720964",
+   "province": "北京市"
+  },
+  {
+   "id": "2094216374324104",
+   "date": "2026-09-28",
+   "name": "吉得利",
+   "desc": "调味品生产商",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "D+轮",
+   "amount": "未透露",
+   "investors": "蚌埠国控集团、物产中大投资、嘉祐基金",
+   "url": "https://pitchhub.36kr.com/project/2094216374324104",
+   "province": "江苏省"
+  },
+  {
+   "id": "2611407680246153",
+   "date": "2026-09-28",
+   "name": "阿奈索三维",
+   "desc": "连续纤维3D打印专家",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "元禾璞华",
+   "url": "https://pitchhub.36kr.com/project/2611407680246153",
+   "province": "江苏省"
   },
   {
    "id": "1679761280045824",
