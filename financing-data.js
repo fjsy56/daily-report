@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-10 19:51",
- "total": 831,
+ "updated": "2026-10-11 17:28",
+ "total": 838,
  "industries": [
   "产业升级",
   "企业服务",
@@ -227,6 +227,77 @@ window.__FINANCING_DATA__ = {
    "province": "广东省"
   },
   {
+   "id": "1726193539562245",
+   "date": "2026-10-07",
+   "name": "WEFLY",
+   "desc": "电动垂直起降航空器制造商和运营商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "战略融资",
+   "amount": "近亿人民币",
+   "investors": "苏创投、江苏省战新未来天使基金、相城投控集团、渶策资本、线性资本",
+   "url": "https://pitchhub.36kr.com/project/1726193539562245",
+   "province": "江苏省"
+  },
+  {
+   "id": "1958597203039236",
+   "date": "2026-10-07",
+   "name": "国盛量子",
+   "desc": "量子工业技术服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "Pre-A轮",
+   "amount": "数千万人民币",
+   "investors": "武汉高科",
+   "url": "https://pitchhub.36kr.com/project/1958597203039236",
+   "province": "安徽省"
+  },
+  {
+   "id": "1678343687386121",
+   "date": "2026-10-07",
+   "name": "启元气体",
+   "desc": "电子气体生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "新亚制程",
+   "url": "https://pitchhub.36kr.com/project/1678343687386121",
+   "province": "上海市"
+  },
+  {
+   "id": "3076766929251977",
+   "date": "2026-10-07",
+   "name": "清创元灵",
+   "desc": "人工智能应用软件开发，网络与信息安全",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "海南元佑",
+   "url": "https://pitchhub.36kr.com/project/3076766929251977",
+   "province": "广东省"
+  },
+  {
+   "id": "2040716496706176",
+   "date": "2026-10-07",
+   "name": "众钠能源",
+   "desc": "钠离子电池研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "数亿人民币",
+   "investors": "未披露",
+   "url": "https://pitchhub.36kr.com/project/2040716496706176",
+   "province": "江苏省"
+  },
+  {
    "id": "2066613366652930",
    "date": "2026-10-07",
    "name": "鲁铭股份",
@@ -312,6 +383,34 @@ window.__FINANCING_DATA__ = {
    "investors": "精智达、中车新投",
    "url": "https://pitchhub.36kr.com/project/1817518008633221",
    "province": "北京市"
+  },
+  {
+   "id": "2012746747987713",
+   "date": "2026-09-29",
+   "name": "康众生物",
+   "desc": "传染病及恶性肿瘤药物研发商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "香商股投",
+   "url": "https://pitchhub.36kr.com/project/2012746747987713",
+   "province": "北京市"
+  },
+  {
+   "id": "1678541604664321",
+   "date": "2026-09-29",
+   "name": "海博为药业",
+   "desc": "医药研发企业",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "鹏来私募基金、横店资本、渝富高质产业母基金、约印医疗基金、成都科创投集团",
+   "url": "https://pitchhub.36kr.com/project/1678541604664321",
+   "province": "四川省"
   },
   {
    "id": "2340512158497796",
