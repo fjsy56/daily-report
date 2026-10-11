@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "tech": [
+    {
+      "title": "观察｜残酷真相：AI轰轰烈烈扩张，却在悄悄地向我们收一笔AI隐形税",
+      "url": "https://www.huxiu.com/article/4896622.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "天阳科技买2万张英伟达GPU，为何不发公告？",
+      "url": "https://www.huxiu.com/article/4896619.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "英伟达",
+      "cat": "tech"
+    },
+    {
+      "title": "VC的钱，正追着智驾“老炮儿”跑",
+      "url": "https://www.huxiu.com/article/4896609.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "自动驾驶",
+      "cat": "tech"
+    },
+    {
+      "title": "大搞硬件矩阵的苹果，还是没把大象放进冰箱",
+      "url": "https://www.huxiu.com/article/4896607.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "小小中微子凭什么五夺诺奖？",
+      "url": "https://www.huxiu.com/article/4896596.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "记录生生不息的创新力量｜2026 年度「InnoForce 50」启动",
       "url": "http://www.geekpark.net/news/372195",
@@ -10,57 +50,17 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "excerpt": "马斯克反而发文道谢？",
-      "src": "量子位",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "excerpt": "大写的方便",
+      "title": "王的猜想，刚刚扩展到四维",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "excerpt": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "excerpt": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "excerpt": "答不答得对，得看Token站位",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "tech"
-    },
-    {
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "excerpt": "Google 研究成果首次登上《柳叶刀》主刊",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "url": "https://www.qbitai.com/2026/10/502330.html",
-      "excerpt": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "excerpt": "马斯克连横A社，硅谷VC开始囤GPU",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -84,23 +84,47 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序",
-      "url": "http://www.geekpark.net/news/372143",
-      "excerpt": "谷歌云发布 Gemini Agent，支持多种 AI 模型 10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini",
-      "src": "极客公园",
-      "tag": "谷歌",
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "url": "https://www.qbitai.com/2026/10/502544.html",
+      "excerpt": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+      "src": "量子位",
+      "tag": "DeepSeek",
       "cat": "app"
     },
     {
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "excerpt": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "url": "https://www.qbitai.com/2026/10/502541.html",
+      "excerpt": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
       "src": "量子位",
-      "tag": "英伟达",
-      "cat": "tech"
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+      "url": "https://www.qbitai.com/2026/10/502496.html",
+      "excerpt": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
     }
   ],
   "enterprise": [
+    {
+      "title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
+      "url": "http://www.geekpark.net/news/372213",
+      "excerpt": "图片来源：吉利银河 「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。 就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+      "url": "http://www.geekpark.net/news/372216",
+      "excerpt": "马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "enterprise"
+    },
     {
       "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
       "url": "http://www.geekpark.net/news/372184",
@@ -110,46 +134,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
-      "url": "http://www.geekpark.net/news/372148",
-      "excerpt": "一家深圳公司，让实时「看清」人类大脑变成了可能。 极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。 在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。 一边是价值数百万的海外顶级旗舰彩",
-      "src": "极客公园",
-      "tag": "英伟达",
+      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+      "url": "https://www.qbitai.com/2026/10/502492.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "融资",
       "cat": "enterprise"
-    },
-    {
-      "title": "特斯拉在美最新 Model 3 / Y 车型已支持 V2H 家庭备用供电",
-      "url": "https://www.ithome.com/1/011/465.htm",
-      "excerpt": "IT之家 10 月 10 日消息，Tesla（特斯拉）官方近日宣布，本月 1 日起在美国和波多黎各市场订购的新款 Model 3 / Y 已支持 Powershare 家庭备用供电功能。与 Cybertruck 不同的是，Model 3 / Y 的 V2H 必",
-      "src": "IT之家",
-      "tag": "马斯克",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "InnoForce",
-      "FSD",
-      "在欧洲被打回原形",
-      "TRAE",
-      "Code",
-      "Work"
+      "AI",
+      "观察",
+      "残酷真相",
+      "GPU",
+      "为何不发公告",
+      "VC"
     ],
     "app": [
       "AI",
       "我使用国产「个人",
       "助手」的十天",
       "上新",
-      "Gemini",
-      "Agent"
+      "DeepSeek",
+      "Bot"
     ],
     "enterprise": [
-      "AI",
       "Jev",
-      "OpenAI",
-      "Anthropic",
-      "开发商估值已达",
-      "亿美元"
+      "AI",
+      "分钟订单破万",
+      "吉利银河战舰",
+      "SpaceX",
+      "马斯克豪言"
     ]
   },
   "hotwords": [
@@ -158,81 +174,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "InnoForce",
-      "wt": 0.47
+      "w": "Jev",
+      "wt": 0.5
     },
     {
-      "w": "Jev",
-      "wt": 0.47
+      "w": "观察",
+      "wt": 0.42
+    },
+    {
+      "w": "残酷真相",
+      "wt": 0.42
+    },
+    {
+      "w": "GPU",
+      "wt": 0.42
+    },
+    {
+      "w": "为何不发公告",
+      "wt": 0.42
+    },
+    {
+      "w": "VC",
+      "wt": 0.42
+    },
+    {
+      "w": "分钟订单破万",
+      "wt": 0.42
+    },
+    {
+      "w": "吉利银河战舰",
+      "wt": 0.42
+    },
+    {
+      "w": "SpaceX",
+      "wt": 0.42
+    },
+    {
+      "w": "马斯克豪言",
+      "wt": 0.42
+    },
+    {
+      "w": "遭拉表打脸",
+      "wt": 0.42
+    },
+    {
+      "w": "InnoForce",
+      "wt": 0.42
     },
     {
       "w": "OpenAI",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "Anthropic",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "开发商估值已达",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "亿美元",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "苹果投资",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "音频初创",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
       "w": "高管私下推演",
-      "wt": 0.47
-    },
-    {
-      "w": "灾难场景",
-      "wt": 0.47
-    },
-    {
-      "w": "我使用国产「个人",
-      "wt": 0.47
-    },
-    {
-      "w": "助手」的十天",
-      "wt": 0.47
-    },
-    {
-      "w": "上新",
-      "wt": 0.47
-    },
-    {
-      "w": "攻克超声穿颅读脑",
-      "wt": 0.47
-    },
-    {
-      "w": "拿下",
-      "wt": 0.47
-    },
-    {
-      "w": "亿元新融资",
-      "wt": 0.47
-    },
-    {
-      "w": "Gemini",
-      "wt": 0.47
-    },
-    {
-      "w": "Agent",
-      "wt": 0.47
-    },
-    {
-      "w": "Manus",
-      "wt": 0.47
+      "wt": 0.42
     }
   ],
-  "total": 15
+  "total": 17
 };
