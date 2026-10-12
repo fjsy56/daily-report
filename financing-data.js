@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-11 17:28",
- "total": 838,
+ "updated": "2026-10-12 17:29",
+ "total": 844,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,92 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1679675227493124",
+   "date": "2026-10-11",
+   "name": "空御科技",
+   "desc": "复杂电子设备研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "华盈创投",
+   "url": "https://pitchhub.36kr.com/project/1679675227493124",
+   "province": "四川省"
+  },
+  {
+   "id": "1784378239166084",
+   "date": "2026-10-10",
+   "name": "庞伯特",
+   "desc": "通过人工智能、机器人技术赋能传统体育娱乐",
+   "industry": [
+    "物联网/硬件",
+    "智能硬件"
+   ],
+   "round": "B轮",
+   "amount": "数亿人民币",
+   "investors": "上海国投先导、元禾璞华、浦东创投集团、蓝驰创投",
+   "url": "https://pitchhub.36kr.com/project/1784378239166084",
+   "province": "上海市"
+  },
+  {
+   "id": "2066610332598276",
+   "date": "2026-10-09",
+   "name": "伏尔坎",
+   "desc": "定制多功能智能运输装备的设计制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "投控东海",
+   "url": "https://pitchhub.36kr.com/project/2066610332598276",
+   "province": "江苏省"
+  },
+  {
+   "id": "2011458567193864",
+   "date": "2026-10-09",
+   "name": "海纳半导体",
+   "desc": "半导体材料及器件生产商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "定向增发",
+   "amount": "1.13亿人民币",
+   "investors": "新微资本、众合科技、华祥石墨制品、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/2011458567193864",
+   "province": "浙江省"
+  },
+  {
+   "id": "2011601087972871",
+   "date": "2026-10-09",
+   "name": "墨现科技",
+   "desc": "新型柔性压力传感器研发生产商",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "A+轮",
+   "amount": "数千万人民币",
+   "investors": "自变量机器人、松山湖科学城集团、某头部具身智能公司、清水湾基金",
+   "url": "https://pitchhub.36kr.com/project/2011601087972871",
+   "province": "广东省"
+  },
+  {
+   "id": "3076756426256004",
+   "date": "2026-10-09",
+   "name": "秦氢元",
+   "desc": "车载氢燃料电池用超高速空气压缩机研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "数千万人民币",
+   "investors": "上海宝合实业股份",
+   "url": "https://pitchhub.36kr.com/project/3076756426256004",
+   "province": "陕西省"
+  },
   {
    "id": "2011584068978434",
    "date": "2026-10-09",
