@@ -1,44 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "tech": [
     {
-      "title": "观察｜残酷真相：AI轰轰烈烈扩张，却在悄悄地向我们收一笔AI隐形税",
-      "url": "https://www.huxiu.com/article/4896622.html",
+      "title": "对话王煜全：AI时代，每个人都要成为刘邦",
+      "url": "https://www.huxiu.com/article/4896901.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "天阳科技买2万张英伟达GPU，为何不发公告？",
-      "url": "https://www.huxiu.com/article/4896619.html",
+      "title": "对话王煜全：未来全球AI市场可能三七开，中国七美国三",
+      "url": "https://www.huxiu.com/article/4896900.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "英伟达",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "VC的钱，正追着智驾“老炮儿”跑",
-      "url": "https://www.huxiu.com/article/4896609.html",
+      "title": "Anthropic证明：为什么一个“会干活”的政务智能体是危险的？",
+      "url": "https://www.huxiu.com/article/4896899.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "自动驾驶",
+      "tag": "Agent",
       "cat": "tech"
     },
     {
-      "title": "大搞硬件矩阵的苹果，还是没把大象放进冰箱",
-      "url": "https://www.huxiu.com/article/4896607.html",
+      "title": "拒绝“AI羞耻”，年轻人懒得装了",
+      "url": "https://www.huxiu.com/article/4896898.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "尚未盈利的可灵AI，已被标价千亿",
+      "url": "https://www.huxiu.com/article/4896887.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
+      "url": "http://www.geekpark.net/news/372218",
+      "excerpt": "陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明 10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，",
+      "src": "极客公园",
       "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "小小中微子凭什么五夺诺奖？",
-      "url": "https://www.huxiu.com/article/4896596.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -50,19 +58,11 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "王的猜想，刚刚扩展到四维",
-      "url": "https://www.qbitai.com/2026/10/502584.html",
-      "excerpt": "",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "excerpt": "游戏打到21:0，AI甚至不用再调用大模型了",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "excerpt": "马斯克连横A社，硅谷VC开始囤GPU",
-      "src": "量子位",
-      "tag": "行业动态",
+      "tag": "华为",
       "cat": "tech"
     }
   ],
@@ -76,36 +76,28 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
-      "url": "http://www.geekpark.net/news/372163",
-      "excerpt": "过去一年，AI 产品越来越想变成一个「人」。 一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。 而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "url": "https://www.qbitai.com/2026/10/502544.html",
-      "excerpt": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "url": "https://www.qbitai.com/2026/10/502541.html",
-      "excerpt": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "excerpt": "多模态模型的视觉原生Harness，来了！",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "url": "https://www.qbitai.com/2026/10/502496.html",
-      "excerpt": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
-      "src": "量子位",
-      "tag": "行业动态",
+      "title": "微软详解 Edge 浏览器全新 AI 故障排查功能：整体类似聊天机器人，经用户同意后才会收集诊断数据",
+      "url": "https://www.ithome.com/1/012/069.htm",
+      "excerpt": "IT之家 10 月 12 日消息，微软发文，对旗下 Edge 浏览器引入的“修复问题（Fix an isuue）”全新 AI 故障排查功能进行介绍，明确相应功能仅在用户主动启动排查流程并授权后，才会收集用户设备数据，且数据收集范围仅限于当前会话、仅用于排查故障",
+      "src": "IT之家",
+      "tag": "微软",
       "cat": "app"
+    },
+    {
+      "title": "智谱新模型，490 tokens/s！",
+      "url": "https://www.qbitai.com/2026/10/502649.html",
+      "excerpt": "GLM「速度仙人」来了？",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
     }
   ],
   "enterprise": [
@@ -134,38 +126,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-      "url": "https://www.qbitai.com/2026/10/502492.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "融资",
+      "title": "英特尔、博通 CEO 齐发预警：资金短缺可能成为 AI 发展最大瓶颈",
+      "url": "https://www.ithome.com/1/012/061.htm",
+      "excerpt": "IT之家 10 月 12 日消息，据科技媒体 CNBC 今天报道，英特尔 CEO 陈立武、博通 CEO 陈福阳警告称，尽管计算基础设施需求持续超过供应能力，但资金可能成为 AI 发展的最大瓶颈。陈福阳表示，随着整个行业竞相建设基础设施，融资相比半导体、存储和电",
+      "src": "IT之家",
+      "tag": "行业动态",
       "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "观察",
-      "残酷真相",
-      "GPU",
-      "为何不发公告",
-      "VC"
+      "对话王煜全",
+      "中国七美国三",
+      "Anthropic",
+      "年轻人懒得装了",
+      "已被标价千亿"
     ],
     "app": [
+      "Harness",
+      "Edge",
       "AI",
-      "我使用国产「个人",
-      "助手」的十天",
-      "上新",
-      "DeepSeek",
-      "Bot"
+      "微软详解",
+      "浏览器全新",
+      "故障排查功能"
     ],
     "enterprise": [
-      "Jev",
       "AI",
       "分钟订单破万",
       "吉利银河战舰",
       "SpaceX",
-      "马斯克豪言"
+      "马斯克豪言",
+      "遭拉表打脸"
     ]
   },
   "hotwords": [
@@ -174,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Jev",
-      "wt": 0.5
-    },
-    {
-      "w": "观察",
-      "wt": 0.42
-    },
-    {
-      "w": "残酷真相",
-      "wt": 0.42
-    },
-    {
-      "w": "GPU",
-      "wt": 0.42
-    },
-    {
-      "w": "为何不发公告",
-      "wt": 0.42
-    },
-    {
-      "w": "VC",
-      "wt": 0.42
-    },
-    {
-      "w": "分钟订单破万",
-      "wt": 0.42
-    },
-    {
-      "w": "吉利银河战舰",
-      "wt": 0.42
-    },
-    {
-      "w": "SpaceX",
-      "wt": 0.42
-    },
-    {
-      "w": "马斯克豪言",
-      "wt": 0.42
-    },
-    {
-      "w": "遭拉表打脸",
-      "wt": 0.42
-    },
-    {
-      "w": "InnoForce",
-      "wt": 0.42
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.42
+      "w": "对话王煜全",
+      "wt": 0.46
     },
     {
       "w": "Anthropic",
-      "wt": 0.42
+      "wt": 0.46
     },
     {
-      "w": "开发商估值已达",
-      "wt": 0.42
+      "w": "中国七美国三",
+      "wt": 0.4
     },
     {
-      "w": "亿美元",
-      "wt": 0.42
+      "w": "年轻人懒得装了",
+      "wt": 0.4
     },
     {
-      "w": "苹果投资",
-      "wt": 0.42
+      "w": "已被标价千亿",
+      "wt": 0.4
     },
     {
-      "w": "音频初创",
-      "wt": 0.42
+      "w": "iPhone",
+      "wt": 0.4
     },
     {
-      "w": "高管私下推演",
-      "wt": 0.42
+      "w": "Claude",
+      "wt": 0.4
+    },
+    {
+      "w": "尊界",
+      "wt": 0.4
+    },
+    {
+      "w": "月起陆续升级踏板",
+      "wt": 0.4
+    },
+    {
+      "w": "折叠屏国内预约超",
+      "wt": 0.4
+    },
+    {
+      "w": "个月",
+      "wt": 0.4
+    },
+    {
+      "w": "超千万",
+      "wt": 0.4
+    },
+    {
+      "w": "账户被封杀",
+      "wt": 0.4
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.4
+    },
+    {
+      "w": "分钟订单破万",
+      "wt": 0.4
+    },
+    {
+      "w": "吉利银河战舰",
+      "wt": 0.4
+    },
+    {
+      "w": "SpaceX",
+      "wt": 0.4
+    },
+    {
+      "w": "马斯克豪言",
+      "wt": 0.4
+    },
+    {
+      "w": "遭拉表打脸",
+      "wt": 0.4
     }
   ],
-  "total": 17
+  "total": 16
 };
