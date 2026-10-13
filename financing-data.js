@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-13 15:40",
- "total": 849,
+ "updated": "2026-10-13 21:02",
+ "total": 853,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "3185083780363526",
+   "date": "2026-10-12",
+   "name": "一盛新材料",
+   "desc": "国内高新顶尖金属复合材料的高科技企业",
+   "industry": [
+    "产业升级"
+   ],
+   "round": "A+轮",
+   "amount": "近亿人民币",
+   "investors": "元禾璞华、长江创新投资、中信建投资本、邦盛资本、丰源投资、银泰集团、中关村发展启航产业投资基金",
+   "url": "https://pitchhub.36kr.com/project/3185083780363526",
+   "province": "黑龙江省"
+  },
   {
    "id": "1679675227493124",
    "date": "2026-10-11",
@@ -226,6 +240,48 @@ window.__FINANCING_DATA__ = {
    "investors": "广汽集团",
    "url": "https://pitchhub.36kr.com/project/4020185217475715",
    "province": "天津市"
+  },
+  {
+   "id": "1817515212752772",
+   "date": "2026-10-08",
+   "name": "脑虎科技NeuroXess",
+   "desc": "侵入式脑机接口生命科技公司",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "共青城行远创投、深创投、曦晨资本、中芯聚源、国投聚力",
+   "url": "https://pitchhub.36kr.com/project/1817515212752772",
+   "province": "上海市"
+  },
+  {
+   "id": "2011454105568512",
+   "date": "2026-10-08",
+   "name": "赛立维",
+   "desc": "生物医药产品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "富智阳光、初芯基金、新毅控股、华泰紫金投资、隆成资产、维度资本",
+   "url": "https://pitchhub.36kr.com/project/2011454105568512",
+   "province": "上海市"
+  },
+  {
+   "id": "2182753241160073",
+   "date": "2026-10-08",
+   "name": "惠嘉科技",
+   "desc": "电力工程咨询服务公司",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "帅丰电器",
+   "url": "https://pitchhub.36kr.com/project/2182753241160073",
+   "province": "浙江省"
   },
   {
    "id": "1996961782402176",
