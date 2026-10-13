@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-12 17:29",
- "total": 844,
+ "updated": "2026-10-13 15:40",
+ "total": 849,
  "industries": [
   "产业升级",
   "企业服务",
@@ -228,6 +228,35 @@ window.__FINANCING_DATA__ = {
    "province": "天津市"
   },
   {
+   "id": "1996961782402176",
+   "date": "2026-10-08",
+   "name": "芯源新材料",
+   "desc": "打造高端半导体用封装界面材料民族品牌",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "雄塑科技",
+   "url": "https://pitchhub.36kr.com/project/1996961782402176",
+   "province": "广东省"
+  },
+  {
+   "id": "1678541796537352",
+   "date": "2026-10-08",
+   "name": "海外华昇",
+   "desc": "高精度微米及纳米级电子浆料研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "纽尔利资本、同创伟业",
+   "url": "https://pitchhub.36kr.com/project/1678541796537352",
+   "province": "辽宁省"
+  },
+  {
    "id": "1881984155994118",
    "date": "2026-10-08",
    "name": "数澈软件",
@@ -311,6 +340,49 @@ window.__FINANCING_DATA__ = {
    "investors": "纳睿雷达",
    "url": "https://pitchhub.36kr.com/project/2012742883985155",
    "province": "广东省"
+  },
+  {
+   "id": "1678420966487042",
+   "date": "2026-10-07",
+   "name": "建研院",
+   "desc": "建筑行业技术研究与应用服务提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "瀚启投资",
+   "url": "https://pitchhub.36kr.com/project/1678420966487042",
+   "province": "江苏省"
+  },
+  {
+   "id": "2180560652438916",
+   "date": "2026-10-07",
+   "name": "安侣医学",
+   "desc": "专注动物诊疗器械领域",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "高瓴创投、HongShan红杉中国",
+   "url": "https://pitchhub.36kr.com/project/2180560652438916",
+   "province": "广东省"
+  },
+  {
+   "id": "3995698810461057",
+   "date": "2026-10-07",
+   "name": "探词科技",
+   "desc": "探词科技是人工智能软件与数字化技术服务商",
+   "industry": [
+    "前沿技术",
+    "广告营销"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "麓星创投",
+   "url": "https://pitchhub.36kr.com/project/3995698810461057",
+   "province": "湖南省"
   },
   {
    "id": "1726193539562245",
