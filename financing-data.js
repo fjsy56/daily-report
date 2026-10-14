@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-13 21:02",
- "total": 853,
+ "updated": "2026-10-14 16:44",
+ "total": 867,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,90 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1679773304230661",
+   "date": "2026-10-12",
+   "name": "辰安科技",
+   "desc": "致力于公共安全和应急技术",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "定向增发",
+   "amount": "14.19亿人民币",
+   "investors": "合肥国投",
+   "url": "https://pitchhub.36kr.com/project/1679773304230661",
+   "province": "北京市"
+  },
+  {
+   "id": "1818800899674245",
+   "date": "2026-10-12",
+   "name": "莫森泰克",
+   "desc": "芜湖莫森泰克汽车科技股份有限公司主营业务为汽车天窗、玻璃升降器等汽车零部件的开发、制造和销售。公司主营业务为汽车零部件的设计、研发、生产、加工、销售及管理咨询服务，目前公司批量研发、生产、销售的主要汽车零部件产品为汽车玻璃升降器和汽车天窗，同时公司正在开发用于新能源汽车核心电控产品和电机独立防夹模块的电子研发技术。",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "IPO",
+   "amount": "2.95亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1818800899674245",
+   "province": "安徽省"
+  },
+  {
+   "id": "1817519533737858",
+   "date": "2026-10-12",
+   "name": "芯百特微电子",
+   "desc": "射频芯片研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "D轮",
+   "amount": "近亿人民币",
+   "investors": "新引擎基金",
+   "url": "https://pitchhub.36kr.com/project/1817519533737858",
+   "province": "广西壮族自治区"
+  },
+  {
+   "id": "1817532544518021",
+   "date": "2026-10-12",
+   "name": "SmartSens思特威",
+   "desc": "图像传感器芯片设计公司",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "32亿人民币",
+   "investors": "华芯投资、重阳投资、恒健控股、J.P. Morgan Securities LLC、大疆创新、奥比中光、上国投资产、湖北省铁路发展基金",
+   "url": "https://pitchhub.36kr.com/project/1817532544518021",
+   "province": "上海市"
+  },
+  {
+   "id": "3421105598576134",
+   "date": "2026-10-12",
+   "name": "荆华密算",
+   "desc": "在保为全球数据安全高效流通作出中国贡献",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "Pre-A轮",
+   "amount": "未透露",
+   "investors": "中关村科学城、北创投",
+   "url": "https://pitchhub.36kr.com/project/3421105598576134",
+   "province": "北京市"
+  },
+  {
+   "id": "2122546042694025",
+   "date": "2026-10-12",
+   "name": "墨光新能",
+   "desc": "新材料技术研发生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "Pre-A++轮",
+   "amount": "未透露",
+   "investors": "卓璞资本、金发科技、粤科金融集团",
+   "url": "https://pitchhub.36kr.com/project/2122546042694025",
+   "province": "江苏省"
+  },
+  {
    "id": "3185083780363526",
    "date": "2026-10-12",
    "name": "一盛新材料",
@@ -112,6 +196,63 @@ window.__FINANCING_DATA__ = {
    "investors": "元禾璞华、长江创新投资、中信建投资本、邦盛资本、丰源投资、银泰集团、中关村发展启航产业投资基金",
    "url": "https://pitchhub.36kr.com/project/3185083780363526",
    "province": "黑龙江省"
+  },
+  {
+   "id": "2144866529920265",
+   "date": "2026-10-11",
+   "name": "福联集成",
+   "desc": "半导体晶圆专工服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "近10亿人民币",
+   "investors": "深创投、兴证投资、福建省电子信息集团、中芯聚源、国家级产业基金、福建投资集团、福建金投、省国资公司、兴业银行、莆田市国有企业、江投集团、华福资本、惠华基金、海洋丝路、福创投",
+   "url": "https://pitchhub.36kr.com/project/2144866529920265",
+   "province": "福建省"
+  },
+  {
+   "id": "1883608562273284",
+   "date": "2026-10-11",
+   "name": "赛瑞克",
+   "desc": "FDCA研发生产商",
+   "industry": [
+    "前沿技术",
+    "能源环保"
+   ],
+   "round": "A轮",
+   "amount": "数亿人民币",
+   "investors": "普华资本、橡果资本、金山资本集团、绿动资本",
+   "url": "https://pitchhub.36kr.com/project/1883608562273284",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679668289147651",
+   "date": "2026-10-11",
+   "name": "福沃药业",
+   "desc": "抗肿瘤创新药物研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "武汉高科、武创投、TG Sino-Dragon Fund",
+   "url": "https://pitchhub.36kr.com/project/1679668289147651",
+   "province": "广东省"
+  },
+  {
+   "id": "3203397938312962",
+   "date": "2026-10-11",
+   "name": "半图科技",
+   "desc": "3D智能交互+极致美学研发应用商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "Pre-A轮",
+   "amount": "超千万美元",
+   "investors": "联想创投、国内及海外一线资本、IDG资本",
+   "url": "https://pitchhub.36kr.com/project/3203397938312962",
+   "province": "上海市"
   },
   {
    "id": "1679675227493124",
@@ -140,6 +281,48 @@ window.__FINANCING_DATA__ = {
    "amount": "数亿人民币",
    "investors": "上海国投先导、元禾璞华、浦东创投集团、蓝驰创投",
    "url": "https://pitchhub.36kr.com/project/1784378239166084",
+   "province": "上海市"
+  },
+  {
+   "id": "1678431679902726",
+   "date": "2026-10-09",
+   "name": "德坤供应链",
+   "desc": "全国性综合物流服务商",
+   "industry": [
+    "物流"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "顺丰投资",
+   "url": "https://pitchhub.36kr.com/project/1678431679902726",
+   "province": "广东省"
+  },
+  {
+   "id": "1678503513142278",
+   "date": "2026-10-09",
+   "name": "术木医疗",
+   "desc": "医疗信息化服务提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "道赋基金",
+   "url": "https://pitchhub.36kr.com/project/1678503513142278",
+   "province": "上海市"
+  },
+  {
+   "id": "1817516427741060",
+   "date": "2026-10-09",
+   "name": "源归材料",
+   "desc": "新材料研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "昆山国科创投、深创投、高瓴创投",
+   "url": "https://pitchhub.36kr.com/project/1817516427741060",
    "province": "上海市"
   },
   {
@@ -240,6 +423,20 @@ window.__FINANCING_DATA__ = {
    "investors": "广汽集团",
    "url": "https://pitchhub.36kr.com/project/4020185217475715",
    "province": "天津市"
+  },
+  {
+   "id": "1984232622242567",
+   "date": "2026-10-08",
+   "name": "奕诺炜特",
+   "desc": "电子专用材料制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "莲湖投资、奥来德",
+   "url": "https://pitchhub.36kr.com/project/1984232622242567",
+   "province": "浙江省"
   },
   {
    "id": "1817515212752772",
