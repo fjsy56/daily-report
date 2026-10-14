@@ -1,35 +1,11 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "tech": [
     {
-      "title": "雷军绕了一圈，又想把小米做成“金山”",
-      "url": "https://www.huxiu.com/article/4897196.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "扒了自由职业平台的数据，我发现普通人赚外快越来越难了",
-      "url": "https://www.huxiu.com/article/4897193.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "中国人4成的时间，献给了字节跳动",
-      "url": "https://www.huxiu.com/article/4897185.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "AI制药狂奔之后，突然踩下刹车",
-      "url": "https://www.huxiu.com/article/4897179.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "说个事：极客公园创新大会 2027！",
+      "url": "http://www.geekpark.net/news/372300",
+      "excerpt": "一年一度：极客公园创新大会 2027，已经启动了。 你大概已经注意到一些不太寻常的事——科技行业真正关心的东西，一直在变。 大模型公司的关注点，过去几年，几个月就一波变化：从追求用户规模，到追求技术的 SOTA 程度；应用公司的产品热点从 Chatbot，到 ",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
@@ -42,31 +18,63 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
-      "url": "http://www.geekpark.net/news/372263",
-      "excerpt": "头图图片来源：REA头图来源：CyberSecurityNews「在应用里看到一个想加入自己产品的功能？让智能体去帮你调查它。」这是 REA 项目主页第一屏的话。后半句更直接：即使没有源代码，智能体也可以检查应用、解释功能怎么工作、展示证据，「并为你的项目实现",
-      "src": "极客公园",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "excerpt": "汽车竞争正在回归汽车本身",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
-      "url": "http://www.geekpark.net/news/372218",
-      "excerpt": "陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明 10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，",
-      "src": "极客公园",
-      "tag": "苹果",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "excerpt": "Winverse AI",
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "url": "https://www.qbitai.com/2026/10/503198.html",
+      "excerpt": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
       "src": "量子位",
-      "tag": "DeepSeek",
+      "tag": "芯片",
+      "cat": "tech"
+    },
+    {
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "excerpt": "给Ego补上缺失的交互信息",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "excerpt": "从“懂空间”到“能干活”",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "excerpt": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
+      "url": "http://www.geekpark.net/news/372304",
+      "excerpt": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息，Gemini 4 Argon现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 G",
+      "src": "极客公园",
+      "tag": "谷歌",
+      "cat": "app"
+    },
     {
       "title": "上线九个月下载破亿，字节在海外再造「红果」",
       "url": "http://www.geekpark.net/news/372284",
@@ -76,37 +84,29 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "url": "https://www.qbitai.com/2026/10/502992.html",
-      "excerpt": "宝马保时捷缺席",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "excerpt": "这妥妥是个物理版Agent啊！",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "excerpt": "让材料感知压力，造出超薄高密度电子皮肤",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "excerpt": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
       "src": "量子位",
-      "tag": "华为",
-      "cat": "app"
-    },
-    {
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "url": "https://www.qbitai.com/2026/10/502920.html",
-      "excerpt": "拉马克进化的幽灵",
-      "src": "量子位",
-      "tag": "行业动态",
+      "tag": "大模型",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "被字节开除员工估值2亿美元，“被投毒方陈述”流出",
-      "url": "https://www.huxiu.com/article/4897159.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "字节",
+      "title": "苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元",
+      "url": "http://www.geekpark.net/news/372302",
+      "excerpt": "头图来源：Apple 官网北京时间 10 月 13 日晚，苹果召开了一次主题为「欢迎回家」的新品发布会，苹果这次放进客厅的新东西，是一块 7 英寸的屏幕。它叫 Apple HomeView，美国售价 299 美元，10 月 13 日开放预订，11 月 13 日",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "enterprise"
     },
     {
@@ -118,68 +118,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
-      "url": "http://www.geekpark.net/news/372213",
-      "excerpt": "图片来源：吉利银河 「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。 就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，",
-      "src": "极客公园",
+      "title": "苹果库克现身爱奇艺总部，爱奇艺 CEO 龚宇亲自接待",
+      "url": "https://www.ithome.com/1/012/964.htm",
+      "excerpt": "IT之家 10 月 14 日消息，据多位博主 / 网友分享，苹果前首席执行官、现苹果公司董事会执行主席蒂姆 · 库克今日到访了爱奇艺总部，爱奇艺 CEO 龚宇亲自进行接待。从博主 @林十兄 分享的现场照来看，爱奇艺方面准备有其适配苹果设备的历史进程图，可以直观",
+      "src": "IT之家",
+      "tag": "苹果",
+      "cat": "enterprise"
+    },
+    {
+      "title": "宏碁非凡 GO 迷你电脑主机新增英特尔 N150 配置：8+512GB 存储，2699 元",
+      "url": "https://www.ithome.com/1/012/970.htm",
+      "excerpt": "IT之家 10 月 14 日消息，宏碁非凡 GO 迷你主机新增了一款搭载英特尔 N150 处理器（Twin Lake）的配置，采用 8GB 内存 + 512GB SSD 存储，定价为 2699 元。N150 处理器为 4 核 4 线程设计，最大睿频频率可达 3",
+      "src": "IT之家",
       "tag": "行业动态",
-      "cat": "enterprise"
-    },
-    {
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-      "url": "https://www.qbitai.com/2026/10/502767.html",
-      "excerpt": "算力、模型、行业，三层生意一起做",
-      "src": "量子位",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "微软 XBOX CEO 夏尔马：我们必须拿出勇气创新，如果再吃老本就完了",
-      "url": "https://www.ithome.com/1/012/542.htm",
-      "excerpt": "IT之家 10 月 13 日消息，据游戏媒体 EuroGamer 今天报道，微软 XBOX CEO 阿莎 · 夏尔马近期召开全员大会。她除了回顾最近一系列组织调整计划以外，还计划打造能够长久发展的全新 IP。夏尔马表示：“我们正加大投入游戏，希望这些优秀游戏能",
-      "src": "IT之家",
-      "tag": "微软",
-      "cat": "enterprise"
-    },
-    {
-      "title": "字节跳动开启新一轮期权回购：每股 241.35 美元，离职员工不打折",
-      "url": "https://www.ithome.com/1/012/539.htm",
-      "excerpt": "10 月 13 日，据大厂日爆，字节跳动发布全员信，宣布启动 2026 年 10 月期权回购。本次回购价格为税前每股 241.35 美元（IT之家注：现汇率约合 1,618 元人民币），与 9 月初流传价格一致。参与此次回购的人员包含离职员工，其中近期因业务调",
-      "src": "IT之家",
-      "tag": "字节",
-      "cat": "enterprise"
-    },
-    {
-      "title": "赛力斯 & 字节合作：赛豆科技 AIVA 第二款车型预计为 SUV，考虑采用换电方案",
-      "url": "https://www.ithome.com/1/012/538.htm",
-      "excerpt": "IT之家 10 月 13 日消息，据蓝鲸新闻今日报道，赛豆科技旗下 AIVA 品牌的第二款车型预计为 SUV，并考虑采用换电方案。知情人士透露，赛豆科技是否与宁德时代“巧克力换电”合作，目前最终方案尚未确定，“还没定义清楚”。IT之家注：“巧克力换电”整体解决",
-      "src": "IT之家",
-      "tag": "字节",
-      "cat": "enterprise"
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "极客早知道",
-      "雷军绕了一圈",
-      "献给了字节跳动",
-      "突然踩下刹车",
-      "Meta"
+      "说个事",
+      "极客公园创新大会",
+      "Meta",
+      "Muse",
+      "Wonder"
     ],
     "app": [
-      "CEO",
-      "让机器人皮肤变色",
-      "Claude",
-      "AI"
+      "STEPX",
+      "Neo",
+      "Siri",
+      "AI",
+      "Gemini",
+      "超越抖音"
     ],
     "enterprise": [
+      "Siri",
+      "苹果给",
+      "售价",
+      "美元",
       "亿融资",
-      "成立两年",
-      "让模型感知",
-      "理解",
-      "响应变化的世界",
-      "分钟订单破万"
+      "成立两年"
     ]
   },
   "hotwords": [
@@ -188,27 +166,67 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "极客早知道",
+      "w": "STEPX",
+      "wt": 0.8
+    },
+    {
+      "w": "Siri",
       "wt": 0.65
     },
     {
-      "w": "Claude",
+      "w": "美元",
       "wt": 0.65
     },
     {
-      "w": "CEO",
+      "w": "Agent",
       "wt": 0.65
     },
     {
-      "w": "雷军绕了一圈",
+      "w": "Neo",
+      "wt": 0.65
+    },
+    {
+      "w": "Gemini",
       "wt": 0.5
     },
     {
-      "w": "献给了字节跳动",
+      "w": "超越抖音",
       "wt": 0.5
     },
     {
-      "w": "突然踩下刹车",
+      "w": "分钟",
+      "wt": 0.5
+    },
+    {
+      "w": "苹果推",
+      "wt": 0.5
+    },
+    {
+      "w": "带屏音箱",
+      "wt": 0.5
+    },
+    {
+      "w": "谷歌最强模型",
+      "wt": 0.5
+    },
+    {
+      "w": "正式上线",
+      "wt": 0.5
+    },
+    {
+      "w": "苹果给",
+      "wt": 0.5
+    },
+    {
+      "w": "售价",
+      "wt": 0.5
+    },
+    {
+      "w": "说个事",
+      "wt": 0.5
+    },
+    {
+      "w": "极客公园创新大会",
       "wt": 0.5
     },
     {
@@ -222,47 +240,7 @@ window.__NEWS_DATA__ = {
     {
       "w": "让模型感知",
       "wt": 0.5
-    },
-    {
-      "w": "理解",
-      "wt": 0.5
-    },
-    {
-      "w": "响应变化的世界",
-      "wt": 0.5
-    },
-    {
-      "w": "Meta",
-      "wt": 0.5
-    },
-    {
-      "w": "Muse",
-      "wt": 0.5
-    },
-    {
-      "w": "Wonder",
-      "wt": 0.5
-    },
-    {
-      "w": "一周",
-      "wt": 0.5
-    },
-    {
-      "w": "万星",
-      "wt": 0.5
-    },
-    {
-      "w": "iPhone",
-      "wt": 0.5
-    },
-    {
-      "w": "尊界",
-      "wt": 0.5
-    },
-    {
-      "w": "月起陆续升级踏板",
-      "wt": 0.5
     }
   ],
-  "total": 19
+  "total": 16
 };
