@@ -1,6 +1,54 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "tech": [
+    {
+      "title": "比尔·盖茨最新专访：AI比核武器更危险，也可能比核能更有用",
+      "url": "https://www.huxiu.com/article/4897747.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Muse起势、大厂谋变，个人智能体激战前夜",
+      "url": "https://www.huxiu.com/article/4897714.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "Agent",
+      "cat": "tech"
+    },
+    {
+      "title": "算力中心液冷板：16家厂商研发投入对比与布局路径分析",
+      "url": "https://www.huxiu.com/article/4897704.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "155款App向豆包手机说“不”，智能体为什么翻不过互联网的围墙？",
+      "url": "https://www.huxiu.com/article/4897703.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "字节",
+      "cat": "tech"
+    },
+    {
+      "title": "焦点｜DeepSeek突发宕机：AI时代，我们该如何守住自身的技术利益",
+      "url": "https://www.huxiu.com/article/4897696.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "卖出去≠全球化成功，中国企业出海究竟还差什么？",
+      "url": "http://www.geekpark.net/news/372386",
+      "excerpt": "中国的汽车产业，正陷入前所未有的冰火两重天夹击。 2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。 但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "说个事：极客公园创新大会 2027！",
       "url": "http://www.geekpark.net/news/372300",
@@ -10,63 +58,23 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
-      "url": "http://www.geekpark.net/news/372264",
-      "excerpt": "曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能 据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能",
-      "src": "极客公园",
-      "tag": "Meta",
-      "cat": "tech"
-    },
-    {
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "url": "https://www.qbitai.com/2026/10/503231.html",
-      "excerpt": "汽车竞争正在回归汽车本身",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "excerpt": "“具身进实景，劳动最光荣”",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
-      "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
-      "excerpt": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-      "src": "量子位",
-      "tag": "芯片",
-      "cat": "tech"
-    },
-    {
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "excerpt": "给Ego补上缺失的交互信息",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "excerpt": "从“懂空间”到“能干活”",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "excerpt": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-      "src": "量子位",
-      "tag": "大模型",
+      "tag": "具身智能",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道",
+      "url": "http://www.geekpark.net/news/372366",
+      "excerpt": "155 款应用拒绝豆包助手 AI 自动化操作 10 月 14 日，豆包手机助手《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，官方公布名单显示，已有 155 款第三方应用拒绝 AI 自动化操作，腾讯、阿里、美团、快手旗下多款产品，连同 Kimi、De",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "app"
+    },
     {
       "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
       "url": "http://www.geekpark.net/news/372304",
@@ -81,6 +89,14 @@ window.__NEWS_DATA__ = {
       "excerpt": "头图来源：视觉中国 上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。 10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿",
       "src": "极客公园",
       "tag": "字节",
+      "cat": "app"
+    },
+    {
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "excerpt": "给企业Agent打了个样",
+      "src": "量子位",
+      "tag": "阿里",
       "cat": "app"
     },
     {
@@ -110,54 +126,54 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
-      "url": "http://www.geekpark.net/news/372278",
-      "excerpt": "大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜",
-      "src": "极客公园",
-      "tag": "大模型",
-      "cat": "enterprise"
-    },
-    {
-      "title": "苹果库克现身爱奇艺总部，爱奇艺 CEO 龚宇亲自接待",
-      "url": "https://www.ithome.com/1/012/964.htm",
-      "excerpt": "IT之家 10 月 14 日消息，据多位博主 / 网友分享，苹果前首席执行官、现苹果公司董事会执行主席蒂姆 · 库克今日到访了爱奇艺总部，爱奇艺 CEO 龚宇亲自进行接待。从博主 @林十兄 分享的现场照来看，爱奇艺方面准备有其适配苹果设备的历史进程图，可以直观",
-      "src": "IT之家",
-      "tag": "苹果",
-      "cat": "enterprise"
-    },
-    {
-      "title": "宏碁非凡 GO 迷你电脑主机新增英特尔 N150 配置：8+512GB 存储，2699 元",
-      "url": "https://www.ithome.com/1/012/970.htm",
-      "excerpt": "IT之家 10 月 14 日消息，宏碁非凡 GO 迷你主机新增了一款搭载英特尔 N150 处理器（Twin Lake）的配置，采用 8GB 内存 + 512GB SSD 存储，定价为 2699 元。N150 处理器为 4 核 4 线程设计，最大睿频频率可达 3",
-      "src": "IT之家",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "excerpt": "汽车竞争正在回归汽车本身",
+      "src": "量子位",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "url": "https://www.qbitai.com/2026/10/503198.html",
+      "excerpt": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "src": "量子位",
+      "tag": "芯片",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "说个事",
-      "极客公园创新大会",
-      "Meta",
       "Muse",
-      "Wonder"
+      "大厂谋变",
+      "算力中心液冷板",
+      "App",
+      "DeepSeek"
     ],
     "app": [
       "STEPX",
       "Neo",
-      "Siri",
-      "AI",
-      "Gemini",
-      "超越抖音"
+      "Roadster",
+      "GPT",
+      "Claude",
+      "主打免费好看"
     ],
     "enterprise": [
       "Siri",
       "苹果给",
       "售价",
       "美元",
-      "亿融资",
-      "成立两年"
+      "AI",
+      "MrBeast"
     ]
   },
   "hotwords": [
@@ -167,80 +183,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "STEPX",
-      "wt": 0.8
+      "wt": 0.71
     },
     {
       "w": "Siri",
-      "wt": 0.65
+      "wt": 0.59
     },
     {
       "w": "美元",
-      "wt": 0.65
-    },
-    {
-      "w": "Agent",
-      "wt": 0.65
+      "wt": 0.59
     },
     {
       "w": "Neo",
-      "wt": 0.65
+      "wt": 0.59
+    },
+    {
+      "w": "Muse",
+      "wt": 0.47
+    },
+    {
+      "w": "大厂谋变",
+      "wt": 0.47
+    },
+    {
+      "w": "算力中心液冷板",
+      "wt": 0.47
+    },
+    {
+      "w": "App",
+      "wt": 0.47
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.47
+    },
+    {
+      "w": "焦点",
+      "wt": 0.47
+    },
+    {
+      "w": "Roadster",
+      "wt": 0.47
+    },
+    {
+      "w": "GPT",
+      "wt": 0.47
+    },
+    {
+      "w": "Claude",
+      "wt": 0.47
+    },
+    {
+      "w": "主打免费好看",
+      "wt": 0.47
+    },
+    {
+      "w": "特斯拉",
+      "wt": 0.47
+    },
+    {
+      "w": "跑车明日发布",
+      "wt": 0.47
+    },
+    {
+      "w": "对话",
+      "wt": 0.47
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.47
     },
     {
       "w": "Gemini",
-      "wt": 0.5
-    },
-    {
-      "w": "超越抖音",
-      "wt": 0.5
-    },
-    {
-      "w": "分钟",
-      "wt": 0.5
-    },
-    {
-      "w": "苹果推",
-      "wt": 0.5
-    },
-    {
-      "w": "带屏音箱",
-      "wt": 0.5
-    },
-    {
-      "w": "谷歌最强模型",
-      "wt": 0.5
-    },
-    {
-      "w": "正式上线",
-      "wt": 0.5
-    },
-    {
-      "w": "苹果给",
-      "wt": 0.5
-    },
-    {
-      "w": "售价",
-      "wt": 0.5
-    },
-    {
-      "w": "说个事",
-      "wt": 0.5
-    },
-    {
-      "w": "极客公园创新大会",
-      "wt": 0.5
-    },
-    {
-      "w": "亿融资",
-      "wt": 0.5
-    },
-    {
-      "w": "成立两年",
-      "wt": 0.5
-    },
-    {
-      "w": "让模型感知",
-      "wt": 0.5
+      "wt": 0.47
     }
   ],
-  "total": 16
+  "total": 18
 };
