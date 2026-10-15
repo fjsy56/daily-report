@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-14 16:44",
- "total": 867,
+ "updated": "2026-10-15 18:04",
+ "total": 880,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,160 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678285848507399",
+   "date": "2026-10-14",
+   "name": "传音控股",
+   "desc": "移动通信产品生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "30.59亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678285848507399",
+   "province": "广东省"
+  },
+  {
+   "id": "2379416806218119",
+   "date": "2026-10-14",
+   "name": "若愚科技",
+   "desc": "中国最领先的多模态大模型研发商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "Pre-A轮",
+   "amount": "近亿人民币",
+   "investors": "信维通信、黄海资本、中创资本、勤道资本、金木资本",
+   "url": "https://pitchhub.36kr.com/project/2379416806218119",
+   "province": "广东省"
+  },
+  {
+   "id": "3720690617713158",
+   "date": "2026-10-13",
+   "name": "臣博视",
+   "desc": "专业眼视光科技企业、AI眼视光一体化服务商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "友博资本",
+   "url": "https://pitchhub.36kr.com/project/3720690617713158",
+   "province": "湖北省"
+  },
+  {
+   "id": "1679768102703873",
+   "date": "2026-10-13",
+   "name": "路畅科技",
+   "desc": "汽车车载系统及设备研发商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "远卓天使",
+   "url": "https://pitchhub.36kr.com/project/1679768102703873",
+   "province": "广东省"
+  },
+  {
+   "id": "2074480159244551",
+   "date": "2026-10-13",
+   "name": "都市圈",
+   "desc": "基于三维地图的生活服务平台",
+   "industry": [
+    "本地生活"
+   ],
+   "round": "并购/合并",
+   "amount": "150万人民币",
+   "investors": "上海海达智兴数字科技有限公司",
+   "url": "https://pitchhub.36kr.com/project/2074480159244551",
+   "province": "广东省"
+  },
+  {
+   "id": "1958573346132992",
+   "date": "2026-10-13",
+   "name": "科阳光电",
+   "desc": "TSV封装厂商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "2亿人民币",
+   "investors": "小米产投、上海半导体产投",
+   "url": "https://pitchhub.36kr.com/project/1958573346132992",
+   "province": "江苏省"
+  },
+  {
+   "id": "2066636586385409",
+   "date": "2026-10-13",
+   "name": "爱培科",
+   "desc": "致力车联网终端产品的软硬件",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "战略融资",
+   "amount": "5800万人民币",
+   "investors": "康冠科技",
+   "url": "https://pitchhub.36kr.com/project/2066636586385409",
+   "province": "广东省"
+  },
+  {
+   "id": "1817527861397377",
+   "date": "2026-10-13",
+   "name": "橙子电子",
+   "desc": "智能微投制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "数千万人民币",
+   "investors": "多家投资机构",
+   "url": "https://pitchhub.36kr.com/project/1817527861397377",
+   "province": "广东省"
+  },
+  {
+   "id": "2011637788476933",
+   "date": "2026-10-13",
+   "name": "高维医药",
+   "desc": "药品行业零售与生产",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-A轮",
+   "amount": "数亿元人民币",
+   "investors": "华泰紫金投资、东方嘉富、国方创新、瑞力投资、楚昌投资、兴华鼎立、西湖创新投资、广发信德",
+   "url": "https://pitchhub.36kr.com/project/2011637788476933",
+   "province": "浙江省"
+  },
+  {
+   "id": "1678202096464898",
+   "date": "2026-10-13",
+   "name": "3D未来",
+   "desc": "将3D打印技术应用于艺术创作领域",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "A+轮",
+   "amount": "超1.4亿人民币",
+   "investors": "清控银杏、亚太科技",
+   "url": "https://pitchhub.36kr.com/project/1678202096464898",
+   "province": "北京市"
+  },
+  {
+   "id": "2113113172153729",
+   "date": "2026-10-13",
+   "name": "乘风航空",
+   "desc": "航空发动机热端关键部件加工制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "近亿人民币",
+   "investors": "金浦投资、惠山科创、贵州风投、东方投资、中银资产",
+   "url": "https://pitchhub.36kr.com/project/2113113172153729",
+   "province": "江苏省"
+  },
+  {
    "id": "1679773304230661",
    "date": "2026-10-12",
    "name": "辰安科技",
@@ -196,6 +350,20 @@ window.__FINANCING_DATA__ = {
    "investors": "元禾璞华、长江创新投资、中信建投资本、邦盛资本、丰源投资、银泰集团、中关村发展启航产业投资基金",
    "url": "https://pitchhub.36kr.com/project/3185083780363526",
    "province": "黑龙江省"
+  },
+  {
+   "id": "1818784166367365",
+   "date": "2026-10-11",
+   "name": "华源泰盟",
+   "desc": "节能环保设备制造商与技术服务商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "冰轮环境",
+   "url": "https://pitchhub.36kr.com/project/1818784166367365",
+   "province": "北京市"
   },
   {
    "id": "2144866529920265",
@@ -423,6 +591,21 @@ window.__FINANCING_DATA__ = {
    "investors": "广汽集团",
    "url": "https://pitchhub.36kr.com/project/4020185217475715",
    "province": "天津市"
+  },
+  {
+   "id": "2302834742593795",
+   "date": "2026-10-08",
+   "name": "艾深斯科技",
+   "desc": "半导体研发商",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "海通创新证券",
+   "url": "https://pitchhub.36kr.com/project/2302834742593795",
+   "province": "上海市"
   },
   {
    "id": "1984232622242567",
