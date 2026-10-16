@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-15 18:04",
- "total": 880,
+ "updated": "2026-10-16 15:17",
+ "total": 887,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,48 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2143761561288707",
+   "date": "2026-10-15",
+   "name": "VELOTRIC",
+   "desc": "欧美电动自行车研发商",
+   "industry": [
+    "本地生活"
+   ],
+   "round": "C轮",
+   "amount": "2亿人民币",
+   "investors": "国寿股权、琥珀资本 Ambrum Capital",
+   "url": "https://pitchhub.36kr.com/project/2143761561288707",
+   "province": "广东省"
+  },
+  {
+   "id": "2078841803331591",
+   "date": "2026-10-15",
+   "name": "华奥泰生物",
+   "desc": "生物药物研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "国投创合长三角创投",
+   "url": "https://pitchhub.36kr.com/project/2078841803331591",
+   "province": "上海市"
+  },
+  {
+   "id": "2181065283046537",
+   "date": "2026-10-14",
+   "name": "伯为智能",
+   "desc": "光学视觉检测设备研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "华迪投资",
+   "url": "https://pitchhub.36kr.com/project/2181065283046537",
+   "province": "广东省"
+  },
   {
    "id": "1678285848507399",
    "date": "2026-10-14",
@@ -254,6 +296,34 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "1958570165556232",
+   "date": "2026-10-12",
+   "name": "科敏传感器",
+   "desc": "温度传感器研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "中城创投、远大创投、弋江区政府投资基金",
+   "url": "https://pitchhub.36kr.com/project/1958570165556232",
+   "province": "广东省"
+  },
+  {
+   "id": "1958578477814788",
+   "date": "2026-10-12",
+   "name": "好电科技",
+   "desc": "锂电池材料研发应用商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "晨道资本、超兴创投",
+   "url": "https://pitchhub.36kr.com/project/1958578477814788",
+   "province": "广东省"
+  },
+  {
    "id": "1679773304230661",
    "date": "2026-10-12",
    "name": "辰安科技",
@@ -350,6 +420,34 @@ window.__FINANCING_DATA__ = {
    "investors": "元禾璞华、长江创新投资、中信建投资本、邦盛资本、丰源投资、银泰集团、中关村发展启航产业投资基金",
    "url": "https://pitchhub.36kr.com/project/3185083780363526",
    "province": "黑龙江省"
+  },
+  {
+   "id": "2079391740073989",
+   "date": "2026-10-11",
+   "name": "科联汇通",
+   "desc": "是一家IT咨询、解决方案和外包服务提供商",
+   "industry": [
+    "金融"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "成就资本",
+   "url": "https://pitchhub.36kr.com/project/2079391740073989",
+   "province": "广东省"
+  },
+  {
+   "id": "1958591887201282",
+   "date": "2026-10-11",
+   "name": "圣钘科技",
+   "desc": "新能源科技企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "越能基金、智越投资",
+   "url": "https://pitchhub.36kr.com/project/1958591887201282",
+   "province": "浙江省"
   },
   {
    "id": "1818784166367365",
