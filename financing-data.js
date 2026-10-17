@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-16 15:17",
- "total": 887,
+ "updated": "2026-10-17 15:09",
+ "total": 889,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1957815090875651",
+   "date": "2026-10-15",
+   "name": "贝塔猫",
+   "desc": "SaaS领域测试管理平台",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "C轮",
+   "amount": "数千万人民币",
+   "investors": "NEXUS FUTURE",
+   "url": "https://pitchhub.36kr.com/project/1957815090875651",
+   "province": "上海市"
+  },
   {
    "id": "2143761561288707",
    "date": "2026-10-15",
@@ -420,6 +434,20 @@ window.__FINANCING_DATA__ = {
    "investors": "元禾璞华、长江创新投资、中信建投资本、邦盛资本、丰源投资、银泰集团、中关村发展启航产业投资基金",
    "url": "https://pitchhub.36kr.com/project/3185083780363526",
    "province": "黑龙江省"
+  },
+  {
+   "id": "4030096019858569",
+   "date": "2026-10-11",
+   "name": "中科探海",
+   "desc": "海洋工程技术服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "金桥基金",
+   "url": "https://pitchhub.36kr.com/project/4030096019858569",
+   "province": "广东省"
   },
   {
    "id": "2079391740073989",
