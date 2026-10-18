@@ -1,36 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "tech": [
     {
-      "title": "深度 | 苹果 AI 还有牌，但已经不太够了",
-      "url": "https://www.huxiu.com/article/4898277.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "时间线 Timelines",
-      "url": "https://www.huxiu.com/article/4898277.html",
+      "title": "17岁，年薪700万",
+      "url": "https://www.huxiu.com/article/4898395.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 开始动摇苹果 App Store 的根基了",
-      "url": "https://www.huxiu.com/article/4898267.html",
+      "title": "Alexandr Wang揭秘Muse诞生内幕",
+      "url": "https://www.huxiu.com/article/4898380.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "苹果",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "主流大模型挑战最高难度《杀戮尖塔》，全都死于太过稳健……",
-      "url": "https://www.huxiu.com/article/4898195.html",
+      "title": "Z Potentials©",
+      "url": "https://www.huxiu.com/article/4898380.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "大模型",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "对话Jev创始人：RLHF走了大弯路，下一个时代不会属于Claude Code",
+      "url": "https://www.huxiu.com/article/4898379.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Z Finance©",
+      "url": "https://www.huxiu.com/article/4898379.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -56,6 +64,16 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "马斯克",
       "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
+      "url": "http://www.geekpark.net/news/372512",
+      "excerpt": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepS",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "app"
     },
     {
       "title": "苹果和 Meta 和好了，是 AI 逼的",
@@ -64,39 +82,21 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "Meta",
       "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行",
-      "url": "https://www.huxiu.com/article/4898263.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "app"
     },
     {
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "excerpt": "从搭载物理建模能力的世界模型切入",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "excerpt": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "src": "量子位",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
+      "excerpt": "AI的风还是刮到了法律圈",
       "src": "量子位",
       "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
-      "excerpt": "VLA解决“能干”，世界模型解决“想清楚再干”",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-      "url": "https://www.qbitai.com/2026/10/503861.html",
-      "excerpt": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
-      "src": "量子位",
-      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -110,46 +110,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖",
-      "url": "http://www.geekpark.net/news/372437",
-      "excerpt": "头图来源：Chatgpt 生成 当地时间 10 月 12 日，曾经引爆 AI 陪伴赛道的明星项目 Character.AI，在美国特拉华州法院提交《破产法》第 11 章重组申请，开启法院监督下的资产拍卖流程。 根据披露文件，迪士尼已经与它提前达成了底价竞购协议",
-      "src": "极客公园",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-      "url": "https://www.qbitai.com/2026/10/503782.html",
-      "excerpt": "9.8万元起售，冲刺万台量产",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "enterprise"
-    },
-    {
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "excerpt": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "excerpt": "整套系统原生支持MCP",
       "src": "量子位",
       "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "url": "https://www.qbitai.com/2026/10/503910.html",
+      "excerpt": "谜底指向时间",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "url": "https://www.qbitai.com/2026/10/503893.html",
+      "excerpt": "通往全球市场的超级跳板",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
-      "AI",
-      "深度",
-      "苹果",
-      "还有牌",
-      "但已经不太够了",
-      "Timelines"
+      "Alexandr",
+      "Wang",
+      "Muse",
+      "Potentials",
+      "Jev",
+      "RLHF"
     ],
     "app": [
-      "AI",
-      "热点",
-      "法院判了",
-      "公司违法",
-      "合同继续履行",
-      "GeoPT"
+      "DeepSeek",
+      "新模型上线",
+      "价格更低能力更强",
+      "极客早知道",
+      "Meta",
+      "AI"
     ],
     "enterprise": [
       "AI",
@@ -167,79 +167,79 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "iPhone",
-      "wt": 0.46
+      "wt": 0.65
     },
     {
       "w": "Duo",
-      "wt": 0.46
+      "wt": 0.65
+    },
+    {
+      "w": "Claude",
+      "wt": 0.55
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.55
     },
     {
       "w": "发货排到明年",
-      "wt": 0.46
+      "wt": 0.55
     },
     {
-      "w": "Anthropic",
-      "wt": 0.46
+      "w": "Alexandr",
+      "wt": 0.45
     },
     {
-      "w": "深度",
-      "wt": 0.4
+      "w": "Wang",
+      "wt": 0.45
     },
     {
-      "w": "苹果",
-      "wt": 0.4
+      "w": "Muse",
+      "wt": 0.45
     },
     {
-      "w": "还有牌",
-      "wt": 0.4
+      "w": "Potentials",
+      "wt": 0.45
     },
     {
-      "w": "但已经不太够了",
-      "wt": 0.4
+      "w": "Jev",
+      "wt": 0.45
     },
     {
-      "w": "Timelines",
-      "wt": 0.4
+      "w": "RLHF",
+      "wt": 0.45
     },
     {
-      "w": "时间线",
-      "wt": 0.4
+      "w": "Code",
+      "wt": 0.45
     },
     {
-      "w": "App",
-      "wt": 0.4
+      "w": "Finance",
+      "wt": 0.45
     },
     {
-      "w": "Store",
-      "wt": 0.4
+      "w": "新模型上线",
+      "wt": 0.45
     },
     {
-      "w": "开始动摇苹果",
-      "wt": 0.4
+      "w": "价格更低能力更强",
+      "wt": 0.45
     },
     {
-      "w": "的根基了",
-      "wt": 0.4
-    },
-    {
-      "w": "热点",
-      "wt": 0.4
-    },
-    {
-      "w": "法院判了",
-      "wt": 0.4
-    },
-    {
-      "w": "公司违法",
-      "wt": 0.4
-    },
-    {
-      "w": "合同继续履行",
-      "wt": 0.4
+      "w": "极客早知道",
+      "wt": 0.45
     },
     {
       "w": "分钟售罄",
-      "wt": 0.4
+      "wt": 0.45
+    },
+    {
+      "w": "卖爆背后的真相",
+      "wt": 0.45
+    },
+    {
+      "w": "一秒售罄",
+      "wt": 0.45
     }
   ],
   "total": 16
