@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-17 15:09",
- "total": 889,
+ "updated": "2026-10-19 19:05",
+ "total": 891,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,21 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1957107134155013",
+   "date": "2026-10-17",
+   "name": "固纳科技",
+   "desc": "电池隔膜产品研发商",
+   "industry": [
+    "前沿技术",
+    "能源环保"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "清澜华创",
+   "url": "https://pitchhub.36kr.com/project/1957107134155013",
+   "province": "广东省"
+  },
+  {
    "id": "1957815090875651",
    "date": "2026-10-15",
    "name": "贝塔猫",
@@ -182,6 +197,20 @@ window.__FINANCING_DATA__ = {
    "investors": "信维通信、黄海资本、中创资本、勤道资本、金木资本",
    "url": "https://pitchhub.36kr.com/project/2379416806218119",
    "province": "广东省"
+  },
+  {
+   "id": "1678344142533634",
+   "date": "2026-10-13",
+   "name": "启灏医疗",
+   "desc": "医疗器械研发生产商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C++轮",
+   "amount": "未透露",
+   "investors": "国联金投和合基金、江阴高新金投",
+   "url": "https://pitchhub.36kr.com/project/1678344142533634",
+   "province": "安徽省"
   },
   {
    "id": "3720690617713158",
