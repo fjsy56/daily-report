@@ -1,46 +1,6 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "tech": [
-    {
-      "title": "17岁，年薪700万",
-      "url": "https://www.huxiu.com/article/4898395.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Alexandr Wang揭秘Muse诞生内幕",
-      "url": "https://www.huxiu.com/article/4898380.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Z Potentials©",
-      "url": "https://www.huxiu.com/article/4898380.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "对话Jev创始人：RLHF走了大弯路，下一个时代不会属于Claude Code",
-      "url": "https://www.huxiu.com/article/4898379.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Z Finance©",
-      "url": "https://www.huxiu.com/article/4898379.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
     {
       "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
       "url": "http://www.geekpark.net/news/372509",
@@ -58,29 +18,11 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "是的，特斯拉真造了一辆「飞行汽车」！",
-      "url": "http://www.geekpark.net/news/372459",
-      "excerpt": "历史，是由疯子和工程师创造的。 我们知道马斯克是个疯子，但没想到他能这么疯。 当地时间 10 月 16 日，在 SpaceX 于州 McGregor/Waco 的火箭试验场上，一段向上垂直弯过来的人造公路上，一台白色跑车以匪夷所思的状态，反重力地贴在了上面的弯",
-      "src": "极客公园",
-      "tag": "马斯克",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
-      "url": "http://www.geekpark.net/news/372512",
-      "excerpt": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepS",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "app"
-    },
-    {
-      "title": "苹果和 Meta 和好了，是 AI 逼的",
-      "url": "http://www.geekpark.net/news/372458",
-      "excerpt": "没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取",
-      "src": "极客公园",
-      "tag": "Meta",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "excerpt": "让人人都能自由创造并体验可交互世界",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     },
     {
@@ -98,16 +40,6 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
-      "url": "http://www.geekpark.net/news/372488",
-      "excerpt": "苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠",
-      "src": "极客公园",
-      "tag": "谷歌",
-      "cat": "enterprise"
     },
     {
       "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
@@ -134,36 +66,104 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     }
   ],
+  "app": [
+    {
+      "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
+      "url": "http://www.geekpark.net/news/372514",
+      "excerpt": "OpenAI 三个神秘模型曝光10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字：aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "app"
+    },
+    {
+      "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
+      "url": "http://www.geekpark.net/news/372512",
+      "excerpt": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepS",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "app"
+    },
+    {
+      "title": "奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”",
+      "url": "https://www.ithome.com/1/014/887.htm",
+      "excerpt": "IT之家 10 月 19 日消息，奇瑞将于 10 月 20 日在芜湖举办以“Change· 改变”为主题的 2026 奇瑞全球创新大会，发布首个行业垂域大模型。本次创新大会，奇瑞将展望瑶光 2035 计划，以智能 AI 技术为支撑，系统标定从汽车企业迈向全球智",
+      "src": "IT之家",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "url": "https://www.qbitai.com/2026/10/504116.html",
+      "excerpt": "买AIPC就选联想YOGA。",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级",
+      "url": "http://www.geekpark.net/news/372545",
+      "excerpt": "10 月 19 日，铭芯启睿（MemSilicon）宣布完成超 4 亿元 A 轮融资。本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。本轮",
+      "src": "极客公园",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
+      "url": "http://www.geekpark.net/news/372488",
+      "excerpt": "苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠",
+      "src": "极客公园",
+      "tag": "谷歌",
+      "cat": "enterprise"
+    },
+    {
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "url": "https://www.qbitai.com/2026/10/503880.html",
+      "excerpt": "从搭载物理建模能力的世界模型切入",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    }
+  ],
   "overview": {
     "tech": [
-      "Alexandr",
-      "Wang",
-      "Muse",
-      "Potentials",
-      "Jev",
-      "RLHF"
-    ],
-    "app": [
-      "DeepSeek",
-      "新模型上线",
-      "价格更低能力更强",
-      "极客早知道",
-      "Meta",
-      "AI"
-    ],
-    "enterprise": [
       "AI",
       "iPhone",
       "Duo",
-      "一秒售罄",
+      "分钟售罄",
       "发货排到明年",
-      "马斯克"
+      "卖爆背后的真相"
+    ],
+    "app": [
+      "DeepSeek",
+      "极客早知道",
+      "OpenAI",
+      "API",
+      "三个神秘模型曝光",
+      "公司计划上市"
+    ],
+    "enterprise": [
+      "AI",
+      "MemSilicon",
+      "亿元",
+      "轮融资",
+      "宣布战略升级",
+      "iPhone"
     ]
   },
   "hotwords": [
     {
       "w": "AI",
       "wt": 0.95
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.8
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.65
     },
     {
       "w": "iPhone",
@@ -174,73 +174,65 @@ window.__NEWS_DATA__ = {
       "wt": 0.65
     },
     {
-      "w": "Claude",
-      "wt": 0.55
-    },
-    {
-      "w": "DeepSeek",
-      "wt": 0.55
-    },
-    {
       "w": "发货排到明年",
-      "wt": 0.55
+      "wt": 0.65
     },
     {
-      "w": "Alexandr",
-      "wt": 0.45
+      "w": "MemSilicon",
+      "wt": 0.5
     },
     {
-      "w": "Wang",
-      "wt": 0.45
+      "w": "亿元",
+      "wt": 0.5
     },
     {
-      "w": "Muse",
-      "wt": 0.45
+      "w": "轮融资",
+      "wt": 0.5
     },
     {
-      "w": "Potentials",
-      "wt": 0.45
+      "w": "宣布战略升级",
+      "wt": 0.5
     },
     {
-      "w": "Jev",
-      "wt": 0.45
+      "w": "OpenAI",
+      "wt": 0.5
     },
     {
-      "w": "RLHF",
-      "wt": 0.45
+      "w": "API",
+      "wt": 0.5
     },
     {
-      "w": "Code",
-      "wt": 0.45
+      "w": "三个神秘模型曝光",
+      "wt": 0.5
     },
     {
-      "w": "Finance",
-      "wt": 0.45
+      "w": "公司计划上市",
+      "wt": 0.5
     },
     {
       "w": "新模型上线",
-      "wt": 0.45
+      "wt": 0.5
     },
     {
       "w": "价格更低能力更强",
-      "wt": 0.45
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.45
+      "wt": 0.5
     },
     {
       "w": "分钟售罄",
-      "wt": 0.45
+      "wt": 0.5
     },
     {
       "w": "卖爆背后的真相",
-      "wt": 0.45
+      "wt": 0.5
     },
     {
       "w": "一秒售罄",
-      "wt": 0.45
+      "wt": 0.5
+    },
+    {
+      "w": "马斯克",
+      "wt": 0.5
     }
   ],
-  "total": 16
+  "total": 15
 };
