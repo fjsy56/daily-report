@@ -1,72 +1,80 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "tech": [
     {
       "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-      "url": "http://www.geekpark.net/news/372509",
+      "url": "http://www.geekpark.net/news/372583",
       "excerpt": "人们已经很多年没见过，苹果的新品被这样抢了。 10 月 16 日晚 8 点，苹果首款折叠屏 iPhone Duo 开启预购。社交媒体上流传的说法是，开售 1 分钟，全型号库存就空了，京东、天猫页面相继显示售罄。 大约 40 分钟后，苹果官网的预计送达时间已经跳",
       "src": "极客公园",
       "tag": "苹果",
       "cat": "tech"
     },
     {
-      "title": "为什么 Anthropic 不做 Personal AI",
-      "url": "http://www.geekpark.net/news/372461",
-      "excerpt": "不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatG",
+      "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
+      "url": "http://www.geekpark.net/news/372568",
+      "excerpt": "DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: W",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "AI 里没有答案的问题，需要一场「深谈」",
+      "url": "http://www.geekpark.net/news/372579",
+      "excerpt": "去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。 有些瞬间仍然记忆犹新。 在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "url": "https://www.qbitai.com/2026/10/504136.html",
-      "excerpt": "让人人都能自由创造并体验可交互世界",
+      "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
+      "url": "http://www.geekpark.net/news/372578",
+      "excerpt": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "url": "https://www.qbitai.com/2026/10/504314.html",
+      "excerpt": "OpenAI只掏出一个6.1 Terra…",
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "excerpt": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "url": "https://www.qbitai.com/2026/10/504277.html",
+      "excerpt": "同步搭建千比特规模量子算力云平台",
       "src": "量子位",
-      "tag": "DeepSeek",
+      "tag": "芯片",
       "cat": "tech"
     },
     {
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "excerpt": "AI的风还是刮到了法律圈",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "excerpt": "整套系统原生支持MCP",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "excerpt": "谜底指向时间",
+      "title": "通研院孵化的团队，也盯上了RSI",
+      "url": "https://www.qbitai.com/2026/10/504294.html",
+      "excerpt": "当AI越来越懂你，如何让智能真正属于你？",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "url": "https://www.qbitai.com/2026/10/503893.html",
-      "excerpt": "通往全球市场的超级跳板",
+      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "url": "https://www.qbitai.com/2026/10/504266.html",
+      "excerpt": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了",
+      "url": "http://www.geekpark.net/news/372612",
+      "excerpt": "2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "app"
+    },
     {
       "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
       "url": "http://www.geekpark.net/news/372514",
@@ -76,53 +84,53 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
-      "url": "http://www.geekpark.net/news/372512",
-      "excerpt": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepS",
-      "src": "极客公园",
-      "tag": "DeepSeek",
+      "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+      "url": "https://www.qbitai.com/2026/10/504238.html",
+      "excerpt": "10月19日，RISC-V中国峰会在深圳举行。",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”",
-      "url": "https://www.ithome.com/1/014/887.htm",
-      "excerpt": "IT之家 10 月 19 日消息，奇瑞将于 10 月 20 日在芜湖举办以“Change· 改变”为主题的 2026 奇瑞全球创新大会，发布首个行业垂域大模型。本次创新大会，奇瑞将展望瑶光 2035 计划，以智能 AI 技术为支撑，系统标定从汽车企业迈向全球智",
-      "src": "IT之家",
+      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+      "url": "https://www.qbitai.com/2026/10/504199.html",
+      "excerpt": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
+      "src": "量子位",
       "tag": "具身智能",
       "cat": "app"
-    },
-    {
-      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-      "url": "https://www.qbitai.com/2026/10/504116.html",
-      "excerpt": "买AIPC就选联想YOGA。",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级",
-      "url": "http://www.geekpark.net/news/372545",
-      "excerpt": "10 月 19 日，铭芯启睿（MemSilicon）宣布完成超 4 亿元 A 轮融资。本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。本轮",
-      "src": "极客公园",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
-      "url": "http://www.geekpark.net/news/372488",
-      "excerpt": "苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠",
-      "src": "极客公园",
-      "tag": "谷歌",
-      "cat": "enterprise"
-    },
-    {
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "excerpt": "从搭载物理建模能力的世界模型切入",
+      "title": "全栈自研！国产高端互连芯片，稳了!",
+      "url": "https://www.qbitai.com/2026/10/504225.html",
+      "excerpt": "六年蛰伏出货80万颗",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "芯片",
+      "cat": "tech"
+    },
+    {
+      "title": "AI 开始挑战最复杂的系统：生命",
+      "url": "https://www.qbitai.com/2026/10/504242.html",
+      "excerpt": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "OpenAI 与 Meta 齐发声：深度伪造将严重威胁法律诉讼中的证据可靠性",
+      "url": "https://www.ithome.com/1/015/421.htm",
+      "excerpt": "IT之家 10 月 20 日消息，据路透社报道，OpenAI 与 Meta 代表在当地时间本月 15 日的美国司法会议证据规则咨询委员会会议上均表示，人工智能驱动的深度伪造将严重威胁法律诉讼中的证据可靠性。OpenAI 政策顾问 Shira Anderson ",
+      "src": "IT之家",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "美中关系全国委员会会长欧伦斯夸赞小米工厂，感慨美国电动车价格高、效率低",
+      "url": "https://www.ithome.com/1/015/419.htm",
+      "excerpt": "“2026 可持续全球领导者大会”于 10 月 20 日-22 日在上海举行。美中关系全国委员会会长欧伦斯（Stephen A． Orlins）在演讲时透露自己最近走访了北京的小米工厂，“我当时看到机器人自动化生产，真是太惊艳了”。他说，美国也在这些领域取得进",
+      "src": "IT之家",
+      "tag": "小米",
       "cat": "tech"
     }
   ],
@@ -136,20 +144,20 @@ window.__NEWS_DATA__ = {
       "卖爆背后的真相"
     ],
     "app": [
-      "DeepSeek",
-      "极客早知道",
-      "OpenAI",
-      "API",
-      "三个神秘模型曝光",
-      "公司计划上市"
+      "Personal",
+      "Agent",
+      "Lovart",
+      "Arti",
+      "设计师的第一个",
+      "可能就是"
     ],
     "enterprise": [
+      "全栈自研",
+      "国产高端互连芯片",
+      "稳了",
       "AI",
-      "MemSilicon",
-      "亿元",
-      "轮融资",
-      "宣布战略升级",
-      "iPhone"
+      "生命",
+      "OpenAI"
     ]
   },
   "hotwords": [
@@ -159,62 +167,46 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "DeepSeek",
-      "wt": 0.8
+      "wt": 0.65
     },
     {
       "w": "极客早知道",
       "wt": 0.65
     },
     {
-      "w": "iPhone",
+      "w": "OpenAI",
       "wt": 0.65
+    },
+    {
+      "w": "Personal",
+      "wt": 0.5
+    },
+    {
+      "w": "Agent",
+      "wt": 0.5
+    },
+    {
+      "w": "Lovart",
+      "wt": 0.5
+    },
+    {
+      "w": "Arti",
+      "wt": 0.5
+    },
+    {
+      "w": "设计师的第一个",
+      "wt": 0.5
+    },
+    {
+      "w": "可能就是",
+      "wt": 0.5
+    },
+    {
+      "w": "iPhone",
+      "wt": 0.5
     },
     {
       "w": "Duo",
-      "wt": 0.65
-    },
-    {
-      "w": "发货排到明年",
-      "wt": 0.65
-    },
-    {
-      "w": "MemSilicon",
-      "wt": 0.5
-    },
-    {
-      "w": "亿元",
-      "wt": 0.5
-    },
-    {
-      "w": "轮融资",
-      "wt": 0.5
-    },
-    {
-      "w": "宣布战略升级",
-      "wt": 0.5
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.5
-    },
-    {
-      "w": "API",
-      "wt": 0.5
-    },
-    {
-      "w": "三个神秘模型曝光",
-      "wt": 0.5
-    },
-    {
-      "w": "公司计划上市",
-      "wt": 0.5
-    },
-    {
-      "w": "新模型上线",
-      "wt": 0.5
-    },
-    {
-      "w": "价格更低能力更强",
       "wt": 0.5
     },
     {
@@ -222,17 +214,33 @@ window.__NEWS_DATA__ = {
       "wt": 0.5
     },
     {
+      "w": "发货排到明年",
+      "wt": 0.5
+    },
+    {
       "w": "卖爆背后的真相",
       "wt": 0.5
     },
     {
-      "w": "一秒售罄",
+      "w": "豆包发言人辟谣",
       "wt": 0.5
     },
     {
-      "w": "马斯克",
+      "w": "里没有答案的问题",
+      "wt": 0.5
+    },
+    {
+      "w": "需要一场「深谈」",
+      "wt": 0.5
+    },
+    {
+      "w": "买单",
+      "wt": 0.5
+    },
+    {
+      "w": "API",
       "wt": 0.5
     }
   ],
-  "total": 15
+  "total": 16
 };
