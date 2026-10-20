@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-19 19:05",
- "total": 891,
+ "updated": "2026-10-20 18:23",
+ "total": 910,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,134 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2227997862545665",
+   "date": "2026-10-19",
+   "name": "恒元光电",
+   "desc": "致力于搭建中国集成光电子产业大厦的基石",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "Pre-A+轮",
+   "amount": "近亿人民币",
+   "investors": "山东省新动能基金、山东社合基金、源志力帆",
+   "url": "https://pitchhub.36kr.com/project/2227997862545665",
+   "province": "山东省"
+  },
+  {
+   "id": "2175335008566017",
+   "date": "2026-10-19",
+   "name": "华瑞指数云",
+   "desc": "新型IT基础设施研发商",
+   "industry": [
+    "企业服务",
+    "工具软件"
+   ],
+   "round": "B轮",
+   "amount": "超亿人民币",
+   "investors": "一家具备深厚产业资源、大型科技投资经验及明星项目背景的基金、琮碧秋实、某国有产投基金",
+   "url": "https://pitchhub.36kr.com/project/2175335008566017",
+   "province": "广东省"
+  },
+  {
+   "id": "1766140216638981",
+   "date": "2026-10-18",
+   "name": "善施科技",
+   "desc": "善施科技是一家光化学产业化服务商，主要销售科研级产品，包括平行光反应仪、单工位全波段光反应仪、精准温控强光反应仪等。在装备、工艺、生产三个层面，根据不同的客户需求，分别提供相应服务。对于有自研工艺的客户，公司提供定制化研发的装备；而对于有技术研发需求的客户，公司能提供从工艺到装备的一系列服务。",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "长江资本、清科产投",
+   "url": "https://pitchhub.36kr.com/project/1766140216638981",
+   "province": "江苏省"
+  },
+  {
+   "id": "2182828523313031",
+   "date": "2026-10-18",
+   "name": "洛阳现代生物",
+   "desc": "食品安全及动物疫病诊断技术研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "洛阳科创集团",
+   "url": "https://pitchhub.36kr.com/project/2182828523313031",
+   "province": "河南省"
+  },
+  {
+   "id": "2347556919689603",
+   "date": "2026-10-18",
+   "name": "原力能源",
+   "desc": "城市虚拟电厂AI运营商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "数亿人民币",
+   "investors": "仁发投资",
+   "url": "https://pitchhub.36kr.com/project/2347556919689603",
+   "province": "安徽省"
+  },
+  {
+   "id": "4034341761311880",
+   "date": "2026-10-18",
+   "name": "耕宇牧星",
+   "desc": "卫星及航天技术研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "重庆大江科创城建设有限公司",
+   "url": "https://pitchhub.36kr.com/project/4034341761311880",
+   "province": "北京市"
+  },
+  {
+   "id": "1818791890161799",
+   "date": "2026-10-18",
+   "name": "华海清科",
+   "desc": "华海清科是一家化学机械抛光技术及设备研发商，产品包括CMP设备、润滑膜厚与摩擦系数测量仪、膜厚测量仪以及抛光清洗一体系统等，主要应用于电路制造、三维封装、微机电系统制造以及晶圆平坦化等领域。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "37.95亿人民币",
+   "investors": "华夏基金、汇安基金、人保资产、J.P. Morgan Securities LLC、摩根士丹利、国机资本、财通基金、华泰资产、瑞银集团、易方达私募、南方资本、招商资管、国泰基金",
+   "url": "https://pitchhub.36kr.com/project/1818791890161799",
+   "province": "天津市"
+  },
+  {
+   "id": "1678541624587268",
+   "date": "2026-10-18",
+   "name": "海博特",
+   "desc": "临床试验外包服务机构",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "7000万人民币",
+   "investors": "远翼投资、广州健康产投、万联广生、广药资本、鲸犀投资",
+   "url": "https://pitchhub.36kr.com/project/1678541624587268",
+   "province": "广东省"
+  },
+  {
+   "id": "1924352119129991",
+   "date": "2026-10-18",
+   "name": "瀚为科技",
+   "desc": "一种低成本、高功率、绝对安全的电池生产商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "中金资本、华方资本",
+   "url": "https://pitchhub.36kr.com/project/1924352119129991",
+   "province": "浙江省"
+  },
+  {
    "id": "1957107134155013",
    "date": "2026-10-17",
    "name": "固纳科技",
@@ -112,6 +240,35 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "清澜华创",
    "url": "https://pitchhub.36kr.com/project/1957107134155013",
+   "province": "广东省"
+  },
+  {
+   "id": "2013593357945608",
+   "date": "2026-10-15",
+   "name": "滴水科技",
+   "desc": "水尘环流洗地机开创者",
+   "industry": [
+    "前沿技术",
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "华融越信基金",
+   "url": "https://pitchhub.36kr.com/project/2013593357945608",
+   "province": "湖北省"
+  },
+  {
+   "id": "2001555316858759",
+   "date": "2026-10-15",
+   "name": "鼎泰芯源",
+   "desc": "半导体单晶材料生产企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "1.6933亿人民币",
+   "investors": "博杰股份",
+   "url": "https://pitchhub.36kr.com/project/2001555316858759",
    "province": "广东省"
   },
   {
@@ -154,6 +311,122 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "国投创合长三角创投",
    "url": "https://pitchhub.36kr.com/project/2078841803331591",
+   "province": "上海市"
+  },
+  {
+   "id": "2245638974813959",
+   "date": "2026-10-14",
+   "name": "凌存科技",
+   "desc": "磁性随机存储器开发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "毅达资本、新微资本、元禾重元、乾融控股、凯风创投",
+   "url": "https://pitchhub.36kr.com/project/2245638974813959",
+   "province": "江苏省"
+  },
+  {
+   "id": "2169689524499201",
+   "date": "2026-10-14",
+   "name": "氢合科技",
+   "desc": "超低温技术及高精度测温温控技术研发商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "毅达资本",
+   "url": "https://pitchhub.36kr.com/project/2169689524499201",
+   "province": "广东省"
+  },
+  {
+   "id": "2302755149335560",
+   "date": "2026-10-14",
+   "name": "鸣坤科技",
+   "desc": "VR研发企业",
+   "industry": [
+    "文化娱乐",
+    "元宇宙"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "初心资本",
+   "url": "https://pitchhub.36kr.com/project/2302755149335560",
+   "province": "浙江省"
+  },
+  {
+   "id": "1713077709433094",
+   "date": "2026-10-14",
+   "name": "新一线城市研究所",
+   "desc": "第一财经旗下城市数据研究机构",
+   "industry": [
+    "企业服务",
+    "其他"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "国网英大集团",
+   "url": "https://pitchhub.36kr.com/project/1713077709433094",
+   "province": "上海市"
+  },
+  {
+   "id": "2253203406570117",
+   "date": "2026-10-14",
+   "name": "萃泽医药",
+   "desc": "呼吸医药技术研发、复杂制剂医药技术研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "浙江产投",
+   "url": "https://pitchhub.36kr.com/project/2253203406570117",
+   "province": "浙江省"
+  },
+  {
+   "id": "1679678246654728",
+   "date": "2026-10-14",
+   "name": "第一元素",
+   "desc": "碳纳米管研发与产业化生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "苏大天宫创投",
+   "url": "https://pitchhub.36kr.com/project/1679678246654728",
+   "province": "江苏省"
+  },
+  {
+   "id": "2560177350604419",
+   "date": "2026-10-14",
+   "name": "衡封新材",
+   "desc": "国产电子级酚醛和特种环氧树脂厂商",
+   "industry": [
+    "前沿技术",
+    "通信/半导体"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "瑞红苏州、上海国际资管、新微资本",
+   "url": "https://pitchhub.36kr.com/project/2560177350604419",
+   "province": "上海市"
+  },
+  {
+   "id": "2133924918306178",
+   "date": "2026-10-14",
+   "name": "岚泽能源",
+   "desc": "能源服务提供商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "瑞壹投资、金浦投资",
+   "url": "https://pitchhub.36kr.com/project/2133924918306178",
    "province": "上海市"
   },
   {
