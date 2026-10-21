@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-20 18:23",
- "total": 910,
+ "updated": "2026-10-21 18:27",
+ "total": 918,
  "industries": [
   "产业升级",
   "企业服务",
@@ -99,6 +99,48 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2071655601389832",
+   "date": "2026-10-20",
+   "name": "瑞初医药",
+   "desc": "开发靶向衰老机制“First-in-class”药物",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "数亿元人民币",
+   "investors": "凯辉基金、复健资本、倚锋资本、华泰紫金投资",
+   "url": "https://pitchhub.36kr.com/project/2071655601389832",
+   "province": "江苏省"
+  },
+  {
+   "id": "2373172803193730",
+   "date": "2026-10-20",
+   "name": "四象爱数",
+   "desc": "遥感卫星数据分析服务商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "超亿人民币",
+   "investors": "顺禧基金、熙诚致远、工银资本、银企投资、工银投资",
+   "url": "https://pitchhub.36kr.com/project/2373172803193730",
+   "province": "北京市"
+  },
+  {
+   "id": "1678240329643011",
+   "date": "2026-10-19",
+   "name": "东山精密",
+   "desc": "精密器件制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "基石投资轮",
+   "amount": "6.80亿美元",
+   "investors": "永钢集团、永联投资、摩根大通、Alibaba Investment、CPE Bodhi、LMR、睿远基金、Montage HK、东方资产管理、Spring River Greater China Fund、简街、晶合集成香港、保银资产、飞速创新、天弘基金、新华资产管理、Ghisallo Partners、Jump Trading、一村资本、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1678240329643011",
+   "province": "江苏省"
+  },
   {
    "id": "2227997862545665",
    "date": "2026-10-19",
@@ -243,6 +285,20 @@ window.__FINANCING_DATA__ = {
    "province": "广东省"
   },
   {
+   "id": "1802642436613891",
+   "date": "2026-10-15",
+   "name": "花田萃",
+   "desc": "花田萃，一杯有茶香风味的中式咖啡",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "衢州金融控股",
+   "url": "https://pitchhub.36kr.com/project/1802642436613891",
+   "province": "云南省"
+  },
+  {
    "id": "2013593357945608",
    "date": "2026-10-15",
    "name": "滴水科技",
@@ -312,6 +368,34 @@ window.__FINANCING_DATA__ = {
    "investors": "国投创合长三角创投",
    "url": "https://pitchhub.36kr.com/project/2078841803331591",
    "province": "上海市"
+  },
+  {
+   "id": "2060980639758469",
+   "date": "2026-10-14",
+   "name": "众远新材",
+   "desc": "金属粉材生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "C++轮",
+   "amount": "未透露",
+   "investors": "海通创新",
+   "url": "https://pitchhub.36kr.com/project/2060980639758469",
+   "province": "浙江省"
+  },
+  {
+   "id": "1818823246860416",
+   "date": "2026-10-14",
+   "name": "演生潮",
+   "desc": "潮徽生物是一家护理产品研发商，集个人护理、家居护理等领域研发、生产、销售及服务于一体。",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "道远资本",
+   "url": "https://pitchhub.36kr.com/project/1818823246860416",
+   "province": "北京市"
   },
   {
    "id": "2245638974813959",
@@ -469,6 +553,34 @@ window.__FINANCING_DATA__ = {
    "amount": "近亿人民币",
    "investors": "信维通信、黄海资本、中创资本、勤道资本、金木资本",
    "url": "https://pitchhub.36kr.com/project/2379416806218119",
+   "province": "广东省"
+  },
+  {
+   "id": "1835179615088263",
+   "date": "2026-10-13",
+   "name": "昆迈医疗",
+   "desc": "以生物弱磁探测为核心技术的医疗设备制造商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "兴牛资本",
+   "url": "https://pitchhub.36kr.com/project/1835179615088263",
+   "province": "北京市"
+  },
+  {
+   "id": "2075960520496135",
+   "date": "2026-10-13",
+   "name": "仪速安科技",
+   "desc": "实验室系统集成服务商",
+   "industry": [
+    "物联网/硬件"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "国聚创投",
+   "url": "https://pitchhub.36kr.com/project/2075960520496135",
    "province": "广东省"
   },
   {
