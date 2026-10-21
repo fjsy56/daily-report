@@ -1,6 +1,22 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "tech": [
+    {
+      "title": "亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点",
+      "url": "http://www.geekpark.net/news/372671",
+      "excerpt": "在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 & CEO 张鹏进行了一场极具深度的炉边对谈。面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具",
+      "url": "http://www.geekpark.net/news/372650",
+      "excerpt": "DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepI",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
     {
       "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
       "url": "http://www.geekpark.net/news/372583",
@@ -26,41 +42,25 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
-      "url": "http://www.geekpark.net/news/372578",
-      "excerpt": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "url": "https://www.qbitai.com/2026/10/504314.html",
-      "excerpt": "OpenAI只掏出一个6.1 Terra…",
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "excerpt": "先看真实问题解决力",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "字节",
       "cat": "tech"
     },
     {
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "url": "https://www.qbitai.com/2026/10/504277.html",
-      "excerpt": "同步搭建千比特规模量子算力云平台",
-      "src": "量子位",
-      "tag": "芯片",
-      "cat": "tech"
-    },
-    {
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "excerpt": "当AI越来越懂你，如何让智能真正属于你？",
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "excerpt": "电池、电驱、超充一把梭，冬天多跑30公里",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "url": "https://www.qbitai.com/2026/10/504266.html",
-      "excerpt": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "excerpt": "把记忆原生焊进Transformer",
       "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
@@ -76,88 +76,88 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
-      "url": "http://www.geekpark.net/news/372514",
-      "excerpt": "OpenAI 三个神秘模型曝光10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字：aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（",
-      "src": "极客公园",
-      "tag": "DeepSeek",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "excerpt": "兔皮底下，竟然是MiniMax！",
+      "src": "量子位",
+      "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
-      "url": "https://www.qbitai.com/2026/10/504238.html",
-      "excerpt": "10月19日，RISC-V中国峰会在深圳举行。",
+      "title": "IDC 首份汽车 AI 座舱市场跟踪报告发布，2026 上半年火山引擎份额第一、阿里第二",
+      "url": "https://www.ithome.com/1/015/980.htm",
+      "excerpt": "IT之家 10 月 21 日消息，随着大语言模型、多模态交互及端云协同架构不断成熟，智能语音、AI 助手、导航问答、内容生成和个性化推荐等 AI 原生应用正加速上车。国际数据公司（IDC）今日在《中国汽车云市场跟踪》报告中，首次将 AI 座舱解决方案作为独立附",
+      "src": "IT之家",
+      "tag": "阿里",
+      "cat": "app"
+    },
+    {
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "url": "https://www.qbitai.com/2026/10/504435.html",
+      "excerpt": "当地时间10月12日，2026巴黎国际车展正式启幕。",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-      "url": "https://www.qbitai.com/2026/10/504199.html",
-      "excerpt": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "app"
+      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "url": "https://www.qbitai.com/2026/10/504225.html",
-      "excerpt": "六年蛰伏出货80万颗",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "excerpt": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
       "src": "量子位",
-      "tag": "芯片",
-      "cat": "tech"
+      "tag": "行业动态",
+      "cat": "enterprise"
     },
     {
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "url": "https://www.qbitai.com/2026/10/504242.html",
-      "excerpt": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+      "title": "腾讯股价跌破 400 港元：创近一年新低，市值缩水近 4 成",
+      "url": "https://www.ithome.com/1/015/985.htm",
+      "excerpt": "IT之家 10 月 21 日消息，截至今日港股收盘，腾讯控股股价跌破 400 港元，下跌 4.04% 收报 393.8 港元，创下近一年新低。今年年初，腾讯股价一度冲高至 633.7 港元附近，对应市值约 5.76 万亿港元（IT之家注：现汇率约合 4.91 ",
+      "src": "IT之家",
+      "tag": "腾讯",
+      "cat": "enterprise"
+    },
+    {
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "excerpt": "最新发布TokenFleet调度框架",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "OpenAI 与 Meta 齐发声：深度伪造将严重威胁法律诉讼中的证据可靠性",
-      "url": "https://www.ithome.com/1/015/421.htm",
-      "excerpt": "IT之家 10 月 20 日消息，据路透社报道，OpenAI 与 Meta 代表在当地时间本月 15 日的美国司法会议证据规则咨询委员会会议上均表示，人工智能驱动的深度伪造将严重威胁法律诉讼中的证据可靠性。OpenAI 政策顾问 Shira Anderson ",
-      "src": "IT之家",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "美中关系全国委员会会长欧伦斯夸赞小米工厂，感慨美国电动车价格高、效率低",
-      "url": "https://www.ithome.com/1/015/419.htm",
-      "excerpt": "“2026 可持续全球领导者大会”于 10 月 20 日-22 日在上海举行。美中关系全国委员会会长欧伦斯（Stephen A． Orlins）在演讲时透露自己最近走访了北京的小米工厂，“我当时看到机器人自动化生产，真是太惊艳了”。他说，美国也在这些领域取得进",
-      "src": "IT之家",
-      "tag": "小米",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "excerpt": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "iPhone",
-      "Duo",
-      "分钟售罄",
-      "发货排到明年",
-      "卖爆背后的真相"
+      "CTO",
+      "Dr.",
+      "Werner",
+      "Vogels",
+      "亚马逊"
     ],
     "app": [
-      "Personal",
       "Agent",
+      "Personal",
       "Lovart",
       "Arti",
       "设计师的第一个",
       "可能就是"
     ],
     "enterprise": [
-      "全栈自研",
-      "国产高端互连芯片",
-      "稳了",
-      "AI",
-      "生命",
-      "OpenAI"
+      "Meshy",
+      "APEC",
+      "腾讯股价跌破",
+      "港元",
+      "创近一年新低",
+      "市值缩水近"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.65
+      "w": "Agent",
+      "wt": 0.59
     },
     {
-      "w": "极客早知道",
-      "wt": 0.65
+      "w": "Meshy",
+      "wt": 0.59
     },
     {
-      "w": "OpenAI",
-      "wt": 0.65
+      "w": "CTO",
+      "wt": 0.47
+    },
+    {
+      "w": "Dr.",
+      "wt": 0.47
+    },
+    {
+      "w": "Werner",
+      "wt": 0.47
+    },
+    {
+      "w": "Vogels",
+      "wt": 0.47
+    },
+    {
+      "w": "亚马逊",
+      "wt": 0.47
+    },
+    {
+      "w": "二十余年技术实践",
+      "wt": 0.47
+    },
+    {
+      "w": "想与创业者分享这",
+      "wt": 0.47
+    },
+    {
+      "w": "Muse",
+      "wt": 0.47
+    },
+    {
+      "w": "ChatGPT",
+      "wt": 0.47
+    },
+    {
+      "w": "下载量突破",
+      "wt": 0.47
+    },
+    {
+      "w": "万次",
+      "wt": 0.47
+    },
+    {
+      "w": "上线幻灯片工具",
+      "wt": 0.47
     },
     {
       "w": "Personal",
-      "wt": 0.5
-    },
-    {
-      "w": "Agent",
-      "wt": 0.5
+      "wt": 0.47
     },
     {
       "w": "Lovart",
-      "wt": 0.5
+      "wt": 0.47
     },
     {
       "w": "Arti",
-      "wt": 0.5
+      "wt": 0.47
     },
     {
       "w": "设计师的第一个",
-      "wt": 0.5
+      "wt": 0.47
     },
     {
       "w": "可能就是",
-      "wt": 0.5
-    },
-    {
-      "w": "iPhone",
-      "wt": 0.5
-    },
-    {
-      "w": "Duo",
-      "wt": 0.5
-    },
-    {
-      "w": "分钟售罄",
-      "wt": 0.5
-    },
-    {
-      "w": "发货排到明年",
-      "wt": 0.5
-    },
-    {
-      "w": "卖爆背后的真相",
-      "wt": 0.5
-    },
-    {
-      "w": "豆包发言人辟谣",
-      "wt": 0.5
-    },
-    {
-      "w": "里没有答案的问题",
-      "wt": 0.5
-    },
-    {
-      "w": "需要一场「深谈」",
-      "wt": 0.5
-    },
-    {
-      "w": "买单",
-      "wt": 0.5
-    },
-    {
-      "w": "API",
-      "wt": 0.5
+      "wt": 0.47
     }
   ],
   "total": 16
