@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-21 18:27",
- "total": 918,
+ "updated": "2026-10-22 18:23",
+ "total": 929,
  "industries": [
   "产业升级",
   "企业服务",
@@ -90,6 +90,7 @@ window.__FINANCING_DATA__ = {
   "海外",
   "湖北省",
   "湖南省",
+  "甘肃省",
   "福建省",
   "贵州省",
   "辽宁省",
@@ -99,6 +100,77 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2261394806475655",
+   "date": "2026-10-21",
+   "name": "梦象科技",
+   "desc": "聚焦能源互联网智能用电管理",
+   "industry": [
+    "能源环保",
+    "智能硬件"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "恺英网络",
+   "url": "https://pitchhub.36kr.com/project/2261394806475655",
+   "province": "上海市"
+  },
+  {
+   "id": "2011444931724552",
+   "date": "2026-10-21",
+   "name": "东风汽车",
+   "desc": "轻型车整体运营解决方案提供商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "中兵投资",
+   "url": "https://pitchhub.36kr.com/project/2011444931724552",
+   "province": "湖北省"
+  },
+  {
+   "id": "1678510488171525",
+   "date": "2026-10-21",
+   "name": "柏垠生物",
+   "desc": "创新生物材料研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "2亿人民币",
+   "investors": "欧莱雅、沃博联、广药集团、广新集团",
+   "url": "https://pitchhub.36kr.com/project/1678510488171525",
+   "province": "广东省"
+  },
+  {
+   "id": "2077563232245513",
+   "date": "2026-10-20",
+   "name": "苏州安瑞可",
+   "desc": "物理架构设备供应商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "并购/合并",
+   "amount": "8.4亿人民币",
+   "investors": "龙旗科技",
+   "url": "https://pitchhub.36kr.com/project/2077563232245513",
+   "province": "江苏省"
+  },
+  {
+   "id": "4037174249481097",
+   "date": "2026-10-20",
+   "name": "中科博特",
+   "desc": "特种智能机器人研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "永捷华章",
+   "url": "https://pitchhub.36kr.com/project/4037174249481097",
+   "province": "安徽省"
+  },
   {
    "id": "2071655601389832",
    "date": "2026-10-20",
@@ -126,6 +198,20 @@ window.__FINANCING_DATA__ = {
    "investors": "顺禧基金、熙诚致远、工银资本、银企投资、工银投资",
    "url": "https://pitchhub.36kr.com/project/2373172803193730",
    "province": "北京市"
+  },
+  {
+   "id": "2066611023888385",
+   "date": "2026-10-19",
+   "name": "雅科贝思",
+   "desc": "微特电机及组件制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "潼芯德润、高易创投、木澜投资",
+   "url": "https://pitchhub.36kr.com/project/2066611023888385",
+   "province": "上海市"
   },
   {
    "id": "1678240329643011",
@@ -169,6 +255,49 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "一家具备深厚产业资源、大型科技投资经验及明星项目背景的基金、琮碧秋实、某国有产投基金",
    "url": "https://pitchhub.36kr.com/project/2175335008566017",
+   "province": "广东省"
+  },
+  {
+   "id": "1678291335181312",
+   "date": "2026-10-18",
+   "name": "倍珍保",
+   "desc": "宠物医研防愈保健品牌",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "绍兴滨海新区生物医药产业股权投资基金",
+   "url": "https://pitchhub.36kr.com/project/1678291335181312",
+   "province": "湖北省"
+  },
+  {
+   "id": "2316515480881666",
+   "date": "2026-10-18",
+   "name": "盘古云泰",
+   "desc": "数据中心服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中国外贸信托",
+   "url": "https://pitchhub.36kr.com/project/2316515480881666",
+   "province": "天津市"
+  },
+  {
+   "id": "2080333361207045",
+   "date": "2026-10-18",
+   "name": "和润达",
+   "desc": "锂电池整线设备优质设备商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "诺铁资产",
+   "url": "https://pitchhub.36kr.com/project/2080333361207045",
    "province": "广东省"
   },
   {
@@ -283,6 +412,20 @@ window.__FINANCING_DATA__ = {
    "investors": "清澜华创",
    "url": "https://pitchhub.36kr.com/project/1957107134155013",
    "province": "广东省"
+  },
+  {
+   "id": "2361537082101120",
+   "date": "2026-10-15",
+   "name": "金川集团镍盐",
+   "desc": "化学品生产及销售商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "镍都基金",
+   "url": "https://pitchhub.36kr.com/project/2361537082101120",
+   "province": "甘肃省"
   },
   {
    "id": "1802642436613891",
@@ -554,6 +697,20 @@ window.__FINANCING_DATA__ = {
    "investors": "信维通信、黄海资本、中创资本、勤道资本、金木资本",
    "url": "https://pitchhub.36kr.com/project/2379416806218119",
    "province": "广东省"
+  },
+  {
+   "id": "1958614723974146",
+   "date": "2026-10-13",
+   "name": "中电绿网",
+   "desc": "智慧新能源科技研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "山东财金集团",
+   "url": "https://pitchhub.36kr.com/project/1958614723974146",
+   "province": "山东省"
   },
   {
    "id": "1835179615088263",
