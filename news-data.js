@@ -1,102 +1,86 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "tech": [
     {
-      "title": "3年价格翻3倍！普通人快买不起的硬盘，AI正在批量扫货",
-      "url": "https://www.huxiu.com/article/4899595.html",
+      "title": "浦江科技评论｜AI重塑文创：从创作工具到生产系统",
+      "url": "https://www.huxiu.com/article/4899916.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Anthropic 祭出全新治理架构：重新定义 AI 公司的资本规则",
-      "url": "https://www.huxiu.com/article/4899573.html",
+      "title": "AI信徒王兴兴一段话，宇树涨了54%，但考验在后面",
+      "url": "https://www.huxiu.com/article/4899911.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "宇树",
+      "cat": "tech"
+    },
+    {
+      "title": "“天数智芯”们比拼超节点 单柜卡数之外还看什么？",
+      "url": "https://www.huxiu.com/article/4899907.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "OpenRouter，美版硅基流动的流水单——一只匿名兔子和一张正在贬值的榜",
-      "url": "https://www.huxiu.com/article/4899544.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI 漫剧越做越快，赚钱却没那么容易了",
-      "url": "http://www.geekpark.net/news/372746",
-      "excerpt": "「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出",
+      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
+      "url": "http://www.geekpark.net/news/372807",
+      "excerpt": "头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarte",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-      "url": "http://www.geekpark.net/news/372740",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta ",
+      "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
+      "url": "http://www.geekpark.net/news/372805",
+      "excerpt": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 到处挖漏洞一整年，终于给人类爆了个大的",
-      "url": "http://www.geekpark.net/news/372731",
-      "excerpt": "头图图片来源：Wiz10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了",
+      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
+      "url": "http://www.geekpark.net/news/372803",
+      "excerpt": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，",
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-      "url": "http://www.geekpark.net/news/372710",
-      "excerpt": "头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右",
+      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+      "url": "http://www.geekpark.net/news/372801",
+      "excerpt": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不",
       "src": "极客公园",
-      "tag": "字节",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "excerpt": "FSD一年增长70万付费用户",
-      "src": "量子位",
-      "tag": "马斯克",
+      "title": "欧洲 AI，等来了黄仁勋",
+      "url": "http://www.geekpark.net/news/372763",
+      "excerpt": "GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已",
+      "src": "极客公园",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "中层不会消失，只是换成了Agent",
-      "url": "https://www.huxiu.com/article/4899579.html",
+      "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+      "url": "https://www.huxiu.com/article/4899921.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "Agent",
+      "tag": "具身智能",
       "cat": "app"
     },
     {
-      "title": "个人智能体扎堆上线，没几个App 愿意开门",
-      "url": "https://www.huxiu.com/article/4899549.html",
+      "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
+      "url": "https://www.huxiu.com/article/4899912.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
-      "url": "http://www.geekpark.net/news/372743",
-      "excerpt": "头图来源：元宝搜索 过去一年，AI 行业的战场正在悄悄发生位移。 当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。 政策迭代、市场波动、行业动态、垂类数据&hellip;&h",
-      "src": "极客公园",
-      "tag": "大模型",
-      "cat": "app"
-    },
-    {
-      "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
-      "url": "http://www.geekpark.net/news/372711",
-      "excerpt": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可",
-      "src": "极客公园",
-      "tag": "微软",
+      "tag": "OpenAI",
       "cat": "app"
     },
     {
@@ -108,15 +92,39 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "url": "https://www.qbitai.com/2026/10/504638.html",
-      "excerpt": "百万台搭载打底，智驾普及与安全并重",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "excerpt": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
+      "tag": "百度",
+      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
+      "url": "http://www.geekpark.net/news/372767",
+      "excerpt": "DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "enterprise"
+    },
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "excerpt": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "src": "量子位",
+      "tag": "微软",
+      "cat": "tech"
+    },
+    {
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "excerpt": "FSD一年增长70万付费用户",
+      "src": "量子位",
+      "tag": "马斯克",
+      "cat": "tech"
+    },
     {
       "title": "谁在给OpenAI供应具身数据？",
       "url": "https://www.qbitai.com/2026/10/504800.html",
@@ -124,56 +132,32 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "OpenAI",
       "cat": "tech"
-    },
-    {
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "excerpt": "医疗AI质变时刻",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "excerpt": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "url": "https://www.qbitai.com/2026/10/504653.html",
-      "excerpt": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Anthropic",
-      "祭出全新治理架构",
-      "重新定义",
-      "公司的资本规则",
-      "OpenRouter"
+      "浦江科技评论",
+      "但考验在后面",
+      "中国",
+      "硬件的下一个爆款",
+      "是智商税吗"
     ],
     "app": [
       "Agent",
-      "中层不会消失",
-      "App",
-      "愿意开门",
-      "AI",
-      "大模型内卷之后"
+      "GPT-6",
+      "Astra",
+      "机器人与制药",
+      "OpenAI",
+      "Xing4.0-29B-Intent"
     ],
     "enterprise": [
-      "AI",
-      "OpenAI",
-      "AIR",
-      "Motubrain",
-      "Physical",
-      "持续半个月"
+      "DeepSeek",
+      "iPhone",
+      "Duo",
+      "据悉完成",
+      "亿元新一轮融资",
+      "微信称已完成适配"
     ]
   },
   "hotwords": [
@@ -182,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "OpenAI",
+      "wt": 0.48
+    },
+    {
+      "w": "浦江科技评论",
+      "wt": 0.42
+    },
+    {
       "w": "Agent",
-      "wt": 0.47
+      "wt": 0.42
     },
     {
-      "w": "Anthropic",
-      "wt": 0.47
+      "w": "GPT-6",
+      "wt": 0.42
     },
     {
-      "w": "iPhone",
-      "wt": 0.47
+      "w": "Astra",
+      "wt": 0.42
     },
     {
-      "w": "Duo",
-      "wt": 0.47
+      "w": "机器人与制药",
+      "wt": 0.42
     },
     {
-      "w": "中层不会消失",
-      "wt": 0.41
+      "w": "但考验在后面",
+      "wt": 0.42
     },
     {
-      "w": "祭出全新治理架构",
-      "wt": 0.41
+      "w": "中国",
+      "wt": 0.42
     },
     {
-      "w": "重新定义",
-      "wt": 0.41
+      "w": "硬件的下一个爆款",
+      "wt": 0.42
     },
     {
-      "w": "公司的资本规则",
-      "wt": 0.41
+      "w": "是智商税吗",
+      "wt": 0.42
     },
     {
-      "w": "App",
-      "wt": 0.41
+      "w": "我睡了",
+      "wt": 0.42
     },
     {
-      "w": "愿意开门",
-      "wt": 0.41
+      "w": "kHz",
+      "wt": 0.42
     },
     {
-      "w": "OpenRouter",
-      "wt": 0.41
+      "w": "造物",
+      "wt": 0.42
     },
     {
-      "w": "漫剧越做越快",
-      "wt": 0.41
+      "w": "超声波去污笔",
+      "wt": 0.42
     },
     {
-      "w": "大模型内卷之后",
-      "wt": 0.41
+      "w": "能打电话的奥特曼",
+      "wt": 0.42
     },
     {
-      "w": "Claude",
-      "wt": 0.41
+      "w": "玩具",
+      "wt": 0.42
     },
     {
-      "w": "Duet",
-      "wt": 0.41
+      "w": "Token",
+      "wt": 0.42
     },
     {
-      "w": "被迫下场",
-      "wt": 0.41
+      "w": "今年双",
+      "wt": 0.42
     },
     {
-      "w": "推出个人",
-      "wt": 0.41
-    },
-    {
-      "w": "助理",
-      "wt": 0.41
-    },
-    {
-      "w": "到处挖漏洞一整年",
-      "wt": 0.41
+      "w": "还有",
+      "wt": 0.42
     }
   ],
-  "total": 18
+  "total": 16
 };
