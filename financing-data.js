@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-22 18:23",
- "total": 929,
+ "updated": "2026-10-23 17:45",
+ "total": 934,
  "industries": [
   "产业升级",
   "企业服务",
@@ -101,6 +101,34 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2316506107464200",
+   "date": "2026-10-21",
+   "name": "零唯一思",
+   "desc": "数字疗法解决方案提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "菡源资产",
+   "url": "https://pitchhub.36kr.com/project/2316506107464200",
+   "province": "上海市"
+  },
+  {
+   "id": "2114005017467782",
+   "date": "2026-10-21",
+   "name": "鸾起科技",
+   "desc": "存储产品测试设备研发销售商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "云泽资本、冯源资本",
+   "url": "https://pitchhub.36kr.com/project/2114005017467782",
+   "province": "江苏省"
+  },
+  {
    "id": "2261394806475655",
    "date": "2026-10-21",
    "name": "梦象科技",
@@ -141,6 +169,20 @@ window.__FINANCING_DATA__ = {
    "amount": "2亿人民币",
    "investors": "欧莱雅、沃博联、广药集团、广新集团",
    "url": "https://pitchhub.36kr.com/project/1678510488171525",
+   "province": "广东省"
+  },
+  {
+   "id": "2080180328486661",
+   "date": "2026-10-20",
+   "name": "未来脑律",
+   "desc": "脑疾病非侵入式神经调控治疗产品提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "明熙资本、五源资本",
+   "url": "https://pitchhub.36kr.com/project/2080180328486661",
    "province": "广东省"
   },
   {
@@ -255,6 +297,34 @@ window.__FINANCING_DATA__ = {
    "amount": "超亿人民币",
    "investors": "一家具备深厚产业资源、大型科技投资经验及明星项目背景的基金、琮碧秋实、某国有产投基金",
    "url": "https://pitchhub.36kr.com/project/2175335008566017",
+   "province": "广东省"
+  },
+  {
+   "id": "1678552717915137",
+   "date": "2026-10-18",
+   "name": "源古纪",
+   "desc": "呼吸系统疾病全生命周期解决方案提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "海珠城发",
+   "url": "https://pitchhub.36kr.com/project/1678552717915137",
+   "province": "广东省"
+  },
+  {
+   "id": "2080331353184004",
+   "date": "2026-10-18",
+   "name": "微品农社",
+   "desc": "特色农产品电商平台",
+   "industry": [
+    "农林牧渔"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中美创投",
+   "url": "https://pitchhub.36kr.com/project/2080331353184004",
    "province": "广东省"
   },
   {
