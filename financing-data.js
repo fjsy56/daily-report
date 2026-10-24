@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-23 17:45",
- "total": 934,
+ "updated": "2026-10-24 17:55",
+ "total": 935,
  "industries": [
   "产业升级",
   "企业服务",
@@ -100,6 +100,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "4040003454035078",
+   "date": "2026-10-21",
+   "name": "国寿养老",
+   "desc": "全国性专业养老保险公司",
+   "industry": [
+    "金融"
+   ],
+   "round": "股权融资",
+   "amount": "45.8亿人民币",
+   "investors": "中国人寿",
+   "url": "https://pitchhub.36kr.com/project/4040003454035078",
+   "province": "北京市"
+  },
   {
    "id": "2316506107464200",
    "date": "2026-10-21",
