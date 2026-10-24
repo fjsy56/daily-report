@@ -1,25 +1,33 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "tech": [
     {
-      "title": "浦江科技评论｜AI重塑文创：从创作工具到生产系统",
-      "url": "https://www.huxiu.com/article/4899916.html",
+      "title": "OpenAI：断网训练前沿模型",
+      "url": "https://www.huxiu.com/article/4900146.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "AI时代，真正危险的不是不会用AI，而是仍在做“传统企业＋AI”",
+      "url": "https://www.huxiu.com/article/4900142.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI信徒王兴兴一段话，宇树涨了54%，但考验在后面",
-      "url": "https://www.huxiu.com/article/4899911.html",
+      "title": "中国科创生态：谁来打破“等别人先证明”的循环？",
+      "url": "https://www.huxiu.com/article/4900140.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "宇树",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "“天数智芯”们比拼超节点 单柜卡数之外还看什么？",
-      "url": "https://www.huxiu.com/article/4899907.html",
+      "title": "米哈游，投了一位女将",
+      "url": "https://www.huxiu.com/article/4900139.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
@@ -56,31 +64,23 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "欧洲 AI，等来了黄仁勋",
-      "url": "http://www.geekpark.net/news/372763",
-      "excerpt": "GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
-      "url": "https://www.huxiu.com/article/4899921.html",
+      "title": "我最喜欢的浏览器没了，我找到了四种方式“复活”它",
+      "url": "https://www.huxiu.com/article/4900145.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "具身智能",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
-      "url": "https://www.huxiu.com/article/4899912.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
+      "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+      "url": "http://www.geekpark.net/news/372858",
+      "excerpt": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "app"
     },
     {
@@ -92,12 +92,12 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "excerpt": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "src": "量子位",
-      "tag": "百度",
-      "cat": "tech"
+      "title": "华为日本首家直营综合售后服务中心开业：落地东京千代田区神田须田町，紧邻秋叶原商圈",
+      "url": "https://www.ithome.com/1/017/414.htm",
+      "excerpt": "IT之家 10 月 24 日消息，据华为日本官网消息，华为日本首家直营综合售后服务中心已于昨日正式开业，落地日本东京都千代田区神田须田町 1 丁目 3-1 须田町大楼 1 楼，紧邻秋叶原商圈。据介绍，开业期间（10 月 23 日～10 月 31 日），前 10",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "app"
     }
   ],
   "enterprise": [
@@ -108,6 +108,14 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "DeepSeek",
       "cat": "enterprise"
+    },
+    {
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "excerpt": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "src": "量子位",
+      "tag": "百度",
+      "cat": "tech"
     },
     {
       "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
@@ -124,32 +132,24 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "马斯克",
       "cat": "tech"
-    },
-    {
-      "title": "谁在给OpenAI供应具身数据？",
-      "url": "https://www.qbitai.com/2026/10/504800.html",
-      "excerpt": "挤进全球Physical AI核心供应链",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "浦江科技评论",
-      "但考验在后面",
-      "中国",
-      "硬件的下一个爆款",
-      "是智商税吗"
+      "OpenAI",
+      "断网训练前沿模型",
+      "中国科创生态",
+      "米哈游",
+      "投了一位女将"
     ],
     "app": [
-      "Agent",
-      "GPT-6",
-      "Astra",
-      "机器人与制药",
-      "OpenAI",
-      "Xing4.0-29B-Intent"
+      "iPhone",
+      "Duo",
+      "Kimi",
+      "K3.1",
+      "Pro",
+      "Seedance"
     ],
     "enterprise": [
       "DeepSeek",
@@ -166,31 +166,51 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "iPhone",
+      "wt": 0.55
+    },
+    {
+      "w": "Duo",
+      "wt": 0.55
+    },
+    {
       "w": "OpenAI",
       "wt": 0.48
     },
     {
-      "w": "浦江科技评论",
+      "w": "极客早知道",
+      "wt": 0.48
+    },
+    {
+      "w": "断网训练前沿模型",
       "wt": 0.42
     },
     {
-      "w": "Agent",
+      "w": "中国科创生态",
       "wt": 0.42
     },
     {
-      "w": "GPT-6",
+      "w": "米哈游",
       "wt": 0.42
     },
     {
-      "w": "Astra",
+      "w": "投了一位女将",
       "wt": 0.42
     },
     {
-      "w": "机器人与制药",
+      "w": "Kimi",
       "wt": 0.42
     },
     {
-      "w": "但考验在后面",
+      "w": "K3.1",
+      "wt": 0.42
+    },
+    {
+      "w": "Pro",
+      "wt": 0.42
+    },
+    {
+      "w": "Seedance",
       "wt": 0.42
     },
     {
@@ -219,26 +239,6 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "超声波去污笔",
-      "wt": 0.42
-    },
-    {
-      "w": "能打电话的奥特曼",
-      "wt": 0.42
-    },
-    {
-      "w": "玩具",
-      "wt": 0.42
-    },
-    {
-      "w": "Token",
-      "wt": 0.42
-    },
-    {
-      "w": "今年双",
-      "wt": 0.42
-    },
-    {
-      "w": "还有",
       "wt": 0.42
     }
   ],
