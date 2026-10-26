@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "tech": [
+    {
+      "title": "北京AI产业地图：61家公司，两拨创业者，两种资本周期",
+      "url": "https://www.huxiu.com/article/4900518.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "卢拉再次当选，巴西人工智能战略及其国际人工智能治理将走向何方？",
+      "url": "https://www.huxiu.com/article/4900512.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "OpenAI“招安”孙宇晨",
+      "url": "https://www.huxiu.com/article/4900507.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "最新深度访谈，黄仁勋透露了哪些关键信息？",
+      "url": "https://www.huxiu.com/article/4900459.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "医疗AI分野：大厂抢医生，垂类抢院长",
+      "url": "https://www.huxiu.com/article/4900484.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
       "url": "http://www.geekpark.net/news/372807",
@@ -24,49 +64,17 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    },
-    {
-      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-      "url": "http://www.geekpark.net/news/372801",
-      "excerpt": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "excerpt": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "src": "量子位",
-      "tag": "百度",
-      "cat": "tech"
-    },
-    {
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "url": "https://www.qbitai.com/2026/10/504879.html",
-      "excerpt": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-      "src": "量子位",
-      "tag": "微软",
-      "cat": "tech"
-    },
-    {
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "excerpt": "FSD一年增长70万付费用户",
-      "src": "量子位",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "谁在给OpenAI供应具身数据？",
-      "url": "https://www.qbitai.com/2026/10/504800.html",
-      "excerpt": "挤进全球Physical AI核心供应链",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
+      "url": "http://www.geekpark.net/news/372863",
+      "excerpt": "张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 200",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "app"
+    },
     {
       "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
       "url": "http://www.geekpark.net/news/372858",
@@ -76,28 +84,36 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "excerpt": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "url": "https://www.qbitai.com/2026/10/505436.html",
+      "excerpt": "10月21日，2026世界智能网联汽车大会在北京召开",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "excerpt": "医疗AI质变时刻",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "tech"
-    },
-    {
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "excerpt": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+      "url": "https://www.qbitai.com/2026/10/505365.html",
+      "excerpt": "AI同事自带工作记忆上岗",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "app"
+    },
+    {
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+      "url": "https://www.qbitai.com/2026/10/505309.html",
+      "excerpt": "打造以多智能体协同为核心的角色Agent",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
+      "url": "https://www.ithome.com/1/018/013.htm",
+      "excerpt": "IT之家 10 月 26 日消息，10 月 26 日，字节跳动旗下即梦 AI 宣布，即梦短剧工作室正式上线，提供自研剧本模型 DreamScript、图片模型 Anycook、分镜模型 DreamShot。自研剧本模型 DreamScript：支持多题材剧本生",
+      "src": "IT之家",
+      "tag": "字节",
+      "cat": "app"
     }
   ],
   "enterprise": [
@@ -110,46 +126,54 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "东风猛士 X700 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱 HarmonySpace 6，限时焕新价 20.98 万元起",
-      "url": "https://www.ithome.com/1/017/629.htm",
-      "excerpt": "IT之家 10 月 25 日消息，东风猛士汽车全新 X 序列的首款车型 —— 猛士 X700 今日上市，新车共推出 3 款车型，限时焕新价 20.98 万元起，搭载华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6。IT之家附价格信息如下：32",
-      "src": "IT之家",
-      "tag": "华为",
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "url": "https://www.qbitai.com/2026/10/505429.html",
+      "excerpt": "高品质 AI Token 成为行业新风向",
+      "src": "量子位",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "url": "https://www.qbitai.com/2026/10/504653.html",
-      "excerpt": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+      "title": "中国近50%的新云生意，竟被这家公司包揽！",
+      "url": "https://www.qbitai.com/2026/10/505454.html",
+      "excerpt": "有点意外，但也不意外",
       "src": "量子位",
-      "tag": "具身智能",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "url": "https://www.qbitai.com/2026/10/505443.html",
+      "excerpt": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "中国",
-      "硬件的下一个爆款",
-      "是智商税吗",
-      "我睡了",
-      "kHz"
+      "两拨创业者",
+      "两种资本周期",
+      "卢拉再次当选",
+      "OpenAI",
+      "最新深度访谈"
     ],
     "app": [
-      "AI",
       "iPhone",
-      "Duo",
-      "Kimi",
-      "K3.1",
-      "Pro"
+      "极客早知道",
+      "AI",
+      "MacBook",
+      "苹果发",
+      "折叠屏官方文档"
     ],
     "enterprise": [
       "AI",
       "英国宣布超过",
       "亿英镑",
       "投资计划",
-      "X700",
-      "ADS"
+      "Token",
+      "趋境科技完成"
     ]
   },
   "hotwords": [
@@ -158,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "英国宣布超过",
-      "wt": 0.44
-    },
-    {
-      "w": "亿英镑",
-      "wt": 0.44
-    },
-    {
-      "w": "投资计划",
-      "wt": 0.44
-    },
-    {
       "w": "iPhone",
-      "wt": 0.44
-    },
-    {
-      "w": "Duo",
-      "wt": 0.44
-    },
-    {
-      "w": "Kimi",
-      "wt": 0.44
-    },
-    {
-      "w": "K3.1",
-      "wt": 0.44
-    },
-    {
-      "w": "Pro",
-      "wt": 0.44
-    },
-    {
-      "w": "Seedance",
-      "wt": 0.44
+      "wt": 0.47
     },
     {
       "w": "极客早知道",
-      "wt": 0.44
+      "wt": 0.47
     },
     {
-      "w": "中国",
-      "wt": 0.44
+      "w": "两拨创业者",
+      "wt": 0.41
     },
     {
-      "w": "硬件的下一个爆款",
-      "wt": 0.44
+      "w": "两种资本周期",
+      "wt": 0.41
     },
     {
-      "w": "是智商税吗",
-      "wt": 0.44
+      "w": "卢拉再次当选",
+      "wt": 0.41
     },
     {
-      "w": "我睡了",
-      "wt": 0.44
+      "w": "OpenAI",
+      "wt": 0.41
     },
     {
-      "w": "kHz",
-      "wt": 0.44
+      "w": "最新深度访谈",
+      "wt": 0.41
     },
     {
-      "w": "造物",
-      "wt": 0.44
+      "w": "大厂抢医生",
+      "wt": 0.41
     },
     {
-      "w": "超声波去污笔",
-      "wt": 0.44
+      "w": "垂类抢院长",
+      "wt": 0.41
     },
     {
-      "w": "能打电话的奥特曼",
-      "wt": 0.44
+      "w": "MacBook",
+      "wt": 0.41
     },
     {
-      "w": "玩具",
-      "wt": 0.44
+      "w": "苹果发",
+      "wt": 0.41
+    },
+    {
+      "w": "折叠屏官方文档",
+      "wt": 0.41
+    },
+    {
+      "w": "排查铰链故障",
+      "wt": 0.41
+    },
+    {
+      "w": "触屏",
+      "wt": 0.41
+    },
+    {
+      "w": "或周三发布",
+      "wt": 0.41
+    },
+    {
+      "w": "《流浪地球",
+      "wt": 0.41
+    },
+    {
+      "w": "春节上映",
+      "wt": 0.41
+    },
+    {
+      "w": "英国宣布超过",
+      "wt": 0.41
+    },
+    {
+      "w": "亿英镑",
+      "wt": 0.41
     }
   ],
-  "total": 15
+  "total": 18
 };
