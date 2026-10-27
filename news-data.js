@@ -1,137 +1,45 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "tech": [
     {
-      "title": "北京AI产业地图：61家公司，两拨创业者，两种资本周期",
-      "url": "https://www.huxiu.com/article/4900518.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+      "url": "http://www.geekpark.net/news/373006",
+      "excerpt": "大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元，发行价区间尚未披露。 24 ",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "卢拉再次当选，巴西人工智能战略及其国际人工智能治理将走向何方？",
-      "url": "https://www.huxiu.com/article/4900512.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+      "url": "http://www.geekpark.net/news/372939",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「",
+      "src": "极客公园",
+      "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "OpenAI“招安”孙宇晨",
-      "url": "https://www.huxiu.com/article/4900507.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "excerpt": "模型开始利用GPU缓存聊天？",
+      "src": "量子位",
       "tag": "OpenAI",
       "cat": "tech"
     },
     {
-      "title": "最新深度访谈，黄仁勋透露了哪些关键信息？",
-      "url": "https://www.huxiu.com/article/4900459.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "医疗AI分野：大厂抢医生，垂类抢院长",
-      "url": "https://www.huxiu.com/article/4900484.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
-      "url": "http://www.geekpark.net/news/372807",
-      "excerpt": "头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarte",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
-      "url": "http://www.geekpark.net/news/372805",
-      "excerpt": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-      "url": "http://www.geekpark.net/news/372803",
-      "excerpt": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
-      "url": "http://www.geekpark.net/news/372863",
-      "excerpt": "张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 200",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
-      "url": "http://www.geekpark.net/news/372858",
-      "excerpt": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
-      "url": "https://www.qbitai.com/2026/10/505436.html",
-      "excerpt": "10月21日，2026世界智能网联汽车大会在北京召开",
+      "title": "A社联创演讲：AI奇点已来",
+      "url": "https://www.qbitai.com/2026/10/505521.html",
+      "excerpt": "所谓奇点，或许是AI跃过人类的那个点。",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "app"
+      "cat": "tech"
     },
     {
-      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
-      "url": "https://www.qbitai.com/2026/10/505365.html",
-      "excerpt": "AI同事自带工作记忆上岗",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://www.qbitai.com/2026/10/505478.html",
+      "excerpt": "从冲刺AGI到转售GPU。",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
-      "url": "https://www.qbitai.com/2026/10/505309.html",
-      "excerpt": "打造以多智能体协同为核心的角色Agent",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
-      "url": "https://www.ithome.com/1/018/013.htm",
-      "excerpt": "IT之家 10 月 26 日消息，10 月 26 日，字节跳动旗下即梦 AI 宣布，即梦短剧工作室正式上线，提供自研剧本模型 DreamScript、图片模型 Anycook、分镜模型 DreamShot。自研剧本模型 DreamScript：支持多题材剧本生",
-      "src": "IT之家",
-      "tag": "字节",
-      "cat": "app"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
-      "url": "http://www.geekpark.net/news/372860",
-      "excerpt": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "enterprise"
-    },
-    {
-      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-      "url": "https://www.qbitai.com/2026/10/505429.html",
-      "excerpt": "高品质 AI Token 成为行业新风向",
-      "src": "量子位",
-      "tag": "融资",
-      "cat": "enterprise"
+      "tag": "英伟达",
+      "cat": "tech"
     },
     {
       "title": "中国近50%的新云生意，竟被这家公司包揽！",
@@ -148,32 +56,116 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
+    },
+    {
+      "title": "品丘联合魅族 PANDAER 推出 Power Duo 磁吸移动电源：可当苹果 iPhone Duo 支架，众筹价 1499 元",
+      "url": "https://www.ithome.com/1/018/534.htm",
+      "excerpt": "IT之家 10 月 27 日消息，初创公司品丘宣布联合魅族 PANDAER 推出一款 Power Duo 磁吸移动电源，官方称零售价 1999 元，众筹价为 1499 元。该产品折叠尺寸为 9 x 8.2 x 1.04cm，内置两组磁体，采用硅胶磁吸面，号称“",
+      "src": "IT之家",
+      "tag": "苹果",
+      "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+      "url": "http://www.geekpark.net/news/373004",
+      "excerpt": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《用 Manus 改造 Manus》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+      "url": "http://www.geekpark.net/news/373003",
+      "excerpt": "10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000",
+      "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+      "url": "http://www.geekpark.net/news/373002",
+      "excerpt": "Shopify AI 交易订单增长了 13 倍。 10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。 这一次抢首发的，不只是守在屏幕前的人。 今年 Agent ",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "app"
+    },
+    {
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "url": "https://www.qbitai.com/2026/10/505580.html",
+      "excerpt": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "excerpt": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+      "url": "http://www.geekpark.net/news/373008",
+      "excerpt": "头图图片来源：iFixit2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。这份专利 2015 年 1 月",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "enterprise"
+    },
+    {
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "excerpt": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "src": "量子位",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "剪剪剪剪剪：剪映 SVIP 超级会员 79 → 15 元 / 月 1.9 折年内探底，支持电脑端",
+      "url": "https://www.ithome.com/1/018/533.htm",
+      "excerpt": "剪映 SVIP 超级会员官方定价 758 元 / 年，连续包年 599 元 / 年，单月 79 元。今日官方仅需 180 元即可入手年卡，折合仅需 15 元 / 月好价：京东剪映 SVIP 会员年卡支持电脑端券后 180 元领 319 元券京东剪映 VIP 会",
+      "src": "IT之家",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "消息称某厂新机影像实验室出现双潜望长焦方案，预计华为旗下",
+      "url": "https://www.ithome.com/1/018/530.htm",
+      "excerpt": "IT之家 10 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂新机影像实验室出现了双潜望长焦方案，一颗 50Mp RYYB 小底，一颗 200Mp 1/1.3″ RYYB 超大底，焦段配置上新。结合该博主此前的爆料习惯，预计该机为华为旗下。IT之家注意",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "两拨创业者",
-      "两种资本周期",
-      "卢拉再次当选",
-      "OpenAI",
-      "最新深度访谈"
+      "Duo",
+      "Anthropic",
+      "看了招股书",
+      "我终于知道为什么",
+      "不在乎用户了"
     ],
     "app": [
-      "iPhone",
-      "极客早知道",
       "AI",
-      "MacBook",
-      "苹果发",
-      "折叠屏官方文档"
+      "Manus",
+      "宣言",
+      "启元机器人第",
+      "台下线",
+      "iPhone"
     ],
     "enterprise": [
-      "AI",
-      "英国宣布超过",
-      "亿英镑",
-      "投资计划",
-      "Token",
-      "趋境科技完成"
+      "iPhone",
+      "Duo",
+      "CEO",
+      "裂屏",
+      "是苹果新",
+      "Anthropic"
     ]
   },
   "hotwords": [
@@ -183,80 +175,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "iPhone",
-      "wt": 0.47
+      "wt": 0.55
     },
     {
-      "w": "极客早知道",
-      "wt": 0.47
+      "w": "Duo",
+      "wt": 0.55
     },
     {
-      "w": "两拨创业者",
-      "wt": 0.41
+      "w": "Anthropic",
+      "wt": 0.48
     },
     {
-      "w": "两种资本周期",
-      "wt": 0.41
+      "w": "Agent",
+      "wt": 0.48
     },
     {
-      "w": "卢拉再次当选",
-      "wt": 0.41
+      "w": "CEO",
+      "wt": 0.42
     },
     {
-      "w": "OpenAI",
-      "wt": 0.41
+      "w": "裂屏",
+      "wt": 0.42
     },
     {
-      "w": "最新深度访谈",
-      "wt": 0.41
+      "w": "是苹果新",
+      "wt": 0.42
     },
     {
-      "w": "大厂抢医生",
-      "wt": 0.41
+      "w": "看了招股书",
+      "wt": 0.42
     },
     {
-      "w": "垂类抢院长",
-      "wt": 0.41
+      "w": "我终于知道为什么",
+      "wt": 0.42
     },
     {
-      "w": "MacBook",
-      "wt": 0.41
+      "w": "不在乎用户了",
+      "wt": 0.42
     },
     {
-      "w": "苹果发",
-      "wt": 0.41
+      "w": "Manus",
+      "wt": 0.42
     },
     {
-      "w": "折叠屏官方文档",
-      "wt": 0.41
+      "w": "宣言",
+      "wt": 0.42
     },
     {
-      "w": "排查铰链故障",
-      "wt": 0.41
+      "w": "启元机器人第",
+      "wt": 0.42
     },
     {
-      "w": "触屏",
-      "wt": 0.41
+      "w": "台下线",
+      "wt": 0.42
     },
     {
-      "w": "或周三发布",
-      "wt": 0.41
+      "w": "帮用户抢",
+      "wt": 0.42
     },
     {
-      "w": "《流浪地球",
-      "wt": 0.41
+      "w": "折叠屏的",
+      "wt": 0.42
     },
     {
-      "w": "春节上映",
-      "wt": 0.41
+      "w": "正在塑造",
+      "wt": 0.42
     },
     {
-      "w": "英国宣布超过",
-      "wt": 0.41
+      "w": "时代电商的形状",
+      "wt": 0.42
     },
     {
-      "w": "亿英镑",
-      "wt": 0.41
+      "w": "Hi3D",
+      "wt": 0.42
     }
   ],
-  "total": 18
+  "total": 17
 };
