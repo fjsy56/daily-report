@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-24 17:55",
- "total": 935,
+ "updated": "2026-10-27 14:05",
+ "total": 936,
  "industries": [
   "产业升级",
   "企业服务",
@@ -97,9 +97,25 @@ window.__FINANCING_DATA__ = {
   "重庆市",
   "陕西省",
   "青海省",
+  "香港特别行政区",
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1806911793083397",
+   "date": "2026-10-25",
+   "name": "CLONEAC",
+   "desc": "CLONEAC 不忘初心，敢於創新",
+   "industry": [
+    "文化娱乐",
+    "前沿技术"
+   ],
+   "round": "Pre-B轮",
+   "amount": "72561920美元",
+   "investors": "未透露",
+   "url": "https://pitchhub.36kr.com/project/1806911793083397",
+   "province": "香港特别行政区"
+  },
   {
    "id": "4040003454035078",
    "date": "2026-10-21",
