@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-27 14:05",
- "total": 936,
+ "updated": "2026-10-28 17:06",
+ "total": 943,
  "industries": [
   "产业升级",
   "企业服务",
@@ -117,6 +117,77 @@ window.__FINANCING_DATA__ = {
    "province": "香港特别行政区"
   },
   {
+   "id": "2074475113251075",
+   "date": "2026-10-21",
+   "name": "卡文迪许生物",
+   "desc": "创新药物研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "远大健康",
+   "url": "https://pitchhub.36kr.com/project/2074475113251075",
+   "province": "江苏省"
+  },
+  {
+   "id": "4045664047686533",
+   "date": "2026-10-21",
+   "name": "南壁新能源",
+   "desc": "汽车电子ECU控制器开发商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "普陀科投",
+   "url": "https://pitchhub.36kr.com/project/4045664047686533",
+   "province": "上海市"
+  },
+  {
+   "id": "2073367139565827",
+   "date": "2026-10-21",
+   "name": "国典医药",
+   "desc": "药物开发服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "京国瑞投资",
+   "url": "https://pitchhub.36kr.com/project/2073367139565827",
+   "province": "北京市"
+  },
+  {
+   "id": "2268361890810496",
+   "date": "2026-10-21",
+   "name": "珠海华芯",
+   "desc": "半导体集成电路产品与服务供应商",
+   "industry": [
+    "产业升级"
+   ],
+   "round": "D+轮",
+   "amount": "未透露",
+   "investors": "珠海高新金投、深创投、深润国创",
+   "url": "https://pitchhub.36kr.com/project/2268361890810496",
+   "province": "广东省"
+  },
+  {
+   "id": "2725674255071620",
+   "date": "2026-10-21",
+   "name": "锂电池超薄复合集流体",
+   "desc": "超薄复合铜箔磁控溅射一步法独家制备厂商",
+   "industry": [
+    "产业升级",
+    "前沿技术"
+   ],
+   "round": "Pre-A+轮",
+   "amount": "未透露",
+   "investors": "厦门东方、毅达资本",
+   "url": "https://pitchhub.36kr.com/project/2725674255071620",
+   "province": "江苏省"
+  },
+  {
    "id": "4040003454035078",
    "date": "2026-10-21",
    "name": "国寿养老",
@@ -200,6 +271,34 @@ window.__FINANCING_DATA__ = {
    "investors": "欧莱雅、沃博联、广药集团、广新集团",
    "url": "https://pitchhub.36kr.com/project/1678510488171525",
    "province": "广东省"
+  },
+  {
+   "id": "1817518700709761",
+   "date": "2026-10-20",
+   "name": "瑞莱谱",
+   "desc": "IVD医疗器械研发",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "广州健康产投",
+   "url": "https://pitchhub.36kr.com/project/1817518700709761",
+   "province": "浙江省"
+  },
+  {
+   "id": "2066652197388293",
+   "date": "2026-10-20",
+   "name": "文峰电缆",
+   "desc": "电线电缆制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "2.29亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/2066652197388293",
+   "province": "安徽省"
   },
   {
    "id": "2080180328486661",
