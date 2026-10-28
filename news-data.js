@@ -1,6 +1,22 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "tech": [
+    {
+      "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
+      "url": "http://www.geekpark.net/news/373066",
+      "excerpt": "对于短剧创作者来说，最不缺的可能就是新的故事灵感。 在日常创作中，一个新的人物设定、一段有冲突的情节，甚至刷到的一条社会新闻，都可能成为下一部短剧的起点。 但短剧行业的生产节奏越来越快。团队可能同时推进多个项目，既要保证已有剧集的更新，又要不断寻找新题材、开发",
+      "src": "极客公园",
+      "tag": "视频生成",
+      "cat": "tech"
+    },
+    {
+      "title": "斯坦福的研究，红海的珊瑚，与一个中国模型",
+      "url": "http://www.geekpark.net/news/373059",
+      "excerpt": "2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "tech"
+    },
     {
       "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
       "url": "http://www.geekpark.net/news/373006",
@@ -10,59 +26,43 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
-      "url": "http://www.geekpark.net/news/372939",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「",
-      "src": "极客公园",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "excerpt": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "url": "https://www.qbitai.com/2026/10/505529.html",
-      "excerpt": "模型开始利用GPU缓存聊天？",
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "excerpt": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "A社联创演讲：AI奇点已来",
-      "url": "https://www.qbitai.com/2026/10/505521.html",
-      "excerpt": "所谓奇点，或许是AI跃过人类的那个点。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "NeoLab第一个商业模式：转售GPU",
-      "url": "https://www.qbitai.com/2026/10/505478.html",
-      "excerpt": "从冲刺AGI到转售GPU。",
-      "src": "量子位",
-      "tag": "英伟达",
-      "cat": "tech"
-    },
-    {
-      "title": "中国近50%的新云生意，竟被这家公司包揽！",
-      "url": "https://www.qbitai.com/2026/10/505454.html",
-      "excerpt": "有点意外，但也不意外",
+      "title": "印奇把4D雷达也端到端了",
+      "url": "https://www.qbitai.com/2026/10/505852.html",
+      "excerpt": "毫米波雷达，AI算力10TOPS",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
-      "url": "https://www.qbitai.com/2026/10/505443.html",
-      "excerpt": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "url": "https://www.qbitai.com/2026/10/505830.html",
+      "excerpt": "顶尖智能汽车玩家的终局，不会停在智能汽车",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "品丘联合魅族 PANDAER 推出 Power Duo 磁吸移动电源：可当苹果 iPhone Duo 支架，众筹价 1499 元",
-      "url": "https://www.ithome.com/1/018/534.htm",
-      "excerpt": "IT之家 10 月 27 日消息，初创公司品丘宣布联合魅族 PANDAER 推出一款 Power Duo 磁吸移动电源，官方称零售价 1999 元，众筹价为 1499 元。该产品折叠尺寸为 9 x 8.2 x 1.04cm，内置两组磁体，采用硅胶磁吸面，号称“",
-      "src": "IT之家",
-      "tag": "苹果",
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "excerpt": "无人在环进店实测啃下长尾场景",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -84,27 +84,19 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
-      "url": "http://www.geekpark.net/news/373002",
-      "excerpt": "Shopify AI 交易订单增长了 13 倍。 10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。 这一次抢首发的，不只是守在屏幕前的人。 今年 Agent ",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "app"
-    },
-    {
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "url": "https://www.qbitai.com/2026/10/505580.html",
-      "excerpt": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "url": "https://www.qbitai.com/2026/10/505539.html",
-      "excerpt": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+      "url": "https://www.qbitai.com/2026/10/505719.html",
+      "excerpt": "同一天，OpenAI还甩出3项AI科学新发现",
       "src": "量子位",
       "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "Liquid AI 发布 LFM3 模型家族，首批多款均基于 LFM3-1.7B-Base",
+      "url": "https://www.ithome.com/1/019/099.htm",
+      "excerpt": "IT之家 10 月 28 日消息，人工智能实验室 Liquid AI 当地时间 27 日发布了 LFM3 模型家族。其基于全新的三混合层架构，在 22T 词元上预训练而成，在保持高效的同时具备更为出色的表现。LFM3 的首批产品包括 LFM-1.7B（文本）、",
+      "src": "IT之家",
+      "tag": "大模型",
       "cat": "app"
     }
   ],
@@ -118,46 +110,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "url": "https://www.qbitai.com/2026/10/505551.html",
-      "excerpt": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+      "url": "https://www.qbitai.com/2026/10/505773.html",
+      "excerpt": "OCR 3.0时代，来了",
       "src": "量子位",
-      "tag": "融资",
-      "cat": "enterprise"
-    },
-    {
-      "title": "剪剪剪剪剪：剪映 SVIP 超级会员 79 → 15 元 / 月 1.9 折年内探底，支持电脑端",
-      "url": "https://www.ithome.com/1/018/533.htm",
-      "excerpt": "剪映 SVIP 超级会员官方定价 758 元 / 年，连续包年 599 元 / 年，单月 79 元。今日官方仅需 180 元即可入手年卡，折合仅需 15 元 / 月好价：京东剪映 SVIP 会员年卡支持电脑端券后 180 元领 319 元券京东剪映 VIP 会",
-      "src": "IT之家",
-      "tag": "行业动态",
+      "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "消息称某厂新机影像实验室出现双潜望长焦方案，预计华为旗下",
-      "url": "https://www.ithome.com/1/018/530.htm",
-      "excerpt": "IT之家 10 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂新机影像实验室出现了双潜望长焦方案，一颗 50Mp RYYB 小底，一颗 200Mp 1/1.3″ RYYB 超大底，焦段配置上新。结合该博主此前的爆料习惯，预计该机为华为旗下。IT之家注意",
+      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+      "url": "https://www.qbitai.com/2026/10/505694.html",
+      "excerpt": "还是专业的模型做专业的事情",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "苹果诉 OpenAI 案新进展：法官允许苹果扩大取证范围",
+      "url": "https://www.ithome.com/1/019/089.htm",
+      "excerpt": "IT之家 10 月 28 日消息，据科技媒体 9To5Mac 今天报道，苹果起诉 OpenAI 案近期取得进展，法官已批准苹果扩大取证范围。IT之家从原报道获悉，苹果在本案中起诉 OpenAI 和 io Products 公司，以及两名前员工 Chang Li",
       "src": "IT之家",
-      "tag": "华为",
+      "tag": "OpenAI",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Duo",
-      "Anthropic",
-      "看了招股书",
-      "我终于知道为什么",
-      "不在乎用户了"
+      "当即梦把剧本",
+      "斯坦福的研究",
+      "红海的珊瑚",
+      "与一个中国模型",
+      "Anthropic"
     ],
     "app": [
-      "AI",
       "Manus",
       "宣言",
       "启元机器人第",
       "台下线",
-      "iPhone"
+      "GPT-6.1",
+      "Terra"
     ],
     "enterprise": [
       "iPhone",
@@ -165,7 +157,7 @@ window.__NEWS_DATA__ = {
       "CEO",
       "裂屏",
       "是苹果新",
-      "Anthropic"
+      "KV"
     ]
   },
   "hotwords": [
@@ -174,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "当即梦把剧本",
+      "wt": 0.5
+    },
+    {
+      "w": "斯坦福的研究",
+      "wt": 0.5
+    },
+    {
+      "w": "红海的珊瑚",
+      "wt": 0.5
+    },
+    {
+      "w": "与一个中国模型",
+      "wt": 0.5
+    },
+    {
       "w": "iPhone",
-      "wt": 0.55
+      "wt": 0.5
     },
     {
       "w": "Duo",
-      "wt": 0.55
-    },
-    {
-      "w": "Anthropic",
-      "wt": 0.48
-    },
-    {
-      "w": "Agent",
-      "wt": 0.48
+      "wt": 0.5
     },
     {
       "w": "CEO",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "裂屏",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "是苹果新",
-      "wt": 0.42
+      "wt": 0.5
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.5
     },
     {
       "w": "看了招股书",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "我终于知道为什么",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "不在乎用户了",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "Manus",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "宣言",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "启元机器人第",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
       "w": "台下线",
-      "wt": 0.42
+      "wt": 0.5
     },
     {
-      "w": "帮用户抢",
-      "wt": 0.42
+      "w": "Personal",
+      "wt": 0.5
     },
     {
-      "w": "折叠屏的",
-      "wt": 0.42
-    },
-    {
-      "w": "正在塑造",
-      "wt": 0.42
-    },
-    {
-      "w": "时代电商的形状",
-      "wt": 0.42
-    },
-    {
-      "w": "Hi3D",
-      "wt": 0.42
+      "w": "Agent",
+      "wt": 0.5
     }
   ],
-  "total": 17
+  "total": 16
 };
