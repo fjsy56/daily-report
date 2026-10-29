@@ -1,6 +1,54 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "tech": [
+    {
+      "title": "布鲁金斯学会：AI税是伪命题还是万能钥匙？",
+      "url": "https://www.huxiu.com/article/4901471.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "当手搓代码成为过去：AI时代Vibe Coding对软件知识产权制度的挑战",
+      "url": "https://www.huxiu.com/article/4901463.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "AI引发影视大迁徙：李世民下山、马景涛飞天、张艺兴远赴美国",
+      "url": "https://www.huxiu.com/article/4901449.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "先问AI再看医生：患者“信”了，医生愁了",
+      "url": "https://www.huxiu.com/article/4901403.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
+      "url": "http://www.geekpark.net/news/373086",
+      "excerpt": "头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+      "url": "http://www.geekpark.net/news/373084",
+      "excerpt": "搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
       "url": "http://www.geekpark.net/news/373066",
@@ -16,91 +64,59 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "大模型",
       "cat": "tech"
-    },
-    {
-      "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
-      "url": "http://www.geekpark.net/news/373006",
-      "excerpt": "大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元，发行价区间尚未披露。 24 ",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "excerpt": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "excerpt": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
-      "excerpt": "毫米波雷达，AI算力10TOPS",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
-      "excerpt": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
-      "excerpt": "无人在环进店实测啃下长尾场景",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
-      "url": "http://www.geekpark.net/news/373004",
-      "excerpt": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《用 Manus 改造 Manus》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
-      "url": "http://www.geekpark.net/news/373003",
-      "excerpt": "10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000",
-      "src": "极客公园",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "excerpt": "同一天，OpenAI还甩出3项AI科学新发现",
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
+      "excerpt": "让基建作为常驻buff",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "Liquid AI 发布 LFM3 模型家族，首批多款均基于 LFM3-1.7B-Base",
-      "url": "https://www.ithome.com/1/019/099.htm",
-      "excerpt": "IT之家 10 月 28 日消息，人工智能实验室 Liquid AI 当地时间 27 日发布了 LFM3 模型家族。其基于全新的三混合层架构，在 22T 词元上预训练而成，在保持高效的同时具备更为出色的表现。LFM3 的首批产品包括 LFM-1.7B（文本）、",
-      "src": "IT之家",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "excerpt": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "excerpt": "用扩散模型怎么做做Agent？",
+      "src": "量子位",
       "tag": "大模型",
-      "cat": "app"
+      "cat": "tech"
+    },
+    {
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "excerpt": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "联影营收破百亿，医疗AI还在等买单人",
+      "url": "https://www.huxiu.com/article/4901451.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "enterprise"
+    },
+    {
+      "title": "苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%",
+      "url": "http://www.geekpark.net/news/373085",
+      "excerpt": "苹果发布首款触屏 MacBook Pro，顶配超 11 万元 北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。 新机提供 14 英寸和 1",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "enterprise"
+    },
     {
       "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
       "url": "http://www.geekpark.net/news/373008",
@@ -110,54 +126,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "url": "https://www.qbitai.com/2026/10/505773.html",
-      "excerpt": "OCR 3.0时代，来了",
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "excerpt": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
       "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
+      "tag": "融资",
+      "cat": "enterprise"
     },
     {
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "url": "https://www.qbitai.com/2026/10/505694.html",
-      "excerpt": "还是专业的模型做专业的事情",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "苹果诉 OpenAI 案新进展：法官允许苹果扩大取证范围",
-      "url": "https://www.ithome.com/1/019/089.htm",
-      "excerpt": "IT之家 10 月 28 日消息，据科技媒体 9To5Mac 今天报道，苹果起诉 OpenAI 案近期取得进展，法官已批准苹果扩大取证范围。IT之家从原报道获悉，苹果在本案中起诉 OpenAI 和 io Products 公司，以及两名前员工 Chang Li",
+      "title": "外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”",
+      "url": "https://www.ithome.com/1/019/690.htm",
+      "excerpt": "IT之家 10 月 29 日消息，《华尔街日报》昨日发文，曝光苹果此前通过“黑帮一样的”强势手段谈判，意图压低内存采购价格。其中包括要求供应商接受大范围财务审计、故意对采购量承诺表现得漫不经心，还有谈判中的各种心理压力。然而从这两年的 DRAM / NAND ",
       "src": "IT之家",
-      "tag": "OpenAI",
-      "cat": "tech"
+      "tag": "苹果",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "当即梦把剧本",
-      "斯坦福的研究",
-      "红海的珊瑚",
-      "与一个中国模型",
-      "Anthropic"
+      "布鲁金斯学会",
+      "Vibe",
+      "Coding",
+      "李世民下山",
+      "马景涛飞天"
     ],
     "app": [
-      "Manus",
-      "宣言",
-      "启元机器人第",
-      "台下线",
-      "GPT-6.1",
-      "Terra"
+      "FluxVLA",
+      "Engine",
+      "图片中转测试",
+      "未发布",
+      "工程能力一键复用",
+      "专心卷新能力"
     ],
     "enterprise": [
-      "iPhone",
-      "Duo",
       "CEO",
-      "裂屏",
-      "是苹果新",
-      "KV"
+      "AI",
+      "联影营收破百亿",
+      "DeepSeek",
+      "V5",
+      "苹果发触屏笔记本"
     ]
   },
   "hotwords": [
@@ -166,81 +174,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "当即梦把剧本",
-      "wt": 0.5
-    },
-    {
-      "w": "斯坦福的研究",
-      "wt": 0.5
-    },
-    {
-      "w": "红海的珊瑚",
-      "wt": 0.5
-    },
-    {
-      "w": "与一个中国模型",
-      "wt": 0.5
-    },
-    {
-      "w": "iPhone",
-      "wt": 0.5
-    },
-    {
-      "w": "Duo",
-      "wt": 0.5
-    },
-    {
       "w": "CEO",
-      "wt": 0.5
+      "wt": 0.59
     },
     {
-      "w": "裂屏",
-      "wt": 0.5
+      "w": "刚刚",
+      "wt": 0.59
     },
     {
-      "w": "是苹果新",
-      "wt": 0.5
+      "w": "FluxVLA",
+      "wt": 0.59
     },
     {
-      "w": "Anthropic",
-      "wt": 0.5
+      "w": "Engine",
+      "wt": 0.59
     },
     {
-      "w": "看了招股书",
-      "wt": 0.5
+      "w": "工程能力一键复用",
+      "wt": 0.59
     },
     {
-      "w": "我终于知道为什么",
-      "wt": 0.5
+      "w": "专心卷新能力",
+      "wt": 0.59
     },
     {
-      "w": "不在乎用户了",
-      "wt": 0.5
+      "w": "轮子造一次就够了",
+      "wt": 0.59
     },
     {
-      "w": "Manus",
-      "wt": 0.5
+      "w": "布鲁金斯学会",
+      "wt": 0.47
     },
     {
-      "w": "宣言",
-      "wt": 0.5
+      "w": "Vibe",
+      "wt": 0.47
     },
     {
-      "w": "启元机器人第",
-      "wt": 0.5
+      "w": "Coding",
+      "wt": 0.47
     },
     {
-      "w": "台下线",
-      "wt": 0.5
+      "w": "联影营收破百亿",
+      "wt": 0.47
     },
     {
-      "w": "Personal",
-      "wt": 0.5
+      "w": "李世民下山",
+      "wt": 0.47
     },
     {
-      "w": "Agent",
-      "wt": 0.5
+      "w": "马景涛飞天",
+      "wt": 0.47
+    },
+    {
+      "w": "张艺兴远赴美国",
+      "wt": 0.47
+    },
+    {
+      "w": "患者“信”了",
+      "wt": 0.47
+    },
+    {
+      "w": "医生愁了",
+      "wt": 0.47
+    },
+    {
+      "w": "DeepSeek",
+      "wt": 0.47
+    },
+    {
+      "w": "V5",
+      "wt": 0.47
+    },
+    {
+      "w": "苹果发触屏笔记本",
+      "wt": 0.47
     }
   ],
-  "total": 16
+  "total": 17
 };
