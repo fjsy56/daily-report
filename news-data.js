@@ -1,35 +1,51 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "tech": [
     {
-      "title": "布鲁金斯学会：AI税是伪命题还是万能钥匙？",
-      "url": "https://www.huxiu.com/article/4901471.html",
+      "title": "快充红利耗尽，氮化镓能跟上AI浪潮吗",
+      "url": "https://www.huxiu.com/article/4901752.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "当手搓代码成为过去：AI时代Vibe Coding对软件知识产权制度的挑战",
-      "url": "https://www.huxiu.com/article/4901463.html",
+      "title": "AI建造成瘾，正在拖死公司",
+      "url": "https://www.huxiu.com/article/4901766.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI引发影视大迁徙：李世民下山、马景涛飞天、张艺兴远赴美国",
-      "url": "https://www.huxiu.com/article/4901449.html",
+      "title": "ToBeSaaS",
+      "url": "https://www.huxiu.com/article/4901766.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "先问AI再看医生：患者“信”了，医生愁了",
-      "url": "https://www.huxiu.com/article/4901403.html",
+      "title": "AI 硬件，别想绕过隐私",
+      "url": "https://www.huxiu.com/article/4901758.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "31岁女程序员猝死，状告ChatGPT误导她减药",
+      "url": "https://www.huxiu.com/article/4901760.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+      "url": "http://www.geekpark.net/news/373190",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip; 但在这之后，即使某项单点",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
@@ -48,6 +64,24 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "excerpt": "让机器人成为彼此的“老师”",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+      "url": "https://www.qbitai.com/2026/10/506554.html",
+      "excerpt": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
     },
     {
       "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
@@ -58,55 +92,21 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "斯坦福的研究，红海的珊瑚，与一个中国模型",
-      "url": "http://www.geekpark.net/news/373059",
-      "excerpt": "2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为",
-      "src": "极客公园",
-      "tag": "大模型",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "url": "https://www.qbitai.com/2026/10/506194.html",
-      "excerpt": "让基建作为常驻buff",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "excerpt": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    },
-    {
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "excerpt": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "excerpt": "用扩散模型怎么做做Agent？",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "excerpt": "理想今年最后一场发布会，自研电池芯片全部上车",
-      "src": "量子位",
-      "tag": "行业动态",
+      "tag": "英伟达",
       "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "联影营收破百亿，医疗AI还在等买单人",
-      "url": "https://www.huxiu.com/article/4901451.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
+      "url": "http://www.geekpark.net/news/373154",
+      "excerpt": "谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这",
+      "src": "极客公园",
+      "tag": "谷歌",
       "cat": "enterprise"
     },
     {
@@ -118,54 +118,46 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
-      "url": "http://www.geekpark.net/news/373008",
-      "excerpt": "头图图片来源：iFixit2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。这份专利 2015 年 1 月",
-      "src": "极客公园",
-      "tag": "苹果",
-      "cat": "enterprise"
-    },
-    {
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "excerpt": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "excerpt": "解析一切",
       "src": "量子位",
-      "tag": "融资",
-      "cat": "enterprise"
+      "tag": "大模型",
+      "cat": "tech"
     },
     {
-      "title": "外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”",
-      "url": "https://www.ithome.com/1/019/690.htm",
-      "excerpt": "IT之家 10 月 29 日消息，《华尔街日报》昨日发文，曝光苹果此前通过“黑帮一样的”强势手段谈判，意图压低内存采购价格。其中包括要求供应商接受大范围财务审计、故意对采购量承诺表现得漫不经心，还有谈判中的各种心理压力。然而从这两年的 DRAM / NAND ",
-      "src": "IT之家",
-      "tag": "苹果",
-      "cat": "enterprise"
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "布鲁金斯学会",
-      "Vibe",
-      "Coding",
-      "李世民下山",
-      "马景涛飞天"
+      "快充红利耗尽",
+      "正在拖死公司",
+      "ToBeSaaS",
+      "硬件",
+      "别想绕过隐私"
     ],
     "app": [
-      "FluxVLA",
-      "Engine",
-      "图片中转测试",
-      "未发布",
-      "工程能力一键复用",
-      "专心卷新能力"
+      "STEPX",
+      "Neo",
+      "当即梦把剧本",
+      "MiniMax",
+      "H3",
+      "英伟达团队基于"
     ],
     "enterprise": [
-      "CEO",
-      "AI",
-      "联影营收破百亿",
-      "DeepSeek",
-      "V5",
-      "苹果发触屏笔记本"
+      "Google",
+      "iPad",
+      "mini",
+      "Hz",
+      "MEGA",
+      "母集团市值蒸发"
     ]
   },
   "hotwords": [
@@ -174,39 +166,31 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "CEO",
-      "wt": 0.59
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.59
-    },
-    {
-      "w": "FluxVLA",
-      "wt": 0.59
-    },
-    {
-      "w": "Engine",
-      "wt": 0.59
-    },
-    {
-      "w": "工程能力一键复用",
-      "wt": 0.59
-    },
-    {
-      "w": "专心卷新能力",
-      "wt": 0.59
-    },
-    {
-      "w": "轮子造一次就够了",
-      "wt": 0.59
-    },
-    {
-      "w": "布鲁金斯学会",
+      "w": "快充红利耗尽",
       "wt": 0.47
     },
     {
-      "w": "Vibe",
+      "w": "正在拖死公司",
+      "wt": 0.47
+    },
+    {
+      "w": "ToBeSaaS",
+      "wt": 0.47
+    },
+    {
+      "w": "硬件",
+      "wt": 0.47
+    },
+    {
+      "w": "别想绕过隐私",
+      "wt": 0.47
+    },
+    {
+      "w": "ChatGPT",
+      "wt": 0.47
+    },
+    {
+      "w": "TRAE",
       "wt": 0.47
     },
     {
@@ -214,41 +198,49 @@ window.__NEWS_DATA__ = {
       "wt": 0.47
     },
     {
-      "w": "联影营收破百亿",
+      "w": "开发者个人助理",
       "wt": 0.47
     },
     {
-      "w": "李世民下山",
+      "w": "打响",
       "wt": 0.47
     },
     {
-      "w": "马景涛飞天",
+      "w": "的下半场",
       "wt": 0.47
     },
     {
-      "w": "张艺兴远赴美国",
+      "w": "Google",
       "wt": 0.47
     },
     {
-      "w": "患者“信”了",
+      "w": "iPad",
       "wt": 0.47
     },
     {
-      "w": "医生愁了",
+      "w": "mini",
       "wt": 0.47
     },
     {
-      "w": "DeepSeek",
+      "w": "Hz",
       "wt": 0.47
     },
     {
-      "w": "V5",
+      "w": "MEGA",
       "wt": 0.47
     },
     {
-      "w": "苹果发触屏笔记本",
+      "w": "母集团市值蒸发",
+      "wt": 0.47
+    },
+    {
+      "w": "亿美元创纪录",
+      "wt": 0.47
+    },
+    {
+      "w": "苹果高管回应新",
       "wt": 0.47
     }
   ],
-  "total": 17
+  "total": 16
 };
