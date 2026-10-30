@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-28 17:06",
- "total": 943,
+ "updated": "2026-10-30 08:12",
+ "total": 944,
  "industries": [
   "产业升级",
   "企业服务",
@@ -101,6 +101,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "3997783115144066",
+   "date": "2026-10-27",
+   "name": "星起点县域心智康复",
+   "desc": "将一线城市标准化特需康复服务下沉至县域",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-A轮",
+   "amount": "3000万人民币",
+   "investors": "暂未确定投资方",
+   "url": "https://pitchhub.36kr.com/project/3997783115144066",
+   "province": "广东省"
+  },
   {
    "id": "1806911793083397",
    "date": "2026-10-25",
