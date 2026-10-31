@@ -1,44 +1,28 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "tech": [
     {
-      "title": "快充红利耗尽，氮化镓能跟上AI浪潮吗",
-      "url": "https://www.huxiu.com/article/4901752.html",
+      "title": "AGI 2050©",
+      "url": "https://www.huxiu.com/article/4901953.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI建造成瘾，正在拖死公司",
-      "url": "https://www.huxiu.com/article/4901766.html",
+      "title": "Nature的这个研究，彻底改变了我对知识传递的看法",
+      "url": "https://www.huxiu.com/article/4901935.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "ToBeSaaS",
-      "url": "https://www.huxiu.com/article/4901766.html",
+      "title": "41岁，他登顶江西首富",
+      "url": "https://www.huxiu.com/article/4901924.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI 硬件，别想绕过隐私",
-      "url": "https://www.huxiu.com/article/4901758.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "31岁女程序员猝死，状告ChatGPT误导她减药",
-      "url": "https://www.huxiu.com/article/4901760.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "OpenAI",
       "cat": "tech"
     },
     {
@@ -58,49 +42,97 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
-      "url": "http://www.geekpark.net/news/373084",
-      "excerpt": "搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放",
-      "src": "极客公园",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "excerpt": "苹果“牛奶倒河里”式操作翻红",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "excerpt": "AI算力利用“九九成”",
+      "src": "量子位",
+      "tag": "芯片",
+      "cat": "tech"
+    },
+    {
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "excerpt": "200美元Ultra用户先用",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "url": "https://www.qbitai.com/2026/10/506662.html",
-      "excerpt": "让机器人成为彼此的“老师”",
-      "src": "量子位",
-      "tag": "具身智能",
+      "title": "个人灵光2.0实测：个人AI 助理的机会和门槛",
+      "url": "https://www.huxiu.com/article/4901936.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
-      "url": "https://www.qbitai.com/2026/10/506554.html",
-      "excerpt": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+      "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+      "url": "http://www.geekpark.net/news/373238",
+      "excerpt": "头图图片来源：Apple10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27",
+      "src": "极客公园",
+      "tag": "苹果",
+      "cat": "app"
+    },
+    {
+      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+      "url": "https://www.qbitai.com/2026/10/506771.html",
+      "excerpt": "",
       "src": "量子位",
+      "tag": "百度",
+      "cat": "app"
+    },
+    {
+      "title": "华为终端首个三类医疗器械落地：CGM 持续葡萄糖监测系统获批，与心脏支架同级监管",
+      "url": "https://www.ithome.com/1/020/572.htm",
+      "excerpt": "IT之家 10 月 31 日消息，国家药监局 10 月 30 日公示的医疗器械批准文件送达信息中出现了一条来自“华为终端有限公司”的公示，产品名称为“持续葡萄糖监测系统”，注册证编号“国械注准 20263072228”。公开资料显示，三类医疗器械是中国监管体系",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "app"
+    },
+    {
+      "title": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系",
+      "url": "https://www.ithome.com/1/020/566.htm",
+      "excerpt": "IT之家 10 月 31 日消息，据新浪科技今日报道，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙，奇瑞控股集团新闻发言人金弋波与媒体对话。谈及智界获取独立造车资质一事，奇瑞汽车股份有限公司执行副总裁戚士龙表示，通过智界这几年的运营来看，本质上反映",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "app"
+    },
+    {
+      "title": "理想 AI 眼镜 Livis 10 月 OTA 升级，个人 Agent 新增接入 Hermes",
+      "url": "https://www.ithome.com/1/020/553.htm",
+      "excerpt": "IT之家 10 月 31 日消息，理想汽车今日宣布理想 AI 眼镜 Livis 10 月 OTA 重磅升级，运动健康分析报告进一步提升；视觉问答独家接入小红书 Agent；个人 Agent 新增接入 Hermes。IT之家整理如下：运动健康分析再升级新增 Ga",
+      "src": "IT之家",
       "tag": "Agent",
       "cat": "app"
-    },
-    {
-      "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
-      "url": "http://www.geekpark.net/news/373066",
-      "excerpt": "对于短剧创作者来说，最不缺的可能就是新的故事灵感。 在日常创作中，一个新的人物设定、一段有冲突的情节，甚至刷到的一条社会新闻，都可能成为下一部短剧的起点。 但短剧行业的生产节奏越来越快。团队可能同时推进多个项目，既要保证已有剧集的更新，又要不断寻找新题材、开发",
-      "src": "极客公园",
-      "tag": "视频生成",
-      "cat": "tech"
-    },
-    {
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "excerpt": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "src": "量子位",
-      "tag": "英伟达",
-      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "Anthropic 早期投资人深度访谈：三家出资人各赚超10亿美元，70多家大模型后来者大多不会有好结局",
+      "url": "https://www.huxiu.com/article/4901953.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "大模型",
+      "cat": "enterprise"
+    },
+    {
+      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+      "url": "http://www.geekpark.net/news/373220",
+      "excerpt": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "enterprise"
+    },
     {
       "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
       "url": "http://www.geekpark.net/news/373154",
@@ -118,46 +150,38 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "excerpt": "解析一切",
+      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+      "url": "https://www.qbitai.com/2026/10/506747.html",
+      "excerpt": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
       "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
+      "tag": "融资",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
+      "AGI",
+      "Nature",
+      "他登顶江西首富",
+      "TRAE",
       "AI",
-      "快充红利耗尽",
-      "正在拖死公司",
-      "ToBeSaaS",
-      "硬件",
-      "别想绕过隐私"
+      "Coding"
     ],
     "app": [
-      "STEPX",
-      "Neo",
-      "当即梦把剧本",
-      "MiniMax",
-      "H3",
-      "英伟达团队基于"
+      "AI",
+      "升级",
+      "助理的机会和门槛",
+      "Apple",
+      "国行",
+      "智能官网正式上线"
     ],
     "enterprise": [
-      "Google",
-      "iPad",
-      "mini",
-      "Hz",
-      "MEGA",
-      "母集团市值蒸发"
+      "DeepSeek",
+      "极客早知道",
+      "Anthropic",
+      "Apple",
+      "苹果官宣",
+      "智能接入阿里千问"
     ]
   },
   "hotwords": [
@@ -166,81 +190,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "快充红利耗尽",
-      "wt": 0.47
+      "w": "DeepSeek",
+      "wt": 0.61
     },
     {
-      "w": "正在拖死公司",
-      "wt": 0.47
+      "w": "Apple",
+      "wt": 0.52
     },
     {
-      "w": "ToBeSaaS",
-      "wt": 0.47
-    },
-    {
-      "w": "硬件",
-      "wt": 0.47
-    },
-    {
-      "w": "别想绕过隐私",
-      "wt": 0.47
-    },
-    {
-      "w": "ChatGPT",
-      "wt": 0.47
-    },
-    {
-      "w": "TRAE",
-      "wt": 0.47
-    },
-    {
-      "w": "Coding",
-      "wt": 0.47
-    },
-    {
-      "w": "开发者个人助理",
-      "wt": 0.47
-    },
-    {
-      "w": "打响",
-      "wt": 0.47
-    },
-    {
-      "w": "的下半场",
-      "wt": 0.47
-    },
-    {
-      "w": "Google",
-      "wt": 0.47
+      "w": "极客早知道",
+      "wt": 0.52
     },
     {
       "w": "iPad",
-      "wt": 0.47
+      "wt": 0.52
     },
     {
-      "w": "mini",
-      "wt": 0.47
+      "w": "理想",
+      "wt": 0.52
     },
     {
-      "w": "Hz",
-      "wt": 0.47
+      "w": "升级",
+      "wt": 0.52
     },
     {
-      "w": "MEGA",
-      "wt": 0.47
+      "w": "Anthropic",
+      "wt": 0.44
     },
     {
-      "w": "母集团市值蒸发",
-      "wt": 0.47
+      "w": "AGI",
+      "wt": 0.44
     },
     {
-      "w": "亿美元创纪录",
-      "wt": 0.47
+      "w": "助理的机会和门槛",
+      "wt": 0.44
     },
     {
-      "w": "苹果高管回应新",
-      "wt": 0.47
+      "w": "Nature",
+      "wt": 0.44
+    },
+    {
+      "w": "他登顶江西首富",
+      "wt": 0.44
+    },
+    {
+      "w": "苹果官宣",
+      "wt": 0.44
+    },
+    {
+      "w": "智能接入阿里千问",
+      "wt": 0.44
+    },
+    {
+      "w": "完成第二轮",
+      "wt": 0.44
+    },
+    {
+      "w": "亿元融资",
+      "wt": 0.44
+    },
+    {
+      "w": "估值达",
+      "wt": 0.44
+    },
+    {
+      "w": "亿元",
+      "wt": 0.44
+    },
+    {
+      "w": "国行",
+      "wt": 0.44
+    },
+    {
+      "w": "智能官网正式上线",
+      "wt": 0.44
     }
   ],
-  "total": 16
+  "total": 19
 };
