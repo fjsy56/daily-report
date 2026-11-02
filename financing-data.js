@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-10-31 18:18",
- "total": 988,
+ "updated": "2026-11-02 17:55",
+ "total": 992,
  "industries": [
   "产业升级",
   "企业服务",
@@ -73,6 +73,7 @@ window.__FINANCING_DATA__ = {
   "云南省",
   "内蒙古自治区",
   "北京市",
+  "吉林省",
   "四川省",
   "天津市",
   "宁夏回族自治区",
@@ -103,6 +104,35 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2065068690735369",
+   "date": "2026-11-01",
+   "name": "长光辰英生物",
+   "desc": "活体单细胞拉曼分选仪",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "数千万元人民币",
+   "investors": "吉林科技投资基金、吉林资本",
+   "url": "https://pitchhub.36kr.com/project/2065068690735369",
+   "province": "吉林省"
+  },
+  {
+   "id": "1679835219448579",
+   "date": "2026-10-31",
+   "name": "鼎新基因",
+   "desc": "基因治疗药物开发",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "合肥产投集团、正心谷资本、乾元利康",
+   "url": "https://pitchhub.36kr.com/project/1679835219448579",
+   "province": "上海市"
+  },
+  {
    "id": "1678376514647044",
    "date": "2026-10-30",
    "name": "天链测控",
@@ -115,6 +145,20 @@ window.__FINANCING_DATA__ = {
    "investors": "火星人厨具、财通创新、广科创投",
    "url": "https://pitchhub.36kr.com/project/1678376514647044",
    "province": "北京市"
+  },
+  {
+   "id": "3312398623569409",
+   "date": "2026-10-29",
+   "name": "星辰光电",
+   "desc": "星间激光通信载荷供应商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "天泓投资、苏高新创投、金舵投资、卓璞资本",
+   "url": "https://pitchhub.36kr.com/project/3312398623569409",
+   "province": "江苏省"
   },
   {
    "id": "2506385361198722",
@@ -172,6 +216,20 @@ window.__FINANCING_DATA__ = {
    "investors": "Blockchain Capital、SBI Holdings、IDG资本、高瓴创投、Lightspeed Faction",
    "url": "https://pitchhub.36kr.com/project/3420666696880265",
    "province": "广东省"
+  },
+  {
+   "id": "4052745979500294",
+   "date": "2026-10-28",
+   "name": "航天空间",
+   "desc": "信息技术服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "中国国新控股",
+   "url": "https://pitchhub.36kr.com/project/4052745979500294",
+   "province": "上海市"
   },
   {
    "id": "2012739088107008",
