@@ -1,20 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "tech": [
     {
-      "title": "一级市场，不愿聊物理AI了",
-      "url": "https://www.huxiu.com/article/4902064.html",
+      "title": "AI开处方背后，医疗公平与监管面临新考验",
+      "url": "https://www.huxiu.com/article/4902388.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Tibo28连更后，OpenAI合并额度池，计费聊天开始了",
-      "url": "https://www.huxiu.com/article/4902051.html",
+      "title": "AI 眼镜刚看懂，眼镜的下一轮竞争又变了",
+      "url": "https://www.huxiu.com/article/4902256.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "OpenAI",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "美国将如何规制AI开放权重？出口管制与第一修正案的博弈",
+      "url": "https://www.huxiu.com/article/4902354.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "大疆系齐聚桌面CNC，要再造一个“拓竹”",
+      "url": "https://www.huxiu.com/article/4902365.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "为了在评论区里找个活人，人类对AI宣战了",
+      "url": "https://www.huxiu.com/article/4902360.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+      "url": "http://www.geekpark.net/news/373252",
+      "excerpt": "苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果资深高管",
+      "src": "极客公园",
+      "tag": "谷歌",
       "cat": "tech"
     },
     {
@@ -32,57 +64,9 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "DeepSeek",
       "cat": "tech"
-    },
-    {
-      "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
-      "url": "http://www.geekpark.net/news/373190",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip; 但在这之后，即使某项单点",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "excerpt": "让AI像牛顿一样思考",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "Jev新成果，再次引爆开源",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "excerpt": "再次“性价比屠夫”",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "excerpt": "AI已经自己找到Bug并提交PR",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "tech"
     }
   ],
   "app": [
-    {
-      "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
-      "url": "https://www.huxiu.com/article/4902046.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "Agent改写算力账本，CPU不再是AI服务器的配角？",
-      "url": "https://www.huxiu.com/article/4902068.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "Agent",
-      "cat": "app"
-    },
     {
       "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
       "url": "http://www.geekpark.net/news/373249",
@@ -100,23 +84,23 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "url": "https://www.qbitai.com/2026/11/506990.html",
-      "excerpt": "这事还是想得太简单了",
-      "src": "量子位",
-      "tag": "具身智能",
+      "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
+      "url": "https://www.ithome.com/1/021/250.htm",
+      "excerpt": "IT之家 11 月 2 日消息，据新浪科技今日报道，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。赛道从红门至中天门，全程 3.9 公里、3100 余级台阶，以连续石阶、陡坡弯道为核心挑战，考验机器人在复杂山地环境中的运动与自主决策能力。足式机器人竞速赛中",
+      "src": "IT之家",
+      "tag": "宇树",
       "cat": "app"
+    },
+    {
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "excerpt": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
-    {
-      "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
-      "url": "https://www.huxiu.com/article/4902085.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "enterprise"
-    },
     {
       "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
       "url": "http://www.geekpark.net/news/373220",
@@ -126,19 +110,27 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "excerpt": "苹果“牛奶倒河里”式操作翻红",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "url": "https://www.qbitai.com/2026/11/507225.html",
+      "excerpt": "新版“机器人三定律”。",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "excerpt": "模型管线双驱动",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "excerpt": "AI算力利用“九九成”",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "excerpt": "能指挥Agent干活，还能控制智能家居",
       "src": "量子位",
-      "tag": "芯片",
+      "tag": "小米",
       "cat": "tech"
     }
   ],
@@ -146,26 +138,26 @@ window.__NEWS_DATA__ = {
     "tech": [
       "AI",
       "DeepSeek",
-      "Agent",
-      "一级市场",
-      "Tibo28",
-      "OpenAI"
+      "眼镜刚看懂",
+      "CNC",
+      "MacBook",
+      "Pro"
     ],
     "app": [
       "AI",
-      "Agent",
-      "Super",
-      "会主动干活",
-      "更懂何时闭嘴",
-      "CPU"
+      "个人灵光",
+      "实测",
+      "个人",
+      "助理的机会和门槛",
+      "上新"
     ],
     "enterprise": [
       "AI",
-      "债市“吹响号角”",
-      "财报“雪上加霜”",
-      "中选“最后一击”",
       "Apple",
-      "DeepSeek"
+      "DeepSeek",
+      "苹果官宣",
+      "智能接入阿里千问",
+      "完成第二轮"
     ]
   },
   "hotwords": [
@@ -174,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Agent",
-      "wt": 0.69
-    },
-    {
       "w": "DeepSeek",
-      "wt": 0.69
-    },
-    {
-      "w": "Super",
-      "wt": 0.52
+      "wt": 0.48
     },
     {
       "w": "Apple",
-      "wt": 0.52
-    },
-    {
-      "w": "刚刚",
-      "wt": 0.52
-    },
-    {
-      "w": "债市“吹响号角”",
       "wt": 0.44
     },
     {
-      "w": "财报“雪上加霜”",
+      "w": "Claude",
       "wt": 0.44
     },
     {
-      "w": "中选“最后一击”",
-      "wt": 0.44
+      "w": "眼镜刚看懂",
+      "wt": 0.39
     },
     {
-      "w": "会主动干活",
-      "wt": 0.44
+      "w": "CNC",
+      "wt": 0.39
     },
     {
-      "w": "更懂何时闭嘴",
-      "wt": 0.44
+      "w": "MacBook",
+      "wt": 0.39
     },
     {
-      "w": "CPU",
-      "wt": 0.44
+      "w": "Pro",
+      "wt": 0.39
     },
     {
-      "w": "一级市场",
-      "wt": 0.44
+      "w": "谷歌",
+      "wt": 0.39
     },
     {
-      "w": "Tibo28",
-      "wt": 0.44
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.44
-    },
-    {
-      "w": "计费聊天开始了",
-      "wt": 0.44
+      "w": "赛力斯",
+      "wt": 0.39
     },
     {
       "w": "个人灵光",
-      "wt": 0.44
+      "wt": 0.39
     },
     {
       "w": "实测",
-      "wt": 0.44
+      "wt": 0.39
     },
     {
       "w": "个人",
-      "wt": 0.44
+      "wt": 0.39
     },
     {
       "w": "助理的机会和门槛",
-      "wt": 0.44
+      "wt": 0.39
+    },
+    {
+      "w": "上新",
+      "wt": 0.39
+    },
+    {
+      "w": "Super",
+      "wt": 0.39
+    },
+    {
+      "w": "Agent",
+      "wt": 0.39
+    },
+    {
+      "w": "Meta",
+      "wt": 0.39
+    },
+    {
+      "w": "Muse",
+      "wt": 0.39
+    },
+    {
+      "w": "公布",
+      "wt": 0.39
     }
   ],
-  "total": 17
+  "total": 16
 };
