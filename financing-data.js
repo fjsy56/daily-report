@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-02 17:55",
- "total": 992,
+ "updated": "2026-11-03 07:40",
+ "total": 993,
  "industries": [
   "产业升级",
   "企业服务",
@@ -117,6 +117,20 @@ window.__FINANCING_DATA__ = {
    "investors": "吉林科技投资基金、吉林资本",
    "url": "https://pitchhub.36kr.com/project/2065068690735369",
    "province": "吉林省"
+  },
+  {
+   "id": "2291103480891400",
+   "date": "2026-10-31",
+   "name": "易成创新",
+   "desc": "自动驾驶末端商用车提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "C轮",
+   "amount": "2亿人民币",
+   "investors": "粤科集团、善达投资、安徽国投、佛山创投",
+   "url": "https://pitchhub.36kr.com/project/2291103480891400",
+   "province": "广东省"
   },
   {
    "id": "1679835219448579",
