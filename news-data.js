@@ -1,44 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "tech": [
     {
-      "title": "AI开处方背后，医疗公平与监管面临新考验",
-      "url": "https://www.huxiu.com/article/4902388.html",
+      "title": "AI毕业生的Offer：去年心动，今年心碎",
+      "url": "https://www.huxiu.com/article/4902708.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI 眼镜刚看懂，眼镜的下一轮竞争又变了",
-      "url": "https://www.huxiu.com/article/4902256.html",
+      "title": "AI圈的泡泡玛特诞生了",
+      "url": "https://www.huxiu.com/article/4902691.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "美国将如何规制AI开放权重？出口管制与第一修正案的博弈",
-      "url": "https://www.huxiu.com/article/4902354.html",
+      "title": "递归的尽头是爱心？给AI 看颗，它写代码的方式就变了",
+      "url": "https://www.huxiu.com/article/4902681.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "大疆系齐聚桌面CNC，要再造一个“拓竹”",
-      "url": "https://www.huxiu.com/article/4902365.html",
+      "title": "到底哪些专业，可以拿五万月薪",
+      "url": "https://www.huxiu.com/article/4902675.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "为了在评论区里找个活人，人类对AI宣战了",
-      "url": "https://www.huxiu.com/article/4902360.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+      "url": "http://www.geekpark.net/news/373358",
+      "excerpt": "Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic",
+      "src": "极客公园",
+      "tag": "马斯克",
       "cat": "tech"
     },
     {
@@ -68,6 +68,22 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
+      "title": "AI泡沫要破了？企业却在悄悄加单：关于AI落地的6个真相",
+      "url": "https://www.huxiu.com/article/4902677.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
+      "url": "http://www.geekpark.net/news/373399",
+      "excerpt": "头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成",
+      "src": "极客公园",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
       "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
       "url": "http://www.geekpark.net/news/373249",
       "excerpt": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，购物是 Muse 最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200 美元；上线第",
@@ -76,61 +92,53 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
-      "url": "http://www.geekpark.net/news/373238",
-      "excerpt": "头图图片来源：Apple10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27",
-      "src": "极客公园",
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "excerpt": "终于，有了一个可以触摸的起点",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "excerpt": "TeleAI智慧看护助手",
+      "src": "量子位",
       "tag": "苹果",
       "cat": "app"
-    },
-    {
-      "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
-      "url": "https://www.ithome.com/1/021/250.htm",
-      "excerpt": "IT之家 11 月 2 日消息，据新浪科技今日报道，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。赛道从红门至中天门，全程 3.9 公里、3100 余级台阶，以连续石阶、陡坡弯道为核心挑战，考验机器人在复杂山地环境中的运动与自主决策能力。足式机器人竞速赛中",
-      "src": "IT之家",
-      "tag": "宇树",
-      "cat": "app"
-    },
-    {
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "url": "https://www.qbitai.com/2026/11/507260.html",
-      "excerpt": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
-      "url": "http://www.geekpark.net/news/373220",
-      "excerpt": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实",
-      "src": "极客公园",
-      "tag": "DeepSeek",
-      "cat": "enterprise"
-    },
-    {
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "url": "https://www.qbitai.com/2026/11/507225.html",
-      "excerpt": "新版“机器人三定律”。",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "url": "https://www.qbitai.com/2026/11/507150.html",
-      "excerpt": "模型管线双驱动",
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "url": "https://www.qbitai.com/2026/11/507405.html",
+      "excerpt": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "url": "https://www.qbitai.com/2026/11/507107.html",
-      "excerpt": "能指挥Agent干活，还能控制智能家居",
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "excerpt": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
       "src": "量子位",
       "tag": "小米",
+      "cat": "tech"
+    },
+    {
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "url": "https://www.qbitai.com/2026/11/507382.html",
+      "excerpt": "单季狂揽1130亿人民币，但...",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "excerpt": "GPU迭代一百次的事，它一步做完",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -138,26 +146,25 @@ window.__NEWS_DATA__ = {
     "tech": [
       "AI",
       "DeepSeek",
-      "眼镜刚看懂",
-      "CNC",
-      "MacBook",
-      "Pro"
+      "Offer",
+      "去年心动",
+      "今年心碎",
+      "递归的尽头是爱心"
     ],
     "app": [
       "AI",
-      "个人灵光",
-      "实测",
-      "个人",
-      "助理的机会和门槛",
-      "上新"
+      "企业却在悄悄加单",
+      "Bubbo",
+      "一台机器人",
+      "如何成为家人",
+      "个人灵光"
     ],
     "enterprise": [
       "AI",
-      "Apple",
-      "DeepSeek",
-      "苹果官宣",
-      "智能接入阿里千问",
-      "完成第二轮"
+      "OceanBase",
+      "RSI",
+      "IBM",
+      "写下新定义"
     ]
   },
   "hotwords": [
@@ -167,80 +174,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "DeepSeek",
-      "wt": 0.48
-    },
-    {
-      "w": "Apple",
-      "wt": 0.44
-    },
-    {
-      "w": "Claude",
-      "wt": 0.44
-    },
-    {
-      "w": "眼镜刚看懂",
-      "wt": 0.39
-    },
-    {
-      "w": "CNC",
-      "wt": 0.39
-    },
-    {
-      "w": "MacBook",
-      "wt": 0.39
-    },
-    {
-      "w": "Pro",
-      "wt": 0.39
-    },
-    {
-      "w": "谷歌",
-      "wt": 0.39
-    },
-    {
-      "w": "赛力斯",
-      "wt": 0.39
-    },
-    {
-      "w": "个人灵光",
-      "wt": 0.39
-    },
-    {
-      "w": "实测",
-      "wt": 0.39
-    },
-    {
-      "w": "个人",
-      "wt": 0.39
-    },
-    {
-      "w": "助理的机会和门槛",
-      "wt": 0.39
-    },
-    {
-      "w": "上新",
-      "wt": 0.39
-    },
-    {
-      "w": "Super",
-      "wt": 0.39
+      "wt": 0.46
     },
     {
       "w": "Agent",
-      "wt": 0.39
+      "wt": 0.46
     },
     {
-      "w": "Meta",
-      "wt": 0.39
+      "w": "Offer",
+      "wt": 0.4
     },
     {
-      "w": "Muse",
-      "wt": 0.39
+      "w": "去年心动",
+      "wt": 0.4
     },
     {
-      "w": "公布",
-      "wt": 0.39
+      "w": "今年心碎",
+      "wt": 0.4
+    },
+    {
+      "w": "递归的尽头是爱心",
+      "wt": 0.4
+    },
+    {
+      "w": "看颗",
+      "wt": 0.4
+    },
+    {
+      "w": "企业却在悄悄加单",
+      "wt": 0.4
+    },
+    {
+      "w": "到底哪些专业",
+      "wt": 0.4
+    },
+    {
+      "w": "可以拿五万月薪",
+      "wt": 0.4
+    },
+    {
+      "w": "Bubbo",
+      "wt": 0.4
+    },
+    {
+      "w": "一台机器人",
+      "wt": 0.4
+    },
+    {
+      "w": "如何成为家人",
+      "wt": 0.4
+    },
+    {
+      "w": "Grok",
+      "wt": 0.4
+    },
+    {
+      "w": "Bot",
+      "wt": 0.4
+    },
+    {
+      "w": "Altman",
+      "wt": 0.4
+    },
+    {
+      "w": "马斯克回应",
+      "wt": 0.4
+    },
+    {
+      "w": "额度消耗过快",
+      "wt": 0.4
+    },
+    {
+      "w": "万份",
+      "wt": 0.4
     }
   ],
-  "total": 16
+  "total": 17
 };
