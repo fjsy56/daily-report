@@ -1,38 +1,6 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "tech": [
-    {
-      "title": "AI毕业生的Offer：去年心动，今年心碎",
-      "url": "https://www.huxiu.com/article/4902708.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "AI圈的泡泡玛特诞生了",
-      "url": "https://www.huxiu.com/article/4902691.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "递归的尽头是爱心？给AI 看颗，它写代码的方式就变了",
-      "url": "https://www.huxiu.com/article/4902681.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "到底哪些专业，可以拿五万月薪",
-      "url": "https://www.huxiu.com/article/4902675.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
     {
       "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
       "url": "http://www.geekpark.net/news/373358",
@@ -50,29 +18,45 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-      "url": "http://www.geekpark.net/news/373248",
-      "excerpt": "作者｜Moonshot 编辑｜靖宇 最近，B 站评论区闹起了「鱼灾」。 先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。 由于目前 D",
-      "src": "极客公园",
-      "tag": "DeepSeek",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "excerpt": "仅激活3B参数，十项基准全线提升！",
+      "src": "量子位",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
-      "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
-      "url": "http://www.geekpark.net/news/373243",
-      "excerpt": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态",
-      "src": "极客公园",
-      "tag": "DeepSeek",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "url": "https://www.qbitai.com/2026/11/507574.html",
+      "excerpt": "一场别开生面的具身智能科技盛宴",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "url": "https://www.qbitai.com/2026/11/507473.html",
+      "excerpt": "两位CTO，关起门来吵架",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "excerpt": "AI的下一程是生产力系统之争",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "AI泡沫要破了？企业却在悄悄加单：关于AI落地的6个真相",
-      "url": "https://www.huxiu.com/article/4902677.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+      "url": "http://www.geekpark.net/news/373427",
+      "excerpt": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "app"
     },
     {
@@ -92,6 +76,48 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "url": "https://www.qbitai.com/2026/11/507567.html",
+      "excerpt": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "excerpt": "长视频记忆精度飙升，问答时延最高降97%",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "excerpt": "AI接管调度运营，仓库越干越聪明",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+      "url": "http://www.geekpark.net/news/373424",
+      "excerpt": "作者｜苏子华 编辑｜郑玄 博尔赫斯写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼",
+      "src": "极客公园",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼回应内存言论争议：称遭断章取义，希望扩大内存产能",
+      "url": "https://www.ithome.com/1/022/385.htm",
+      "excerpt": "IT之家 11 月 4 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）近日回应了外界对其一番言论的强烈批评。此前，他在一次采访中表示，个人电脑中配备内存，而不是将内存集中放在数据中心供人使用，这种做法在他看来“很糟糕”。在接受 Yo",
+      "src": "IT之家",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "url": "https://www.qbitai.com/2026/11/507419.html",
       "excerpt": "终于，有了一个可以触摸的起点",
@@ -100,71 +126,38 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "url": "https://www.qbitai.com/2026/11/507410.html",
-      "excerpt": "TeleAI智慧看护助手",
-      "src": "量子位",
-      "tag": "苹果",
+      "title": "首个：华为云智果 AgentArts 获中国信通院最高等级评级",
+      "url": "https://www.ithome.com/1/022/406.htm",
+      "excerpt": "IT之家 11 月 4 日消息，华为官方今日宣布，华为云智果 AgentArts 智能体平台近日顺利通过中国信通院组织的可信 AI 企业级智能体平台评估，是首个通过该项测评，并获得当前最高等级（4+ 级）的产品。据介绍，本次评估依据《企业级智能体技术要求》，围",
+      "src": "IT之家",
+      "tag": "华为",
       "cat": "app"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
-      "url": "https://www.qbitai.com/2026/11/507405.html",
-      "excerpt": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
-      "url": "https://www.qbitai.com/2026/11/507396.html",
-      "excerpt": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
-      "src": "量子位",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
-      "url": "https://www.qbitai.com/2026/11/507382.html",
-      "excerpt": "单季狂揽1130亿人民币，但...",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
-      "url": "https://www.qbitai.com/2026/11/507367.html",
-      "excerpt": "GPU迭代一百次的事，它一步做完",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "DeepSeek",
-      "Offer",
-      "去年心动",
-      "今年心碎",
-      "递归的尽头是爱心"
+      "Grok",
+      "Bot",
+      "Altman",
+      "马斯克回应",
+      "额度消耗过快"
     ],
     "app": [
       "AI",
-      "企业却在悄悄加单",
-      "Bubbo",
-      "一台机器人",
-      "如何成为家人",
-      "个人灵光"
+      "ChatGPT",
+      "Seedance",
+      "国行版苹果",
+      "开始测试",
+      "搜索量已达到谷歌"
     ],
     "enterprise": [
-      "AI",
-      "OceanBase",
-      "RSI",
-      "IBM",
-      "写下新定义"
+      "OpenAI",
+      "CEO",
+      "称遭断章取义",
+      "希望扩大内存产能",
+      "Personal",
+      "Agent"
     ]
   },
   "hotwords": [
@@ -173,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.46
-    },
-    {
       "w": "Agent",
-      "wt": 0.46
+      "wt": 0.5
     },
     {
-      "w": "Offer",
-      "wt": 0.4
+      "w": "ChatGPT",
+      "wt": 0.42
     },
     {
-      "w": "去年心动",
-      "wt": 0.4
+      "w": "Seedance",
+      "wt": 0.42
     },
     {
-      "w": "今年心碎",
-      "wt": 0.4
+      "w": "国行版苹果",
+      "wt": 0.42
     },
     {
-      "w": "递归的尽头是爱心",
-      "wt": 0.4
+      "w": "开始测试",
+      "wt": 0.42
     },
     {
-      "w": "看颗",
-      "wt": 0.4
+      "w": "搜索量已达到谷歌",
+      "wt": 0.42
     },
     {
-      "w": "企业却在悄悄加单",
-      "wt": 0.4
-    },
-    {
-      "w": "到底哪些专业",
-      "wt": 0.4
-    },
-    {
-      "w": "可以拿五万月薪",
-      "wt": 0.4
+      "w": "极客早知道",
+      "wt": 0.42
     },
     {
       "w": "Bubbo",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "一台机器人",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "如何成为家人",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "Grok",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "Bot",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "Altman",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "马斯克回应",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "额度消耗过快",
-      "wt": 0.4
+      "wt": 0.42
     },
     {
       "w": "万份",
-      "wt": 0.4
+      "wt": 0.42
+    },
+    {
+      "w": "MacBook",
+      "wt": 0.42
+    },
+    {
+      "w": "Pro",
+      "wt": 0.42
+    },
+    {
+      "w": "谷歌",
+      "wt": 0.42
     }
   ],
-  "total": 17
+  "total": 16
 };
