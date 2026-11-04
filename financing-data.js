@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-03 07:40",
- "total": 993,
+ "updated": "2026-11-04 16:57",
+ "total": 998,
  "industries": [
   "产业升级",
   "企业服务",
@@ -104,6 +104,34 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1971580783155457",
+   "date": "2026-11-01",
+   "name": "霖鼎光学",
+   "desc": "光学产品及设备制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "君桐资本、上海科创集团、大零号湾投资、金浦投资、临港蓝湾资本、国鑫创投、宁波集成电路、沃衍资本、国科嘉和、中新策源私募基金、上海自贸区基金、海通创新证券、海通开元、智微攀峰基金",
+   "url": "https://pitchhub.36kr.com/project/1971580783155457",
+   "province": "上海市"
+  },
+  {
+   "id": "2011619846129161",
+   "date": "2026-11-01",
+   "name": "高能数造",
+   "desc": "电池干法制造与全固态电池3D打印技术先行者",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "近亿人民币",
+   "investors": "广金基金、弘祺投资、陕财投投资",
+   "url": "https://pitchhub.36kr.com/project/2011619846129161",
+   "province": "陕西省"
+  },
+  {
    "id": "2065068690735369",
    "date": "2026-11-01",
    "name": "长光辰英生物",
@@ -158,6 +186,20 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "火星人厨具、财通创新、广科创投",
    "url": "https://pitchhub.36kr.com/project/1678376514647044",
+   "province": "北京市"
+  },
+  {
+   "id": "2071876998447110",
+   "date": "2026-10-29",
+   "name": "凯达恒业",
+   "desc": "科技推广和应用服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "广发信德",
+   "url": "https://pitchhub.36kr.com/project/2071876998447110",
    "province": "北京市"
   },
   {
@@ -401,6 +443,20 @@ window.__FINANCING_DATA__ = {
    "province": "四川省"
   },
   {
+   "id": "2072125387456777",
+   "date": "2026-10-27",
+   "name": "浦拉司",
+   "desc": "药物研发制造商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "晓池资本",
+   "url": "https://pitchhub.36kr.com/project/2072125387456777",
+   "province": "上海市"
+  },
+  {
    "id": "1735563604447363",
    "date": "2026-10-27",
    "name": "金磁海纳",
@@ -543,6 +599,20 @@ window.__FINANCING_DATA__ = {
    "investors": "暂未确定投资方",
    "url": "https://pitchhub.36kr.com/project/3997783115144066",
    "province": "广东省"
+  },
+  {
+   "id": "1950556739736969",
+   "date": "2026-10-26",
+   "name": "光梓科技",
+   "desc": "我国高速光电集成芯片领域的领军企业之一",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "D+轮",
+   "amount": "未透露",
+   "investors": "财通资本",
+   "url": "https://pitchhub.36kr.com/project/1950556739736969",
+   "province": "上海市"
   },
   {
    "id": "1678539539149831",
