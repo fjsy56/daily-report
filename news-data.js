@@ -1,6 +1,22 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "tech": [
+    {
+      "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+      "url": "http://www.geekpark.net/news/373554",
+      "excerpt": "芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日 据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。 当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "极客公园创新大会 2027 首批嘉宾揭晓！",
+      "url": "http://www.geekpark.net/news/373553",
+      "excerpt": "今年 12 月 5 日—6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
     {
       "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
       "url": "http://www.geekpark.net/news/373542",
@@ -18,43 +34,35 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "url": "https://www.qbitai.com/2026/11/507787.html",
-      "excerpt": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "url": "https://www.qbitai.com/2026/11/508155.html",
+      "excerpt": "Q3营收实现数倍增长",
       "src": "量子位",
-      "tag": "百度",
+      "tag": "DeepSeek",
       "cat": "tech"
     },
     {
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "url": "https://www.qbitai.com/2026/11/507782.html",
-      "excerpt": "spaCy作者长文炮轰",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-      "url": "https://www.qbitai.com/2026/11/507688.html",
-      "excerpt": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+      "url": "https://www.qbitai.com/2026/11/508118.html",
+      "excerpt": "挑战商业视频的高难度场景",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "url": "https://www.qbitai.com/2026/11/507675.html",
-      "excerpt": "薪资+期权不限！实习生也能训核心模型",
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "url": "https://www.qbitai.com/2026/11/508107.html",
+      "excerpt": "一举刷新「AI安全世界杯」CyberGym世界纪录",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型",
-      "url": "https://www.ithome.com/1/022/963.htm",
-      "excerpt": "IT之家 11 月 5 日消息，据 Business Insider 报道，Meta 不再打算用水果给 AI 模型命名了。一名知情人士透露，这家社交媒体巨头已在内部决定，今后不再以水果为 AI 模型取代号。这一调整主要出于品牌定位方面的考虑。知情人士表示，以水",
-      "src": "IT之家",
-      "tag": "Meta",
+      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+      "url": "https://www.qbitai.com/2026/11/507988.html",
+      "excerpt": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -76,33 +84,17 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
-      "url": "http://www.geekpark.net/news/373399",
-      "excerpt": "头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成",
-      "src": "极客公园",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "url": "https://www.qbitai.com/2026/11/507767.html",
-      "excerpt": "像雇人一样雇机器人",
-      "src": "量子位",
-      "tag": "具身智能",
-      "cat": "app"
-    },
-    {
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "url": "https://www.qbitai.com/2026/11/507696.html",
-      "excerpt": "Data + AI 技术实践巡展 · 上海站",
+      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+      "url": "https://www.qbitai.com/2026/11/508143.html",
+      "excerpt": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
       "src": "量子位",
       "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-      "url": "https://www.qbitai.com/2026/11/507707.html",
-      "excerpt": "最快6秒出图",
+      "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+      "url": "https://www.qbitai.com/2026/11/507972.html",
+      "excerpt": "Seedance 2.5 单秒低至0.15元",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
@@ -110,30 +102,46 @@ window.__NEWS_DATA__ = {
   ],
   "enterprise": [
     {
-      "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
-      "url": "http://www.geekpark.net/news/373424",
-      "excerpt": "作者｜苏子华 编辑｜郑玄 博尔赫斯写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼",
-      "src": "极客公园",
-      "tag": "融资",
-      "cat": "enterprise"
+      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+      "url": "https://www.qbitai.com/2026/11/507967.html",
+      "excerpt": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+      "src": "量子位",
+      "tag": "腾讯",
+      "cat": "tech"
     },
     {
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "url": "https://www.qbitai.com/2026/11/507697.html",
-      "excerpt": "被轰成筛子了…",
+      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+      "url": "https://www.qbitai.com/2026/11/507919.html",
+      "excerpt": "基础规划免费！",
       "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "enterprise"
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结",
+      "url": "https://www.ithome.com/1/023/521.htm",
+      "excerpt": "IT之家 11 月 6 日消息，据 1818 黄金眼近日报道，冷先生在杭州经营一家服装工作室。9 月 18 日苹果新机首发，他抢到 3 台 iPhone 18 Pro Max（均为 1TB 版本，两个黑色、一个红色），随即挂上二手交易平台“闲鱼”。冷先生表示，",
+      "src": "IT之家",
+      "tag": "苹果",
+      "cat": "tech"
+    },
+    {
+      "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
+      "url": "https://www.ithome.com/1/023/498.htm",
+      "excerpt": "IT之家 11 月 6 日消息，据科技媒体 neowin 今天报道，民宿出租平台 Airbnb 爱彼迎在 2026 财年第三季度报告中透露，公司正开发全新 AI 智能体，计划 2027 年推出，可帮助用户规划旅行。Airbnb 表示：“我们的智能体并没有采用传",
+      "src": "IT之家",
+      "tag": "Agent",
+      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Qoder",
-      "凭什么拿下中国",
-      "编程市场第一",
-      "一个人用得好",
-      "Flash"
+      "OpenAI",
+      "GPT-6",
+      "Cyber",
+      "纳指单日暴跌",
+      "极客公园创新大会"
     ],
     "app": [
       "AI",
@@ -144,8 +152,12 @@ window.__NEWS_DATA__ = {
       "重返美股市值第一"
     ],
     "enterprise": [
-      "Linux",
-      "OpenAI"
+      "AI",
+      "Hy4",
+      "Agent",
+      "腾讯",
+      "能力开源模型第一",
+      "孩子的人生大事"
     ]
   },
   "hotwords": [
@@ -155,80 +167,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "极客早知道",
-      "wt": 0.55
+      "wt": 0.46
     },
     {
-      "w": "Astra",
-      "wt": 0.55
+      "w": "Agent",
+      "wt": 0.46
+    },
+    {
+      "w": "OpenAI",
+      "wt": 0.4
+    },
+    {
+      "w": "GPT-6",
+      "wt": 0.4
+    },
+    {
+      "w": "Cyber",
+      "wt": 0.4
+    },
+    {
+      "w": "纳指单日暴跌",
+      "wt": 0.4
+    },
+    {
+      "w": "极客公园创新大会",
+      "wt": 0.4
+    },
+    {
+      "w": "首批嘉宾揭晓",
+      "wt": 0.4
     },
     {
       "w": "Qoder",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "凭什么拿下中国",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "编程市场第一",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "一个人用得好",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "Apple",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "智能国行上线",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "苹果大涨超",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "重返美股市值第一",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "ChatGPT",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "Seedance",
-      "wt": 0.45
+      "wt": 0.4
     },
     {
       "w": "国行版苹果",
-      "wt": 0.45
-    },
-    {
-      "w": "开始测试",
-      "wt": 0.45
-    },
-    {
-      "w": "搜索量已达到谷歌",
-      "wt": 0.45
-    },
-    {
-      "w": "Bubbo",
-      "wt": 0.45
-    },
-    {
-      "w": "一台机器人",
-      "wt": 0.45
-    },
-    {
-      "w": "如何成为家人",
-      "wt": 0.45
-    },
-    {
-      "w": "Flash",
-      "wt": 0.45
+      "wt": 0.4
     }
   ],
-  "total": 15
+  "total": 16
 };
