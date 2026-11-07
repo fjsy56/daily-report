@@ -1,6 +1,122 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "tech": [
+    {
+      "title": "硅谷AI生意，一场高级崩老头",
+      "url": "https://www.huxiu.com/article/4903820.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "观察｜AI产业上演生死时速：商业化的速度，能不能追得上泡沫破裂的速度？",
+      "url": "https://www.huxiu.com/article/4903800.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
+      "url": "https://www.huxiu.com/article/4903791.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "英伟达四处替客户找钱买芯片",
+      "url": "https://www.huxiu.com/article/4903766.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "英伟达",
+      "cat": "tech"
+    },
+    {
+      "title": "博世用豆包工作：让工程师少搬信息，多解问题",
+      "url": "http://www.geekpark.net/news/373643",
+      "excerpt": "头图来源：豆包工作 客户在群里抛出一个问题，到工程师真正坐下来分析故障，中间隔着多少工作？ 在博世的某研发事业部，答案曾经是：找齐散落在各个群和私聊里的消息，按多个维度整理成完整描述，凭经验判断该找谁，接着再开会，再把结论写成报告。 故障分析还没开始，大半天已",
+      "src": "极客公园",
+      "tag": "字节",
+      "cat": "tech"
+    },
+    {
+      "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+      "url": "http://www.geekpark.net/news/373639",
+      "excerpt": "电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成 11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车",
+      "src": "极客公园",
+      "tag": "小米",
+      "cat": "tech"
+    },
+    {
+      "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
+      "url": "http://www.geekpark.net/news/373637",
+      "excerpt": "作者｜Wildcard 编辑｜靖宇11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测",
+      "src": "极客公园",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "AI 时代没有标准答案的问题，我们面对面聊",
+      "url": "http://www.geekpark.net/news/373636",
+      "excerpt": "我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "AI陪伴，为什么有的做App，有的做玩具，有的做机器人？",
+      "url": "https://www.huxiu.com/article/4903767.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
+      "url": "http://www.geekpark.net/news/373642",
+      "excerpt": "头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "excerpt": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "src": "量子位",
+      "tag": "DeepSeek",
+      "cat": "app"
+    },
+    {
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "url": "https://www.qbitai.com/2026/11/508174.html",
+      "excerpt": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+      "url": "https://www.qbitai.com/2026/11/508170.html",
+      "excerpt": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "url": "https://www.qbitai.com/2026/11/508165.html",
+      "excerpt": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "src": "量子位",
+      "tag": "阿里",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
     {
       "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
       "url": "http://www.geekpark.net/news/373554",
@@ -10,154 +126,54 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "极客公园创新大会 2027 首批嘉宾揭晓！",
-      "url": "http://www.geekpark.net/news/373553",
-      "excerpt": "今年 12 月 5 日—6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
-      "url": "http://www.geekpark.net/news/373542",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "一个人用得好 AI，为什么一家公司却用不好？",
-      "url": "http://www.geekpark.net/news/373541",
-      "excerpt": "作者｜老 S 编辑｜郑玄 今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，A",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "url": "https://www.qbitai.com/2026/11/508155.html",
-      "excerpt": "Q3营收实现数倍增长",
-      "src": "量子位",
-      "tag": "DeepSeek",
-      "cat": "tech"
-    },
-    {
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "url": "https://www.qbitai.com/2026/11/508118.html",
-      "excerpt": "挑战商业视频的高难度场景",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "url": "https://www.qbitai.com/2026/11/508107.html",
-      "excerpt": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "url": "https://www.qbitai.com/2026/11/507988.html",
-      "excerpt": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
-      "url": "http://www.geekpark.net/news/373494",
-      "excerpt": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "app"
-    },
-    {
-      "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
-      "url": "http://www.geekpark.net/news/373427",
-      "excerpt": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等",
-      "src": "极客公园",
-      "tag": "OpenAI",
-      "cat": "app"
-    },
-    {
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "url": "https://www.qbitai.com/2026/11/508143.html",
-      "excerpt": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "excerpt": "全新的电脑病毒",
       "src": "量子位",
       "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-      "url": "https://www.qbitai.com/2026/11/507972.html",
-      "excerpt": "Seedance 2.5 单秒低至0.15元",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "app"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "url": "https://www.qbitai.com/2026/11/507967.html",
-      "excerpt": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-      "src": "量子位",
-      "tag": "腾讯",
       "cat": "tech"
     },
     {
-      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-      "url": "https://www.qbitai.com/2026/11/507919.html",
-      "excerpt": "基础规划免费！",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "url": "https://www.qbitai.com/2026/11/508196.html",
+      "excerpt": "RSI不可能无限快",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结",
-      "url": "https://www.ithome.com/1/023/521.htm",
-      "excerpt": "IT之家 11 月 6 日消息，据 1818 黄金眼近日报道，冷先生在杭州经营一家服装工作室。9 月 18 日苹果新机首发，他抢到 3 台 iPhone 18 Pro Max（均为 1TB 版本，两个黑色、一个红色），随即挂上二手交易平台“闲鱼”。冷先生表示，",
-      "src": "IT之家",
-      "tag": "苹果",
-      "cat": "tech"
-    },
-    {
-      "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
-      "url": "https://www.ithome.com/1/023/498.htm",
-      "excerpt": "IT之家 11 月 6 日消息，据科技媒体 neowin 今天报道，民宿出租平台 Airbnb 爱彼迎在 2026 财年第三季度报告中透露，公司正开发全新 AI 智能体，计划 2027 年推出，可帮助用户规划旅行。Airbnb 表示：“我们的智能体并没有采用传",
-      "src": "IT之家",
-      "tag": "Agent",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "excerpt": "Dario刚喊减速…",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
+      "一场高级崩老头",
+      "观察",
+      "商业化的速度",
+      "博世用豆包工作",
+      "让工程师少搬信息"
+    ],
+    "app": [
+      "AI",
+      "Agent",
+      "App",
+      "有的做玩具",
+      "有的做机器人",
+      "办公提效之后"
+    ],
+    "enterprise": [
+      "RSI",
       "OpenAI",
       "GPT-6",
       "Cyber",
       "纳指单日暴跌",
-      "极客公园创新大会"
-    ],
-    "app": [
-      "AI",
-      "极客早知道",
-      "Apple",
-      "智能国行上线",
-      "苹果大涨超",
-      "重返美股市值第一"
-    ],
-    "enterprise": [
-      "AI",
-      "Hy4",
-      "Agent",
-      "腾讯",
-      "能力开源模型第一",
-      "孩子的人生大事"
+      "AGENTS.MD"
     ]
   },
   "hotwords": [
@@ -166,81 +182,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "极客早知道",
-      "wt": 0.46
-    },
-    {
       "w": "Agent",
-      "wt": 0.46
+      "wt": 0.55
     },
     {
-      "w": "OpenAI",
-      "wt": 0.4
+      "w": "DeepSeek",
+      "wt": 0.48
     },
     {
-      "w": "GPT-6",
-      "wt": 0.4
+      "w": "RSI",
+      "wt": 0.48
     },
     {
-      "w": "Cyber",
-      "wt": 0.4
+      "w": "一场高级崩老头",
+      "wt": 0.42
     },
     {
-      "w": "纳指单日暴跌",
-      "wt": 0.4
+      "w": "观察",
+      "wt": 0.42
     },
     {
-      "w": "极客公园创新大会",
-      "wt": 0.4
+      "w": "商业化的速度",
+      "wt": 0.42
     },
     {
-      "w": "首批嘉宾揭晓",
-      "wt": 0.4
+      "w": "App",
+      "wt": 0.42
     },
     {
-      "w": "Qoder",
-      "wt": 0.4
+      "w": "有的做玩具",
+      "wt": 0.42
     },
     {
-      "w": "凭什么拿下中国",
-      "wt": 0.4
+      "w": "有的做机器人",
+      "wt": 0.42
     },
     {
-      "w": "编程市场第一",
-      "wt": 0.4
+      "w": "博世用豆包工作",
+      "wt": 0.42
     },
     {
-      "w": "一个人用得好",
-      "wt": 0.4
+      "w": "让工程师少搬信息",
+      "wt": 0.42
     },
     {
-      "w": "Apple",
-      "wt": 0.4
+      "w": "多解问题",
+      "wt": 0.42
     },
     {
-      "w": "智能国行上线",
-      "wt": 0.4
+      "w": "办公提效之后",
+      "wt": 0.42
     },
     {
-      "w": "苹果大涨超",
-      "wt": 0.4
+      "w": "企业级",
+      "wt": 0.42
     },
     {
-      "w": "重返美股市值第一",
-      "wt": 0.4
+      "w": "Cybertruck",
+      "wt": 0.42
     },
     {
-      "w": "ChatGPT",
-      "wt": 0.4
+      "w": "马斯克官宣",
+      "wt": 0.42
     },
     {
-      "w": "Seedance",
-      "wt": 0.4
+      "w": "停产",
+      "wt": 0.42
     },
     {
-      "w": "国行版苹果",
-      "wt": 0.4
+      "w": "销量不足预期一成",
+      "wt": 0.42
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.42
     }
   ],
-  "total": 16
+  "total": 18
 };
