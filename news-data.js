@@ -1,36 +1,44 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "tech": [
     {
-      "title": "硅谷AI生意，一场高级崩老头",
-      "url": "https://www.huxiu.com/article/4903820.html",
+      "title": "爆火的AI短剧带给教培行业的启示",
+      "url": "https://www.huxiu.com/article/4903924.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "观察｜AI产业上演生死时速：商业化的速度，能不能追得上泡沫破裂的速度？",
-      "url": "https://www.huxiu.com/article/4903800.html",
+      "title": "Z Potentials©",
+      "url": "https://www.huxiu.com/article/4903915.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
-      "url": "https://www.huxiu.com/article/4903791.html",
+      "title": "AI与生物武器报告引发科学家分歧",
+      "url": "https://www.huxiu.com/article/4903919.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "英伟达四处替客户找钱买芯片",
-      "url": "https://www.huxiu.com/article/4903766.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "英伟达",
+      "title": "为什么「陪伴」，注定是 Personal AI 的核心",
+      "url": "http://www.geekpark.net/news/373653",
+      "excerpt": "作者｜宇航猿 编辑｜靖宇 最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。 整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
+      "url": "http://www.geekpark.net/news/373647",
+      "excerpt": "中东，阿联酋阿布扎比酋长皇宫酒店草坪上，比亚迪正式曝光了仰望旗下一款超豪华新车「鼎曜」YANGWANG ALTIOR。 Altior源自拉丁语，意思是「更高」。这也是仰望品牌诞生以来，第一次脱离U7、U8、U9的字母数字序列，单独起了一个名字。 仰望鼎曜 Al",
+      "src": "极客公园",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
@@ -42,37 +50,53 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
-      "url": "http://www.geekpark.net/news/373639",
-      "excerpt": "电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成 11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车",
-      "src": "极客公园",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
-      "url": "http://www.geekpark.net/news/373637",
-      "excerpt": "作者｜Wildcard 编辑｜靖宇11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测",
-      "src": "极客公园",
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "excerpt": "没有永远的夏天",
+      "src": "量子位",
       "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "AI 时代没有标准答案的问题，我们面对面聊",
-      "url": "http://www.geekpark.net/news/373636",
-      "excerpt": "我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问",
-      "src": "极客公园",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "excerpt": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "AI陪伴，为什么有的做App，有的做玩具，有的做机器人？",
-      "url": "https://www.huxiu.com/article/4903767.html",
+      "title": "机器人“大脑”再添新变量，规模上岗还差“最后几毫米”？",
+      "url": "https://www.huxiu.com/article/4903935.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "a16z对谈OpenAI产品负责人",
+      "url": "https://www.huxiu.com/article/4903915.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
+    {
+      "title": "创业者做 Personal Agent，有没有一线生机？",
+      "url": "http://www.geekpark.net/news/373650",
+      "excerpt": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Per",
+      "src": "极客公园",
+      "tag": "Agent",
+      "cat": "app"
+    },
+    {
+      "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
+      "url": "http://www.geekpark.net/news/373649",
+      "excerpt": "收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团",
+      "src": "极客公园",
+      "tag": "英伟达",
       "cat": "app"
     },
     {
@@ -90,40 +114,24 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "DeepSeek",
       "cat": "app"
-    },
-    {
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "url": "https://www.qbitai.com/2026/11/508174.html",
-      "excerpt": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-      "url": "https://www.qbitai.com/2026/11/508170.html",
-      "excerpt": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-      "url": "https://www.qbitai.com/2026/11/508165.html",
-      "excerpt": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
-      "src": "量子位",
-      "tag": "阿里",
-      "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
-      "url": "http://www.geekpark.net/news/373554",
-      "excerpt": "芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日 据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。 当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美",
-      "src": "极客公园",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "excerpt": "AI写代码太快，基础设施跟不上了",
+      "src": "量子位",
       "tag": "OpenAI",
-      "cat": "tech"
+      "cat": "enterprise"
+    },
+    {
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "excerpt": "融资缩水，硅谷投资人也谨慎了",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "enterprise"
     },
     {
       "title": "AGENTS.MD，危险危险危险！！！",
@@ -134,46 +142,38 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "url": "https://www.qbitai.com/2026/11/508196.html",
-      "excerpt": "RSI不可能无限快",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "excerpt": "中国版cosmos再交卷",
       "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
-      "excerpt": "Dario刚喊减速…",
-      "src": "量子位",
-      "tag": "大模型",
+      "tag": "华为",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "一场高级崩老头",
-      "观察",
-      "商业化的速度",
-      "博世用豆包工作",
-      "让工程师少搬信息"
+      "Potentials",
+      "Personal",
+      "为什么「陪伴」",
+      "注定是",
+      "的核心"
     ],
     "app": [
-      "AI",
       "Agent",
-      "App",
-      "有的做玩具",
-      "有的做机器人",
-      "办公提效之后"
+      "a16z",
+      "OpenAI",
+      "Personal",
+      "创业者做",
+      "有没有一线生机"
     ],
     "enterprise": [
-      "RSI",
       "OpenAI",
-      "GPT-6",
-      "Cyber",
-      "纳指单日暴跌",
-      "AGENTS.MD"
+      "GitHub",
+      "马斯克也要搞",
+      "不及原计划一半",
+      "AGENTS.MD",
+      "危险危险危险"
     ]
   },
   "hotwords": [
@@ -182,80 +182,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "OpenAI",
+      "wt": 0.71
+    },
+    {
       "w": "Agent",
-      "wt": 0.55
+      "wt": 0.71
     },
     {
-      "w": "DeepSeek",
-      "wt": 0.48
+      "w": "Personal",
+      "wt": 0.59
     },
     {
-      "w": "RSI",
-      "wt": 0.48
+      "w": "a16z",
+      "wt": 0.47
     },
     {
-      "w": "一场高级崩老头",
-      "wt": 0.42
+      "w": "Potentials",
+      "wt": 0.47
     },
     {
-      "w": "观察",
-      "wt": 0.42
+      "w": "为什么「陪伴」",
+      "wt": 0.47
     },
     {
-      "w": "商业化的速度",
-      "wt": 0.42
+      "w": "注定是",
+      "wt": 0.47
     },
     {
-      "w": "App",
-      "wt": 0.42
+      "w": "的核心",
+      "wt": 0.47
     },
     {
-      "w": "有的做玩具",
-      "wt": 0.42
+      "w": "创业者做",
+      "wt": 0.47
     },
     {
-      "w": "有的做机器人",
-      "wt": 0.42
+      "w": "有没有一线生机",
+      "wt": 0.47
     },
     {
-      "w": "博世用豆包工作",
-      "wt": 0.42
+      "w": "EA",
+      "wt": 0.47
     },
     {
-      "w": "让工程师少搬信息",
-      "wt": 0.42
+      "w": "Unity",
+      "wt": 0.47
     },
     {
-      "w": "多解问题",
-      "wt": 0.42
+      "w": "iPhone",
+      "wt": 0.47
     },
     {
-      "w": "办公提效之后",
-      "wt": 0.42
+      "w": "Duo",
+      "wt": 0.47
     },
     {
-      "w": "企业级",
-      "wt": 0.42
+      "w": "NVIDIA",
+      "wt": 0.47
     },
     {
-      "w": "Cybertruck",
-      "wt": 0.42
+      "w": "收购",
+      "wt": 0.47
     },
     {
-      "w": "马斯克官宣",
-      "wt": 0.42
+      "w": "亿美元报价",
+      "wt": 0.47
     },
     {
-      "w": "停产",
-      "wt": 0.42
+      "w": "美国再发生",
+      "wt": 0.47
     },
     {
-      "w": "销量不足预期一成",
-      "wt": 0.42
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.42
+      "w": "设备失窃案",
+      "wt": 0.47
     }
   ],
   "total": 18
