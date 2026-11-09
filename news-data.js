@@ -1,28 +1,52 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "tech": [
     {
-      "title": "爆火的AI短剧带给教培行业的启示",
-      "url": "https://www.huxiu.com/article/4903924.html",
+      "title": "民主党或将重拾反垄断大棒，美国AI巨头会被反攻倒算吗？",
+      "url": "https://www.huxiu.com/article/4904243.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "Z Potentials©",
-      "url": "https://www.huxiu.com/article/4903915.html",
+      "title": "千问新物种，需要旧王李佳琦",
+      "url": "https://www.huxiu.com/article/4904237.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "第一个被AI做大的国家，现在怎么样了？",
+      "url": "https://www.huxiu.com/article/4904229.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI与生物武器报告引发科学家分歧",
-      "url": "https://www.huxiu.com/article/4903919.html",
+      "title": "AI算力的分水岭，始于黄仁勋的道歉信",
+      "url": "https://www.huxiu.com/article/4904217.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
+      "url": "http://www.geekpark.net/news/373715",
+      "excerpt": "作者｜徐珊 编辑｜ 郑玄 这可能是你见过最安静的一块「草莓地」。 没有虫鸣，没有鸟叫，50 平方米的房间里，草莓植株一层层码到头顶，叶片舒展，几乎找不到一个虫眼，枝头挂满了还没转红的青果，也有不少已经熟透。不靠天、不靠地，草莓在这个赛博农场里被「种上了天」。 ",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "具身智能，也到了 API 时刻？",
+      "url": "http://www.geekpark.net/news/373683",
+      "excerpt": "具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。作者｜Li Yuan编辑｜郑玄具身智能，也到了 API 时刻？过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。就在近期，",
+      "src": "极客公园",
+      "tag": "具身智能",
       "cat": "tech"
     },
     {
@@ -34,33 +58,9 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
-      "url": "http://www.geekpark.net/news/373647",
-      "excerpt": "中东，阿联酋阿布扎比酋长皇宫酒店草坪上，比亚迪正式曝光了仰望旗下一款超豪华新车「鼎曜」YANGWANG ALTIOR。 Altior源自拉丁语，意思是「更高」。这也是仰望品牌诞生以来，第一次脱离U7、U8、U9的字母数字序列，单独起了一个名字。 仰望鼎曜 Al",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "博世用豆包工作：让工程师少搬信息，多解问题",
-      "url": "http://www.geekpark.net/news/373643",
-      "excerpt": "头图来源：豆包工作 客户在群里抛出一个问题，到工程师真正坐下来分析故障，中间隔着多少工作？ 在博世的某研发事业部，答案曾经是：找齐散落在各个群和私聊里的消息，按多个维度整理成完整描述，凭经验判断该找谁，接着再开会，再把结论写成报告。 故障分析还没开始，大半天已",
-      "src": "极客公园",
-      "tag": "字节",
-      "cat": "tech"
-    },
-    {
-      "title": "资本正在撤离“世界模型”",
-      "url": "https://www.qbitai.com/2026/11/508466.html",
-      "excerpt": "没有永远的夏天",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "为了去AI味，人类开始主动写烂文章了……",
-      "url": "https://www.qbitai.com/2026/11/508330.html",
-      "excerpt": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "excerpt": "教授也用Claude糊弄…",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -68,18 +68,26 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "机器人“大脑”再添新变量，规模上岗还差“最后几毫米”？",
-      "url": "https://www.huxiu.com/article/4903935.html",
+      "title": "验证码拦不住个人Agent了",
+      "url": "https://www.huxiu.com/article/4904210.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "具身智能",
+      "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "a16z对谈OpenAI产品负责人",
-      "url": "https://www.huxiu.com/article/4903915.html",
-      "excerpt": "",
-      "src": "虎嗅",
+      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+      "url": "http://www.geekpark.net/news/373644",
+      "excerpt": "头图来源：腾讯混元 11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是——首次跻身最强开源模型之列。 过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Ag",
+      "src": "极客公园",
+      "tag": "腾讯",
+      "cat": "app"
+    },
+    {
+      "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
+      "url": "http://www.geekpark.net/news/373687",
+      "excerpt": "黄仁勋承认「婚外情」，英伟达启动调查 11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。 黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此",
+      "src": "极客公园",
       "tag": "OpenAI",
       "cat": "app"
     },
@@ -92,88 +100,80 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
-      "url": "http://www.geekpark.net/news/373649",
-      "excerpt": "收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团",
-      "src": "极客公园",
-      "tag": "英伟达",
-      "cat": "app"
-    },
-    {
-      "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
-      "url": "http://www.geekpark.net/news/373642",
-      "excerpt": "头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复",
-      "src": "极客公园",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "url": "https://www.qbitai.com/2026/11/508264.html",
-      "excerpt": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "excerpt": "11月9日，千问办公发布2.0版本",
       "src": "量子位",
-      "tag": "DeepSeek",
+      "tag": "阿里",
+      "cat": "app"
+    },
+    {
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "url": "https://www.qbitai.com/2026/11/508603.html",
+      "excerpt": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "url": "https://www.qbitai.com/2026/11/508449.html",
-      "excerpt": "AI写代码太快，基础设施跟不上了",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "excerpt": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
       "src": "量子位",
-      "tag": "OpenAI",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "url": "https://www.qbitai.com/2026/11/508344.html",
-      "excerpt": "融资缩水，硅谷投资人也谨慎了",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "enterprise"
-    },
-    {
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "url": "https://www.qbitai.com/2026/11/508244.html",
-      "excerpt": "全新的电脑病毒",
-      "src": "量子位",
-      "tag": "Agent",
+      "tag": "腾讯",
       "cat": "tech"
     },
     {
-      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
-      "url": "https://www.qbitai.com/2026/11/508236.html",
-      "excerpt": "中国版cosmos再交卷",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "url": "https://www.qbitai.com/2026/11/508629.html",
+      "excerpt": "最早量产的亲自泼冷水",
       "src": "量子位",
-      "tag": "华为",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "excerpt": "Worker不够了主管Agent还能自己招！",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "Potentials",
-      "Personal",
-      "为什么「陪伴」",
-      "注定是",
-      "的核心"
+      "千问新物种",
+      "需要旧王李佳琦",
+      "现在怎么样了",
+      "一颗植物工厂草莓",
+      "多多农研拉近现场"
     ],
     "app": [
       "Agent",
-      "a16z",
-      "OpenAI",
-      "Personal",
-      "创业者做",
-      "有没有一线生机"
+      "HY4",
+      "实测",
+      "离一线还有多远",
+      "ChatGPT",
+      "Pro"
     ],
     "enterprise": [
-      "OpenAI",
-      "GitHub",
-      "马斯克也要搞",
-      "不及原计划一半",
-      "AGENTS.MD",
-      "危险危险危险"
+      "叙事奔涌",
+      "何以为锚",
+      "丨第",
+      "Hy4",
+      "WorkBuddy",
+      "Agent"
     ]
   },
   "hotwords": [
@@ -182,80 +182,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.71
-    },
-    {
       "w": "Agent",
-      "wt": 0.71
+      "wt": 0.75
     },
     {
       "w": "Personal",
-      "wt": 0.59
+      "wt": 0.48
     },
     {
-      "w": "a16z",
-      "wt": 0.47
+      "w": "SUV",
+      "wt": 0.48
     },
     {
-      "w": "Potentials",
-      "wt": 0.47
+      "w": "销冠",
+      "wt": 0.48
     },
     {
-      "w": "为什么「陪伴」",
-      "wt": 0.47
+      "w": "千问新物种",
+      "wt": 0.42
     },
     {
-      "w": "注定是",
-      "wt": 0.47
+      "w": "需要旧王李佳琦",
+      "wt": 0.42
     },
     {
-      "w": "的核心",
-      "wt": 0.47
+      "w": "现在怎么样了",
+      "wt": 0.42
     },
     {
-      "w": "创业者做",
-      "wt": 0.47
+      "w": "一颗植物工厂草莓",
+      "wt": 0.42
     },
     {
-      "w": "有没有一线生机",
-      "wt": 0.47
+      "w": "多多农研拉近现场",
+      "wt": 0.42
     },
     {
-      "w": "EA",
-      "wt": 0.47
+      "w": "HY4",
+      "wt": 0.42
     },
     {
-      "w": "Unity",
-      "wt": 0.47
+      "w": "实测",
+      "wt": 0.42
     },
     {
-      "w": "iPhone",
-      "wt": 0.47
+      "w": "离一线还有多远",
+      "wt": 0.42
     },
     {
-      "w": "Duo",
-      "wt": 0.47
+      "w": "ChatGPT",
+      "wt": 0.42
     },
     {
-      "w": "NVIDIA",
-      "wt": 0.47
+      "w": "Pro",
+      "wt": 0.42
     },
     {
-      "w": "收购",
-      "wt": 0.47
+      "w": "英伟达启动调查",
+      "wt": 0.42
     },
     {
-      "w": "亿美元报价",
-      "wt": 0.47
+      "w": "突现封号风波",
+      "wt": 0.42
     },
     {
-      "w": "美国再发生",
-      "wt": 0.47
+      "w": "美元",
+      "wt": 0.42
     },
     {
-      "w": "设备失窃案",
-      "wt": 0.47
+      "w": "用户也遭殃",
+      "wt": 0.42
+    },
+    {
+      "w": "公司护城河」",
+      "wt": 0.42
     }
   ],
   "total": 18
