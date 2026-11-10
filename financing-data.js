@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-04 16:57",
- "total": 998,
+ "updated": "2026-11-10 20:18",
+ "total": 1014,
  "industries": [
   "产业升级",
   "企业服务",
@@ -15,6 +15,7 @@ window.__FINANCING_DATA__ = {
   "医疗健康",
   "工具软件",
   "广告营销",
+  "教育",
   "文化娱乐",
   "旅游",
   "智能硬件",
@@ -103,6 +104,233 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2152308539544065",
+   "date": "2026-11-03",
+   "name": "邦芯半导体",
+   "desc": "创新型半导体设备研发商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B+轮",
+   "amount": "6亿人民币",
+   "investors": "江夏科投集团、长江创投、中银资产",
+   "url": "https://pitchhub.36kr.com/project/2152308539544065",
+   "province": "上海市"
+  },
+  {
+   "id": "2079478180583173",
+   "date": "2026-11-03",
+   "name": "赛尔智控",
+   "desc": "空间相机与三维空间采集技术研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "天使轮",
+   "amount": "近亿人民币",
+   "investors": "天程基金、知名产业投资方、财务投资方",
+   "url": "https://pitchhub.36kr.com/project/2079478180583173",
+   "province": "广东省"
+  },
+  {
+   "id": "2002545785380743",
+   "date": "2026-11-03",
+   "name": "国网瑞嘉",
+   "desc": "带电作业机器人技术研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "国网英大",
+   "url": "https://pitchhub.36kr.com/project/2002545785380743",
+   "province": "天津市"
+  },
+  {
+   "id": "2181168951758208",
+   "date": "2026-11-03",
+   "name": "力德有威",
+   "desc": "教育培训机构",
+   "industry": [
+    "教育"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "青雨投资",
+   "url": "https://pitchhub.36kr.com/project/2181168951758208",
+   "province": "北京市"
+  },
+  {
+   "id": "1818810527223937",
+   "date": "2026-11-03",
+   "name": "用尚科技",
+   "desc": "电力企业软件、硬件及系统服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "定向增发",
+   "amount": "1000万人民币",
+   "investors": "申能诚毅",
+   "url": "https://pitchhub.36kr.com/project/1818810527223937",
+   "province": "北京市"
+  },
+  {
+   "id": "1818824456605830",
+   "date": "2026-11-03",
+   "name": "华辰芯光",
+   "desc": "半导体激光器芯片的研发商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B+轮",
+   "amount": "超亿人民币",
+   "investors": "同创伟业、衢州工业集团、静水湖创投",
+   "url": "https://pitchhub.36kr.com/project/1818824456605830",
+   "province": "浙江省"
+  },
+  {
+   "id": "1818781420146816",
+   "date": "2026-11-03",
+   "name": "中复碳芯",
+   "desc": "中复碳芯是由中国复合材料集团有限公司等五家股东共同出资建设的专业生产碳纤维复合芯导线、各类架空导线以及高端复合材料拉挤制品的公司。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "5亿人民币",
+   "investors": "远程电缆",
+   "url": "https://pitchhub.36kr.com/project/1818781420146816",
+   "province": "江苏省"
+  },
+  {
+   "id": "1678413113127943",
+   "date": "2026-11-03",
+   "name": "希格生科",
+   "desc": "聚焦弥漫性胃癌等未被满足的临床治疗需求",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "数亿人民币",
+   "investors": "国寿股权",
+   "url": "https://pitchhub.36kr.com/project/1678413113127943",
+   "province": "广东省"
+  },
+  {
+   "id": "2144587635262720",
+   "date": "2026-11-02",
+   "name": "元宋生物",
+   "desc": "靶向生物治疗药物研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "智越投资",
+   "url": "https://pitchhub.36kr.com/project/2144587635262720",
+   "province": "上海市"
+  },
+  {
+   "id": "2144941280101632",
+   "date": "2026-11-02",
+   "name": "启迪环境",
+   "desc": "环保服务及设备提供商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "宜昌城发投集团",
+   "url": "https://pitchhub.36kr.com/project/2144941280101632",
+   "province": "湖北省"
+  },
+  {
+   "id": "2011460205888768",
+   "date": "2026-11-02",
+   "name": "中元股份",
+   "desc": "电力二次设备研发、制造、销售和服务企业",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "定向增发",
+   "amount": "5.00亿元人民币",
+   "investors": "个人投资者",
+   "url": "https://pitchhub.36kr.com/project/2011460205888768",
+   "province": "湖北省"
+  },
+  {
+   "id": "2011467377362183",
+   "date": "2026-11-02",
+   "name": "倍豪装备",
+   "desc": "船舶及相关装备制造商",
+   "industry": [
+    "汽车出行",
+    "先进制造"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "金浦投资、华睿投资、蓝郡创投",
+   "url": "https://pitchhub.36kr.com/project/2011467377362183",
+   "province": "安徽省"
+  },
+  {
+   "id": "1958584682533890",
+   "date": "2026-11-02",
+   "name": "吾爱易达",
+   "desc": "5G-AIoT芯片研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "东大资本",
+   "url": "https://pitchhub.36kr.com/project/1958584682533890",
+   "province": "江苏省"
+  },
+  {
+   "id": "2185066443578240",
+   "date": "2026-11-02",
+   "name": "百川科技",
+   "desc": "纳米材料产品生产商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "宁夏国投集团",
+   "url": "https://pitchhub.36kr.com/project/2185066443578240",
+   "province": "宁夏回族自治区"
+  },
+  {
+   "id": "1679747680310022",
+   "date": "2026-11-02",
+   "name": "觅熵MizarVision",
+   "desc": "基于多模态传感器数据的地理空间情报服务商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "钱塘产业集团、财通资本",
+   "url": "https://pitchhub.36kr.com/project/1679747680310022",
+   "province": "浙江省"
+  },
+  {
+   "id": "2139827891843204",
+   "date": "2026-11-02",
+   "name": "锐泰微",
+   "desc": "智能网联车高性能模拟及模数混合芯片供应商",
+   "industry": [
+    "企业服务",
+    "工具软件"
+   ],
+   "round": "并购/合并",
+   "amount": "未透露",
+   "investors": "矽芯投资",
+   "url": "https://pitchhub.36kr.com/project/2139827891843204",
+   "province": "北京市"
+  },
   {
    "id": "1971580783155457",
    "date": "2026-11-01",
