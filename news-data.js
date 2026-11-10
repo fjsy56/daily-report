@@ -1,35 +1,35 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "tech": [
     {
-      "title": "民主党或将重拾反垄断大棒，美国AI巨头会被反攻倒算吗？",
-      "url": "https://www.huxiu.com/article/4904243.html",
+      "title": "从科研投入到公众信任，美国研发体系的三重困境",
+      "url": "https://www.huxiu.com/article/4904525.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "千问新物种，需要旧王李佳琦",
-      "url": "https://www.huxiu.com/article/4904237.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "第一个被AI做大的国家，现在怎么样了？",
-      "url": "https://www.huxiu.com/article/4904229.html",
+      "title": "美欧多国爆发反AI数据中心浪潮，科技巨头如何自救？",
+      "url": "https://www.huxiu.com/article/4904521.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "AI算力的分水岭，始于黄仁勋的道歉信",
-      "url": "https://www.huxiu.com/article/4904217.html",
+      "title": "AI几小时生成初稿？对话出版从业者：不可能成为主流",
+      "url": "https://www.huxiu.com/article/4904498.html",
       "excerpt": "",
       "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "中国汽车市场，不止一种赢法 | 极客车间",
+      "url": "http://www.geekpark.net/news/373765",
+      "excerpt": "对消费者来说，当下的中国汽车消费市场，新品琳琅满目、供给充沛到足以挑花眼。 锚定一个预算区间，从外观设计、内饰风格，到舒适配置、智能化能力，总能找到各有所长的产品。选择足够丰富，也让一个问题变得更值得讨论：参数和价格之外，我们究竟为什么选择一辆车？ 从产品定义",
+      "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
     },
@@ -42,25 +42,25 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "具身智能，也到了 API 时刻？",
-      "url": "http://www.geekpark.net/news/373683",
-      "excerpt": "具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。作者｜Li Yuan编辑｜郑玄具身智能，也到了 API 时刻？过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。就在近期，",
-      "src": "极客公园",
-      "tag": "具身智能",
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "url": "https://www.qbitai.com/2026/11/509017.html",
+      "excerpt": "近亿元融资刚刚落袋",
+      "src": "量子位",
+      "tag": "芯片",
       "cat": "tech"
     },
     {
-      "title": "为什么「陪伴」，注定是 Personal AI 的核心",
-      "url": "http://www.geekpark.net/news/373653",
-      "excerpt": "作者｜宇航猿 编辑｜靖宇 最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。 整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用",
-      "src": "极客公园",
-      "tag": "行业动态",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "excerpt": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "src": "量子位",
+      "tag": "大模型",
       "cat": "tech"
     },
     {
-      "title": "“AI毁了我的计算机学位”",
-      "url": "https://www.qbitai.com/2026/11/508706.html",
-      "excerpt": "教授也用Claude糊弄…",
+      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+      "url": "https://www.qbitai.com/2026/11/508828.html",
+      "excerpt": "速度提了，API价格降了",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -68,11 +68,19 @@ window.__NEWS_DATA__ = {
   ],
   "app": [
     {
-      "title": "验证码拦不住个人Agent了",
-      "url": "https://www.huxiu.com/article/4904210.html",
+      "title": "年底了，“脑机量产元年”怎么没人提了？",
+      "url": "https://www.huxiu.com/article/4904516.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "Agent",
+      "tag": "行业动态",
+      "cat": "app"
+    },
+    {
+      "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
+      "url": "http://www.geekpark.net/news/373760",
+      "excerpt": "作者｜Cynthia 编辑｜郑玄 传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被",
+      "src": "极客公园",
+      "tag": "阿里",
       "cat": "app"
     },
     {
@@ -92,88 +100,88 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "创业者做 Personal Agent，有没有一线生机？",
-      "url": "http://www.geekpark.net/news/373650",
-      "excerpt": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Per",
-      "src": "极客公园",
+      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html",
+      "excerpt": "让每一次任务，都成为下一次进步的起点",
+      "src": "量子位",
       "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "url": "https://www.qbitai.com/2026/11/508694.html",
-      "excerpt": "11月9日，千问办公发布2.0版本",
+      "title": "Token卷到触觉了！机器人终于有了通用手感",
+      "url": "https://www.qbitai.com/2026/11/508919.html",
+      "excerpt": "蚂蚁灵波开源LingBot-Touch",
       "src": "量子位",
-      "tag": "阿里",
-      "cat": "app"
-    },
-    {
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-      "url": "https://www.qbitai.com/2026/11/508603.html",
-      "excerpt": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-      "src": "量子位",
-      "tag": "大模型",
+      "tag": "具身智能",
       "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-      "url": "https://www.qbitai.com/2026/11/508690.html",
-      "excerpt": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "title": "模拟芯片重大收购：500余款料号背后的一笔账",
+      "url": "https://www.huxiu.com/article/4904508.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "芯片",
+      "cat": "enterprise"
+    },
+    {
+      "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
+      "url": "http://www.geekpark.net/news/373736",
+      "excerpt": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 ",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "enterprise"
+    },
+    {
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "url": "https://www.qbitai.com/2026/11/508991.html",
+      "excerpt": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
       "src": "量子位",
       "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "腾讯",
-      "cat": "tech"
-    },
-    {
-      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
-      "url": "https://www.qbitai.com/2026/11/508629.html",
-      "excerpt": "最早量产的亲自泼冷水",
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "url": "https://www.qbitai.com/2026/11/508985.html",
+      "excerpt": "加速东部城市型智算中心向E-AIDC演进",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "enterprise"
     },
     {
-      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-      "url": "https://www.qbitai.com/2026/11/508607.html",
-      "excerpt": "Worker不够了主管Agent还能自己招！",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "tech"
+      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
+      "url": "https://www.ithome.com/1/025/123.htm",
+      "excerpt": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打",
+      "src": "IT之家",
+      "tag": "融资",
+      "cat": "enterprise"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "千问新物种",
-      "需要旧王李佳琦",
-      "现在怎么样了",
-      "一颗植物工厂草莓",
-      "多多农研拉近现场"
+      "科技巨头如何自救",
+      "对话出版从业者",
+      "不可能成为主流",
+      "中国汽车市场",
+      "不止一种赢法"
     ],
     "app": [
       "Agent",
-      "HY4",
-      "实测",
-      "离一线还有多远",
-      "ChatGPT",
-      "Pro"
+      "AI",
+      "年底了",
+      "Team",
+      "千问办公押注",
+      "企业"
     ],
     "enterprise": [
-      "叙事奔涌",
-      "何以为锚",
-      "丨第",
-      "Hy4",
-      "WorkBuddy",
-      "Agent"
+      "模拟芯片重大收购",
+      "ChatGPT",
+      "AI",
+      "iOS",
+      "Siri",
+      "占全球"
     ]
   },
   "hotwords": [
@@ -183,80 +191,80 @@ window.__NEWS_DATA__ = {
     },
     {
       "w": "Agent",
-      "wt": 0.75
-    },
-    {
-      "w": "Personal",
-      "wt": 0.48
-    },
-    {
-      "w": "SUV",
-      "wt": 0.48
-    },
-    {
-      "w": "销冠",
-      "wt": 0.48
-    },
-    {
-      "w": "千问新物种",
-      "wt": 0.42
-    },
-    {
-      "w": "需要旧王李佳琦",
-      "wt": 0.42
-    },
-    {
-      "w": "现在怎么样了",
-      "wt": 0.42
-    },
-    {
-      "w": "一颗植物工厂草莓",
-      "wt": 0.42
-    },
-    {
-      "w": "多多农研拉近现场",
-      "wt": 0.42
-    },
-    {
-      "w": "HY4",
-      "wt": 0.42
-    },
-    {
-      "w": "实测",
-      "wt": 0.42
-    },
-    {
-      "w": "离一线还有多远",
-      "wt": 0.42
+      "wt": 0.59
     },
     {
       "w": "ChatGPT",
-      "wt": 0.42
+      "wt": 0.59
     },
     {
-      "w": "Pro",
-      "wt": 0.42
+      "w": "科技巨头如何自救",
+      "wt": 0.47
     },
     {
-      "w": "英伟达启动调查",
-      "wt": 0.42
+      "w": "年底了",
+      "wt": 0.47
     },
     {
-      "w": "突现封号风波",
-      "wt": 0.42
+      "w": "模拟芯片重大收购",
+      "wt": 0.47
     },
     {
-      "w": "美元",
-      "wt": 0.42
+      "w": "对话出版从业者",
+      "wt": 0.47
     },
     {
-      "w": "用户也遭殃",
-      "wt": 0.42
+      "w": "不可能成为主流",
+      "wt": 0.47
     },
     {
-      "w": "公司护城河」",
-      "wt": 0.42
+      "w": "中国汽车市场",
+      "wt": 0.47
+    },
+    {
+      "w": "不止一种赢法",
+      "wt": 0.47
+    },
+    {
+      "w": "极客车间",
+      "wt": 0.47
+    },
+    {
+      "w": "Team",
+      "wt": 0.47
+    },
+    {
+      "w": "千问办公押注",
+      "wt": 0.47
+    },
+    {
+      "w": "企业",
+      "wt": 0.47
+    },
+    {
+      "w": "iOS",
+      "wt": 0.47
+    },
+    {
+      "w": "Siri",
+      "wt": 0.47
+    },
+    {
+      "w": "占全球",
+      "wt": 0.47
+    },
+    {
+      "w": "聊天流量超",
+      "wt": 0.47
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.47
+    },
+    {
+      "w": "一颗植物工厂草莓",
+      "wt": 0.47
     }
   ],
-  "total": 18
+  "total": 19
 };
