@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-11 22:31",
- "total": 1043,
+ "updated": "2026-11-12 20:40",
+ "total": 1047,
  "industries": [
   "产业升级",
   "企业服务",
@@ -106,6 +106,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2012746219587075",
+   "date": "2026-11-10",
+   "name": "圭华智能",
+   "desc": "超快超精密激光及自动化设备研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "如是创投、中美创投、长石资本、龙华资本、飞图创投",
+   "url": "https://pitchhub.36kr.com/project/2012746219587075",
+   "province": "广东省"
+  },
   {
    "id": "2182943666575744",
    "date": "2026-11-10",
@@ -235,6 +249,20 @@ window.__FINANCING_DATA__ = {
    "province": "广东省"
   },
   {
+   "id": "2144729466979584",
+   "date": "2026-11-08",
+   "name": "CAMS PLUS开迈斯新能源",
+   "desc": "手机电动汽车充电服务应用软件",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "万帮太乙、中国一汽",
+   "url": "https://pitchhub.36kr.com/project/2144729466979584",
+   "province": "江苏省"
+  },
+  {
    "id": "1678233949287433",
    "date": "2026-11-08",
    "name": "三优生物",
@@ -289,6 +317,35 @@ window.__FINANCING_DATA__ = {
    "investors": "诺德基金、汇安基金、康曼德资本、个人投资者",
    "url": "https://pitchhub.36kr.com/project/2066633927655425",
    "province": "江苏省"
+  },
+  {
+   "id": "1679803724419844",
+   "date": "2026-11-05",
+   "name": "阅流",
+   "desc": "创意资产管理与协同交付平台",
+   "industry": [
+    "企业服务",
+    "工具软件"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "德同资本",
+   "url": "https://pitchhub.36kr.com/project/1679803724419844",
+   "province": "上海市"
+  },
+  {
+   "id": "1713130894420230",
+   "date": "2026-11-05",
+   "name": "新阅",
+   "desc": "数字化视频辅助平台",
+   "industry": [
+    "文化娱乐"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "德同资本",
+   "url": "https://pitchhub.36kr.com/project/1713130894420230",
+   "province": "上海市"
   },
   {
    "id": "4065484684254983",
