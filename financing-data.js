@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-12 20:40",
- "total": 1047,
+ "updated": "2026-11-13 17:33",
+ "total": 1055,
  "industries": [
   "产业升级",
   "企业服务",
@@ -107,6 +107,105 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678357191537673",
+   "date": "2026-11-12",
+   "name": "国星宇航",
+   "desc": "民营商业航天服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "IPO",
+   "amount": "7.50亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678357191537673",
+   "province": "四川省"
+  },
+  {
+   "id": "1958645869286409",
+   "date": "2026-11-12",
+   "name": "奥咨达",
+   "desc": "医疗器械综合服务提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "D轮",
+   "amount": "1亿元人民币",
+   "investors": "浙江协同创新",
+   "url": "https://pitchhub.36kr.com/project/1958645869286409",
+   "province": "广东省"
+  },
+  {
+   "id": "2011616852002312",
+   "date": "2026-11-12",
+   "name": "赛恩领动",
+   "desc": "传感器硬件产品开发商",
+   "industry": [
+    "物联网/硬件"
+   ],
+   "round": "B+轮",
+   "amount": "超亿人民币",
+   "investors": "未披露",
+   "url": "https://pitchhub.36kr.com/project/2011616852002312",
+   "province": "上海市"
+  },
+  {
+   "id": "1678438790788101",
+   "date": "2026-11-11",
+   "name": "思灵机器人",
+   "desc": "人工智能及机器人行业的国际化初创头部公司",
+   "industry": [
+    "前沿技术",
+    "其他"
+   ],
+   "round": "D轮",
+   "amount": "5亿美元",
+   "investors": "英伟达、SoftBank Capital、日立创投、T.Capital",
+   "url": "https://pitchhub.36kr.com/project/1678438790788101",
+   "province": "海外"
+  },
+  {
+   "id": "1678455008064520",
+   "date": "2026-11-11",
+   "name": "拓济医药",
+   "desc": "医药健康服务商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "4000万美元",
+   "investors": "德诚资本、元禾原点、建发新兴投资、松青基金、幂方健康基金、济峰资本、龙磐投资",
+   "url": "https://pitchhub.36kr.com/project/1678455008064520",
+   "province": "江苏省"
+  },
+  {
+   "id": "2012742858196486",
+   "date": "2026-11-11",
+   "name": "亚笙半导体",
+   "desc": "半导体及平板显示设备制造商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B++轮",
+   "amount": "数千万人民币",
+   "investors": "合肥产投集团、石溪资本、博源资本、为溪资本",
+   "url": "https://pitchhub.36kr.com/project/2012742858196486",
+   "province": "浙江省"
+  },
+  {
+   "id": "1718043703622401",
+   "date": "2026-11-10",
+   "name": "禾川科技",
+   "desc": "工业自动化控制产品",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "定向增发",
+   "amount": "2.16亿人民币",
+   "investors": "天琛资本、宽投资产、华夏基金、财通基金、诺德基金、中铖润智、华安资管、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/1718043703622401",
+   "province": "浙江省"
+  },
+  {
    "id": "2012746219587075",
    "date": "2026-11-10",
    "name": "圭华智能",
@@ -176,6 +275,20 @@ window.__FINANCING_DATA__ = {
    "investors": "新微资本",
    "url": "https://pitchhub.36kr.com/project/1686614643524866",
    "province": "江苏省"
+  },
+  {
+   "id": "1678389430563840",
+   "date": "2026-11-09",
+   "name": "安声科技",
+   "desc": "三维空间主动降噪解决方案提供商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "D轮",
+   "amount": "未透露",
+   "investors": "红鲸资本、九合创投、诸暨城乡投资集团、泰有基金",
+   "url": "https://pitchhub.36kr.com/project/1678389430563840",
+   "province": "北京市"
   },
   {
    "id": "1678285550318597",
