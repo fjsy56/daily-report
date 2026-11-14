@@ -1,5 +1,5 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "tech": [
     {
       "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
@@ -42,27 +42,27 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "url": "https://www.qbitai.com/2026/11/509440.html",
-      "excerpt": "「CAD拆解」",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "excerpt": "12.9 北京，来MEET2027现场",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
-      "excerpt": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "excerpt": "250名国内顶尖三甲医院医生联合评测",
       "src": "量子位",
-      "tag": "大模型",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "url": "https://www.qbitai.com/2026/11/509355.html",
-      "excerpt": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "url": "https://www.qbitai.com/2026/11/509730.html",
+      "excerpt": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
       "src": "量子位",
-      "tag": "马斯克",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -76,60 +76,60 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "url": "https://www.qbitai.com/2026/11/509349.html",
-      "excerpt": "企业 AI 的难题，不只是模型够不够强",
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "url": "https://www.qbitai.com/2026/11/509716.html",
+      "excerpt": "比亚迪正在把规模优势转化为技术与品牌价值",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "app"
     },
     {
-      "title": "马斯克已准备好聘请黄仁勋",
-      "url": "https://www.qbitai.com/2026/11/509334.html",
-      "excerpt": "老黄出轨认错、再曝婚外恋",
-      "src": "量子位",
-      "tag": "马斯克",
-      "cat": "tech"
-    },
-    {
-      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
-      "url": "https://www.qbitai.com/2026/11/509291.html",
-      "excerpt": "只管挖不管埋。",
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "url": "https://www.qbitai.com/2026/11/509710.html",
+      "excerpt": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
+      "cat": "app"
+    },
+    {
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "url": "https://www.qbitai.com/2026/11/509653.html",
+      "excerpt": "想要什么功能，让Agent自己开发",
+      "src": "量子位",
+      "tag": "Agent",
+      "cat": "app"
     }
   ],
   "enterprise": [
     {
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "url": "https://www.qbitai.com/2026/11/509381.html",
-      "excerpt": "全世界都在踩刹车，达里奥一个人踩油门",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "excerpt": "一个时代结束了",
       "src": "量子位",
-      "tag": "融资",
+      "tag": "英伟达",
       "cat": "enterprise"
     },
     {
-      "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
-      "url": "https://www.ithome.com/1/026/932.htm",
-      "excerpt": "IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元（IT之家注：现汇率约合 6,016 元人民币）。这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明",
-      "src": "IT之家",
-      "tag": "微软",
-      "cat": "enterprise"
-    },
-    {
-      "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
-      "url": "https://www.ithome.com/1/026/927.htm",
-      "excerpt": "IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。▲ IT之家注：第二段首句",
+      "title": "黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结",
+      "url": "https://www.ithome.com/1/027/212.htm",
+      "excerpt": "IT之家 11 月 14 日消息，过去一周，英伟达接连经历重大变故。随着黄仁勋离任 CEO，GeForce 显卡乃至整个游戏业务的前景引发担忧。不过，英伟达品牌推广人员雅各布 · 弗里曼出面回应了外界的疑虑，明确否认公司将放弃游戏显卡业务，让不少考虑转投 AM",
       "src": "IT之家",
       "tag": "英伟达",
       "cat": "enterprise"
     },
     {
-      "title": "百曜科技入选全球 The Information 50！",
-      "url": "https://www.qbitai.com/2026/11/509285.html",
-      "excerpt": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "url": "https://www.qbitai.com/2026/11/509663.html",
+      "excerpt": "数据不出域、本地可部署",
       "src": "量子位",
+      "tag": "大模型",
+      "cat": "tech"
+    },
+    {
+      "title": "美国首届 AI 音乐奖颁奖典礼举行，入围者坦言背后同样凝聚真人心血",
+      "url": "https://www.ithome.com/1/027/210.htm",
+      "excerpt": "IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，表彰利用 AI 参与歌曲创作的音乐人。AI 音乐虽然饱受争议，甚至引发诉讼，但仍在流媒体平台获得数百万次播放，并成功登上音乐排行榜。在洛杉矶市中心举行的",
+      "src": "IT之家",
       "tag": "行业动态",
       "cat": "tech"
     }
@@ -144,17 +144,20 @@ window.__NEWS_DATA__ = {
       "黄仁勋宣布辞职"
     ],
     "app": [
-      "AI",
       "Beni",
-      "Anthropic"
+      "战略合作落地兑现",
+      "闪充中国再次提速",
+      "openJiuwen",
+      "RSI",
+      "AgentOS"
     ],
     "enterprise": [
-      "Anthropic",
-      "IPO",
-      "XBOX",
-      "Series",
-      "X25",
-      "美元微软"
+      "黄仁勋辞职",
+      "CEO",
+      "GeForce",
+      "黄仁勋离任",
+      "之际",
+      "显卡不会终结"
     ]
   },
   "hotwords": [
@@ -163,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Anthropic",
-      "wt": 0.59
+      "w": "RSI",
+      "wt": 0.55
     },
     {
       "w": "窗口可能只剩半年",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "李彦宏定义",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "下一个十年",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "GTA",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "黄仁勋宣布辞职",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "特朗普",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "库克适合接任",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "极客早知道",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "穿了",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "年皮衣的那个人",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "离开了英伟达",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
       "w": "Beni",
-      "wt": 0.47
+      "wt": 0.45
     },
     {
-      "w": "MiniMax",
-      "wt": 0.47
+      "w": "黄仁勋辞职",
+      "wt": 0.45
     },
     {
-      "w": "SOTA",
-      "wt": 0.47
+      "w": "MEET2027",
+      "wt": 0.45
     },
     {
-      "w": "多模态“源神”",
-      "wt": 0.47
+      "w": "AI4S",
+      "wt": 0.45
     },
     {
-      "w": "一张两毛",
-      "wt": 0.47
+      "w": "Infra",
+      "wt": 0.45
     },
     {
-      "w": "IPO",
-      "wt": 0.47
+      "w": "SUV",
+      "wt": 0.45
     },
     {
-      "w": "Grok",
-      "wt": 0.47
+      "w": "战略合作落地兑现",
+      "wt": 0.45
     }
   ],
   "total": 16
