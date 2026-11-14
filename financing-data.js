@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-13 17:33",
- "total": 1055,
+ "updated": "2026-11-14 18:58",
+ "total": 1064,
  "industries": [
   "产业升级",
   "企业服务",
@@ -107,6 +107,48 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2182783176136584",
+   "date": "2026-11-12",
+   "name": "核芯光电",
+   "desc": "核芯光电科技研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "9600万人民币",
+   "investors": "山东省新动能基金、亚通精工、汇宁投资",
+   "url": "https://pitchhub.36kr.com/project/2182783176136584",
+   "province": "山东省"
+  },
+  {
+   "id": "4069731880492808",
+   "date": "2026-11-12",
+   "name": "菊乐食品",
+   "desc": "乳制品品牌",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "IPO",
+   "amount": "3.75亿人民币",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/4069731880492808",
+   "province": "四川省"
+  },
+  {
+   "id": "2566370468271109",
+   "date": "2026-11-12",
+   "name": "幺正量子",
+   "desc": "量子计算的高科技研发企业",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "A+轮",
+   "amount": "数亿人民币",
+   "investors": "芯能创投、灏浚投资、凯联资本、合肥高投、合肥创新投资、典实资本、永鑫方舟、皖能电力、金景资本、鸿瑞达投资、众志投资、熙正私募基金、协鑫智慧、首程资本、达晨财智、华控基金、合肥市高质量发展引导基金、深创投、啟赋资本、普华资本、京铭资本、广发信德",
+   "url": "https://pitchhub.36kr.com/project/2566370468271109",
+   "province": "安徽省"
+  },
+  {
    "id": "1678357191537673",
    "date": "2026-11-12",
    "name": "国星宇航",
@@ -147,6 +189,48 @@ window.__FINANCING_DATA__ = {
    "investors": "未披露",
    "url": "https://pitchhub.36kr.com/project/2011616852002312",
    "province": "上海市"
+  },
+  {
+   "id": "4069732027735810",
+   "date": "2026-11-11",
+   "name": "青岛食品",
+   "desc": "休闲食品品牌",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "股权融资",
+   "amount": "9.65亿人民币",
+   "investors": "青岛啤酒",
+   "url": "https://pitchhub.36kr.com/project/4069732027735810",
+   "province": "山东省"
+  },
+  {
+   "id": "2072157239574787",
+   "date": "2026-11-11",
+   "name": "金旺达",
+   "desc": "机械配件制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "并购/合并",
+   "amount": "5.5亿人民币",
+   "investors": "粤宏远",
+   "url": "https://pitchhub.36kr.com/project/2072157239574787",
+   "province": "广东省"
+  },
+  {
+   "id": "1679830798078720",
+   "date": "2026-11-11",
+   "name": "鹏钛存储",
+   "desc": "低功耗企业级SSD主控芯片及系统平台",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "D+轮",
+   "amount": "未透露",
+   "investors": "中国风投、正轩投资、领新私募基金、合伟基金、蓝思科技、金浦投资、风帆创投",
+   "url": "https://pitchhub.36kr.com/project/1679830798078720",
+   "province": "江苏省"
   },
   {
    "id": "1678438790788101",
@@ -190,6 +274,34 @@ window.__FINANCING_DATA__ = {
    "investors": "合肥产投集团、石溪资本、博源资本、为溪资本",
    "url": "https://pitchhub.36kr.com/project/2012742858196486",
    "province": "浙江省"
+  },
+  {
+   "id": "4069732471578376",
+   "date": "2026-11-10",
+   "name": "珠海免税集团",
+   "desc": "免税商品销售商",
+   "industry": [
+    "消费电商"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "格力集团",
+   "url": "https://pitchhub.36kr.com/project/4069732471578376",
+   "province": "广东省"
+  },
+  {
+   "id": "2011449057854721",
+   "date": "2026-11-10",
+   "name": "焜原光电",
+   "desc": "半导体材料和器件研发生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "尧渡资本",
+   "url": "https://pitchhub.36kr.com/project/2011449057854721",
+   "province": "江苏省"
   },
   {
    "id": "1718043703622401",
@@ -416,6 +528,20 @@ window.__FINANCING_DATA__ = {
    "investors": "树院私募基金、招银国际资本、香洲正菱",
    "url": "https://pitchhub.36kr.com/project/1817517692831620",
    "province": "上海市"
+  },
+  {
+   "id": "1818792500580481",
+   "date": "2026-11-06",
+   "name": "先先科技",
+   "desc": "心血管微创介入医疗器械供应商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "德福资本、归创通桥",
+   "url": "https://pitchhub.36kr.com/project/1818792500580481",
+   "province": "广东省"
   },
   {
    "id": "2066633927655425",
