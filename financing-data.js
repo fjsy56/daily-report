@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-14 18:58",
- "total": 1064,
+ "updated": "2026-11-15 17:36",
+ "total": 1065,
  "industries": [
   "产业升级",
   "企业服务",
@@ -106,6 +106,21 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1679736273507072",
+   "date": "2026-11-14",
+   "name": "蔚建科技",
+   "desc": "极致追求机器人实用性",
+   "industry": [
+    "先进制造",
+    "智能硬件"
+   ],
+   "round": "Pre-B轮",
+   "amount": "超亿元人民币",
+   "investors": "财通资本",
+   "url": "https://pitchhub.36kr.com/project/1679736273507072",
+   "province": "上海市"
+  },
   {
    "id": "2182783176136584",
    "date": "2026-11-12",
