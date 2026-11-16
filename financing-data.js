@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-15 17:36",
- "total": 1065,
+ "updated": "2026-11-16 20:50",
+ "total": 1069,
  "industries": [
   "产业升级",
   "企业服务",
@@ -56,6 +56,7 @@ window.__FINANCING_DATA__ = {
   "Pre-A轮",
   "Pre-B轮",
   "Pre-C轮",
+  "Pre-D轮",
   "Pre-IPO",
   "基石投资轮",
   "天使+",
@@ -120,6 +121,20 @@ window.__FINANCING_DATA__ = {
    "investors": "财通资本",
    "url": "https://pitchhub.36kr.com/project/1679736273507072",
    "province": "上海市"
+  },
+  {
+   "id": "1817541098342273",
+   "date": "2026-11-12",
+   "name": "小苹果儿科医生",
+   "desc": "专业的儿科医生集团",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "Pre-D轮",
+   "amount": "未透露",
+   "investors": "中电健康基金",
+   "url": "https://pitchhub.36kr.com/project/1817541098342273",
+   "province": "北京市"
   },
   {
    "id": "2182783176136584",
@@ -204,6 +219,48 @@ window.__FINANCING_DATA__ = {
    "investors": "未披露",
    "url": "https://pitchhub.36kr.com/project/2011616852002312",
    "province": "上海市"
+  },
+  {
+   "id": "1678445457060867",
+   "date": "2026-11-11",
+   "name": "感图科技",
+   "desc": "计算机视觉技术及产品研发商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "鹏鼎控股、中国保险投资基金、联道资产",
+   "url": "https://pitchhub.36kr.com/project/1678445457060867",
+   "province": "上海市"
+  },
+  {
+   "id": "1678267894232071",
+   "date": "2026-11-11",
+   "name": "云脉芯联",
+   "desc": "数据中心网络芯片和云网络解决方案提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "元禾璞华、中国电信投资、尚颀资本、国联投资、国投创新、博裕资本、元禾控股、国寿长三角科创基金、上海国投先导、超越摩尔投资、常盛投资、石溪资本",
+   "url": "https://pitchhub.36kr.com/project/1678267894232071",
+   "province": "上海市"
+  },
+  {
+   "id": "2011631322433282",
+   "date": "2026-11-11",
+   "name": "凌久微电子",
+   "desc": "GPU芯片设计商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B轮",
+   "amount": "10.29亿人民币",
+   "investors": "中国船舶集团、中邮投资、长江资本、农银投资、工银资本、惠华基金",
+   "url": "https://pitchhub.36kr.com/project/2011631322433282",
+   "province": "湖北省"
   },
   {
    "id": "4069732027735810",
