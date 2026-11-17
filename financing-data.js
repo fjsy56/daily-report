@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-16 20:50",
- "total": 1069,
+ "updated": "2026-11-17 12:50",
+ "total": 1070,
  "industries": [
   "产业升级",
   "企业服务",
@@ -121,6 +121,20 @@ window.__FINANCING_DATA__ = {
    "investors": "财通资本",
    "url": "https://pitchhub.36kr.com/project/1679736273507072",
    "province": "上海市"
+  },
+  {
+   "id": "2733085326211459",
+   "date": "2026-11-13",
+   "name": "窝窝管家",
+   "desc": "精准到家服务+家政产业互联网",
+   "industry": [
+    "本地生活"
+   ],
+   "round": "种子轮",
+   "amount": "600万人民币",
+   "investors": "其他个人投资者",
+   "url": "https://pitchhub.36kr.com/project/2733085326211459",
+   "province": "安徽省"
   },
   {
    "id": "1817541098342273",
