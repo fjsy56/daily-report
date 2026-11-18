@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-17 12:50",
- "total": 1070,
+ "updated": "2026-11-18 21:09",
+ "total": 1089,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,91 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678529927754754",
+   "date": "2026-11-17",
+   "name": "江南奕帆",
+   "desc": "齿轮减速储能电动机设计制造商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "战略融资",
+   "amount": "未透露",
+   "investors": "国联资管",
+   "url": "https://pitchhub.36kr.com/project/1678529927754754",
+   "province": "江苏省"
+  },
+  {
+   "id": "2094363801455753",
+   "date": "2026-11-17",
+   "name": "启钠新能源",
+   "desc": "钠电正极研发商",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "A轮",
+   "amount": "近亿人民币",
+   "investors": "富汇创投",
+   "url": "https://pitchhub.36kr.com/project/2094363801455753",
+   "province": "湖北省"
+  },
+  {
+   "id": "2351908750410882",
+   "date": "2026-11-17",
+   "name": "柏川数据",
+   "desc": "提供数据闭环服务的人工智能数据基础设施",
+   "industry": [
+    "企业服务",
+    "前沿技术"
+   ],
+   "round": "Pre-A轮",
+   "amount": "5000万人民币",
+   "investors": "元禾厚望、毅峰资本、星海图",
+   "url": "https://pitchhub.36kr.com/project/2351908750410882",
+   "province": "江苏省"
+  },
+  {
+   "id": "4075396227358724",
+   "date": "2026-11-16",
+   "name": "邃铸科技",
+   "desc": "科技开发技术服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "云泽资本、有天资本、恒坤新材",
+   "url": "https://pitchhub.36kr.com/project/4075396227358724",
+   "province": "上海市"
+  },
+  {
+   "id": "1817526590261123",
+   "date": "2026-11-16",
+   "name": "隔空智能",
+   "desc": "集成电路设计企业",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "并购/合并",
+   "amount": "4.87亿人民币",
+   "investors": "纳芯微",
+   "url": "https://pitchhub.36kr.com/project/1817526590261123",
+   "province": "上海市"
+  },
+  {
+   "id": "1678275175134216",
+   "date": "2026-11-15",
+   "name": "亿控智能",
+   "desc": "伺服驱动和舵轮产品生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "华新环保设备",
+   "url": "https://pitchhub.36kr.com/project/1678275175134216",
+   "province": "江苏省"
+  },
+  {
    "id": "1679736273507072",
    "date": "2026-11-14",
    "name": "蔚建科技",
@@ -123,6 +208,34 @@ window.__FINANCING_DATA__ = {
    "province": "上海市"
   },
   {
+   "id": "2205161785012614",
+   "date": "2026-11-13",
+   "name": "臻璟科技",
+   "desc": "高品质氮化铝供应商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "并购/合并",
+   "amount": "4.34亿人民币",
+   "investors": "威派格",
+   "url": "https://pitchhub.36kr.com/project/2205161785012614",
+   "province": "福建省"
+  },
+  {
+   "id": "4074979555040773",
+   "date": "2026-11-13",
+   "name": "荣盈互动",
+   "desc": "AI 营销 / 数字营销服务商",
+   "industry": [
+    "工具软件"
+   ],
+   "round": "种子轮",
+   "amount": "未透露",
+   "investors": "未透露",
+   "url": "https://pitchhub.36kr.com/project/4074979555040773",
+   "province": "广东省"
+  },
+  {
    "id": "2733085326211459",
    "date": "2026-11-13",
    "name": "窝窝管家",
@@ -135,6 +248,48 @@ window.__FINANCING_DATA__ = {
    "investors": "其他个人投资者",
    "url": "https://pitchhub.36kr.com/project/2733085326211459",
    "province": "安徽省"
+  },
+  {
+   "id": "1818799620706433",
+   "date": "2026-11-12",
+   "name": "津同仁堂",
+   "desc": "天津同仁堂是一家中成药研发生产销售商，拥有先进的生产设备及制药工艺技术，片剂、硬胶囊剂、颗粒剂、橡胶膏剂、糖浆剂、口服液、散剂等剂型的产品生产线均通过了国家新版GMP认证。公司拥有药品批准文号114个，包括22项独家品种，34种药品被列入国家医保目录、13种药品被列入国家基本药物目录。",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "并购/合并",
+   "amount": "24.44亿人民币",
+   "investors": "同仁堂",
+   "url": "https://pitchhub.36kr.com/project/1818799620706433",
+   "province": "天津市"
+  },
+  {
+   "id": "3551632025056129",
+   "date": "2026-11-12",
+   "name": "立敏达电子",
+   "desc": "电子产品制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "战略融资",
+   "amount": "8.16亿人民币",
+   "investors": "领益智造",
+   "url": "https://pitchhub.36kr.com/project/3551632025056129",
+   "province": "广东省"
+  },
+  {
+   "id": "2144837618812164",
+   "date": "2026-11-12",
+   "name": "氟升新材料科技",
+   "desc": "纳米材料研发商",
+   "industry": [
+    "其他"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "九颂山河、锡创投",
+   "url": "https://pitchhub.36kr.com/project/2144837618812164",
+   "province": "江苏省"
   },
   {
    "id": "1817541098342273",
@@ -233,6 +388,34 @@ window.__FINANCING_DATA__ = {
    "investors": "未披露",
    "url": "https://pitchhub.36kr.com/project/2011616852002312",
    "province": "上海市"
+  },
+  {
+   "id": "2144583095190788",
+   "date": "2026-11-11",
+   "name": "天羿领航",
+   "desc": "导航系统芯片开发公司",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "B+轮",
+   "amount": "未透露",
+   "investors": "湖南能源集团",
+   "url": "https://pitchhub.36kr.com/project/2144583095190788",
+   "province": "湖南省"
+  },
+  {
+   "id": "1678548962784256",
+   "date": "2026-11-11",
+   "name": "深纳普思",
+   "desc": "医疗级智能可穿戴设备公司",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "千骥资本、美团龙珠",
+   "url": "https://pitchhub.36kr.com/project/1678548962784256",
+   "province": "北京市"
   },
   {
    "id": "1678445457060867",
@@ -362,6 +545,48 @@ window.__FINANCING_DATA__ = {
    "province": "浙江省"
   },
   {
+   "id": "2012740866803201",
+   "date": "2026-11-10",
+   "name": "离原科技",
+   "desc": "等离子体技术研发商",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "正景基金",
+   "url": "https://pitchhub.36kr.com/project/2012740866803201",
+   "province": "上海市"
+  },
+  {
+   "id": "2011447478617346",
+   "date": "2026-11-10",
+   "name": "翎慧材料",
+   "desc": "胶粘剂及功能性界面材料研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "中鑫资本",
+   "url": "https://pitchhub.36kr.com/project/2011447478617346",
+   "province": "江苏省"
+  },
+  {
+   "id": "2174175041551618",
+   "date": "2026-11-10",
+   "name": "长琴金融",
+   "desc": "一家综合金融服务公司",
+   "industry": [
+    "金融"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "上海其光投资、宋硕资本",
+   "url": "https://pitchhub.36kr.com/project/2174175041551618",
+   "province": "上海市"
+  },
+  {
    "id": "4069732471578376",
    "date": "2026-11-10",
    "name": "珠海免税集团",
@@ -473,6 +698,50 @@ window.__FINANCING_DATA__ = {
    "investors": "新微资本",
    "url": "https://pitchhub.36kr.com/project/1686614643524866",
    "province": "江苏省"
+  },
+  {
+   "id": "2011455269913865",
+   "date": "2026-11-09",
+   "name": "天青元储",
+   "desc": "光伏储能及智能微电网系统解决方案提供商",
+   "industry": [
+    "能源环保",
+    "传统制造"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "智融基金",
+   "url": "https://pitchhub.36kr.com/project/2011455269913865",
+   "province": "江苏省"
+  },
+  {
+   "id": "2012749806126599",
+   "date": "2026-11-09",
+   "name": "度影医疗",
+   "desc": "医学影像产品化研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "未透露",
+   "investors": "江北科投、南京市创投集团",
+   "url": "https://pitchhub.36kr.com/project/2012749806126599",
+   "province": "广东省"
+  },
+  {
+   "id": "1679791262798599",
+   "date": "2026-11-09",
+   "name": "金石三维",
+   "desc": "3D打印设备研发商",
+   "industry": [
+    "产业升级",
+    "先进制造"
+   ],
+   "round": "E+轮",
+   "amount": "未透露",
+   "investors": "粤财创投、余姚舜财投控",
+   "url": "https://pitchhub.36kr.com/project/1679791262798599",
+   "province": "广东省"
   },
   {
    "id": "1678389430563840",
