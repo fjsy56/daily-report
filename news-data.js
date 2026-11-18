@@ -1,6 +1,22 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "tech": [
+    {
+      "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
+      "url": "http://www.geekpark.net/news/374125",
+      "excerpt": "首批嘉宾公布以来，IF 2027 收到了超出预期的关注， 短短几天早鸟票已经售罄。 今年 IF 大会的主题是：「Revaluation 价值，另有答案」。 过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变得更简单：下一轮机会",
+      "src": "极客公园",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
+      "url": "http://www.geekpark.net/news/374109",
+      "excerpt": "OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作 OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将",
+      "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
     {
       "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
       "url": "http://www.geekpark.net/news/374103",
@@ -26,43 +42,27 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚",
-      "url": "http://www.geekpark.net/news/374056",
-      "excerpt": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职 11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息，英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。报道称英伟达董事会",
-      "src": "极客公园",
-      "tag": "英伟达",
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "excerpt": "氖人寻味！",
+      "src": "量子位",
+      "tag": "谷歌",
       "cat": "tech"
     },
     {
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
-      "excerpt": "12月1日，细数AI的未竟之问。",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "excerpt": "OpenAI也终于活成了2022年谷歌的样子",
+      "src": "量子位",
+      "tag": "OpenAI",
+      "cat": "tech"
+    },
+    {
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "excerpt": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
       "src": "量子位",
       "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
-      "excerpt": "在华为待了快10000天。",
-      "src": "量子位",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
-      "excerpt": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-      "url": "https://www.qbitai.com/2026/11/510436.html",
-      "excerpt": "余承东重新明确分工",
-      "src": "量子位",
-      "tag": "华为",
       "cat": "tech"
     }
   ],
@@ -76,72 +76,64 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
-      "url": "http://www.geekpark.net/news/374075",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 Agent 能进门了，也能付钱了。 Agent 替用户「消费」的时代，终于到来了。 美国时间 2026 年 11 月 13 日，两家公司两场发布会同天发生。一边是企业级对话式智能体公司 Sierra 联合 Meta 正式发布个人代理",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "excerpt": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
-      "excerpt": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "excerpt": "英伟达公布了老黄离职后的首份财报",
       "src": "量子位",
-      "tag": "具身智能",
-      "cat": "app"
+      "tag": "英伟达",
+      "cat": "tech"
     },
     {
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "url": "https://www.qbitai.com/2026/11/510486.html",
-      "excerpt": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "excerpt": "Sol逼近旗舰性能",
       "src": "量子位",
-      "tag": "阿里",
-      "cat": "app"
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-      "url": "https://www.qbitai.com/2026/11/510416.html",
-      "excerpt": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "excerpt": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
       "src": "量子位",
-      "tag": "芯片",
+      "tag": "Meta",
       "cat": "enterprise"
     },
     {
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510404.html",
-      "excerpt": "50岁，以“华为董事”之名退休，又有几人？",
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "excerpt": "具身全栈玩家",
       "src": "量子位",
+      "tag": "英伟达",
+      "cat": "enterprise"
+    },
+    {
+      "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
+      "url": "https://www.ithome.com/1/029/045.htm",
+      "excerpt": "IT之家 11 月 18 日消息，五菱品牌与市场总监 @思行Si-Hang 今日发文，确认华境 S 五座版新车“很快就来”。参考IT之家此前报道，现款的华境 S 六座版本月官宣拿下插电式混动大型 SUV 销量四连冠，累计交付达成 40,000 台。该车全系标配",
+      "src": "IT之家",
       "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "消息称小米 18 标准版会是 2026 年最后一款超模旗舰手机，后置“超大的影像模组”",
-      "url": "https://www.ithome.com/1/028/514.htm",
-      "excerpt": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军出席峰会并发表讲话，而他手中的白色新机疑似小米 18 标准版引发网友热议。博主 ",
-      "src": "IT之家",
-      "tag": "小米",
-      "cat": "tech"
-    },
-    {
-      "title": "苹果 iOS 27.3 Beta 测试导航栏柔和渐变，回归液态玻璃早期效果",
-      "url": "https://www.ithome.com/1/028/508.htm",
-      "excerpt": "IT之家 11 月 17 日消息，据 X（原 Twitter）用户 pdfu 分享的一项新发现，苹果正在测试 iPhone 导航栏的一种更柔和的视觉效果，有望重新引入部分 iOS 26 中采用的设计风格。IT之家注意到，这项调整主要涉及应用顶部导航栏与滚动内容",
-      "src": "IT之家",
-      "tag": "苹果",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "没有抛弃小城商家",
-      "Max",
-      "全村希望",
-      "千问",
-      "正式发布"
+      "OpenAI",
+      "GPT-6.2",
+      "Manus",
+      "OPPO......",
+      "影视飓风"
     ],
     "app": [
       "Hy4",
@@ -152,18 +144,66 @@ window.__NEWS_DATA__ = {
       "实惠"
     ],
     "enterprise": [
-      "AGI",
-      "龙芯",
-      "海光老兵集结",
-      "半年连融数亿元",
-      "消息称小米",
-      "标准版会是"
+      "Jason",
+      "Wei",
+      "Meta",
+      "AMD",
+      "Genesis",
+      "SUV"
     ]
   },
   "hotwords": [
     {
       "w": "AI",
       "wt": 0.95
+    },
+    {
+      "w": "GPT-6.2",
+      "wt": 0.8
+    },
+    {
+      "w": "OpenAI",
+      "wt": 0.65
+    },
+    {
+      "w": "Astra",
+      "wt": 0.65
+    },
+    {
+      "w": "Sol",
+      "wt": 0.65
+    },
+    {
+      "w": "Manus",
+      "wt": 0.5
+    },
+    {
+      "w": "OPPO......",
+      "wt": 0.5
+    },
+    {
+      "w": "影视飓风",
+      "wt": 0.5
+    },
+    {
+      "w": "影石",
+      "wt": 0.5
+    },
+    {
+      "w": "嘉宾阵容更新",
+      "wt": 0.5
+    },
+    {
+      "w": "GTA",
+      "wt": 0.5
+    },
+    {
+      "w": "王兴兴",
+      "wt": 0.5
+    },
+    {
+      "w": "极客早知道",
+      "wt": 0.5
     },
     {
       "w": "没有抛弃小城商家",
@@ -192,55 +232,7 @@ window.__NEWS_DATA__ = {
     {
       "w": "实惠",
       "wt": 0.5
-    },
-    {
-      "w": "聪明",
-      "wt": 0.5
-    },
-    {
-      "w": "Max",
-      "wt": 0.5
-    },
-    {
-      "w": "全村希望",
-      "wt": 0.5
-    },
-    {
-      "w": "千问",
-      "wt": 0.5
-    },
-    {
-      "w": "正式发布",
-      "wt": 0.5
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.5
-    },
-    {
-      "w": "Meta",
-      "wt": 0.5
-    },
-    {
-      "w": "Agent",
-      "wt": 0.5
-    },
-    {
-      "w": "联手",
-      "wt": 0.5
-    },
-    {
-      "w": "打通了",
-      "wt": 0.5
-    },
-    {
-      "w": "演员虚假代言被罚",
-      "wt": 0.5
-    },
-    {
-      "w": "睿尔曼智能郑随兵",
-      "wt": 0.5
     }
   ],
-  "total": 16
+  "total": 15
 };
