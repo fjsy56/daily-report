@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "tech": [
+    {
+      "title": "全网AI集体翻车，为什么它们死活画不对13个鸡蛋？",
+      "url": "https://www.huxiu.com/article/4906969.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "一年狂省1300亿，烧铁粉可帮欧洲储存可再生能源？",
+      "url": "https://www.huxiu.com/article/4906963.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "全世界都想要一个深圳",
+      "url": "https://www.huxiu.com/article/4906953.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+      "url": "http://www.geekpark.net/news/374196",
+      "excerpt": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长",
+      "src": "极客公园",
+      "tag": "谷歌",
+      "cat": "tech"
+    },
+    {
+      "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
+      "url": "http://www.geekpark.net/news/374177",
+      "excerpt": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险",
+      "src": "极客公园",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
     {
       "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
       "url": "http://www.geekpark.net/news/374125",
@@ -24,77 +64,37 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "具身智能",
       "cat": "tech"
-    },
-    {
-      "title": "AI，没有抛弃小城商家",
-      "url": "http://www.geekpark.net/news/374101",
-      "excerpt": "作者｜李苏 编辑｜郑玄 理解本地商业，是 AI 走出实验室后的新课程。 过去几年，AI 界擅长讲的故事变了。 从最开始谈技术，讲参数有多大，算得有多快，跑分超过多少人，慢慢转变为讲落地，讲 AI 怎么一分钟生成商业计划书，怎么给被生活困扰的人们出情绪价值满满的",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
-      "url": "http://www.geekpark.net/news/374079",
-      "excerpt": "作者｜桦林舞王 编辑｜靖宇 底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。 终于，一款国产旗舰模型现身了。 11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview",
-      "src": "极客公园",
-      "tag": "阿里",
-      "cat": "tech"
-    },
-    {
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "url": "https://www.qbitai.com/2026/11/510922.html",
-      "excerpt": "氖人寻味！",
-      "src": "量子位",
-      "tag": "谷歌",
-      "cat": "tech"
-    },
-    {
-      "title": "GPT-6.2难产！OpenAI怕了",
-      "url": "https://www.qbitai.com/2026/11/510914.html",
-      "excerpt": "OpenAI也终于活成了2022年谷歌的样子",
-      "src": "量子位",
-      "tag": "OpenAI",
-      "cat": "tech"
-    },
-    {
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-      "url": "https://www.qbitai.com/2026/11/510737.html",
-      "excerpt": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
     {
-      "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
-      "url": "http://www.geekpark.net/news/374083",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 过日子的风，还是吹到了大模型行业。 2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发",
+      "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+      "url": "http://www.geekpark.net/news/374175",
+      "excerpt": "作者｜Techno 之王 编辑｜靖宇 「基本不可用，不推荐」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么",
       "src": "极客公园",
-      "tag": "腾讯",
+      "tag": "OpenAI",
       "cat": "app"
     },
     {
-      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-      "url": "https://www.qbitai.com/2026/11/510916.html",
-      "excerpt": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "url": "https://www.qbitai.com/2026/11/511079.html",
+      "excerpt": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "app"
     },
     {
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-      "url": "https://www.qbitai.com/2026/11/510726.html",
-      "excerpt": "英伟达公布了老黄离职后的首份财报",
-      "src": "量子位",
-      "tag": "英伟达",
-      "cat": "tech"
+      "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
+      "url": "https://www.ithome.com/1/029/647.htm",
+      "excerpt": "IT之家 11 月 19 日消息，特斯拉 Cybercab 看起来很便宜，但使用起来可能就不是那么回事了。这款取消方向盘设计的 Robotaxi 无人驾驶出租车起售价为 29,990 美元（IT之家注：现汇率约合 20 万元人民币），是特斯拉首款官方标价低于 ",
+      "src": "IT之家",
+      "tag": "马斯克",
+      "cat": "app"
     },
     {
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-      "url": "https://www.qbitai.com/2026/11/510707.html",
-      "excerpt": "Sol逼近旗舰性能",
+      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "url": "https://www.qbitai.com/2026/11/511258.html",
+      "excerpt": "「Revaluation 价值，另有答案」",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -102,54 +102,62 @@ window.__NEWS_DATA__ = {
   ],
   "enterprise": [
     {
-      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-      "url": "https://www.qbitai.com/2026/11/510811.html",
-      "excerpt": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
-      "src": "量子位",
-      "tag": "Meta",
+      "title": "3万亿AI基建悬了，黄仁勋出局，谁为算力融资托底？",
+      "url": "https://www.huxiu.com/article/4906962.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "融资",
       "cat": "enterprise"
     },
     {
-      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-      "url": "https://www.qbitai.com/2026/11/510821.html",
-      "excerpt": "具身全栈玩家",
-      "src": "量子位",
-      "tag": "英伟达",
+      "title": "中国缺不缺算力？腾讯财报打脸项立刚",
+      "url": "https://www.huxiu.com/article/4906949.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "腾讯",
       "cat": "enterprise"
     },
     {
-      "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
-      "url": "https://www.ithome.com/1/029/045.htm",
-      "excerpt": "IT之家 11 月 18 日消息，五菱品牌与市场总监 @思行Si-Hang 今日发文，确认华境 S 五座版新车“很快就来”。参考IT之家此前报道，现款的华境 S 六座版本月官宣拿下插电式混动大型 SUV 销量四连冠，累计交付达成 40,000 台。该车全系标配",
+      "title": "国际货币基金组织总裁警告：AI 投资热情过高影响，金融市场或现进一步调整",
+      "url": "https://www.ithome.com/1/029/648.htm",
+      "excerpt": "IT之家 11 月 19 日消息，国际货币基金组织（IMF）总裁克里斯塔利娜 · 格奥尔基耶娃（Kristalina Georgieva）表示，受人工智能投资热潮可能过度膨胀等因素影响，金融市场或许还会出现一定程度的调整。格奥尔基耶娃周四在深圳接受彭博电视台记",
       "src": "IT之家",
-      "tag": "华为",
+      "tag": "融资",
+      "cat": "enterprise"
+    },
+    {
+      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "url": "https://www.qbitai.com/2026/11/511180.html",
+      "excerpt": "媒体均分登顶历史第一，细节多到爆炸",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "OpenAI",
-      "GPT-6.2",
-      "Manus",
-      "OPPO......",
-      "影视飓风"
+      "极客早知道",
+      "终于杀回",
+      "牌桌中央",
+      "WorkBuddy",
+      "DeepSeek"
     ],
     "app": [
-      "Hy4",
-      "flash",
-      "腾讯",
-      "实测",
-      "快速",
-      "实惠"
+      "GPT-6.2",
+      "OpenAI",
+      "跑分狂飙",
+      "实测翻车",
+      "刚发的",
+      "暴露了"
     ],
     "enterprise": [
-      "Jason",
-      "Wei",
-      "Meta",
-      "AMD",
-      "Genesis",
-      "SUV"
+      "AI",
+      "黄仁勋出局",
+      "谁为算力融资托底",
+      "中国缺不缺算力",
+      "投资热情过高影响",
+      "GTA6"
     ]
   },
   "hotwords": [
@@ -158,81 +166,81 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
+      "w": "极客早知道",
+      "wt": 0.46
+    },
+    {
       "w": "GPT-6.2",
-      "wt": 0.8
+      "wt": 0.46
     },
     {
       "w": "OpenAI",
-      "wt": 0.65
-    },
-    {
-      "w": "Astra",
-      "wt": 0.65
-    },
-    {
-      "w": "Sol",
-      "wt": 0.65
+      "wt": 0.46
     },
     {
       "w": "Manus",
-      "wt": 0.5
-    },
-    {
-      "w": "OPPO......",
-      "wt": 0.5
+      "wt": 0.46
     },
     {
       "w": "影视飓风",
-      "wt": 0.5
+      "wt": 0.46
     },
     {
       "w": "影石",
-      "wt": 0.5
+      "wt": 0.46
     },
     {
       "w": "嘉宾阵容更新",
-      "wt": 0.5
+      "wt": 0.46
     },
     {
-      "w": "GTA",
-      "wt": 0.5
+      "w": "黄仁勋出局",
+      "wt": 0.4
     },
     {
-      "w": "王兴兴",
-      "wt": 0.5
+      "w": "谁为算力融资托底",
+      "wt": 0.4
     },
     {
-      "w": "极客早知道",
-      "wt": 0.5
+      "w": "中国缺不缺算力",
+      "wt": 0.4
     },
     {
-      "w": "没有抛弃小城商家",
-      "wt": 0.5
+      "w": "终于杀回",
+      "wt": 0.4
     },
     {
-      "w": "Hy4",
-      "wt": 0.5
+      "w": "牌桌中央",
+      "wt": 0.4
     },
     {
-      "w": "flash",
-      "wt": 0.5
+      "w": "WorkBuddy",
+      "wt": 0.4
     },
     {
-      "w": "腾讯",
-      "wt": 0.5
+      "w": "DeepSeek",
+      "wt": 0.4
     },
     {
-      "w": "实测",
-      "wt": 0.5
+      "w": "API",
+      "wt": 0.4
     },
     {
-      "w": "快速",
-      "wt": 0.5
+      "w": "日活超过",
+      "wt": 0.4
     },
     {
-      "w": "实惠",
-      "wt": 0.5
+      "w": "再调整",
+      "wt": 0.4
+    },
+    {
+      "w": "计费",
+      "wt": 0.4
+    },
+    {
+      "w": "跑分狂飙",
+      "wt": 0.4
     }
   ],
-  "total": 15
+  "total": 16
 };
