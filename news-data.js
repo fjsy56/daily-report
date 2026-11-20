@@ -1,28 +1,12 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "tech": [
     {
-      "title": "全网AI集体翻车，为什么它们死活画不对13个鸡蛋？",
-      "url": "https://www.huxiu.com/article/4906969.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "一年狂省1300亿，烧铁粉可帮欧洲储存可再生能源？",
-      "url": "https://www.huxiu.com/article/4906963.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "全世界都想要一个深圳",
-      "url": "https://www.huxiu.com/article/4906953.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
+      "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+      "url": "http://www.geekpark.net/news/374235",
+      "excerpt": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市，首日股价以 97.17 美元（现汇率约合 649.2 元人",
+      "src": "极客公园",
+      "tag": "苹果",
       "cat": "tech"
     },
     {
@@ -50,19 +34,35 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-      "url": "http://www.geekpark.net/news/374109",
-      "excerpt": "OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作 OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将",
-      "src": "极客公园",
-      "tag": "OpenAI",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "excerpt": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "src": "量子位",
+      "tag": "华为",
       "cat": "tech"
     },
     {
-      "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
-      "url": "http://www.geekpark.net/news/374103",
-      "excerpt": "开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。作者｜Li Yuan编辑｜郑玄最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。他们没有大量补数据，而是让 DeepSeek 先理解任",
-      "src": "极客公园",
-      "tag": "具身智能",
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "excerpt": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "url": "https://www.qbitai.com/2026/11/511258.html",
+      "excerpt": "「Revaluation 价值，另有答案」",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "url": "https://www.qbitai.com/2026/11/511180.html",
+      "excerpt": "媒体均分登顶历史第一，细节多到爆炸",
+      "src": "量子位",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
@@ -76,59 +76,59 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-      "url": "https://www.qbitai.com/2026/11/511079.html",
-      "excerpt": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "url": "https://www.qbitai.com/2026/11/511582.html",
+      "excerpt": "已开源Agnes Harness",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "Agent",
       "cat": "app"
     },
     {
-      "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
-      "url": "https://www.ithome.com/1/029/647.htm",
-      "excerpt": "IT之家 11 月 19 日消息，特斯拉 Cybercab 看起来很便宜，但使用起来可能就不是那么回事了。这款取消方向盘设计的 Robotaxi 无人驾驶出租车起售价为 29,990 美元（IT之家注：现汇率约合 20 万元人民币），是特斯拉首款官方标价低于 ",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "excerpt": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "src": "量子位",
+      "tag": "华为",
+      "cat": "app"
+    },
+    {
+      "title": "腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作",
+      "url": "https://www.ithome.com/1/030/222.htm",
+      "excerpt": "IT之家 11 月 20 日消息，腾讯 WorkBuddy 今日宣布，WorkBuddy 上线电脑操控（Computer Use）能力。能识别当前页面，看懂客户端界面，进行点击、输入、滚动等操作，不需要目标软件开放接口，就能在后台操作。IT之家获悉，电脑操控目",
       "src": "IT之家",
-      "tag": "马斯克",
+      "tag": "腾讯",
       "cat": "app"
-    },
-    {
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "excerpt": "「Revaluation 价值，另有答案」",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "enterprise": [
     {
-      "title": "3万亿AI基建悬了，黄仁勋出局，谁为算力融资托底？",
-      "url": "https://www.huxiu.com/article/4906962.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "融资",
+      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+      "url": "http://www.geekpark.net/news/374282",
+      "excerpt": "作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴",
+      "src": "极客公园",
+      "tag": "OpenAI",
       "cat": "enterprise"
     },
     {
-      "title": "中国缺不缺算力？腾讯财报打脸项立刚",
-      "url": "https://www.huxiu.com/article/4906949.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "腾讯",
-      "cat": "enterprise"
-    },
-    {
-      "title": "国际货币基金组织总裁警告：AI 投资热情过高影响，金融市场或现进一步调整",
-      "url": "https://www.ithome.com/1/029/648.htm",
-      "excerpt": "IT之家 11 月 19 日消息，国际货币基金组织（IMF）总裁克里斯塔利娜 · 格奥尔基耶娃（Kristalina Georgieva）表示，受人工智能投资热潮可能过度膨胀等因素影响，金融市场或许还会出现一定程度的调整。格奥尔基耶娃周四在深圳接受彭博电视台记",
+      "title": "三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作",
+      "url": "https://www.ithome.com/1/030/227.htm",
+      "excerpt": "IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议，明确未来三年华为 OSTA",
       "src": "IT之家",
-      "tag": "融资",
+      "tag": "华为",
       "cat": "enterprise"
     },
     {
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
-      "excerpt": "媒体均分登顶历史第一，细节多到爆炸",
+      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+      "url": "https://www.qbitai.com/2026/11/511179.html",
+      "excerpt": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+      "url": "https://www.qbitai.com/2026/11/511092.html",
+      "excerpt": "Kling Image 4.0",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -138,10 +138,10 @@ window.__NEWS_DATA__ = {
     "tech": [
       "AI",
       "极客早知道",
-      "终于杀回",
-      "牌桌中央",
-      "WorkBuddy",
-      "DeepSeek"
+      "Manus",
+      "影视飓风",
+      "影石",
+      "嘉宾阵容更新"
     ],
     "app": [
       "GPT-6.2",
@@ -152,12 +152,12 @@ window.__NEWS_DATA__ = {
       "暴露了"
     ],
     "enterprise": [
-      "AI",
-      "黄仁勋出局",
-      "谁为算力融资托底",
-      "中国缺不缺算力",
-      "投资热情过高影响",
-      "GTA6"
+      "OpenAI",
+      "估值",
+      "亿美元",
+      "OSTA",
+      "三年销售目标",
+      "京东与华为"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "极客早知道",
-      "wt": 0.46
-    },
-    {
-      "w": "GPT-6.2",
-      "wt": 0.46
-    },
-    {
       "w": "OpenAI",
-      "wt": 0.46
+      "wt": 0.59
     },
     {
-      "w": "Manus",
-      "wt": 0.46
-    },
-    {
-      "w": "影视飓风",
-      "wt": 0.46
-    },
-    {
-      "w": "影石",
-      "wt": 0.46
-    },
-    {
-      "w": "嘉宾阵容更新",
-      "wt": 0.46
-    },
-    {
-      "w": "黄仁勋出局",
-      "wt": 0.4
-    },
-    {
-      "w": "谁为算力融资托底",
-      "wt": 0.4
-    },
-    {
-      "w": "中国缺不缺算力",
-      "wt": 0.4
-    },
-    {
-      "w": "终于杀回",
-      "wt": 0.4
-    },
-    {
-      "w": "牌桌中央",
-      "wt": 0.4
+      "w": "极客早知道",
+      "wt": 0.59
     },
     {
       "w": "WorkBuddy",
-      "wt": 0.4
+      "wt": 0.59
+    },
+    {
+      "w": "Manus",
+      "wt": 0.59
+    },
+    {
+      "w": "影视飓风",
+      "wt": 0.59
+    },
+    {
+      "w": "影石",
+      "wt": 0.59
+    },
+    {
+      "w": "嘉宾阵容更新",
+      "wt": 0.59
+    },
+    {
+      "w": "估值",
+      "wt": 0.47
+    },
+    {
+      "w": "亿美元",
+      "wt": 0.47
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.47
+    },
+    {
+      "w": "万亿美元",
+      "wt": 0.47
+    },
+    {
+      "w": "挂牌上市",
+      "wt": 0.47
+    },
+    {
+      "w": "吴泳铭",
+      "wt": 0.47
+    },
+    {
+      "w": "苹果被曝自研",
+      "wt": 0.47
+    },
+    {
+      "w": "智能体",
+      "wt": 0.47
+    },
+    {
+      "w": "终于杀回",
+      "wt": 0.47
+    },
+    {
+      "w": "牌桌中央",
+      "wt": 0.47
     },
     {
       "w": "DeepSeek",
-      "wt": 0.4
+      "wt": 0.47
     },
     {
       "w": "API",
-      "wt": 0.4
-    },
-    {
-      "w": "日活超过",
-      "wt": 0.4
-    },
-    {
-      "w": "再调整",
-      "wt": 0.4
-    },
-    {
-      "w": "计费",
-      "wt": 0.4
-    },
-    {
-      "w": "跑分狂飙",
-      "wt": 0.4
+      "wt": 0.47
     }
   ],
   "total": 16
