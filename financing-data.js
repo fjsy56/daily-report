@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-18 21:09",
- "total": 1089,
+ "updated": "2026-11-20 18:23",
+ "total": 1100,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,95 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1785899075922049",
+   "date": "2026-11-18",
+   "name": "镁伽科技",
+   "desc": "生命科学自动化解决方案提供商",
+   "industry": [
+    "前沿技术",
+    "医疗健康"
+   ],
+   "round": "D轮",
+   "amount": "近2亿美元",
+   "investors": "阿曼投资局、亚投资本、Granite Asia、创新工场、招银国际资本、苏创投、四川三江招商集团",
+   "url": "https://pitchhub.36kr.com/project/1785899075922049",
+   "province": "北京市"
+  },
+  {
+   "id": "2418986066321029",
+   "date": "2026-11-18",
+   "name": "钠远新材",
+   "desc": "钠电正极材料研发制造。",
+   "industry": [
+    "先进制造",
+    "能源环保"
+   ],
+   "round": "A轮",
+   "amount": "数千万人民币",
+   "investors": "金投致源",
+   "url": "https://pitchhub.36kr.com/project/2418986066321029",
+   "province": "江苏省"
+  },
+  {
+   "id": "1679661262033668",
+   "date": "2026-11-18",
+   "name": "知行机器人",
+   "desc": "机器人智能末端执行器生产商",
+   "industry": [
+    "产业升级",
+    "前沿技术"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "柯力传感",
+   "url": "https://pitchhub.36kr.com/project/1679661262033668",
+   "province": "江苏省"
+  },
+  {
+   "id": "1958596713927685",
+   "date": "2026-11-17",
+   "name": "灵途科技",
+   "desc": "光电感知部件研发生产商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "基康仪器",
+   "url": "https://pitchhub.36kr.com/project/1958596713927685",
+   "province": "湖北省"
+  },
+  {
+   "id": "1958571631580165",
+   "date": "2026-11-17",
+   "name": "知业科技",
+   "desc": "工业互联网平台服务商",
+   "industry": [
+    "先进制造",
+    "工具软件"
+   ],
+   "round": "A轮",
+   "amount": "数千万人民币",
+   "investors": "珠海高新金投、泰亚投资",
+   "url": "https://pitchhub.36kr.com/project/1958571631580165",
+   "province": "广东省"
+  },
+  {
+   "id": "1713135747639553",
+   "date": "2026-11-17",
+   "name": "博理新材料",
+   "desc": "3D打印全产业链服务商",
+   "industry": [
+    "产业升级",
+    "前沿技术"
+   ],
+   "round": "B++轮",
+   "amount": "超5亿人民币",
+   "investors": "基石资本、金沙江联合资本、格物致知基金、天堂硅谷、中时资本、云锦资本、卓璞资本、知来投资、福鹏资产、熙灏资本",
+   "url": "https://pitchhub.36kr.com/project/1713135747639553",
+   "province": "江苏省"
+  },
+  {
    "id": "1678529927754754",
    "date": "2026-11-17",
    "name": "江南奕帆",
@@ -151,6 +240,20 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "2179902720068738",
+   "date": "2026-11-16",
+   "name": "天喻信息",
+   "desc": "数据安全及智慧教育领域解决方案提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "2.6884亿人民币",
+   "investors": "昌懋投资",
+   "url": "https://pitchhub.36kr.com/project/2179902720068738",
+   "province": "湖北省"
+  },
+  {
    "id": "4075396227358724",
    "date": "2026-11-16",
    "name": "邃铸科技",
@@ -177,6 +280,48 @@ window.__FINANCING_DATA__ = {
    "investors": "纳芯微",
    "url": "https://pitchhub.36kr.com/project/1817526590261123",
    "province": "上海市"
+  },
+  {
+   "id": "2180575880498306",
+   "date": "2026-11-15",
+   "name": "识渊科技",
+   "desc": "智能制造开放平台提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "国家人工智能产业投资基金、方广资本、华穗创投",
+   "url": "https://pitchhub.36kr.com/project/2180575880498306",
+   "province": "广东省"
+  },
+  {
+   "id": "1678312582657029",
+   "date": "2026-11-15",
+   "name": "劢微机器人",
+   "desc": "场内智能物流解决方案提供商",
+   "industry": [
+    "物流"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "达晨财智",
+   "url": "https://pitchhub.36kr.com/project/1678312582657029",
+   "province": "广东省"
+  },
+  {
+   "id": "1958491529301248",
+   "date": "2026-11-15",
+   "name": "奇瑞控股",
+   "desc": "汽车制造商",
+   "industry": [
+    "汽车出行"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "工银资本",
+   "url": "https://pitchhub.36kr.com/project/1958491529301248",
+   "province": "安徽省"
   },
   {
    "id": "1678275175134216",
@@ -247,6 +392,20 @@ window.__FINANCING_DATA__ = {
    "amount": "600万人民币",
    "investors": "其他个人投资者",
    "url": "https://pitchhub.36kr.com/project/2733085326211459",
+   "province": "安徽省"
+  },
+  {
+   "id": "2011442720621830",
+   "date": "2026-11-12",
+   "name": "星弘烨",
+   "desc": "人工智能技术服务商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "国发私募基金",
+   "url": "https://pitchhub.36kr.com/project/2011442720621830",
    "province": "安徽省"
   },
   {
