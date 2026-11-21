@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-20 18:23",
- "total": 1100,
+ "updated": "2026-11-21 16:04",
+ "total": 1104,
  "industries": [
   "产业升级",
   "企业服务",
@@ -107,6 +107,34 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "1678250160993288",
+   "date": "2026-11-19",
+   "name": "中科搏锐",
+   "desc": "脑部诊疗设备研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B+轮",
+   "amount": "近亿元人民币",
+   "investors": "厚纪资本、慕华科创",
+   "url": "https://pitchhub.36kr.com/project/1678250160993288",
+   "province": "北京市"
+  },
+  {
+   "id": "2011455210292487",
+   "date": "2026-11-19",
+   "name": "二零八科技",
+   "desc": "通用惯性器件研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "中兵投资",
+   "url": "https://pitchhub.36kr.com/project/2011455210292487",
+   "province": "湖南省"
+  },
   {
    "id": "1785899075922049",
    "date": "2026-11-18",
@@ -393,6 +421,34 @@ window.__FINANCING_DATA__ = {
    "investors": "其他个人投资者",
    "url": "https://pitchhub.36kr.com/project/2733085326211459",
    "province": "安徽省"
+  },
+  {
+   "id": "2012737621952003",
+   "date": "2026-11-12",
+   "name": "诺顶智能",
+   "desc": "智能装备技术研发商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "金雨茂物",
+   "url": "https://pitchhub.36kr.com/project/2012737621952003",
+   "province": "广东省"
+  },
+  {
+   "id": "1817536853673860",
+   "date": "2026-11-12",
+   "name": "傲意科技OYMotion",
+   "desc": "gForce手势体感控制器",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "中兵顺景、光谷科创投、长江资本",
+   "url": "https://pitchhub.36kr.com/project/1817536853673860",
+   "province": "上海市"
   },
   {
    "id": "2011442720621830",
