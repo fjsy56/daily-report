@@ -1,6 +1,46 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "tech": [
+    {
+      "title": "这届大学生，狂卷黑客松",
+      "url": "https://www.huxiu.com/article/4907404.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "人类有资格看懂Claude暴力拆解的黎曼猜想",
+      "url": "https://www.huxiu.com/article/4907384.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆",
+      "url": "https://www.huxiu.com/article/4907380.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "谷歌",
+      "cat": "tech"
+    },
+    {
+      "title": "黎曼猜想的AI证明，98%是对的",
+      "url": "https://www.huxiu.com/article/4907375.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "卫星业务撑起近八成收入，Rocket Lab 为何还要押注中型火箭？",
+      "url": "https://www.huxiu.com/article/4907369.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "太空AI",
+      "cat": "tech"
+    },
     {
       "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
       "url": "http://www.geekpark.net/news/374235",
@@ -24,49 +64,17 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "DeepSeek",
       "cat": "tech"
-    },
-    {
-      "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
-      "url": "http://www.geekpark.net/news/374125",
-      "excerpt": "首批嘉宾公布以来，IF 2027 收到了超出预期的关注， 短短几天早鸟票已经售罄。 今年 IF 大会的主题是：「Revaluation 价值，另有答案」。 过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变得更简单：下一轮机会",
-      "src": "极客公园",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "url": "https://www.qbitai.com/2026/11/511610.html",
-      "excerpt": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
-      "src": "量子位",
-      "tag": "华为",
-      "cat": "tech"
-    },
-    {
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
-      "excerpt": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "excerpt": "「Revaluation 价值，另有答案」",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
-      "excerpt": "媒体均分登顶历史第一，细节多到爆炸",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "app": [
+    {
+      "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+      "url": "http://www.geekpark.net/news/374299",
+      "excerpt": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，",
+      "src": "极客公园",
+      "tag": "华为",
+      "cat": "app"
+    },
     {
       "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
       "url": "http://www.geekpark.net/news/374175",
@@ -76,27 +84,19 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "excerpt": "已开源Agnes Harness",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "excerpt": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "src": "量子位",
-      "tag": "华为",
-      "cat": "app"
-    },
-    {
-      "title": "腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作",
-      "url": "https://www.ithome.com/1/030/222.htm",
-      "excerpt": "IT之家 11 月 20 日消息，腾讯 WorkBuddy 今日宣布，WorkBuddy 上线电脑操控（Computer Use）能力。能识别当前页面，看懂客户端界面，进行点击、输入、滚动等操作，不需要目标软件开放接口，就能在后台操作。IT之家获悉，电脑操控目",
+      "title": "前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖",
+      "url": "https://www.ithome.com/1/030/459.htm",
+      "excerpt": "IT之家 11 月 21 日消息，据《商业内幕》，现年 43 岁、曾与黄仁勋共事三年半的前英伟达 AI 应用软件产品管理总监贾马尔，讲述了自己近距离观察黄仁勋及与其共事的经历。IT之家附上全文大意如下：在英伟达，黄仁勋与员工保持密切接触我 2022 年加入英伟",
       "src": "IT之家",
-      "tag": "腾讯",
+      "tag": "英伟达",
+      "cat": "app"
+    },
+    {
+      "title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
+      "url": "https://www.ithome.com/1/030/458.htm",
+      "excerpt": "IT之家 11 月 21 日消息，据《商业内幕》今天（21 日）晚间报道，特斯拉从未涉足 MPV 市场，杰弗里 · 霍夫曼看中了这一市场空白，希望抓住商机。不过，他并不打算从零开始创办汽车公司。他创立的 Hoffman EV 是一家总部位于美国威斯康星州、成立",
+      "src": "IT之家",
+      "tag": "马斯克",
       "cat": "app"
     }
   ],
@@ -110,25 +110,25 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作",
-      "url": "https://www.ithome.com/1/030/227.htm",
-      "excerpt": "IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议，明确未来三年华为 OSTA",
+      "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
+      "url": "https://www.ithome.com/1/030/464.htm",
+      "excerpt": "IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“10,000 倍的效率飞跃”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定律已走向终结。在 2026 年",
       "src": "IT之家",
-      "tag": "华为",
+      "tag": "芯片",
       "cat": "enterprise"
     },
     {
-      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-      "url": "https://www.qbitai.com/2026/11/511179.html",
-      "excerpt": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "excerpt": "",
       "src": "量子位",
-      "tag": "行业动态",
+      "tag": "腾讯",
       "cat": "tech"
     },
     {
-      "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
-      "url": "https://www.qbitai.com/2026/11/511092.html",
-      "excerpt": "Kling Image 4.0",
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "url": "https://www.qbitai.com/2026/11/511830.html",
+      "excerpt": "",
       "src": "量子位",
       "tag": "行业动态",
       "cat": "tech"
@@ -138,26 +138,26 @@ window.__NEWS_DATA__ = {
     "tech": [
       "AI",
       "极客早知道",
-      "Manus",
-      "影视飓风",
-      "影石",
-      "嘉宾阵容更新"
+      "这届大学生",
+      "狂卷黑客松",
+      "Claude",
+      "RSI"
     ],
     "app": [
+      "亿美元",
+      "丁磊",
       "GPT-6.2",
       "OpenAI",
       "跑分狂飙",
-      "实测翻车",
-      "刚发的",
-      "暴露了"
+      "实测翻车"
     ],
     "enterprise": [
       "OpenAI",
       "估值",
       "亿美元",
-      "OSTA",
-      "三年销售目标",
-      "京东与华为"
+      "CEO",
+      "AI",
+      "前英特尔"
     ]
   },
   "hotwords": [
@@ -166,80 +166,80 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "OpenAI",
-      "wt": 0.59
+      "w": "Agent",
+      "wt": 0.65
     },
     {
-      "w": "极客早知道",
-      "wt": 0.59
-    },
-    {
-      "w": "WorkBuddy",
-      "wt": 0.59
-    },
-    {
-      "w": "Manus",
-      "wt": 0.59
-    },
-    {
-      "w": "影视飓风",
-      "wt": 0.59
-    },
-    {
-      "w": "影石",
-      "wt": 0.59
-    },
-    {
-      "w": "嘉宾阵容更新",
-      "wt": 0.59
-    },
-    {
-      "w": "估值",
-      "wt": 0.47
+      "w": "Gemini",
+      "wt": 0.55
     },
     {
       "w": "亿美元",
-      "wt": 0.47
+      "wt": 0.55
     },
     {
-      "w": "Anthropic",
-      "wt": 0.47
+      "w": "OpenAI",
+      "wt": 0.55
     },
     {
-      "w": "万亿美元",
-      "wt": 0.47
-    },
-    {
-      "w": "挂牌上市",
-      "wt": 0.47
-    },
-    {
-      "w": "吴泳铭",
-      "wt": 0.47
-    },
-    {
-      "w": "苹果被曝自研",
-      "wt": 0.47
-    },
-    {
-      "w": "智能体",
-      "wt": 0.47
-    },
-    {
-      "w": "终于杀回",
-      "wt": 0.47
-    },
-    {
-      "w": "牌桌中央",
-      "wt": 0.47
+      "w": "极客早知道",
+      "wt": 0.55
     },
     {
       "w": "DeepSeek",
-      "wt": 0.47
+      "wt": 0.55
     },
     {
-      "w": "API",
-      "wt": 0.47
+      "w": "GPT-6.2",
+      "wt": 0.55
+    },
+    {
+      "w": "Astra",
+      "wt": 0.55
+    },
+    {
+      "w": "这届大学生",
+      "wt": 0.45
+    },
+    {
+      "w": "狂卷黑客松",
+      "wt": 0.45
+    },
+    {
+      "w": "Claude",
+      "wt": 0.45
+    },
+    {
+      "w": "RSI",
+      "wt": 0.45
+    },
+    {
+      "w": "Opus",
+      "wt": 0.45
+    },
+    {
+      "w": "谷歌重磅论文",
+      "wt": 0.45
+    },
+    {
+      "w": "Rocket",
+      "wt": 0.45
+    },
+    {
+      "w": "Lab",
+      "wt": 0.45
+    },
+    {
+      "w": "丁磊",
+      "wt": 0.45
+    },
+    {
+      "w": "估值",
+      "wt": 0.45
+    },
+    {
+      "w": "Anthropic",
+      "wt": 0.45
     }
   ],
   "total": 16
