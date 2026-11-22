@@ -1,68 +1,68 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "tech": [
     {
-      "title": "这届大学生，狂卷黑客松",
-      "url": "https://www.huxiu.com/article/4907404.html",
+      "title": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的",
+      "url": "https://www.huxiu.com/article/4907522.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "人类有资格看懂Claude暴力拆解的黎曼猜想",
-      "url": "https://www.huxiu.com/article/4907384.html",
+      "title": "老黄下课余震：远程算力被卡，阿里云还撑得住高增长吗？",
+      "url": "https://www.huxiu.com/article/4907514.html",
+      "excerpt": "",
+      "src": "虎嗅",
+      "tag": "阿里",
+      "cat": "tech"
+    },
+    {
+      "title": "Anthropic伪人公司",
+      "url": "https://www.huxiu.com/article/4907497.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆",
-      "url": "https://www.huxiu.com/article/4907380.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "谷歌",
-      "cat": "tech"
-    },
-    {
-      "title": "黎曼猜想的AI证明，98%是对的",
-      "url": "https://www.huxiu.com/article/4907375.html",
+      "title": "动察Beating©",
+      "url": "https://www.huxiu.com/article/4907497.html",
       "excerpt": "",
       "src": "虎嗅",
       "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "卫星业务撑起近八成收入，Rocket Lab 为何还要押注中型火箭？",
-      "url": "https://www.huxiu.com/article/4907369.html",
+      "title": "和DreamZero 一作聊聊WAM 这一年",
+      "url": "https://www.huxiu.com/article/4907502.html",
       "excerpt": "",
       "src": "虎嗅",
-      "tag": "太空AI",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
-      "url": "http://www.geekpark.net/news/374235",
-      "excerpt": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市，首日股价以 97.17 美元（现汇率约合 649.2 元人",
+      "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+      "url": "http://www.geekpark.net/news/374303",
+      "excerpt": "头图来源：极客公园 今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。 关于这",
       "src": "极客公园",
-      "tag": "苹果",
+      "tag": "行业动态",
       "cat": "tech"
     },
     {
-      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
-      "url": "http://www.geekpark.net/news/374196",
-      "excerpt": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长",
+      "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+      "url": "http://www.geekpark.net/news/374302",
+      "excerpt": "头图来源：腾讯 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 6",
       "src": "极客公园",
-      "tag": "谷歌",
+      "tag": "腾讯",
       "cat": "tech"
     },
     {
-      "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
-      "url": "http://www.geekpark.net/news/374177",
-      "excerpt": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险",
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "url": "http://www.geekpark.net/news/374301",
+      "excerpt": "头图来源：ChatGPT 生成 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元",
       "src": "极客公园",
-      "tag": "DeepSeek",
+      "tag": "大模型",
       "cat": "tech"
     }
   ],
@@ -76,31 +76,39 @@ window.__NEWS_DATA__ = {
       "cat": "app"
     },
     {
-      "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
-      "url": "http://www.geekpark.net/news/374175",
-      "excerpt": "作者｜Techno 之王 编辑｜靖宇 「基本不可用，不推荐」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么",
-      "src": "极客公园",
-      "tag": "OpenAI",
-      "cat": "app"
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "url": "https://www.qbitai.com/2026/11/511904.html",
+      "excerpt": "用葡萄糖发电控制血糖。",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     },
     {
-      "title": "前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖",
-      "url": "https://www.ithome.com/1/030/459.htm",
-      "excerpt": "IT之家 11 月 21 日消息，据《商业内幕》，现年 43 岁、曾与黄仁勋共事三年半的前英伟达 AI 应用软件产品管理总监贾马尔，讲述了自己近距离观察黄仁勋及与其共事的经历。IT之家附上全文大意如下：在英伟达，黄仁勋与员工保持密切接触我 2022 年加入英伟",
-      "src": "IT之家",
-      "tag": "英伟达",
-      "cat": "app"
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     },
     {
-      "title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
-      "url": "https://www.ithome.com/1/030/458.htm",
-      "excerpt": "IT之家 11 月 21 日消息，据《商业内幕》今天（21 日）晚间报道，特斯拉从未涉足 MPV 市场，杰弗里 · 霍夫曼看中了这一市场空白，希望抓住商机。不过，他并不打算从零开始创办汽车公司。他创立的 Hoffman EV 是一家总部位于美国威斯康星州、成立",
-      "src": "IT之家",
-      "tag": "马斯克",
-      "cat": "app"
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "url": "https://www.qbitai.com/2026/11/511855.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     }
   ],
   "enterprise": [
+    {
+      "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+      "url": "http://www.geekpark.net/news/374300",
+      "excerpt": "《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有",
+      "src": "极客公园",
+      "tag": "马斯克",
+      "cat": "enterprise"
+    },
     {
       "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
       "url": "http://www.geekpark.net/news/374282",
@@ -110,12 +118,12 @@ window.__NEWS_DATA__ = {
       "cat": "enterprise"
     },
     {
-      "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-      "url": "https://www.ithome.com/1/030/464.htm",
-      "excerpt": "IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“10,000 倍的效率飞跃”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定律已走向终结。在 2026 年",
-      "src": "IT之家",
-      "tag": "芯片",
-      "cat": "enterprise"
+      "title": "中国计算，走出新的登峰之路",
+      "url": "https://www.qbitai.com/2026/11/511849.html",
+      "excerpt": "",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
     },
     {
       "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
@@ -124,40 +132,32 @@ window.__NEWS_DATA__ = {
       "src": "量子位",
       "tag": "腾讯",
       "cat": "tech"
-    },
-    {
-      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
-      "url": "https://www.qbitai.com/2026/11/511830.html",
-      "excerpt": "",
-      "src": "量子位",
-      "tag": "行业动态",
-      "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "极客早知道",
-      "这届大学生",
-      "狂卷黑客松",
-      "Claude",
-      "RSI"
+      "Anthropic",
+      "Lean",
+      "老黄下课余震",
+      "远程算力被卡",
+      "Beating"
     ],
     "app": [
       "亿美元",
       "丁磊",
-      "GPT-6.2",
-      "OpenAI",
-      "跑分狂飙",
-      "实测翻车"
+      "Nature",
+      "Claude",
+      "AI",
+      "MV"
     ],
     "enterprise": [
+      "亿美元",
+      "GTA6",
+      "超《复联",
       "OpenAI",
       "估值",
-      "亿美元",
-      "CEO",
-      "AI",
-      "前英特尔"
+      "中国计算"
     ]
   },
   "hotwords": [
@@ -166,31 +166,15 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "Agent",
+      "w": "亿美元",
       "wt": 0.65
     },
     {
-      "w": "Gemini",
+      "w": "Anthropic",
       "wt": 0.55
     },
     {
-      "w": "亿美元",
-      "wt": 0.55
-    },
-    {
-      "w": "OpenAI",
-      "wt": 0.55
-    },
-    {
-      "w": "极客早知道",
-      "wt": 0.55
-    },
-    {
-      "w": "DeepSeek",
-      "wt": 0.55
-    },
-    {
-      "w": "GPT-6.2",
+      "w": "Agent",
       "wt": 0.55
     },
     {
@@ -198,47 +182,63 @@ window.__NEWS_DATA__ = {
       "wt": 0.55
     },
     {
-      "w": "这届大学生",
+      "w": "Lean",
       "wt": 0.45
     },
     {
-      "w": "狂卷黑客松",
+      "w": "老黄下课余震",
       "wt": 0.45
     },
     {
-      "w": "Claude",
+      "w": "远程算力被卡",
       "wt": 0.45
     },
     {
-      "w": "RSI",
+      "w": "Beating",
       "wt": 0.45
     },
     {
-      "w": "Opus",
+      "w": "DreamZero",
       "wt": 0.45
     },
     {
-      "w": "谷歌重磅论文",
+      "w": "WAM",
       "wt": 0.45
     },
     {
-      "w": "Rocket",
+      "w": "这一年",
       "wt": 0.45
     },
     {
-      "w": "Lab",
+      "w": "重控制",
       "wt": 0.45
     },
     {
-      "w": "丁磊",
+      "w": "轻渲染",
       "wt": 0.45
     },
     {
-      "w": "估值",
+      "w": "达瓦科技的",
       "wt": 0.45
     },
     {
-      "w": "Anthropic",
+      "w": "视频工业路线",
+      "wt": 0.45
+    },
+    {
+      "w": "资本开支猛增",
+      "wt": 0.45
+    },
+    {
+      "w": "吞噬百亿利润",
+      "wt": 0.45
+    },
+    {
+      "w": "腾讯的",
+      "wt": 0.45
+    },
+    {
+      "w": "故事",
       "wt": 0.45
     }
   ],
