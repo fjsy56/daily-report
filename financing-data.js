@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-21 16:04",
- "total": 1104,
+ "updated": "2026-11-22 17:40",
+ "total": 1105,
  "industries": [
   "产业升级",
   "企业服务",
@@ -107,6 +107,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "2144555522524423",
+   "date": "2026-11-21",
+   "name": "芯钬量子",
+   "desc": "软件产品开发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "未透露",
+   "investors": "源杰半导体",
+   "url": "https://pitchhub.36kr.com/project/2144555522524423",
+   "province": "上海市"
+  },
   {
    "id": "1678250160993288",
    "date": "2026-11-19",
