@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-22 17:40",
- "total": 1105,
+ "updated": "2026-11-23 19:02",
+ "total": 1111,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,21 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "4053241384278273",
+   "date": "2026-11-22",
+   "name": "医槌定因",
+   "desc": "涉医法务AI科技平台",
+   "industry": [
+    "产业升级",
+    "医疗健康"
+   ],
+   "round": "种子轮",
+   "amount": "未透露",
+   "investors": "睿赢医考、云生物",
+   "url": "https://pitchhub.36kr.com/project/4053241384278273",
+   "province": "上海市"
+  },
+  {
    "id": "2144555522524423",
    "date": "2026-11-21",
    "name": "芯钬量子",
@@ -120,6 +135,34 @@ window.__FINANCING_DATA__ = {
    "investors": "源杰半导体",
    "url": "https://pitchhub.36kr.com/project/2144555522524423",
    "province": "上海市"
+  },
+  {
+   "id": "2272969391704967",
+   "date": "2026-11-19",
+   "name": "西湖仪器",
+   "desc": "碳化硅衬底激光剥离技术和设备研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C+轮",
+   "amount": "未透露",
+   "investors": "河南投资集团",
+   "url": "https://pitchhub.36kr.com/project/2272969391704967",
+   "province": "浙江省"
+  },
+  {
+   "id": "1679822760317701",
+   "date": "2026-11-19",
+   "name": "香蕉攀岩",
+   "desc": "攀岩馆连锁品牌及攀岩培训",
+   "industry": [
+    "体育游戏"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "黑蚁资本、杭州解百",
+   "url": "https://pitchhub.36kr.com/project/1679822760317701",
+   "province": "北京市"
   },
   {
    "id": "1678250160993288",
@@ -148,6 +191,48 @@ window.__FINANCING_DATA__ = {
    "investors": "中兵投资",
    "url": "https://pitchhub.36kr.com/project/2011455210292487",
    "province": "湖南省"
+  },
+  {
+   "id": "1678425277658119",
+   "date": "2026-11-18",
+   "name": "影为医疗",
+   "desc": "医学3D打印解决方案提供商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "道赋基金",
+   "url": "https://pitchhub.36kr.com/project/1678425277658119",
+   "province": "上海市"
+  },
+  {
+   "id": "2218905141048711",
+   "date": "2026-11-18",
+   "name": "俐玛精密",
+   "desc": "精密智造解决方案提供商",
+   "industry": [
+    "智能硬件"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "峰毅远达基金、勤道资本",
+   "url": "https://pitchhub.36kr.com/project/2218905141048711",
+   "province": "江苏省"
+  },
+  {
+   "id": "2011599868167937",
+   "date": "2026-11-18",
+   "name": "化合积电",
+   "desc": "半导体材料研发商",
+   "industry": [
+    "通信/半导体"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "东山精密、兴证资本、福建金投、金东石基金",
+   "url": "https://pitchhub.36kr.com/project/2011599868167937",
+   "province": "福建省"
   },
   {
    "id": "1785899075922049",
