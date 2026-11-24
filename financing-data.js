@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-23 19:02",
- "total": 1111,
+ "updated": "2026-11-24 15:35",
+ "total": 1117,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,20 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1678294864737287",
+   "date": "2026-11-23",
+   "name": "先通医药",
+   "desc": "创新放射药与生物药研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "IPO",
+   "amount": "3.41亿港元",
+   "investors": "公开发行",
+   "url": "https://pitchhub.36kr.com/project/1678294864737287",
+   "province": "北京市"
+  },
+  {
    "id": "4053241384278273",
    "date": "2026-11-22",
    "name": "医槌定因",
@@ -135,6 +149,48 @@ window.__FINANCING_DATA__ = {
    "investors": "源杰半导体",
    "url": "https://pitchhub.36kr.com/project/2144555522524423",
    "province": "上海市"
+  },
+  {
+   "id": "2174073861471489",
+   "date": "2026-11-20",
+   "name": "序轮科技",
+   "desc": "新材料技术提供商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "正熙资本",
+   "url": "https://pitchhub.36kr.com/project/2174073861471489",
+   "province": "北京市"
+  },
+  {
+   "id": "1735561423032451",
+   "date": "2026-11-19",
+   "name": "微知卓生物",
+   "desc": "微知卓是一家生物医药技术研发商，主要发展生物医疗器械和细胞治疗等高端生物医药技术的研发与制造，利用干细胞分化技术，为用户提供肝损伤、急慢性肝衰竭等肝脏疾病的救护和康复治疗。",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C轮",
+   "amount": "未透露",
+   "investors": "中信新未来投资、铱创投资",
+   "url": "https://pitchhub.36kr.com/project/1735561423032451",
+   "province": "上海市"
+  },
+  {
+   "id": "1678333730665473",
+   "date": "2026-11-19",
+   "name": "原位芯片",
+   "desc": "是一家高技术、高科技、创新型微电子芯片公司，拥有整套先进的MEMS（微机电系统）传感器芯片技术。",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "千骥资本",
+   "url": "https://pitchhub.36kr.com/project/1678333730665473",
+   "province": "江苏省"
   },
   {
    "id": "2272969391704967",
@@ -367,6 +423,20 @@ window.__FINANCING_DATA__ = {
    "province": "江苏省"
   },
   {
+   "id": "1948483348979072",
+   "date": "2026-11-16",
+   "name": "速稳智能",
+   "desc": "致力于精密智能机械与器件的开发和生产",
+   "industry": [
+    "前沿技术"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "青枫投资",
+   "url": "https://pitchhub.36kr.com/project/1948483348979072",
+   "province": "江苏省"
+  },
+  {
    "id": "2179902720068738",
    "date": "2026-11-16",
    "name": "天喻信息",
@@ -520,6 +590,20 @@ window.__FINANCING_DATA__ = {
    "investors": "其他个人投资者",
    "url": "https://pitchhub.36kr.com/project/2733085326211459",
    "province": "安徽省"
+  },
+  {
+   "id": "3524735985988744",
+   "date": "2026-11-12",
+   "name": "蓝色向量",
+   "desc": "航空航天装备制造商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A+轮",
+   "amount": "1亿人民币",
+   "investors": "中芯聚源",
+   "url": "https://pitchhub.36kr.com/project/3524735985988744",
+   "province": "浙江省"
   },
   {
    "id": "2012737621952003",
