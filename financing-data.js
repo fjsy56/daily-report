@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-24 15:35",
- "total": 1117,
+ "updated": "2026-11-25 19:48",
+ "total": 1123,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,49 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1735562709192838",
+   "date": "2026-11-23",
+   "name": "链安科技",
+   "desc": "推出“一键式”智能合约自动形式化验证工具",
+   "industry": [
+    "产业升级"
+   ],
+   "round": "B轮",
+   "amount": "数千万人民币",
+   "investors": "国方创新",
+   "url": "https://pitchhub.36kr.com/project/1735562709192838",
+   "province": "四川省"
+  },
+  {
+   "id": "2714531837081221",
+   "date": "2026-11-23",
+   "name": "纳米微球体外诊断应用",
+   "desc": "新型的生物材料-纳米微球",
+   "industry": [
+    "医疗健康",
+    "先进制造"
+   ],
+   "round": "天使轮",
+   "amount": "未透露",
+   "investors": "武创投",
+   "url": "https://pitchhub.36kr.com/project/2714531837081221",
+   "province": "湖北省"
+  },
+  {
+   "id": "1818812402405507",
+   "date": "2026-11-23",
+   "name": "鸿之微",
+   "desc": "材料设计软件和集成电路器件模拟软件研发商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "亿级人民币",
+   "investors": "宁德时代",
+   "url": "https://pitchhub.36kr.com/project/1818812402405507",
+   "province": "上海市"
+  },
+  {
    "id": "1678294864737287",
    "date": "2026-11-23",
    "name": "先通医药",
@@ -120,6 +163,20 @@ window.__FINANCING_DATA__ = {
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1678294864737287",
    "province": "北京市"
+  },
+  {
+   "id": "3748391120221059",
+   "date": "2026-11-22",
+   "name": "诚锋电子",
+   "desc": "半导体智能检测分拣设备应用服务商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "C轮",
+   "amount": "数千万人民币",
+   "investors": "未披露",
+   "url": "https://pitchhub.36kr.com/project/3748391120221059",
+   "province": "广东省"
   },
   {
    "id": "4053241384278273",
@@ -163,6 +220,20 @@ window.__FINANCING_DATA__ = {
    "investors": "正熙资本",
    "url": "https://pitchhub.36kr.com/project/2174073861471489",
    "province": "北京市"
+  },
+  {
+   "id": "1958481150037254",
+   "date": "2026-11-19",
+   "name": "士兰集科",
+   "desc": "电子设备供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "战略融资",
+   "amount": "16亿人民币",
+   "investors": "士兰微",
+   "url": "https://pitchhub.36kr.com/project/1958481150037254",
+   "province": "福建省"
   },
   {
    "id": "1735561423032451",
@@ -334,6 +405,20 @@ window.__FINANCING_DATA__ = {
    "investors": "柯力传感",
    "url": "https://pitchhub.36kr.com/project/1679661262033668",
    "province": "江苏省"
+  },
+  {
+   "id": "1678276541166595",
+   "date": "2026-11-17",
+   "name": "介方软件",
+   "desc": "工业软件架构级开源产品提供商",
+   "industry": [
+    "企业服务"
+   ],
+   "round": "股权融资",
+   "amount": "未透露",
+   "investors": "御道创投",
+   "url": "https://pitchhub.36kr.com/project/1678276541166595",
+   "province": "上海市"
   },
   {
    "id": "1958596713927685",
