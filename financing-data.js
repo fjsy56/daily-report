@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-25 19:48",
- "total": 1123,
+ "updated": "2026-11-26 11:59",
+ "total": 1124,
  "industries": [
   "产业升级",
   "企业服务",
@@ -162,6 +162,21 @@ window.__FINANCING_DATA__ = {
    "amount": "3.41亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1678294864737287",
+   "province": "北京市"
+  },
+  {
+   "id": "3721500281795718",
+   "date": "2026-11-22",
+   "name": "章鱼动力",
+   "desc": "探索物理AGI打造可进化具身智能生产力体系",
+   "industry": [
+    "前沿技术",
+    "物联网/硬件"
+   ],
+   "round": "A轮",
+   "amount": "数亿人民币",
+   "investors": "美的集团、芯动能投资、中关村科学城、美的资本",
+   "url": "https://pitchhub.36kr.com/project/3721500281795718",
    "province": "北京市"
   },
   {
