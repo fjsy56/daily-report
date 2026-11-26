@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-26 11:59",
- "total": 1124,
+ "updated": "2026-11-26 21:02",
+ "total": 1130,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,78 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "1679637543342849",
+   "date": "2026-11-25",
+   "name": "环码生物",
+   "desc": "环码生物成立于2021年，由在RNA领域深耕多年的科学家团队所创立，是一家生物医药研发商。",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "数千万美元",
+   "investors": "复健资本、老股东",
+   "url": "https://pitchhub.36kr.com/project/1679637543342849",
+   "province": "上海市"
+  },
+  {
+   "id": "2125973266209665",
+   "date": "2026-11-24",
+   "name": "华睿博视",
+   "desc": "新一代实时非放射性医学影像技术",
+   "industry": [
+    "能源环保"
+   ],
+   "round": "B轮",
+   "amount": "数千万人民币",
+   "investors": "倚锋资本",
+   "url": "https://pitchhub.36kr.com/project/2125973266209665",
+   "province": "北京市"
+  },
+  {
+   "id": "2095749904124803",
+   "date": "2026-11-24",
+   "name": "积鼎科技",
+   "desc": "多相流分析软件研发商",
+   "industry": [
+    "先进制造",
+    "工具软件"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "成都科创投集团",
+   "url": "https://pitchhub.36kr.com/project/2095749904124803",
+   "province": "上海市"
+  },
+  {
+   "id": "1744025266199681",
+   "date": "2026-11-24",
+   "name": "迈塔兰斯",
+   "desc": "全球领先超透镜制造供应商",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A++轮",
+   "amount": "超亿人民币",
+   "investors": "谷雨嘉禾、深圳知真投资、汇芯投资、金桥基金、宁创投",
+   "url": "https://pitchhub.36kr.com/project/1744025266199681",
+   "province": "广东省"
+  },
+  {
+   "id": "2532084243003268",
+   "date": "2026-11-23",
+   "name": "天云创鸿",
+   "desc": "开源鸿蒙与人工智能人才与生态应用平台公司",
+   "industry": [
+    "物联网/硬件",
+    "工具软件"
+   ],
+   "round": "A轮",
+   "amount": "近亿人民币",
+   "investors": "阿里汇富创投、善合基金、个人投资者",
+   "url": "https://pitchhub.36kr.com/project/2532084243003268",
+   "province": "广东省"
+  },
+  {
    "id": "1735562709192838",
    "date": "2026-11-23",
    "name": "链安科技",
@@ -162,6 +234,20 @@ window.__FINANCING_DATA__ = {
    "amount": "3.41亿港元",
    "investors": "公开发行",
    "url": "https://pitchhub.36kr.com/project/1678294864737287",
+   "province": "北京市"
+  },
+  {
+   "id": "1818823651479685",
+   "date": "2026-11-22",
+   "name": "中科鉴芯",
+   "desc": "中科鉴芯专注于面向数字电路全生命周期质量保障的芯片设计，提供EDA工具授权、IP核和技术服务，涵盖测试、验证、可靠、安全等技术方向。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "盛世投资",
+   "url": "https://pitchhub.36kr.com/project/1818823651479685",
    "province": "北京市"
   },
   {
