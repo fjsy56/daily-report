@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-27 03:34",
- "total": 1131,
+ "updated": "2026-11-27 22:32",
+ "total": 1138,
  "industries": [
   "产业升级",
   "企业服务",
@@ -108,6 +108,48 @@ window.__FINANCING_DATA__ = {
  ],
  "list": [
   {
+   "id": "2200591099309185",
+   "date": "2026-11-26",
+   "name": "粒影生物",
+   "desc": "蛋白类生物制品研发商",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A+轮",
+   "amount": "过亿人民币",
+   "investors": "皓禾资本、光明科学城、南京大健康基金",
+   "url": "https://pitchhub.36kr.com/project/2200591099309185",
+   "province": "广东省"
+  },
+  {
+   "id": "2035206776608905",
+   "date": "2026-11-26",
+   "name": "赛存生物",
+   "desc": "生物样本冷冻保存平台",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "A轮",
+   "amount": "数千万人民币",
+   "investors": "亿宸资本、北京市医药健康产业投资基金",
+   "url": "https://pitchhub.36kr.com/project/2035206776608905",
+   "province": "北京市"
+  },
+  {
+   "id": "1678511716873221",
+   "date": "2026-11-26",
+   "name": "柯君医药",
+   "desc": "抗病毒药物为主的小分子药物研发",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "C+轮",
+   "amount": "数亿人民币",
+   "investors": "国投创合、翠亨集团、倚锋资本、通瀛资本、富汇创投、英飞尼迪资本",
+   "url": "https://pitchhub.36kr.com/project/1678511716873221",
+   "province": "上海市"
+  },
+  {
    "id": "4086325193071872",
    "date": "2026-11-26",
    "name": "文智未来",
@@ -119,6 +161,20 @@ window.__FINANCING_DATA__ = {
    "amount": "未透露",
    "investors": "统联精密、意如图真",
    "url": "https://pitchhub.36kr.com/project/4086325193071872",
+   "province": "广东省"
+  },
+  {
+   "id": "1818824138920066",
+   "date": "2026-11-25",
+   "name": "乾晖生物",
+   "desc": "乾晖生物是一家生物医药技术开发商。业务涵盖生物医药技术开发、技术服务、技术咨询、技术转让。",
+   "industry": [
+    "医疗健康"
+   ],
+   "round": "B轮",
+   "amount": "数亿人民币",
+   "investors": "合肥产投集团、海尔资本、易富资本、银河国科",
+   "url": "https://pitchhub.36kr.com/project/1818824138920066",
    "province": "广东省"
   },
   {
@@ -134,6 +190,20 @@ window.__FINANCING_DATA__ = {
    "investors": "复健资本、老股东",
    "url": "https://pitchhub.36kr.com/project/1679637543342849",
    "province": "上海市"
+  },
+  {
+   "id": "4088134883680009",
+   "date": "2026-11-24",
+   "name": "占一科技",
+   "desc": "高温胶带定制生产商",
+   "industry": [
+    "传统制造"
+   ],
+   "round": "A轮",
+   "amount": "未透露",
+   "investors": "上海赛有科技有限公司",
+   "url": "https://pitchhub.36kr.com/project/4088134883680009",
+   "province": "江苏省"
   },
   {
    "id": "2125973266209665",
@@ -177,6 +247,35 @@ window.__FINANCING_DATA__ = {
    "investors": "谷雨嘉禾、深圳知真投资、汇芯投资、金桥基金、宁创投",
    "url": "https://pitchhub.36kr.com/project/1744025266199681",
    "province": "广东省"
+  },
+  {
+   "id": "1818824126845061",
+   "date": "2026-11-23",
+   "name": "特创科技",
+   "desc": "特创科技是一家自动化设备及配套研发生产商，公司立志成为一家优秀的智能制造与智能测试设备整体方案的提供商，专业提供自动化设备与配套的研发、生产、销售与专业服务，致力于为客户提供自动化测试与自动化组装一站式解决方案，并实现智能测试与智能制造，提高产品良率和生产效率。产品广泛服务于消费电子、汽车电子、医疗电子和工业电子等行业。",
+   "industry": [
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "小米产投、苏州相城基金、沣石资本、金雨茂物、苏州水木清华资本、正赛联资本、蔚来资本",
+   "url": "https://pitchhub.36kr.com/project/1818824126845061",
+   "province": "江苏省"
+  },
+  {
+   "id": "3078029393489538",
+   "date": "2026-11-23",
+   "name": "炎和科技",
+   "desc": "钙钛矿柔性光伏厂商",
+   "industry": [
+    "前沿技术",
+    "先进制造"
+   ],
+   "round": "B轮",
+   "amount": "未透露",
+   "investors": "博云投资、中环基金、虹桥睿智投资、湖南能源集团",
+   "url": "https://pitchhub.36kr.com/project/3078029393489538",
+   "province": "湖南省"
   },
   {
    "id": "2532084243003268",
