@@ -1,6 +1,6 @@
 window.__FINANCING_DATA__ = {
- "updated": "2026-11-26 21:02",
- "total": 1130,
+ "updated": "2026-11-27 03:34",
+ "total": 1131,
  "industries": [
   "产业升级",
   "企业服务",
@@ -107,6 +107,20 @@ window.__FINANCING_DATA__ = {
   "黑龙江省"
  ],
  "list": [
+  {
+   "id": "4086325193071872",
+   "date": "2026-11-26",
+   "name": "文智未来",
+   "desc": "AI文博导游眼镜",
+   "industry": [
+    "旅游"
+   ],
+   "round": "种子轮",
+   "amount": "未透露",
+   "investors": "统联精密、意如图真",
+   "url": "https://pitchhub.36kr.com/project/4086325193071872",
+   "province": "广东省"
+  },
   {
    "id": "1679637543342849",
    "date": "2026-11-25",
