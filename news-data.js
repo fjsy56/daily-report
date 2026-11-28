@@ -1,46 +1,6 @@
 window.__NEWS_DATA__ = {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "tech": [
-    {
-      "title": "“感到震惊”，顶尖名校宣布暂停数学博士招生",
-      "url": "https://www.huxiu.com/article/4909057.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "穿越迷雾：“卷积神经网络之父”杨立昆的探索与坚守",
-      "url": "https://www.huxiu.com/article/4909052.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "又是“刷榜+低价”的模型打法，Sand.ai刚拿的2亿美金这么花对吗",
-      "url": "https://www.huxiu.com/article/4909030.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "大模型",
-      "cat": "tech"
-    },
-    {
-      "title": "王虹再获数学大奖，奖名背后是另一位传奇女性的故事",
-      "url": "https://www.huxiu.com/article/4909023.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "行业动态",
-      "cat": "tech"
-    },
-    {
-      "title": "DeepSeek APP开始算账，收费前兆？",
-      "url": "https://www.huxiu.com/article/4909022.html",
-      "excerpt": "",
-      "src": "虎嗅",
-      "tag": "DeepSeek",
-      "cat": "tech"
-    },
     {
       "title": "大厂的应届生名额，正在先让给 AI 预算",
       "url": "http://www.geekpark.net/news/374601",
@@ -64,58 +24,6 @@ window.__NEWS_DATA__ = {
       "src": "极客公园",
       "tag": "行业动态",
       "cat": "tech"
-    }
-  ],
-  "app": [
-    {
-      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
-      "url": "https://www.qbitai.com/2026/11/513211.html",
-      "excerpt": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
-      "src": "量子位",
-      "tag": "大模型",
-      "cat": "app"
-    },
-    {
-      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-      "url": "https://www.qbitai.com/2026/11/513163.html",
-      "excerpt": "Quickwit查询总耗时降31%，最高降87%",
-      "src": "量子位",
-      "tag": "Agent",
-      "cat": "app"
-    },
-    {
-      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
-      "url": "https://www.qbitai.com/2026/11/513155.html",
-      "excerpt": "3D生成的竞争重点正在从“能看”转向“能用”",
-      "src": "量子位",
-      "tag": "腾讯",
-      "cat": "app"
-    },
-    {
-      "title": "微信公布 2026 年 11 月朋友圈热度谣言，含“监管要求基金公司上报全部产品 AI 敞口”等",
-      "url": "https://www.ithome.com/1/033/745.htm",
-      "excerpt": "IT之家 11 月 27 日消息，微信安全中心现已公布 2026 年 11 月朋友圈热度谣言榜，涉及“监管要求基金公司上报全部产品 AI 敞口”“车辆召回”等。IT之家整理相应内容如下：01 社保断缴三个月账户清零？近期，有传言称“社保断缴超过三个月，之前交的",
-      "src": "IT之家",
-      "tag": "腾讯",
-      "cat": "app"
-    },
-    {
-      "title": "智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产",
-      "url": "https://www.ithome.com/1/033/744.htm",
-      "excerpt": "IT之家 11 月 27 日消息，智元今日宣布，旗下机器人精灵 G2 在龙旗科技产线的部署近期再获突破：在质检上下料工序并线稳定运行的基础上，进一步拓展至精密装配环节，正式承担喇叭 BOX 安装任务并实现并线生产。官方表示，这意味着机器人从「搬运型」作业向「精",
-      "src": "IT之家",
-      "tag": "具身智能",
-      "cat": "app"
-    }
-  ],
-  "enterprise": [
-    {
-      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-      "url": "https://www.qbitai.com/2026/11/513194.html",
-      "excerpt": "企业需要有用的 AI",
-      "src": "量子位",
-      "tag": "腾讯",
-      "cat": "enterprise"
     },
     {
       "title": "智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道",
@@ -134,38 +42,122 @@ window.__NEWS_DATA__ = {
       "cat": "tech"
     },
     {
-      "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
-      "url": "http://www.geekpark.net/news/374532",
-      "excerpt": "作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」—— 快手可",
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "url": "https://www.qbitai.com/2026/11/513428.html",
+      "excerpt": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "excerpt": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    },
+    {
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "url": "https://www.qbitai.com/2026/11/513320.html",
+      "excerpt": "淡泊名利，实至名归🎉",
+      "src": "量子位",
+      "tag": "行业动态",
+      "cat": "tech"
+    }
+  ],
+  "app": [
+    {
+      "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+      "url": "http://www.geekpark.net/news/374621",
+      "excerpt": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着",
       "src": "极客公园",
+      "tag": "OpenAI",
+      "cat": "app"
+    },
+    {
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "excerpt": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "app"
+    },
+    {
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "excerpt": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "src": "量子位",
       "tag": "大模型",
+      "cat": "app"
+    },
+    {
+      "title": "游戏党痛点问题解决！QQ 鸿蒙版 App 新增支持添加未登录的账号用于三方应用登入",
+      "url": "https://www.ithome.com/1/033/997.htm",
+      "excerpt": "IT之家 11 月 28 日消息，QQ 鸿蒙版 App 已于 11 月 20 日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装）。IT之家实测，在该版本中，QQ 鸿蒙版新增一项新特性解决",
+      "src": "IT之家",
+      "tag": "华为",
+      "cat": "app"
+    }
+  ],
+  "enterprise": [
+    {
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "url": "https://www.qbitai.com/2026/11/513194.html",
+      "excerpt": "企业需要有用的 AI",
+      "src": "量子位",
+      "tag": "腾讯",
+      "cat": "enterprise"
+    },
+    {
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "url": "https://www.qbitai.com/2026/11/513305.html",
+      "excerpt": "网页App双端亮出聊天账单",
+      "src": "量子位",
+      "tag": "DeepSeek",
+      "cat": "tech"
+    },
+    {
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "excerpt": "地图能随时修，记忆能跨任务用",
+      "src": "量子位",
+      "tag": "具身智能",
+      "cat": "tech"
+    },
+    {
+      "title": "《黑神话：悟空》制作人冯骥：AI 正在改写一条数百年未变的硬边界，智力首次脱离肉身变资本要素",
+      "url": "https://www.ithome.com/1/033/986.htm",
+      "excerpt": "IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人 / CEO、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《后 AI 时代最重要的问题》的长文，全文约 8000 字。文章发出后，引发全网热议。冯骥表示，最让自己",
+      "src": "IT之家",
+      "tag": "行业动态",
       "cat": "tech"
     }
   ],
   "overview": {
     "tech": [
       "AI",
-      "“感到震惊”",
-      "穿越迷雾",
-      "Sand.ai",
-      "王虹再获数学大奖",
-      "DeepSeek"
+      "大厂的应届生名额",
+      "正在先让给",
+      "预算",
+      "站十几年的家底",
+      "时代「升值」"
     ],
     "app": [
       "AI",
-      "LingBot-Map",
-      "把地图画更准",
-      "Agents",
-      "ClickBench",
-      "Hy3D"
+      "OpenAI",
+      "iPhone",
+      "硬件竞争白热化",
+      "反诉苹果窃密",
+      "量产再度推迟"
     ],
     "enterprise": [
       "AI",
       "钛动科技",
-      "GLM-5.5",
-      "SpaceX",
-      "智谱辟谣",
-      "延期"
+      "DeepSeek",
+      "APP",
+      "网友",
+      "要收费了"
     ]
   },
   "hotwords": [
@@ -174,31 +166,23 @@ window.__NEWS_DATA__ = {
       "wt": 0.95
     },
     {
-      "w": "DeepSeek",
+      "w": "iPhone",
       "wt": 0.5
     },
     {
-      "w": "APP",
-      "wt": 0.5
-    },
-    {
-      "w": "“感到震惊”",
+      "w": "OpenAI",
       "wt": 0.42
     },
     {
-      "w": "穿越迷雾",
+      "w": "硬件竞争白热化",
       "wt": 0.42
     },
     {
-      "w": "Sand.ai",
+      "w": "反诉苹果窃密",
       "wt": 0.42
     },
     {
-      "w": "王虹再获数学大奖",
-      "wt": 0.42
-    },
-    {
-      "w": "收费前兆",
+      "w": "量产再度推迟",
       "wt": 0.42
     },
     {
@@ -248,7 +232,15 @@ window.__NEWS_DATA__ = {
     {
       "w": "特斯拉和",
       "wt": 0.42
+    },
+    {
+      "w": "冲刺年底合并",
+      "wt": 0.42
+    },
+    {
+      "w": "覆盖",
+      "wt": 0.42
     }
   ],
-  "total": 17
+  "total": 16
 };
